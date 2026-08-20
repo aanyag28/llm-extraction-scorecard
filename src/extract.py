@@ -9,26 +9,39 @@ client = genai.Client(
 )
 
 
-# Find all SEC filing text files
-filings = sorted(Path(".").glob("*.txt"))
-
-
-# Ignore files that are not SEC filings
-filings = [
-    file for file in filings
-    if file.name not in [
-        "answer_key.csv",
-        "answer_key.csv-2.txt"
-    ]
+# These are the 15 SEC filings in the project
+filing_names = [
+    "PR_10K_2025.txt",
+    "PR_10Q_2026Q1.txt",
+    "PR_10Q_2026Q2.txt",
+    "FANG_10K_2025.txt",
+    "FANG_10Q_2026Q1.txt",
+    "FANG_10Q_2026Q2.txt",
+    "CTRA_10K_2025.txt",
+    "CTRA_10Q_2025Q3.txt",
+    "CTRA_10Q_2026Q1.txt",
+    "MTDR_10K_2025.txt",
+    "MTDR_10Q_2025Q3.txt",
+    "MTDR_10Q_2026Q1.txt",
+    "SM_10K_2025.txt",
+    "SM_10Q_2026Q1.txt",
+    "SM_10Q_2026Q2.txt"
 ]
 
 
 # Process each filing
-for file_path in filings:
+for filename in filing_names:
+
+    file_path = Path(filename)
 
     print("\n" + "=" * 60)
     print(f"FILE: {file_path.stem.replace('_', ' ')}")
     print("=" * 60)
+
+    # Check that the file exists
+    if not file_path.exists():
+        print(f"ERROR: {filename} was not found.")
+        continue
 
     # Read the filing
     text = file_path.read_text(
