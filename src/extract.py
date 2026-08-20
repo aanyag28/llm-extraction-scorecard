@@ -43,4 +43,5 @@ response = client.models.generate_content(
     contents=prompt
 )
 
+print(f"File: PR_10K_2025.txt")
 print(response.text)
