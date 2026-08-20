@@ -17,16 +17,22 @@ text = Path("PR_10K_2025.txt").read_text(
 prompt = f"""
 You are extracting financial information from an SEC 10-K filing.
 
-Find the company's total revenue for the fiscal year ended
-December 31, 2025.
+Find these three financial metrics for the fiscal year ended
+December 31, 2025:
 
-Return ONLY:
+1. Total revenue
+2. Average daily production volume
+3. Capital expenditures
 
-Revenue: [amount]
-Currency: [currency]
-Fiscal year: [year]
+For each metric, return:
+- Metric name
+- Exact amount
+- Unit
+- Fiscal year
+- Section or table where you found it
 
-Do not explain your answer.
+Use the value reported in the filing. Do not calculate or estimate
+a value unless the filing explicitly requires it.
 
 SEC filing:
 {text}
