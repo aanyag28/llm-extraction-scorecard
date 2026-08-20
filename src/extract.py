@@ -9,23 +9,38 @@ client = genai.Client(
 )
 
 
-# Select the SEC filing
-file_path = Path("PR_10K_2025.txt")
+# Find all SEC filing text files
+filings = sorted(Path(".").glob("*.txt"))
 
 
-# Read the filing
-text = file_path.read_text(
-    encoding="utf-8",
-    errors="ignore"
-)
+# Ignore files that are not SEC filings
+filings = [
+    file for file in filings
+    if file.name not in [
+        "answer_key.csv",
+        "answer_key.csv-2.txt"
+    ]
+]
 
 
-# Ask Gemini to extract the three metrics
-prompt = f"""
-You are extracting financial information from an SEC 10-K filing.
+# Process each filing
+for file_path in filings:
 
-Find these three financial metrics for the fiscal year ended
-December 31, 2025:
+    print("\n" + "=" * 60)
+    print(f"FILE: {file_path.stem.replace('_', ' ')}")
+    print("=" * 60)
+
+    # Read the filing
+    text = file_path.read_text(
+        encoding="utf-8",
+        errors="ignore"
+    )
+
+    # Ask Gemini to extract the three metrics
+    prompt = f"""
+You are extracting financial information from an SEC filing.
+
+Find these three financial metrics:
 
 1. Total revenue
 2. Average daily production volume
@@ -40,26 +55,19 @@ For each metric, return:
 - Section or table where you found it
 
 Use the value reported in the filing.
-Do not calculate or estimate a value unless the filing explicitly
-requires it.
+Do not calculate or estimate a value unless the filing
+explicitly requires it.
 
 SEC filing:
 
 {text}
 """
 
+    # Send the filing to Gemini
+    response = client.models.generate_content(
+        model="gemini-3.6-flash",
+        contents=prompt
+    )
 
-# Send the filing to Gemini
-response = client.models.generate_content(
-    model="gemini-3.6-flash",
-    contents=prompt
-)
-
-
-# Convert the filename into a readable name
-file_name = file_path.stem.replace("_", " ")
-
-
-# Print the filename and Gemini's results
-print(f"File: {file_name}")
-print(response.text)
+    # Print Gemini's response
+    print(response.text)
