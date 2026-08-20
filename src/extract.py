@@ -56,6 +56,10 @@ response = client.models.generate_content(
 )
 
 
+# Convert the filename into a readable name
+file_name = file_path.stem.replace("_", " ")
+
+
 # Print the filename and Gemini's results
-print(f"File: {file_path.name}")
+print(f"File: {file_name}")
 print(response.text)
