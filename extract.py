@@ -1,45 +1,13 @@
-from pathlib import Path
-from bs4 import BeautifulSoup
+import os
+from google import genai
 
+# Connect to Gemini using the API key stored in your environment
+client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
 
-def extract_text(file_path):
-    html = Path(file_path).read_text(
-        encoding="utf-8",
-        errors="ignore"
-    )
+# Test that Gemini is working
+response = client.models.generate_content(
+    model="gemini-2.5-flash",
+    contents="Say hello and confirm that you are ready to extract financial data."
+)
 
-    soup = BeautifulSoup(html, "html.parser")
-
-    # Remove metadata and code sections
-    for tag in soup.find_all([
-        "script",
-        "style",
-        "ix:header",
-        "ix:hidden",
-        "head"
-    ]):
-        tag.decompose()
-
-    # Remove XBRL elements
-    for tag in soup.find_all():
-        if tag.name and (
-            tag.name.startswith("ix:")
-            or tag.name.startswith("xbrli:")
-        ):
-            tag.decompose()
-
-    return soup.get_text(" ", strip=True)
-
-
-def process_filing(file_path):
-    text = extract_text(file_path)
-
-    output_file = Path(file_path).with_suffix(".txt")
-    output_file.write_text(text, encoding="utf-8")
-
-    print(f"Processed: {file_path}")
-    print(f"Saved: {output_file}")
-    print(f"Characters: {len(text)}")
-
-
-process_filing("PR_10K_2025.html")
+print(response.text)
