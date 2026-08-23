@@ -2,14 +2,12 @@ from pathlib import Path
 import os
 from google import genai
 
-
 # Connect to Gemini
 client = genai.Client(
     api_key=os.environ["GEMINI_API_KEY"]
 )
 
-
-# These are the 15 SEC filings in the project
+# The 15 SEC filings
 filing_names = [
     "PR_10K_2025.txt",
     "PR_10Q_2026Q1.txt",
@@ -28,7 +26,6 @@ filing_names = [
     "SM_10Q_2026Q2.txt"
 ]
 
-
 # Process each filing
 for filename in filing_names:
 
@@ -38,19 +35,19 @@ for filename in filing_names:
     print(f"FILE: {file_path.stem.replace('_', ' ')}")
     print("=" * 60)
 
-    # Check that the file exists
     if not file_path.exists():
         print(f"ERROR: {filename} was not found.")
         continue
 
-    # Read the filing
-    text = file_path.read_text(
-        encoding="utf-8",
-        errors="ignore"
-    )
+    try:
+        # Read the filing
+        text = file_path.read_text(
+            encoding="utf-8",
+            errors="ignore"
+        )
 
-    # Ask Gemini to extract the three metrics
-    prompt = f"""
+        # Ask Gemini to extract the three metrics
+        prompt = f"""
 You are extracting financial information from an SEC filing.
 
 Find these three financial metrics:
@@ -76,11 +73,21 @@ SEC filing:
 {text}
 """
 
-    # Send the filing to Gemini
-    response = client.models.generate_content(
-        model="gemini-3.6-flash",
-        contents=prompt
-    )
+        print("Sending filing to Gemini...")
 
-    # Print Gemini's response
-    print(response.text)
+        response = client.models.generate_content(
+            model="gemini-3.6-flash",
+            contents=prompt
+        )
+
+        print("RESULT:")
+        print(response.text)
+
+    except Exception as e:
+        print(f"ERROR processing {filename}:")
+        print(e)
+        print("Moving to the next filing...")
+
+print("\n" + "=" * 60)
+print("ALL FILINGS PROCESSED")
+print("=" * 60)
