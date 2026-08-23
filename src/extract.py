@@ -26,11 +26,11 @@ filing_names = [
     "SM_10Q_2026Q2.txt"
 ]
 
-# Create results folder
+# Create the results folder
 results_folder = Path("results")
 results_folder.mkdir(exist_ok=True)
 
-# Save each filing's result separately
+# Process each filing
 for filename in filing_names:
 
     file_path = Path(filename)
@@ -43,10 +43,10 @@ for filename in filing_names:
         print(f"ERROR: {filename} was not found.")
         continue
 
-    # Create a separate result file for this filing
+    # Each filing gets its own results file
     result_file = results_folder / f"{file_path.stem}_result.txt"
 
-    # Skip a filing if we already successfully saved its result
+    # Skip filings that already have saved results
     if result_file.exists() and result_file.stat().st_size > 0:
         print(f"Already saved: {result_file}")
         continue
@@ -76,8 +76,7 @@ For each metric, return:
 - Section or table where you found it
 
 Use the value reported in the filing.
-Do not calculate or estimate a value unless the filing
-explicitly requires it.
+Do not calculate or estimate a value unless necessary.
 
 SEC filing:
 
@@ -91,7 +90,7 @@ SEC filing:
             contents=prompt
         )
 
-        # Save the result IMMEDIATELY
+        # Save the result immediately
         result_file.write_text(
             response.text,
             encoding="utf-8"
@@ -99,7 +98,7 @@ SEC filing:
 
         print("RESULT:")
         print(response.text)
-        print(f"\nSaved to: {result_file}")
+        print(f"Saved to: {result_file}")
 
     except Exception as e:
         print(f"ERROR processing {filename}:")
