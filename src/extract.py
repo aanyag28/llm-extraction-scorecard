@@ -19,23 +19,22 @@ filing_names = [
     "CTRA_10Q_2025Q3.txt",
     "CTRA_10Q_2026Q1.txt",
     "MTDR_10K_2025.txt",
-    "MTDR_10Q_2025Q3.txt",
     "MTDR_10Q_2026Q1.txt",
+    "MTDR_10Q_2025Q3.txt",
     "SM_10K_2025.txt",
     "SM_10Q_2026Q1.txt",
     "SM_10Q_2026Q2.txt"
 ]
 
-# Create the results folder
+# Create results folder
 results_folder = Path("results")
 results_folder.mkdir(exist_ok=True)
 
-# Save everything in this file
+# File where all Gemini results will be saved
 output_file = results_folder / "extraction_results.txt"
 
 with output_file.open("w", encoding="utf-8") as output:
 
-    # Process each filing
     for filename in filing_names:
 
         file_path = Path(filename)
@@ -55,13 +54,13 @@ with output_file.open("w", encoding="utf-8") as output:
             continue
 
         try:
-            # Read the filing
+            # Read the SEC filing
             text = file_path.read_text(
                 encoding="utf-8",
                 errors="ignore"
             )
 
-            # Prompt Gemini
+            # Ask Gemini to extract the three metrics
             prompt = f"""
 You are extracting financial information from an SEC filing.
 
@@ -98,7 +97,7 @@ SEC filing:
             print("RESULT:")
             print(response.text)
 
-            # Save the result
+            # Save the result to the output file
             output.write("RESULT:\n")
             output.write(response.text + "\n")
 
