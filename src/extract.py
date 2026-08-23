@@ -35,19 +35,19 @@ for filename in filing_names:
     print(f"FILE: {file_path.stem.replace('_', ' ')}")
     print("=" * 60)
 
+    # Make sure the filing exists
     if not file_path.exists():
         print(f"ERROR: {filename} was not found.")
         continue
 
-    try:
-        # Read the filing
-        text = file_path.read_text(
-            encoding="utf-8",
-            errors="ignore"
-        )
+    # Read the SEC filing
+    text = file_path.read_text(
+        encoding="utf-8",
+        errors="ignore"
+    )
 
-        # Ask Gemini to extract the three metrics
-        prompt = f"""
+    # Prompt Gemini
+    prompt = f"""
 You are extracting financial information from an SEC filing.
 
 Find these three financial metrics:
@@ -73,21 +73,11 @@ SEC filing:
 {text}
 """
 
-        print("Sending filing to Gemini...")
+    # Send filing to Gemini
+    response = client.models.generate_content(
+        model="gemini-3.6-flash",
+        contents=prompt
+    )
 
-        response = client.models.generate_content(
-            model="gemini-3.6-flash",
-            contents=prompt
-        )
-
-        print("RESULT:")
-        print(response.text)
-
-    except Exception as e:
-        print(f"ERROR processing {filename}:")
-        print(e)
-        print("Moving to the next filing...")
-
-print("\n" + "=" * 60)
-print("ALL FILINGS PROCESSED")
-print("=" * 60)
+    # Print results
+    print(response.text)
