@@ -26,7 +26,7 @@ filing_names = [
     "SM_10Q_2026Q2.txt"
 ]
 
-# Create the results folder
+# Create results folder
 results_folder = Path("results")
 results_folder.mkdir(exist_ok=True)
 
@@ -46,7 +46,7 @@ for filename in filing_names:
     # Each filing gets its own results file
     result_file = results_folder / f"{file_path.stem}_result.txt"
 
-    # Skip filings that already have saved results
+    # Don't process a filing again if its result already exists
     if result_file.exists() and result_file.stat().st_size > 0:
         print(f"Already saved: {result_file}")
         continue
@@ -59,19 +59,19 @@ for filename in filing_names:
         )
 
         prompt = f"""
-You are extracting financial information from an SEC filing.
+You are extracting financial information from an SEC 10-K filing.
 
-Find these three financial metrics:
+Find the company's:
 
-1. Total revenue
-2. Average daily production volume
-3. Capital expenditures
+1. Total revenue for the fiscal year ended December 31, 2025
+2. Average daily production volume for the fiscal year ended December 31, 2025
+3. Capital expenditures for the fiscal year ended December 31, 2025
 
 For each metric, return:
 
 - Metric name
 - Exact amount
-- Unit
+- Unit/currency
 - Fiscal year
 - Section or table where you found it
 
@@ -90,7 +90,7 @@ SEC filing:
             contents=prompt
         )
 
-        # Save the result immediately
+        # SAVE IMMEDIATELY after Gemini responds
         result_file.write_text(
             response.text,
             encoding="utf-8"
