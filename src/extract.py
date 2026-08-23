@@ -19,8 +19,8 @@ filing_names = [
     "CTRA_10Q_2025Q3.txt",
     "CTRA_10Q_2026Q1.txt",
     "MTDR_10K_2025.txt",
-    "MTDR_10Q_2026Q1.txt",
     "MTDR_10Q_2025Q3.txt",
+    "MTDR_10Q_2026Q1.txt",
     "SM_10K_2025.txt",
     "SM_10Q_2026Q1.txt",
     "SM_10Q_2026Q2.txt"
@@ -30,38 +30,35 @@ filing_names = [
 results_folder = Path("results")
 results_folder.mkdir(exist_ok=True)
 
-# File where all Gemini results will be saved
-output_file = results_folder / "extraction_results.txt"
+# Save each filing's result separately
+for filename in filing_names:
 
-with output_file.open("w", encoding="utf-8") as output:
+    file_path = Path(filename)
 
-    for filename in filing_names:
+    print("\n" + "=" * 60)
+    print(f"FILE: {file_path.stem.replace('_', ' ')}")
+    print("=" * 60)
 
-        file_path = Path(filename)
+    if not file_path.exists():
+        print(f"ERROR: {filename} was not found.")
+        continue
 
-        print("\n" + "=" * 60)
-        print(f"FILE: {file_path.stem.replace('_', ' ')}")
-        print("=" * 60)
+    # Create a separate result file for this filing
+    result_file = results_folder / f"{file_path.stem}_result.txt"
 
-        output.write("\n" + "=" * 60 + "\n")
-        output.write(f"FILE: {file_path.stem.replace('_', ' ')}\n")
-        output.write("=" * 60 + "\n")
+    # Skip a filing if we already successfully saved its result
+    if result_file.exists() and result_file.stat().st_size > 0:
+        print(f"Already saved: {result_file}")
+        continue
 
-        if not file_path.exists():
-            message = f"ERROR: {filename} was not found."
-            print(message)
-            output.write(message + "\n")
-            continue
+    try:
+        # Read the SEC filing
+        text = file_path.read_text(
+            encoding="utf-8",
+            errors="ignore"
+        )
 
-        try:
-            # Read the SEC filing
-            text = file_path.read_text(
-                encoding="utf-8",
-                errors="ignore"
-            )
-
-            # Ask Gemini to extract the three metrics
-            prompt = f"""
+        prompt = f"""
 You are extracting financial information from an SEC filing.
 
 Find these three financial metrics:
@@ -87,27 +84,28 @@ SEC filing:
 {text}
 """
 
-            print("Sending filing to Gemini...")
+        print("Sending filing to Gemini...")
 
-            response = client.models.generate_content(
-                model="gemini-3.6-flash",
-                contents=prompt
-            )
+        response = client.models.generate_content(
+            model="gemini-3.6-flash",
+            contents=prompt
+        )
 
-            print("RESULT:")
-            print(response.text)
+        # Save the result IMMEDIATELY
+        result_file.write_text(
+            response.text,
+            encoding="utf-8"
+        )
 
-            # Save the result to the output file
-            output.write("RESULT:\n")
-            output.write(response.text + "\n")
+        print("RESULT:")
+        print(response.text)
+        print(f"\nSaved to: {result_file}")
 
-        except Exception as e:
-            message = f"ERROR processing {filename}: {e}"
-            print(message)
-            print("Moving to the next filing...")
-            output.write(message + "\n")
+    except Exception as e:
+        print(f"ERROR processing {filename}:")
+        print(e)
+        print("Moving to the next filing...")
 
 print("\n" + "=" * 60)
 print("ALL FILINGS PROCESSED")
-print(f"Results saved to: {output_file}")
 print("=" * 60)
