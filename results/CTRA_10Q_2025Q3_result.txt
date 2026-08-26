@@ -1,0 +1,20 @@
+METRIC: REVENUE
+Exact Amount: 1,817
+Unit: million USD
+Reporting Period: Three Months Ended September 30, 2025
+Section/Table: Part I, Item 1. Financial Statements — Condensed Consolidated Statement of Operations (Unaudited) / Operating Revenues
+Source: Condensed Consolidated Statement of Operations (Nine-month figure: $5,686 million)
+
+METRIC: PRODUCTION
+Exact Amount: 72.2 (equivalent to 72,200 MBOE)
+Unit: MMBoe (Million Barrels of Oil Equivalent)
+Reporting Period: Three Months Ended September 30, 2025
+Section/Table: Part I, Item 2. MD&A — Results of Operations / Production Volumes
+Source: Item 2. Management's Discussion and Analysis — Results of Operations (Nine-month figure: 210.8 MMBoe / 210,800 MBOE)
+
+METRIC: CAPEX
+Exact Amount: 1,779 (incurred) / 1,707 (cash paid)
+Unit: million USD
+Reporting Period: Nine Months Ended September 30, 2025
+Section/Table: Part I, Item 2. MD&A — Capital and Exploration Expenditures / Condensed Consolidated Statement of Cash Flows (Unaudited)
+Source: MD&A — Capital and Exploration Expenditures (Additions for drilling, completion and other fixed assets: $1,779 million incurred / $1,707 million paid in Statement of Cash Flows; Total including acquisitions and leasehold: $1,886 million incurred / $1,793 million paid)

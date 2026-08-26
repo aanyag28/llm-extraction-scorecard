@@ -1,0 +1,4234 @@
+0001658566
+December 31
+2026
+Q1
+false
+P12M
+xbrli:shares
+iso4217:USD
+iso4217:USD
+xbrli:shares
+pr:segment
+utr:acre
+xbrli:pure
+pr:redetermination
+utr:bbl
+utr:bbl
+utr:D
+iso4217:USD
+pr:bbl
+utr:MMBTU
+iso4217:USD
+utr:MMBTU
+0001658566
+2026-01-01
+2026-03-31
+0001658566
+2026-04-30
+0001658566
+2026-03-31
+0001658566
+2025-12-31
+0001658566
+us-gaap:CommonClassAMember
+2026-03-31
+0001658566
+us-gaap:CommonClassAMember
+2025-12-31
+0001658566
+us-gaap:CommonClassCMember
+2026-03-31
+0001658566
+us-gaap:CommonClassCMember
+2025-12-31
+0001658566
+2025-01-01
+2025-03-31
+0001658566
+2024-12-31
+0001658566
+2025-03-31
+0001658566
+us-gaap:CommonClassAMember
+us-gaap:CommonStockMember
+2025-12-31
+0001658566
+us-gaap:CommonClassCMember
+us-gaap:CommonStockMember
+2025-12-31
+0001658566
+us-gaap:AdditionalPaidInCapitalMember
+2025-12-31
+0001658566
+us-gaap:RetainedEarningsMember
+2025-12-31
+0001658566
+us-gaap:ParentMember
+2025-12-31
+0001658566
+us-gaap:NoncontrollingInterestMember
+2025-12-31
+0001658566
+us-gaap:CommonClassAMember
+us-gaap:CommonStockMember
+2026-01-01
+2026-03-31
+0001658566
+us-gaap:AdditionalPaidInCapitalMember
+2026-01-01
+2026-03-31
+0001658566
+us-gaap:ParentMember
+2026-01-01
+2026-03-31
+0001658566
+us-gaap:RetainedEarningsMember
+2026-01-01
+2026-03-31
+0001658566
+us-gaap:CommonClassCMember
+us-gaap:CommonStockMember
+2026-01-01
+2026-03-31
+0001658566
+us-gaap:NoncontrollingInterestMember
+2026-01-01
+2026-03-31
+0001658566
+us-gaap:CommonClassAMember
+us-gaap:CommonStockMember
+2026-03-31
+0001658566
+us-gaap:CommonClassCMember
+us-gaap:CommonStockMember
+2026-03-31
+0001658566
+us-gaap:AdditionalPaidInCapitalMember
+2026-03-31
+0001658566
+us-gaap:RetainedEarningsMember
+2026-03-31
+0001658566
+us-gaap:ParentMember
+2026-03-31
+0001658566
+us-gaap:NoncontrollingInterestMember
+2026-03-31
+0001658566
+us-gaap:CommonClassAMember
+us-gaap:CommonStockMember
+2024-12-31
+0001658566
+us-gaap:CommonClassCMember
+us-gaap:CommonStockMember
+2024-12-31
+0001658566
+us-gaap:AdditionalPaidInCapitalMember
+2024-12-31
+0001658566
+us-gaap:RetainedEarningsMember
+2024-12-31
+0001658566
+us-gaap:ParentMember
+2024-12-31
+0001658566
+us-gaap:NoncontrollingInterestMember
+2024-12-31
+0001658566
+us-gaap:CommonClassAMember
+us-gaap:CommonStockMember
+2025-01-01
+2025-03-31
+0001658566
+us-gaap:AdditionalPaidInCapitalMember
+2025-01-01
+2025-03-31
+0001658566
+us-gaap:ParentMember
+2025-01-01
+2025-03-31
+0001658566
+us-gaap:RetainedEarningsMember
+2025-01-01
+2025-03-31
+0001658566
+us-gaap:NoncontrollingInterestMember
+2025-01-01
+2025-03-31
+0001658566
+us-gaap:CommonClassCMember
+us-gaap:CommonStockMember
+2025-01-01
+2025-03-31
+0001658566
+us-gaap:CommonClassAMember
+us-gaap:CommonStockMember
+2025-03-31
+0001658566
+us-gaap:CommonClassCMember
+us-gaap:CommonStockMember
+2025-03-31
+0001658566
+us-gaap:AdditionalPaidInCapitalMember
+2025-03-31
+0001658566
+us-gaap:RetainedEarningsMember
+2025-03-31
+0001658566
+us-gaap:ParentMember
+2025-03-31
+0001658566
+us-gaap:NoncontrollingInterestMember
+2025-03-31
+0001658566
+pr:A2026AcquisitionsMember
+2026-01-01
+2026-03-31
+0001658566
+pr:A2025AcquisitionsMember
+2025-01-01
+2025-03-31
+0001658566
+pr:BoltOnAcquisitionLeaseholdAcresMember
+2025-06-16
+0001658566
+pr:APABoltOnAcquisitionMember
+2025-06-16
+2025-06-16
+0001658566
+pr:UnprovedPropertyMember
+pr:APABoltOnAcquisitionMember
+2025-06-16
+2025-06-16
+0001658566
+pr:ProvedPropertyMember
+pr:APABoltOnAcquisitionMember
+2025-06-16
+2025-06-16
+0001658566
+us-gaap:RevolvingCreditFacilityMember
+us-gaap:LineOfCreditMember
+2026-03-31
+0001658566
+us-gaap:RevolvingCreditFacilityMember
+us-gaap:LineOfCreditMember
+2025-12-31
+0001658566
+pr:A8.00SeniorNotesDue2027Member
+us-gaap:SeniorNotesMember
+2026-03-31
+0001658566
+pr:A8.00SeniorNotesDue2027Member
+us-gaap:SeniorNotesMember
+2025-12-31
+0001658566
+pr:A5875SeniorNotesDue2029Member
+us-gaap:SeniorNotesMember
+2026-03-31
+0001658566
+pr:A5875SeniorNotesDue2029Member
+us-gaap:ConvertibleNotesPayableMember
+2025-12-31
+0001658566
+pr:SeniorNotesDue2031Member
+us-gaap:SeniorNotesMember
+2026-03-31
+0001658566
+pr:SeniorNotesDue2031Member
+us-gaap:ConvertibleNotesPayableMember
+2025-12-31
+0001658566
+pr:A700SeniorNotesDue2032Member
+us-gaap:SeniorNotesMember
+2026-03-31
+0001658566
+pr:A700SeniorNotesDue2032Member
+us-gaap:SeniorNotesMember
+2025-12-31
+0001658566
+pr:A2033SeniorNotesMember
+us-gaap:SeniorNotesMember
+2026-03-31
+0001658566
+pr:A2033SeniorNotesMember
+us-gaap:SeniorNotesMember
+2025-12-31
+0001658566
+us-gaap:SeniorNotesMember
+2026-03-31
+0001658566
+us-gaap:SeniorNotesMember
+2025-12-31
+0001658566
+us-gaap:RevolvingCreditFacilityMember
+srt:MinimumMember
+us-gaap:LineOfCreditMember
+2026-03-31
+0001658566
+us-gaap:RevolvingCreditFacilityMember
+srt:MaximumMember
+us-gaap:LineOfCreditMember
+2026-03-31
+0001658566
+us-gaap:RevolvingCreditFacilityMember
+us-gaap:LineOfCreditMember
+2026-01-01
+2026-03-31
+0001658566
+us-gaap:RevolvingCreditFacilityMember
+us-gaap:SecuredOvernightFinancingRateSofrOvernightIndexSwapRateMember
+srt:MinimumMember
+us-gaap:LineOfCreditMember
+2026-01-01
+2026-03-31
+0001658566
+us-gaap:RevolvingCreditFacilityMember
+us-gaap:SecuredOvernightFinancingRateSofrOvernightIndexSwapRateMember
+srt:MaximumMember
+us-gaap:LineOfCreditMember
+2026-01-01
+2026-03-31
+0001658566
+us-gaap:RevolvingCreditFacilityMember
+us-gaap:FederalFundsEffectiveSwapRateMember
+us-gaap:LineOfCreditMember
+2026-01-01
+2026-03-31
+0001658566
+us-gaap:RevolvingCreditFacilityMember
+pr:OneMonthSecuredOvernightFinancingRateSOFRMember
+us-gaap:LineOfCreditMember
+2026-01-01
+2026-03-31
+0001658566
+us-gaap:RevolvingCreditFacilityMember
+pr:AdjustedTermSecuredOvernightFinancingRateSOFRMember
+srt:MinimumMember
+us-gaap:LineOfCreditMember
+2026-01-01
+2026-03-31
+0001658566
+us-gaap:RevolvingCreditFacilityMember
+pr:AdjustedTermSecuredOvernightFinancingRateSOFRMember
+srt:MaximumMember
+us-gaap:LineOfCreditMember
+2026-01-01
+2026-03-31
+0001658566
+us-gaap:RevolvingCreditFacilityMember
+srt:MinimumMember
+us-gaap:LineOfCreditMember
+2026-01-01
+2026-03-31
+0001658566
+us-gaap:RevolvingCreditFacilityMember
+srt:MaximumMember
+us-gaap:LineOfCreditMember
+2026-01-01
+2026-03-31
+0001658566
+pr:RevolvingCreditFacilityInvestmentGradeMember
+us-gaap:SecuredOvernightFinancingRateSofrOvernightIndexSwapRateMember
+srt:MinimumMember
+us-gaap:LineOfCreditMember
+2026-01-01
+2026-03-31
+0001658566
+pr:RevolvingCreditFacilityInvestmentGradeMember
+us-gaap:SecuredOvernightFinancingRateSofrOvernightIndexSwapRateMember
+srt:MaximumMember
+us-gaap:LineOfCreditMember
+2026-01-01
+2026-03-31
+0001658566
+pr:RevolvingCreditFacilityInvestmentGradeMember
+pr:AdjustedTermSecuredOvernightFinancingRateSOFRMember
+srt:MinimumMember
+us-gaap:LineOfCreditMember
+2026-01-01
+2026-03-31
+0001658566
+pr:RevolvingCreditFacilityInvestmentGradeMember
+pr:AdjustedTermSecuredOvernightFinancingRateSOFRMember
+srt:MaximumMember
+us-gaap:LineOfCreditMember
+2026-01-01
+2026-03-31
+0001658566
+pr:RevolvingCreditFacilityInvestmentGradeMember
+srt:MinimumMember
+us-gaap:LineOfCreditMember
+2026-01-01
+2026-03-31
+0001658566
+pr:RevolvingCreditFacilityInvestmentGradeMember
+srt:MaximumMember
+us-gaap:LineOfCreditMember
+2026-01-01
+2026-03-31
+0001658566
+us-gaap:SeniorNotesMember
+us-gaap:SeniorNotesMember
+2026-01-01
+2026-03-31
+0001658566
+pr:A2023LongTermIncentivePlanMember
+us-gaap:CommonClassAMember
+2024-02-20
+0001658566
+us-gaap:RestrictedStockMember
+2026-01-01
+2026-03-31
+0001658566
+us-gaap:RestrictedStockMember
+2025-01-01
+2025-03-31
+0001658566
+us-gaap:PerformanceSharesMember
+2026-01-01
+2026-03-31
+0001658566
+us-gaap:PerformanceSharesMember
+2025-01-01
+2025-03-31
+0001658566
+us-gaap:RestrictedStockMember
+2025-12-31
+0001658566
+us-gaap:RestrictedStockMember
+2026-03-31
+0001658566
+us-gaap:RestrictedStockMember
+srt:MinimumMember
+srt:DirectorMember
+2026-01-01
+2026-03-31
+0001658566
+us-gaap:RestrictedStockMember
+srt:MinimumMember
+srt:OfficerMember
+2026-01-01
+2026-03-31
+0001658566
+us-gaap:RestrictedStockMember
+srt:MaximumMember
+srt:OfficerMember
+2026-01-01
+2026-03-31
+0001658566
+srt:DirectorMember
+us-gaap:RestrictedStockMember
+2026-01-01
+2026-03-31
+0001658566
+pr:A2016LongTermIncentivePlanMember
+us-gaap:EmployeeStockOptionMember
+2026-01-01
+2026-03-31
+0001658566
+srt:MinimumMember
+us-gaap:PerformanceSharesMember
+2026-01-01
+2026-03-31
+0001658566
+us-gaap:PerformanceSharesMember
+2025-12-31
+0001658566
+us-gaap:PerformanceSharesMember
+2026-03-31
+0001658566
+pr:CrudeOilSwapPeriodOneMemberDomain
+us-gaap:NondesignatedMember
+pr:NYMEXWTIMember
+2026-01-01
+2026-03-31
+0001658566
+pr:CrudeOilSwapPeriodOneMemberDomain
+us-gaap:NondesignatedMember
+pr:NYMEXWTIMember
+2026-03-31
+0001658566
+pr:CrudeOilSwapPeriodTwoDomain
+us-gaap:NondesignatedMember
+pr:NYMEXWTIMember
+2026-01-01
+2026-03-31
+0001658566
+pr:CrudeOilSwapPeriodTwoDomain
+us-gaap:NondesignatedMember
+pr:NYMEXWTIMember
+2026-03-31
+0001658566
+pr:CrudeOilSwapPeriodThreeMember
+us-gaap:NondesignatedMember
+pr:NYMEXWTIMember
+2026-01-01
+2026-03-31
+0001658566
+pr:CrudeOilSwapPeriodThreeMember
+us-gaap:NondesignatedMember
+pr:NYMEXWTIMember
+2026-03-31
+0001658566
+pr:CrudeOilSwapPeriodFourMember
+us-gaap:NondesignatedMember
+pr:NYMEXWTIMember
+2026-01-01
+2026-03-31
+0001658566
+pr:CrudeOilSwapPeriodFourMember
+us-gaap:NondesignatedMember
+pr:NYMEXWTIMember
+2026-03-31
+0001658566
+pr:CrudeOilSwapPeriodFiveMember
+us-gaap:NondesignatedMember
+pr:NYMEXWTIMember
+2026-01-01
+2026-03-31
+0001658566
+pr:CrudeOilSwapPeriodFiveMember
+us-gaap:NondesignatedMember
+pr:NYMEXWTIMember
+2026-03-31
+0001658566
+pr:CrudeOilSwapPeriodSixMember
+us-gaap:NondesignatedMember
+pr:NYMEXWTIMember
+2026-01-01
+2026-03-31
+0001658566
+pr:CrudeOilSwapPeriodSixMember
+us-gaap:NondesignatedMember
+pr:NYMEXWTIMember
+2026-03-31
+0001658566
+pr:CrudeOilSwapPeriodSevenMember
+us-gaap:NondesignatedMember
+pr:NYMEXWTIMember
+2026-01-01
+2026-03-31
+0001658566
+pr:CrudeOilSwapPeriodSevenMember
+us-gaap:NondesignatedMember
+pr:NYMEXWTIMember
+2026-03-31
+0001658566
+pr:CrudeOilBasisSwapPeriodOneMember
+us-gaap:NondesignatedMember
+2026-01-01
+2026-03-31
+0001658566
+pr:CrudeOilBasisSwapPeriodOneMember
+us-gaap:NondesignatedMember
+2026-03-31
+0001658566
+pr:CrudeOilBasisSwapPeriodTwoMember
+us-gaap:NondesignatedMember
+2026-01-01
+2026-03-31
+0001658566
+pr:CrudeOilBasisSwapPeriodTwoMember
+us-gaap:NondesignatedMember
+2026-03-31
+0001658566
+pr:CrudeOilBasisSwapPeriodThreeMember
+us-gaap:NondesignatedMember
+2026-01-01
+2026-03-31
+0001658566
+pr:CrudeOilBasisSwapPeriodThreeMember
+us-gaap:NondesignatedMember
+2026-03-31
+0001658566
+pr:CrudeOilBasisSwapPeriodFourMember
+us-gaap:NondesignatedMember
+2026-01-01
+2026-03-31
+0001658566
+pr:CrudeOilBasisSwapPeriodFourMember
+us-gaap:NondesignatedMember
+2026-03-31
+0001658566
+pr:CrudeOilBasisSwapPeriodFiveMember
+us-gaap:NondesignatedMember
+2026-01-01
+2026-03-31
+0001658566
+pr:CrudeOilBasisSwapPeriodFiveMember
+us-gaap:NondesignatedMember
+2026-03-31
+0001658566
+pr:CrudeOilBasisSwapPeriodSixMember
+us-gaap:NondesignatedMember
+2026-01-01
+2026-03-31
+0001658566
+pr:CrudeOilBasisSwapPeriodSixMember
+us-gaap:NondesignatedMember
+2026-03-31
+0001658566
+pr:CrudeOilBasisSwapPeriodSevenMember
+us-gaap:NondesignatedMember
+2026-01-01
+2026-03-31
+0001658566
+pr:CrudeOilBasisSwapPeriodSevenMember
+us-gaap:NondesignatedMember
+2026-03-31
+0001658566
+pr:CrudeOilRollDifferentialSwapPeriodOneMember
+us-gaap:NondesignatedMember
+2026-01-01
+2026-03-31
+0001658566
+pr:CrudeOilRollDifferentialSwapPeriodOneMember
+us-gaap:NondesignatedMember
+2026-03-31
+0001658566
+pr:CrudeOilRollDifferentialSwapPeriodTwoMember
+us-gaap:NondesignatedMember
+2026-01-01
+2026-03-31
+0001658566
+pr:CrudeOilRollDifferentialSwapPeriodTwoMember
+us-gaap:NondesignatedMember
+2026-03-31
+0001658566
+pr:CrudeOilRollDifferentialSwapPeriodThreeMember
+us-gaap:NondesignatedMember
+2026-01-01
+2026-03-31
+0001658566
+pr:CrudeOilRollDifferentialSwapPeriodThreeMember
+us-gaap:NondesignatedMember
+2026-03-31
+0001658566
+pr:NaturalGasSwapsHenryHubPeriodOneMember
+us-gaap:NondesignatedMember
+2026-01-01
+2026-03-31
+0001658566
+pr:NaturalGasSwapsHenryHubPeriodOneMember
+us-gaap:NondesignatedMember
+2026-03-31
+0001658566
+pr:NaturalGasSwapsHenryHubPeriodTwoMember
+us-gaap:NondesignatedMember
+2026-01-01
+2026-03-31
+0001658566
+pr:NaturalGasSwapsHenryHubPeriodTwoMember
+us-gaap:NondesignatedMember
+2026-03-31
+0001658566
+pr:NaturalGasSwapsHenryHubPeriodThreeMember
+us-gaap:NondesignatedMember
+2026-01-01
+2026-03-31
+0001658566
+pr:NaturalGasSwapsHenryHubPeriodThreeMember
+us-gaap:NondesignatedMember
+2026-03-31
+0001658566
+pr:NaturalGasSwapsHenryHubPeriodFourMember
+us-gaap:NondesignatedMember
+2026-01-01
+2026-03-31
+0001658566
+pr:NaturalGasSwapsHenryHubPeriodFourMember
+us-gaap:NondesignatedMember
+2026-03-31
+0001658566
+pr:NaturalGasSwapsHenryHubPeriodFiveMember
+us-gaap:NondesignatedMember
+2026-01-01
+2026-03-31
+0001658566
+pr:NaturalGasSwapsHenryHubPeriodFiveMember
+us-gaap:NondesignatedMember
+2026-03-31
+0001658566
+pr:NaturalGasSwapsHenryHubPeriodSixMember
+us-gaap:NondesignatedMember
+2026-01-01
+2026-03-31
+0001658566
+pr:NaturalGasSwapsHenryHubPeriodSixMember
+us-gaap:NondesignatedMember
+2026-03-31
+0001658566
+pr:NaturalGasSwapsHenryHubPeriodSevenMember
+us-gaap:NondesignatedMember
+2026-01-01
+2026-03-31
+0001658566
+pr:NaturalGasSwapsHenryHubPeriodSevenMember
+us-gaap:NondesignatedMember
+2026-03-31
+0001658566
+pr:NaturalGasSwapsWahaHubPeriodOneMember
+us-gaap:NondesignatedMember
+2026-01-01
+2026-03-31
+0001658566
+pr:NaturalGasSwapsWahaHubPeriodOneMember
+us-gaap:NondesignatedMember
+2026-03-31
+0001658566
+pr:NaturalGasSwapsWahaHubPeriodTwoMember
+us-gaap:NondesignatedMember
+2026-01-01
+2026-03-31
+0001658566
+pr:NaturalGasSwapsWahaHubPeriodTwoMember
+us-gaap:NondesignatedMember
+2026-03-31
+0001658566
+pr:NaturalGasSwapsWahaHubPeriodThreeMember
+us-gaap:NondesignatedMember
+2026-01-01
+2026-03-31
+0001658566
+pr:NaturalGasSwapsWahaHubPeriodThreeMember
+us-gaap:NondesignatedMember
+2026-03-31
+0001658566
+pr:NaturalGasSwapsWahaHubPeriodFourMember
+us-gaap:NondesignatedMember
+2026-01-01
+2026-03-31
+0001658566
+pr:NaturalGasSwapsWahaHubPeriodFourMember
+us-gaap:NondesignatedMember
+2026-03-31
+0001658566
+pr:NaturalGasSwapsHSCPeriodOneMember
+us-gaap:NondesignatedMember
+2026-01-01
+2026-03-31
+0001658566
+pr:NaturalGasSwapsHSCPeriodOneMember
+us-gaap:NondesignatedMember
+2026-03-31
+0001658566
+pr:NaturalGasSwapsHSCPeriodTwoMember
+us-gaap:NondesignatedMember
+2026-01-01
+2026-03-31
+0001658566
+pr:NaturalGasSwapsHSCPeriodTwoMember
+us-gaap:NondesignatedMember
+2026-03-31
+0001658566
+pr:NaturalGasSwapsHSCPeriodThreeMember
+us-gaap:NondesignatedMember
+2026-01-01
+2026-03-31
+0001658566
+pr:NaturalGasSwapsHSCPeriodThreeMember
+us-gaap:NondesignatedMember
+2026-03-31
+0001658566
+pr:NaturalGasBasisSwapPeriodOneMember
+us-gaap:NondesignatedMember
+2026-01-01
+2026-03-31
+0001658566
+pr:NaturalGasBasisSwapPeriodOneMember
+us-gaap:NondesignatedMember
+2026-03-31
+0001658566
+pr:NaturalGasBasisSwapPeriodTwoMember
+us-gaap:NondesignatedMember
+2026-01-01
+2026-03-31
+0001658566
+pr:NaturalGasBasisSwapPeriodTwoMember
+us-gaap:NondesignatedMember
+2026-03-31
+0001658566
+pr:NaturalGasBasisSwapPeriodThreeMember
+us-gaap:NondesignatedMember
+2026-01-01
+2026-03-31
+0001658566
+pr:NaturalGasBasisSwapPeriodThreeMember
+us-gaap:NondesignatedMember
+2026-03-31
+0001658566
+pr:NaturalGasBasisSwapPeriodFourMember
+us-gaap:NondesignatedMember
+2026-01-01
+2026-03-31
+0001658566
+pr:NaturalGasBasisSwapPeriodFourMember
+us-gaap:NondesignatedMember
+2026-03-31
+0001658566
+pr:NaturalGasBasisSwapPeriodFiveMember
+us-gaap:NondesignatedMember
+2026-01-01
+2026-03-31
+0001658566
+pr:NaturalGasBasisSwapPeriodFiveMember
+us-gaap:NondesignatedMember
+2026-03-31
+0001658566
+pr:NaturalGasBasisSwapPeriodSixMember
+us-gaap:NondesignatedMember
+2026-01-01
+2026-03-31
+0001658566
+pr:NaturalGasBasisSwapPeriodSixMember
+us-gaap:NondesignatedMember
+2026-03-31
+0001658566
+pr:NaturalGasBasisSwapPeriodSevenMember
+us-gaap:NondesignatedMember
+2026-01-01
+2026-03-31
+0001658566
+pr:NaturalGasBasisSwapPeriodSevenMember
+us-gaap:NondesignatedMember
+2026-03-31
+0001658566
+pr:DerivativeInstrumentsCurrentAssetMember
+us-gaap:NondesignatedMember
+2026-03-31
+0001658566
+us-gaap:OtherNoncurrentAssetsMember
+us-gaap:NondesignatedMember
+2026-03-31
+0001658566
+pr:DerivativeInstrumentsNoncurrentLiabilityDomain
+us-gaap:NondesignatedMember
+2026-03-31
+0001658566
+us-gaap:OtherNoncurrentLiabilitiesMember
+us-gaap:NondesignatedMember
+2026-03-31
+0001658566
+pr:DerivativeInstrumentsCurrentAssetMember
+us-gaap:NondesignatedMember
+2025-12-31
+0001658566
+us-gaap:OtherNoncurrentAssetsMember
+us-gaap:NondesignatedMember
+2025-12-31
+0001658566
+pr:DerivativeInstrumentsNoncurrentLiabilityDomain
+us-gaap:NondesignatedMember
+2025-12-31
+0001658566
+us-gaap:OtherNoncurrentLiabilitiesMember
+us-gaap:NondesignatedMember
+2025-12-31
+0001658566
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel1Member
+2026-03-31
+0001658566
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel2Member
+2026-03-31
+0001658566
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel3Member
+2026-03-31
+0001658566
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel1Member
+2025-12-31
+0001658566
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel2Member
+2025-12-31
+0001658566
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel3Member
+2025-12-31
+0001658566
+us-gaap:RevolvingCreditFacilityMember
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+us-gaap:LineOfCreditMember
+2026-03-31
+0001658566
+us-gaap:RevolvingCreditFacilityMember
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+us-gaap:LineOfCreditMember
+2025-12-31
+0001658566
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+pr:A8.00SeniorNotesDue2027Member
+us-gaap:SeniorNotesMember
+2026-03-31
+0001658566
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+pr:A8.00SeniorNotesDue2027Member
+us-gaap:SeniorNotesMember
+2025-12-31
+0001658566
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+pr:A5875SeniorNotesDue2029Member
+us-gaap:SeniorNotesMember
+2026-03-31
+0001658566
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+pr:A5875SeniorNotesDue2029Member
+us-gaap:SeniorNotesMember
+2025-12-31
+0001658566
+pr:A5875SeniorNotesDue2029Member
+us-gaap:SeniorNotesMember
+2025-12-31
+0001658566
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+pr:SeniorNotesDue2031Member
+us-gaap:SeniorNotesMember
+2026-03-31
+0001658566
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+pr:SeniorNotesDue2031Member
+us-gaap:SeniorNotesMember
+2025-12-31
+0001658566
+pr:SeniorNotesDue2031Member
+us-gaap:SeniorNotesMember
+2025-12-31
+0001658566
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+pr:A700SeniorNotesDue2032Member
+us-gaap:SeniorNotesMember
+2026-03-31
+0001658566
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+pr:A700SeniorNotesDue2032Member
+us-gaap:SeniorNotesMember
+2025-12-31
+0001658566
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+pr:A2033SeniorNotesMember
+us-gaap:SeniorNotesMember
+2026-03-31
+0001658566
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+pr:A2033SeniorNotesMember
+us-gaap:SeniorNotesMember
+2025-12-31
+0001658566
+us-gaap:CommonClassAMember
+pr:ConversionofClassCCommonStocktoClassACommonStockMember
+us-gaap:CommonStockMember
+2026-01-07
+2026-01-07
+0001658566
+us-gaap:CommonClassAMember
+pr:ConversionofClassCCommonStocktoClassACommonStockMember
+us-gaap:CommonStockMember
+2026-01-01
+2026-03-31
+0001658566
+us-gaap:CommonClassAMember
+pr:ConversionofClassCCommonStocktoClassACommonStockMember
+us-gaap:CommonStockMember
+2025-01-01
+2025-03-31
+0001658566
+pr:OpCoMember
+2025-12-31
+0001658566
+pr:OpCoMember
+2026-01-07
+0001658566
+pr:OpCoMember
+2026-03-31
+0001658566
+pr:O2026Q1DividendsMember
+2026-01-01
+2026-03-31
+0001658566
+pr:O2025Q1DividendsMember
+2025-01-01
+2025-03-31
+0001658566
+pr:ConvertibleSeniorNotesDue2028Member
+us-gaap:ConvertibleNotesPayableMember
+2026-03-31
+0001658566
+us-gaap:CommonClassCMember
+2026-01-01
+2026-03-31
+0001658566
+us-gaap:CommonClassCMember
+2025-01-01
+2025-03-31
+0001658566
+us-gaap:PerformanceSharesMember
+2026-01-01
+2026-03-31
+0001658566
+us-gaap:PerformanceSharesMember
+2025-01-01
+2025-03-31
+0001658566
+us-gaap:RestrictedStockMember
+2026-01-01
+2026-03-31
+0001658566
+us-gaap:RestrictedStockMember
+2025-01-01
+2025-03-31
+0001658566
+us-gaap:EmployeeStockOptionMember
+2026-01-01
+2026-03-31
+0001658566
+us-gaap:EmployeeStockOptionMember
+2025-01-01
+2025-03-31
+0001658566
+srt:CrudeOilMember
+2026-01-01
+2026-03-31
+0001658566
+srt:CrudeOilMember
+2025-01-01
+2025-03-31
+0001658566
+srt:NaturalGasLiquidsReservesMember
+2026-01-01
+2026-03-31
+0001658566
+srt:NaturalGasLiquidsReservesMember
+2025-01-01
+2025-03-31
+0001658566
+srt:NaturalGasReservesMember
+2026-01-01
+2026-03-31
+0001658566
+srt:NaturalGasReservesMember
+2025-01-01
+2025-03-31
+0001658566
+us-gaap:OilAndGasPurchasedMember
+2026-01-01
+2026-03-31
+0001658566
+us-gaap:OilAndGasPurchasedMember
+2025-01-01
+2025-03-31
+0001658566
+pr:NaturalGasAndNaturalGasLiquidsMember
+srt:MinimumMember
+2026-01-01
+2026-03-31
+0001658566
+pr:NaturalGasAndNaturalGasLiquidsMember
+srt:MaximumMember
+2026-01-01
+2026-03-31
+0001658566
+pr:A8.00SeniorNotesDue2027Member
+us-gaap:SeniorNotesMember
+us-gaap:SubsequentEventMember
+2026-04-15
+2026-04-15
+0001658566
+us-gaap:RevolvingCreditFacilityMember
+us-gaap:LineOfCreditMember
+us-gaap:SubsequentEventMember
+2026-04-30
+0001658566
+us-gaap:RevolvingCreditFacilityMember
+pr:OneMonthSecuredOvernightFinancingRateSOFRMember
+us-gaap:LineOfCreditMember
+us-gaap:SubsequentEventMember
+2026-04-30
+2026-04-30
+0001658566
+us-gaap:RevolvingCreditFacilityMember
+us-gaap:FederalFundsEffectiveSwapRateMember
+us-gaap:LineOfCreditMember
+us-gaap:SubsequentEventMember
+2026-04-30
+2026-04-30
+0001658566
+us-gaap:RevolvingCreditFacilityMember
+srt:MaximumMember
+us-gaap:LineOfCreditMember
+us-gaap:SubsequentEventMember
+2026-04-30
+2026-04-30
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+10-Q
+☒
+Quarterly report pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+For the quarterly period ended
+March 31, 2026
+OR
+☐
+Transition report pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+For the transition period from                     to
+Commission file number
+001-37697
+PERMIAN RESOURCES CORPORATION
+(Exact Name of Registrant as Specified in its Charter)
+Delaware
+41-3338782
+(State of Incorporation)
+(I.R.S. Employer Identification No.)
+300 N. Marienfeld St.
+,
+Suite 1000
+Midland
+,
+Texas
+79701
+(Address of principal executive offices)
+(
+432
+)
+695-4222
+(Registrant’s telephone number, including area code)
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol
+Name of each exchange on which registered
+Class A Common Stock, par value $0.0001 per share
+PR
+New York Stock Exchange
+Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+Yes
+☒
+No
+☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).
+Yes
+☒
+No
+☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer
+Accelerated filer
+Non-accelerated filer
+Smaller reporting company
+Emerging growth company
+☒
+☐
+☐
+☐
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).  Yes
+☐
+No
+☒
+As of April 30, 2026, there were
+837,288,124
+shares of Class A Common Stock, par value $0.0001 per share outstanding.
+TABLE OF CONTENTS
+Page
+Glossary of Units of Measurements and Industry Terms
+3
+Cautionary Statement Concerning Forward-Looking Statements
+5
+Part I—FINANCIAL INFORMATION
+7
+Item 1.
+Financial Statements (Unaudited)
+7
+Consolidated Balance Sheets as of March 31, 2026 and December 31, 2025
+7
+Consolidated Statements of Operations for the Three Months Ended March 31, 2026 and 2025
+8
+Consolidated Statements of Cash Flows for the Three Months Ended March 31, 2026 and 2025
+9
+Consolidated Statements of Shareholders’ Equity for the Three Months Ended March 31, 2026 and 2025
+11
+Notes to Consolidated Financial Statements
+12
+Note 1—Basis of Presentation and Summary of Significant Accounting Policies
+12
+Note 2—Acquisitions
+14
+Note 3—Accounts Receivable, Accounts Payable and Accrued Expenses
+14
+Note 4—Long-Term Debt
+15
+Note 5—Asset Retirement Obligations
+17
+Note 6—Stock-Based Compensation
+17
+Note 7—Derivative Instruments
+19
+Note 8—Fair Value Measurements
+22
+Note 9—Shareholders’ Equity and Noncontrolling Interest
+24
+Note 10—Earnings Per Share
+25
+Note 11—Commitments and Contingencies
+26
+Note 12—Revenues
+26
+Note 13—Subsequent Events
+27
+Item 2.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+29
+Item 3.
+Quantitative and Qualitative Disclosures About Market Risk
+37
+Item 4.
+Controls and Procedures
+40
+Part II—OTHER INFORMATION
+40
+Item 1.
+Legal Proceedings
+40
+Item 1A.
+Risk Factors
+40
+Item 2.
+Unregistered Sales of Equity Securities and Use of Proceeds
+41
+Item 5.
+Other Information
+41
+Item 6.
+Exhibits
+42
+Signatures
+43
+Table of Contents
+GLOSSARY OF UNITS OF MEASUREMENTS AND CERTAIN INDUSTRY AND OTHER TERMS
+Unless the context otherwise indicates, references in this Quarterly Report on Form 10-Q (the “Quarterly Report”) to “Permian Resources,” “we,” “us,” “our” or the “Company” are references to Permian Resources Corporation and its consolidated subsidiaries, including Permian Resources Operating, LLC.
+The following are abbreviations and definitions of certain terms used in this Quarterly Report, which are commonly used in the oil and natural gas industry:
+Bbl
+. One stock tank barrel of 42 U.S. gallons liquid volume used herein in reference to crude oil, NGLs or condensate.
+Bbl/d
+. One Bbl per day.
+Boe
+. One barrel of oil equivalent, calculated by converting natural gas to oil equivalent barrels at a ratio of six Mcf of natural gas to one Bbl of oil. This is an energy content correlation and does not reflect a value or price relationship between the commodities.
+Boe/d
+. One Boe per day.
+Btu
+. One British thermal unit, which is the quantity of heat required to raise the temperature of a one-pound mass of water by one-degree Fahrenheit.
+Class A Common Stock
+. Shares of the Company’s class A common stock, par value $0.0001 per share.
+Class C Common Stock
+. Shares of the Company’s class C common stock, par value $0.0001 per share.
+Completion
+. The process of preparing an oil and gas wellbore for production through the installation of permanent production equipment, as well as perforation and fracture stimulation to initiate production.
+Development well
+. A well drilled within the proved area of an oil or natural gas reservoir to the depth of a stratigraphic horizon known to be productive.
+Differential
+. An adjustment to the price of oil or natural gas from an established spot market price to reflect differences in the quality, gathering, processing and transportation fees and location of oil or natural gas.
+Exploratory well
+. A well drilled to find a new field or to find a new reservoir in a field previously found to be productive of oil or natural gas in another reservoir.
+Extension well.
+A well drilled to extend the limits of a known reservoir.
+Field
+. An area consisting of a single reservoir or multiple reservoirs all grouped on, or related to, the same individual geological structural feature or stratigraphic condition. The field name refers to the surface area, although it may refer to both the surface and the underground productive formations.
+Formation
+. A layer of rock which has distinct characteristics that differs from nearby rock.
+Henry Hub price.
+A natural gas benchmark price quoted at settlement date average.
+Horizontal drilling
+. A drilling technique used in certain formations where a well is drilled vertically to a certain depth and then drilled at a right angle within a specified interval.
+HSC.
+A natural gas benchmark price at the Houston Ship Channel hub.
+MBbl
+. One thousand barrels of crude oil, NGLs or condensate.
+MBoe
+. One thousand Boe.
+Mcf
+. One thousand cubic feet of natural gas.
+Mcf/d
+. One Mcf per day.
+Mid-Cush.
+The Mid-Cush differential represents the difference between WTI crude oil prices at Midland, Texas, and Cushing, Oklahoma.
+MMBtu
+. One million British thermal units.
+MMcf
+. One million cubic feet of natural gas.
+Mont Belvieu price
+. An NGLs benchmark price at the Mont Belvieu hub.
+NGL.
+Natural gas liquids. These are naturally occurring substances found in natural gas, including ethane, butane, isobutane, propane and natural gasoline that can be collectively removed from produced natural gas, separated in these substances and sold.
+3
+Table of Contents
+NYMEX
+. The New York Mercantile Exchange.
+NYSE
+. The New York Stock Exchange.
+Operator
+. The individual or company responsible for the development and/or production of an oil or natural gas well or lease.
+Proved developed reserves
+. Reserves that can be expected to be recovered through existing wells with existing equipment and operating methods or in which the cost of the required equipment is relatively minor compared with the cost of a new well.
+Proved reserves
+. Proved oil and natural gas reserves are those quantities of oil and natural gas, which, by analysis of geoscience and engineering data, can be estimated with reasonable certainty to be economically producible—from a given date forward from known reservoirs, and under existing economic conditions, operating methods and government regulations—prior to the time at which contracts providing the right to operate expire, unless evidence indicates that renewal is reasonably certain, regardless of whether deterministic or probabilistic methods are used for the estimation. The project to extract the hydrocarbons must have commenced or the operator must be reasonably certain that it will commence the project within a reasonable time.
+Proved undeveloped reserves or PUD
+. Proved reserves that are expected to be recovered from new wells on undrilled acreage, or from existing wells where a relatively major expenditure is required for completion.
+Realized price
+. The price received for selling oil, NGL and natural gas production that reflects various factors including, but not limited to, transportation costs, regional market conditions and contractual differentials.
+Reserves
+. Estimated remaining quantities of oil and natural gas and related substances anticipated to be economically producible, as of a given date, by application of development projects to known accumulations. In addition, there must exist, or there must be a reasonable expectation that there will exist, the legal right to produce or a revenue interest in the production, installed means of delivering oil and natural gas or related substances to market and all permits and financing required to implement the project.
+Reservoir
+. A porous and permeable underground formation containing a natural accumulation of producible oil and/or natural gas that is confined by impermeable rock or water barriers and is individual and separate from other reservoirs.
+Royalty interest.
+An interest in an oil or gas property entitling the owner to its share of the production free of costs of exploration, development and production operations.
+SOFR.
+Secured Overnight Funding Rate.
+Spot market price
+. The cash market price without reduction for expected quality, location, transportation and demand adjustments.
+Unproved reserves.
+Reserves attributable to unproved properties with no proved reserves.
+Waha.
+A natural gas benchmark price in West Texas.
+Wellbore
+. The hole drilled by a drill bit that is equipped for oil and natural gas production once the well has been completed. Also called well or borehole.
+Working interest
+. The interest in an oil and gas property (typically a leasehold interest) that gives the owner the right to drill, produce and conduct operations on the property and to a share of production, subject to all royalties and other burdens and to all costs of exploration, development and operations and all risks in connection therewith.
+Workover.
+Operations on a producing well to restore or increase production.
+WTI
+. West Texas Intermediate is a grade of crude oil used as a benchmark in oil pricing.
+4
+Table of Contents
+CAUTIONARY STATEMENT CONCERNING FORWARD-LOOKING STATEMENTS
+This Quarterly Report includes “forward-looking statements” within the meaning of Section 27A of the Securities Act of 1933, as amended (the “Securities Act”), and Section 21E of the Securities Exchange Act of 1934, as amended (the “Exchange Act”). All statements, other than statements of historical fact included in this Quarterly Report, regarding our strategy, future operations, financial position, estimated revenues and losses, projected costs, prospects, plans and objectives of management are forward-looking statements. When used in this Quarterly Report, the words “could,” “may,” “believe,” “anticipate,” “intend,” “estimate,” “expect,” “project,” “goal,” “plan,” “target” and similar expressions are intended to identify forward-looking statements, although not all forward-looking statements contain such identifying words. These forward-looking statements are based on management’s current expectations and assumptions about future events and are based on currently available information as to the outcome and timing of future events. When considering forward-looking statements, you should keep in mind the risk factors and other cautionary statements described under
+“Item 1A. Risk Factors”
+in our Annual Report on Form 10-K for the year ended December 31, 2025 (the “2025 Annual Report”) and the risk factors and other cautionary statements contained in our other filings with the United States Securities and Exchange Commission (“SEC”). Although we believe that the expectations reflected in these forward-looking statements are reasonable, they do involve certain assumptions, risks and uncertainties and we can give no assurance that such expectations will prove to have been correct.
+Factors that could cause results to differ from those projected or assumed in any forward-looking statements include, but are not limited to:
+•
+volatility of oil, NGL and natural gas prices or a prolonged period of low oil, NGL or natural gas prices and the effects of actions by, or disputes among or between, members of the Organization of Petroleum Exporting Countries (“OPEC”), such as Iran, Saudi Arabia and Venezuela, and other oil and natural gas producing countries, such as the United Arab Emirates and Russia, with respect to production levels or other matters related to the price of oil, NGLs and natural gas;
+•
+political and economic conditions and events in or affecting other producing regions or countries, including the Middle East, Russia, Eastern Europe, Africa and South America, including recent developments in and around Iran;
+•
+uncertainty inherent in estimating oil, NGL and natural gas reserves, including the impact of commodity price declines on the economic producibility of such reserves, and in projecting future rates of production;
+•
+our business strategy and future drilling plans;
+•
+our reserves and our ability to replace the reserves we produce through drilling and property acquisitions;
+•
+our drilling prospects, inventories, projects and programs, including the timing and amount of our future production of oil, NGLs and natural gas and the cost of developing or operating our properties;
+•
+our financial strategy, return of capital program, leverage, liquidity and capital required for our development program;
+•
+our realized oil, NGL and natural gas prices;
+•
+our ability to identify, complete and effectively integrate acquisitions of properties or businesses;
+•
+our hedging strategy and results;
+•
+competition for assets, materials, people and capital, which can be exacerbated by supply chain disruptions, including as a result of tariffs or other changes in trade policy or international conflict;
+•
+the geographic concentration of our operations and/or consolidated in the oil and natural gas industry in the areas in which we operate and otherwise;
+•
+our ability to obtain permits and governmental approvals;
+•
+our compliance with government regulations, including those related to environmental, health and safety regulations and liabilities thereunder;
+•
+the marketing and transportation of our oil, NGLs and natural gas;
+•
+general economic, market and business conditions, including as it relates to credit and capital markets;
+•
+environmental and climate related risks, including seasonal weather conditions;
+•
+changes in the financial strength of counterparties to our credit agreement and hedging contracts;
+•
+midstream capacity constraints and potential interruptions in production, including from limits to the build out of midstream infrastructure;
+•
+our ability to make dividend payments, distributions and share repurchases;
+•
+changes to tax laws or interpretations thereof and the impact of such changes on us;
+5
+Table of Contents
+•
+technological advancement, including artificial intelligence and its application in our industry;
+•
+security threats, including evolving cybersecurity risks such as those involving unauthorized access, denial-of-service attacks, third-party service provider failures, malicious software, data privacy breaches by employees, insiders or other with authorized access, cyber or phishing-attacks, ransomware, social engineering, physical breaches or other actions;
+•
+risks relating to our sustainability initiatives;
+•
+our plans, objectives, expectations and intentions that are not historical; and
+•
+the other risks described in “
+Item 1A. Risk Factors
+” in our 2025 Annual Report.
+Reserve engineering is a process of estimating underground accumulations of oil and natural gas that cannot be measured in an exact way. The accuracy of any reserve estimate depends on the quality of available data, the interpretation of such data and price and cost assumptions made by reserve engineers. In addition, the results of drilling, testing and production activities may justify revisions of estimates that were made previously. If significant, such revisions would change the schedule of any further production and development drilling. Accordingly, reserve estimates may differ significantly from the quantities of oil and natural gas that are ultimately recovered.
+Should one or more of the risks or uncertainties described in this Quarterly Report, our 2025 Annual Report or our other filings with the SEC occur, or should any underlying assumptions prove incorrect, our actual results and plans could differ materially from those expressed in any forward-looking statements.
+All forward-looking statements, expressed or implied, included in this Quarterly Report are expressly qualified in their entirety by this cautionary statement. This cautionary statement should also be considered in connection with any subsequent written or oral forward-looking statements that we or persons acting on our behalf may issue.
+Except as otherwise required by applicable law, we disclaim any duty to update any forward-looking statements, all of which are expressly qualified by the statements in this section, to reflect events or circumstances after the date of this Quarterly Report.
+6
+Table of Contents
+PART I.  FINANCIAL INFORMATION
+Item 1.    Financial Statements
+PERMIAN RESOURCES CORPORATION
+CONSOLIDATED BALANCE SHEETS (unaudited)
+(in thousands, except share and per share amounts)
+March 31, 2026
+December 31, 2025
+ASSETS
+Current assets
+Cash and cash equivalents
+$
+170,780
+$
+153,690
+Accounts receivable, net
+932,874
+840,653
+Derivative instruments
+46,226
+279,725
+Prepaid and other current assets
+34,346
+38,075
+Total current assets
+1,184,226
+1,312,143
+Property and Equipment
+Oil and natural gas properties, successful efforts method
+Unproved properties
+2,005,782
+1,933,409
+Proved properties
+22,089,152
+21,484,903
+Accumulated depreciation, depletion and amortization
+(
+7,688,164
+)
+(
+7,168,925
+)
+Total oil and natural gas properties, net
+16,406,770
+16,249,387
+Other property and equipment, net
+57,164
+57,051
+Total property and equipment, net
+16,463,934
+16,306,438
+Noncurrent assets
+Operating lease right-of-use assets
+139,458
+132,764
+Other noncurrent assets
+206,832
+160,840
+TOTAL ASSETS
+$
+17,994,450
+$
+17,912,185
+LIABILITIES AND EQUITY
+Current liabilities
+Accounts payable and accrued expenses
+$
+1,433,675
+$
+1,453,610
+Operating lease liabilities
+82,755
+79,496
+Derivative instruments
+162,322
+—
+Other current liabilities
+129,084
+144,726
+Total current liabilities
+1,807,836
+1,677,832
+Noncurrent liabilities
+Long-term debt, net
+3,546,370
+3,545,598
+Asset retirement obligations
+169,854
+166,847
+Deferred income taxes
+1,043,265
+893,463
+Operating lease liabilities
+58,473
+55,102
+Other noncurrent liabilities
+39,835
+39,460
+Total liabilities
+6,665,633
+6,378,302
+Commitments and contingencies (Note 11)
+Shareholders’ equity
+Common stock, $
+0.0001
+par value,
+1,500,000,000
+shares authorized:
+Class A:
+842,372,948
+shares issued and
+837,194,265
+shares outstanding at March 31, 2026 and
+757,854,120
+shares issued and
+751,746,410
+shares outstanding at December 31, 2025
+84
+76
+Class C:
+No
+shares issued and outstanding at March 31, 2026 and
+84,378,125
+shares issued and outstanding at December 31, 2025
+—
+8
+Additional paid-in capital
+9,853,585
+8,710,698
+Retained earnings (accumulated deficit)
+1,475,148
+1,567,500
+Total shareholders' equity
+11,328,817
+10,278,282
+Noncontrolling interest
+—
+1,255,601
+Total equity
+11,328,817
+11,533,883
+TOTAL LIABILITIES AND EQUITY
+$
+17,994,450
+$
+17,912,185
+The accompanying notes are an integral part of these unaudited consolidated financial statements.
+7
+Table of Contents
+PERMIAN RESOURCES CORPORATION
+CONSOLIDATED STATEMENTS OF OPERATIONS (unaudited)
+(in thousands, except per share data)
+Three Months Ended March 31,
+2026
+2025
+Operating revenues
+Oil and gas sales
+$
+1,388,146
+$
+1,376,451
+Operating expenses
+Lease operating expenses
+192,882
+179,627
+Severance and ad valorem taxes
+101,312
+107,993
+Gathering, processing and transportation expenses
+50,639
+46,650
+Depreciation, depletion and amortization
+526,288
+474,203
+General and administrative expenses
+43,772
+43,056
+Impairment and abandonment expense
+2,011
+5,209
+Exploration and other expenses
+3,997
+15,250
+Total operating expenses
+920,901
+871,988
+Income from operations
+467,245
+504,463
+Other income (expense)
+Interest expense
+(
+67,020
+)
+(
+73,839
+)
+Loss on extinguishment of debt
+—
+(
+5,826
+)
+Net gain (loss) on derivative instruments
+(
+339,924
+)
+57,731
+Other income (expense)
+3,579
+8,368
+Total other income (expense)
+(
+403,365
+)
+(
+13,566
+)
+Income before income taxes
+63,880
+490,897
+Income tax expense
+(
+13,486
+)
+(
+100,334
+)
+Net income
+50,394
+390,563
+Less: Net income attributable to noncontrolling interest
+(
+6,774
+)
+(
+61,265
+)
+Net income attributable to Class A Common Stock
+$
+43,620
+$
+329,298
+Income per share of Class A Common Stock:
+Basic
+$
+0.05
+$
+0.47
+Diluted
+$
+0.05
+$
+0.44
+The accompanying notes are an integral part of these unaudited consolidated financial statements.
+8
+Table of Contents
+PERMIAN RESOURCES CORPORATION
+CONSOLIDATED STATEMENTS OF CASH FLOWS (unaudited)
+(in thousands)
+Three Months Ended March 31,
+2026
+2025
+Cash flows from operating activities:
+Net income
+$
+50,394
+$
+390,563
+Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation, depletion and amortization
+526,288
+474,203
+Stock-based compensation expense
+16,202
+16,929
+Impairment and abandonment expense
+2,011
+5,209
+Deferred tax expense
+13,019
+97,594
+Non-cash portion of derivative (gain) loss
+369,297
+(
+36,423
+)
+Amortization of debt issuance costs, discount and premium
+1,746
+2,139
+Loss on extinguishment of debt
+—
+5,826
+Changes in operating assets and liabilities:
+(Increase) decrease in accounts receivable
+(
+87,283
+)
+14,177
+(Increase) decrease in prepaid and other assets
+17,781
+(
+8,853
+)
+Increase (decrease) in accounts payable and other liabilities
+(
+94,379
+)
+(
+63,332
+)
+Net cash provided by operating activities
+815,076
+898,032
+Cash flows from investing activities:
+Acquisition of oil and natural gas properties, net
+(
+204,865
+)
+(
+35,401
+)
+Drilling and development capital expenditures
+(
+466,230
+)
+(
+500,732
+)
+Purchases of other property and equipment
+(
+1,952
+)
+(
+1,672
+)
+Proceeds from sales of oil and natural gas properties
+9,042
+175,989
+Net cash used in investing activities
+(
+664,005
+)
+(
+361,816
+)
+Cash flows from financing activities:
+Proceeds from borrowings under revolving credit facility
+50,000
+—
+Repayment of borrowings under revolving credit facility
+(
+50,000
+)
+—
+Redemption of senior notes
+—
+(
+175,000
+)
+Debt issuance and redemption costs
+(
+293
+)
+(
+17,334
+)
+Proceeds from exercise of stock options
+1,227
+21
+Dividends paid
+(
+134,915
+)
+(
+106,070
+)
+Distributions paid to noncontrolling interest owners
+—
+(
+14,940
+)
+Net cash used in financing activities
+(
+133,981
+)
+(
+313,323
+)
+Net increase (decrease) in cash, cash equivalents and restricted cash
+17,090
+222,893
+Cash, cash equivalents and restricted cash, beginning of period
+153,690
+479,343
+Cash, cash equivalents and restricted cash, end of period
+$
+170,780
+$
+702,236
+The accompanying notes are an integral part of these unaudited consolidated financial statements.
+9
+Table of Contents
+PERMIAN RESOURCES CORPORATION
+CONSOLIDATED STATEMENTS OF CASH FLOWS (unaudited) (continued)
+(in thousands)
+Three Months Ended March 31,
+2026
+2025
+Supplemental cash flow information
+Cash paid for interest
+$
+105,412
+$
+121,422
+Cash paid (refunded) for income taxes
+(
+87
+)
+(
+1,192
+)
+Supplemental non-cash activity
+Accrued capital expenditures included in accounts payable and accrued expenses
+300,106
+283,756
+Asset retirement obligations incurred, including revisions to estimates
+3,833
+2,067
+Dividends payable
+11,447
+9,984
+The accompanying notes are an integral part of these unaudited consolidated financial statements.
+10
+Table of Contents
+PERMIAN RESOURCES CORPORATION
+CONSOLIDATED STATEMENTS OF SHAREHOLDERS’ EQUITY (unaudited)
+(in thousands)
+Common Stock
+Additional Paid-In Capital
+Retained Earnings (Accumulated Deficit)
+Total Shareholders’ Equity
+Non-controlling Interest
+Total Equity
+Class A
+Class C
+Shares
+Amount
+Shares
+Amount
+Balance at December 31, 2025
+757,854
+$
+76
+84,378
+$
+8
+$
+8,710,698
+$
+1,567,500
+$
+10,278,282
+$
+1,255,601
+$
+11,533,883
+Restricted stock issued
+61
+—
+—
+—
+—
+—
+—
+—
+—
+Stock-based compensation
+—
+—
+—
+—
+16,202
+—
+16,202
+—
+16,202
+Stock option exercises
+80
+—
+—
+—
+1,227
+—
+1,227
+—
+1,227
+Dividends
+—
+—
+—
+—
+—
+(
+135,972
+)
+(
+135,972
+)
+—
+(
+135,972
+)
+Conversion of common shares from Class C to Class A, net of tax
+84,378
+8
+(
+84,378
+)
+(
+8
+)
+1,125,589
+—
+1,125,589
+(
+1,262,544
+)
+(
+136,955
+)
+Equity impact from transactions effecting Common Units, net of tax
+—
+—
+—
+—
+(
+131
+)
+—
+(
+131
+)
+169
+38
+Net income
+—
+—
+—
+—
+—
+43,620
+43,620
+6,774
+50,394
+Balance at March 31, 2026
+842,373
+$
+84
+—
+$
+—
+$
+9,853,585
+$
+1,475,148
+$
+11,328,817
+$
+—
+$
+11,328,817
+Balance at December 31, 2024
+707,388
+$
+71
+99,600
+$
+10
+$
+8,056,552
+$
+1,081,895
+$
+9,138,528
+$
+1,379,991
+$
+10,518,519
+Restricted stock issued
+2,203
+—
+—
+—
+—
+—
+—
+—
+—
+Restricted stock forfeited
+(
+66
+)
+—
+—
+—
+—
+—
+—
+—
+—
+Stock-based compensation
+—
+—
+—
+—
+16,929
+—
+16,929
+—
+16,929
+Stock option exercises
+4
+—
+—
+—
+21
+—
+21
+—
+21
+Dividends
+—
+—
+—
+—
+—
+(
+107,519
+)
+(
+107,519
+)
+—
+(
+107,519
+)
+Distributions to noncontrolling interest owners
+—
+—
+—
+—
+—
+—
+—
+(
+14,940
+)
+(
+14,940
+)
+Conversion of common shares from Class C to Class A, net of tax
+549
+—
+(
+549
+)
+—
+7,799
+—
+7,799
+(
+7,825
+)
+(
+26
+)
+Equity impact from transactions effecting Common Units, net of tax of $
+0.3
+million
+—
+—
+—
+—
+(
+880
+)
+—
+(
+880
+)
+1,133
+253
+Net income
+—
+—
+—
+—
+—
+329,298
+329,298
+61,265
+390,563
+Balance at March 31, 2025
+710,078
+$
+71
+99,051
+$
+10
+$
+8,080,421
+$
+1,303,674
+$
+9,384,176
+$
+1,419,624
+$
+10,803,800
+The accompanying notes are an integral part of these unaudited consolidated financial statements.
+11
+Table of Contents
+PERMIAN RESOURCES CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+Note 1—Basis of Presentation and Summary of Significant Accounting Policies
+Description of Business
+Permian Resources Corporation is an independent oil and natural gas company focused on the responsible acquisition, optimization and development of crude oil and associated liquids-rich natural gas reserves. The Company’s assets and operations are located in the Permian Basin, with a concentration in the core of the Delaware Basin. Its properties consist of large, contiguous acreage blocks located in West Texas and Southeast New Mexico. Unless otherwise specified or the context otherwise requires, all references in these notes to “Permian Resources” or the “Company” are to Permian Resources Corporation and its consolidated subsidiaries, including Permian Resources Operating, LLC (“OpCo”).
+Corporation Reorganization
+On January 7, 2026, the Company completed a corporate reorganization pursuant to which it, among other things, reorganized under a new public holding company (the “Reorganization”). In connection with the Reorganization, the public holding company prior to the Reorganization became a wholly owned subsidiary of the new public holding company, which, following completion of the Reorganization, changed its name to “Permian Resources Corporation”, became the successor issuer of the prior public holding company and replaced the prior public holding company as the company trading on the NYSE, with shares of Class A Common Stock continuing to trade on the NYSE on an uninterrupted basis. There were no changes to the Company’s board of directors, executive officers, operations, name or public company trading following the Reorganization. The Reorganization was completed in an effort, among other things, to simplify the Company’s current equity structure. Refer to
+Note 9—Shareholders’ Equity and Noncontrolling Interest
+for further information around the changes to the equity structure.
+Principles of Consolidation and Basis of Presentation
+The accompanying unaudited consolidated financial statements have been prepared in accordance with generally accepted accounting principles in the United States of America (“GAAP”) and the rules and regulations of the United States Securities and Exchange Commission (“SEC”) for interim financial reporting. Accordingly, certain disclosures normally included in an Annual Report on Form 10-K have been omitted or abbreviated. The consolidated financial statements and related notes included in this Quarterly Report should be read in conjunction with the Company’s consolidated financial statements and related notes included in the Company’s Annual Report on Form 10-K for the period ended December 31, 2025 (the “2025 Annual Report”). Except as disclosed herein, there have been no material changes to the information disclosed in the notes to the consolidated financial statements included in the 2025 Annual Report. Certain prior period amounts have been reclassified to conform to the current presentation in the accompanying consolidated financial statements. Such reclassifications had no impact on net income, cash flows or shareholders’ equity previously reported.
+In the opinion of management, all normal, recurring adjustments and accruals considered necessary to present fairly, in all material respects, the Company’s interim financial results have been included. Operating results for the periods presented are not necessarily indicative of expected results for the full year.
+The consolidated financial statements include the accounts of the Company, its subsidiary OpCo and OpCo’s wholly owned subsidiaries. Noncontrolling interest represents third-party ownership in OpCo and as of March 31, 2026, was fully eliminated. Refer to
+Note 9—Shareholders’ Equity and Noncontrolling Interest
+for a discussion of noncontrolling interest.
+Use of Estimates
+The preparation of the Company’s consolidated financial statements requires the Company’s management to make various assumptions, judgments and estimates to determine the reported amounts of assets, liabilities, revenues and expenses, and the disclosures of commitments and contingencies. Changes in these assumptions, judgments and estimates will occur as a result of the passage of time and the occurrence of future events, and accordingly, actual results could differ from amounts previously established. Additionally, the prices received for oil, NGL and natural gas production can heavily influence the Company’s assumptions, judgments and estimates, and continued volatility of oil and gas prices could have a significant impact on the Company’s estimates.
+The more significant areas requiring the use of assumptions, judgments and estimates include: (i) oil and natural gas reserves; (ii) cash flow estimates used in impairment tests for long-lived assets; (iii) impairment expense of unproved properties; (iv) depreciation, depletion and amortization; (v) asset retirement obligations; (vi) determining fair value and allocating purchase price in connection with business combinations and asset acquisitions; (vii) accrued revenues and related receivables; (viii) accrued liabilities; (ix) derivative valuations; (x) deferred income taxes; and (xi) determining the fair values of certain stock-based compensation awards.
+12
+Table of Contents
+PERMIAN RESOURCES CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+Leases
+The Company has operating leases for drilling rig contracts, office rental agreements and other wellhead equipment and a financing lease for a ground lease for its office building in Midland, Texas. The Company did not enter into any material, non-routine leases during the three months ended March 31, 2026.
+The following table provides additional information related to the Company’s lease assets and liabilities as presented on the balance sheet for the periods presented:
+(in thousands)
+Balance Sheet Classification
+March 31, 2026
+December 31, 2025
+Assets
+Operating right-of-use assets
+Operating lease right-of-use assets
+$
+139,458
+$
+132,764
+Finance right-of-use asset
+Other noncurrent assets
+14,837
+14,877
+Liabilities
+Current
+Operating lease liabilities
+Operating lease liabilities
+$
+82,755
+$
+79,496
+Finance lease liability
+Other current liabilities
+796
+791
+Noncurrent
+Operating lease liabilities
+Operating lease liabilities
+$
+58,473
+$
+55,102
+Finance lease liability
+Other noncurrent liabilities
+15,614
+15,522
+Income Taxes
+The Company is subject to U.S. federal, state and local income taxes with respect to its allocable share of any taxable income or loss of OpCo, as well as any stand-alone income generated by the Company. OpCo is treated as a partnership for U.S. federal and most applicable state and local income tax purposes. As a partnership, OpCo is not subject to U.S. federal and certain state and local income taxes. Any taxable income generated by OpCo is passed through to and included in the taxable income of its members, including the Company, on a pro rata basis.
+Income tax expense recognized during interim periods is based on applying an estimated annual effective income tax rate to the Company’s year-to-date income, plus any significant unusual or infrequently occurring items which are recorded in the interim period. The computation of the annual estimated effective tax rate at each interim period requires certain estimates and significant judgment including, but not limited to, the expected operating income for the year, projections of the proportion of income earned and taxed in various state jurisdictions, permanent and temporary differences and the likelihood of recovering deferred tax assets generated. The accounting estimates used to compute the provision for income taxes may change as new events occur, additional information becomes known or as the tax environment changes.
+Segment Reporting
+The nature of the Company’s operations and geographical location of such are concentrated to exploration and production of oil and natural gas within the Permian Basin. The Company’s chief operating decision maker (“CODM”) is each of its Co-Chief Executive Officers who manage and review the Company’s operations on a consolidated basis. Accordingly, the Company operates in
+one
+reportable segment.
+The CODM uses consolidated net income to measure profit or loss, assess performance and make key operating decisions. Additionally, the CODM utilizes cash flows to facilitate investment decisions, including determining future levels of developmental capital expenditures, assessing potential acquisitions and divestitures, assessing appropriate returns of capital to shareholders and other strategic sources and uses of capital. The CODM does not generally evaluate performance using asset information. Consolidated net income and all significant expenses are reported within the Company’s consolidated statements of operations while cash flows are presented on the Company’s consolidated statement of cash flows.
+Recently Issued Accounting Standards
+In November 2024, the Financial Accounting Standards Board issued Accounting Standards Update (“ASU”) No. 2024-03,
+Income Statement - Reporting Comprehensive Income - Expense Disaggregation Disclosures
+, which requires public business entities to disclose specific expense categories in the notes to the financial statements. This ASU is effective for annual periods beginning after December 15, 2026 and interim periods beginning after December 15, 2027. The adoption of this ASU is anticipated to impact only disclosure requirements, and as a result, no impact is expected on the Company’s balance sheets, results of operations or cash flows
+.
+13
+Table of Contents
+PERMIAN RESOURCES CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+Note 2—Acquisitions
+Bolt-On Acquisitions
+During the three months ended March 31, 2026 and 2025, the Company completed multiple acquisitions of oil and natural gas properties for a cumulative adjusted purchase price of approximately $
+204.9
+million and $
+35.4
+million, respectively. These transactions were recorded as asset acquisitions in accordance with Accounting Standards Codification (“ASC”) Topic 805,
+Business Combinations
+(“ASC 805”).
+On June 16, 2025, the Company completed its acquisition of approximately
+13,000
+net leasehold acres with Apache Corporation for an unadjusted purchase price of $
+608
+million. The acreage acquired is predominately located directly offsetting the Company’s existing asset position in the core of its New Mexico operating area. The acquisition was recorded as an asset acquisition in accordance with ASC 805. Total consideration paid was $
+572.3
+million after settlement statement adjustments, of which $
+500.6
+million was allocated to proved properties and $
+80.8
+million to unproved properties on a relative fair value basis with the remaining $
+9.1
+million related to liabilities assumed.
+Note 3—Accounts Receivable, Accounts Payable and Accrued Expenses
+Accounts receivable are comprised of the following:
+(in thousands)
+March 31, 2026
+December 31, 2025
+Oil and gas sales receivable, net
+$
+602,846
+$
+435,017
+Joint interest billings, net
+315,211
+314,835
+Derivative settlements receivable
+—
+41,866
+Other receivables
+14,817
+48,935
+Accounts receivable, net
+$
+932,874
+$
+840,653
+Accounts payable and accrued expenses are comprised of the following:
+(in thousands)
+March 31, 2026
+December 31, 2025
+Accounts payable
+$
+91,192
+$
+70,528
+Accrued capital expenditures
+243,881
+205,050
+Revenues payable
+843,295
+854,633
+Employee compensation and benefits payable
+8,531
+28,462
+Interest payable
+64,703
+105,367
+Accrued derivative settlement
+26,826
+—
+Accrued expenses and other payables
+155,247
+189,570
+Accounts payable and accrued expenses
+$
+1,433,675
+$
+1,453,610
+14
+Table of Contents
+PERMIAN RESOURCES CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+Note 4—Long-Term Debt
+The following table provides information about the Company’s long-term debt as of the dates indicated:
+(in thousands)
+March 31, 2026
+December 31, 2025
+Credit Facility
+$
+—
+$
+—
+Senior Notes
+8.00
+% Senior Notes due 2027
+550,000
+550,000
+5.875
+% Senior Notes due 2029
+700,000
+700,000
+9.875
+% Senior Notes due 2031
+325,000
+325,000
+7.00
+% Senior Notes due 2032
+1,000,000
+1,000,000
+6.25
+% Senior Notes due 2033
+1,000,000
+1,000,000
+Unamortized debt issuance costs on Senior Notes
+(
+23,662
+)
+(
+24,405
+)
+Unamortized debt (discount)/premium
+(
+4,968
+)
+(
+4,997
+)
+Senior Notes, net
+3,546,370
+3,545,598
+Total long-term debt, net
+$
+3,546,370
+$
+3,545,598
+Credit Agreement
+OpCo has a credit agreement with a syndicate of banks that provides for a secured revolving credit facility, maturing in February 2028 (the “Credit Agreement”). As of March 31, 2026, the Company had
+no
+borrowings outstanding and $
+2.5
+billion in available borrowing capacity.
+The amount available to be borrowed under the Credit Agreement is equal to the lesser of (i) the borrowing base, which is set at $
+4.0
+billion; (ii) aggregate elected revolving commitments, which is set at $
+2.5
+billion; or (iii) $
+6.0
+billion. The borrowing base is redetermined semi-annually in the spring and the fall by the lenders in their sole discretion. It also allows for the Company to request
+two
+optional borrowing base redeterminations in between the scheduled redeterminations; one at the Borrower’s request and an additional one in connection with any Material Acquisition (as defined in the Credit Agreement). The borrowing base depends on, among other things, the quantities of OpCo’s proved oil and natural gas reserves, estimated cash flows from those reserves, and the Company’s commodity hedge positions. Upon a redetermination of the borrowing base, if actual borrowings outstanding exceed the revised borrowing capacity, OpCo could be required to immediately repay a portion of its debt outstanding in an amount equal to the excess. Upon our election to commence an Investment Grade Period (as defined in the Credit Agreement), the borrowing base and the foregoing requirements were suspended. Borrowings under the Credit Agreement are guaranteed by certain of OpCo’s subsidiaries.
+Borrowings under the Credit Agreement may be base rate loans or SOFR loans. Interest is payable quarterly for base rate loans and at the end of the applicable interest period for SOFR loans. Prior to the commencement of the Investment Grade Period, SOFR loans bore interest at SOFR plus an applicable margin ranging from
+162.5
+to
+262.5
+basis points, depending on the percentage of elected commitments utilized. Base rate loans bore interest at a rate per annum equal to the greatest of: (i) the agent bank’s prime rate; (ii) the federal funds effective rate plus
+50
+basis points; or (iii) the adjusted Term SOFR rate for a one-month interest period plus
+100
+basis points, plus an applicable margin, ranging from
+62.5
+to
+162.5
+basis points, depending on the percentage of the borrowing base utilized. OpCo also paid a commitment fee of
+37.5
+to
+50
+basis points on unused elected commitment amounts under the Credit Agreement. Following commencement of the Investment Grade Period, SOFR loans bear interest at SOFR plus an applicable margin ranging from
+112.5
+to
+175.0
+basis points, depending on our index debt rating. Base rate loans bear interest at a rate per annum equal to the greatest of: (i) the agent bank’s prime rate; (ii) the federal funds effective rate plus
+50
+basis points; or (iii) the adjusted Term SOFR rate for a one-month interest period plus
+100
+basis points, plus an applicable margin, ranging from
+12.5
+to
+75.0
+basis points, depending on our index debt rating. OpCo also pays a commitment fee of
+12.5
+to
+25.0
+basis points on unused elected commitment amounts under the Credit Agreement.
+The Credit Agreement contains restrictive covenants that limit our ability to, among other things: (i) incur additional indebtedness; (ii) make investments and loans; (iii) enter into mergers; (iv) make restricted payments; (v) repurchase or redeem junior debt; (vi) enter into commodity hedges exceeding a specified percentage of our expected production; (vii) enter into interest rate hedges exceeding a specified percentage of its outstanding indebtedness; (viii) incur liens; (ix) sell assets; and (x) engage in transactions with affiliates.
+The Credit Agreement also requires OpCo to maintain compliance with the following financial ratios:
+15
+Table of Contents
+PERMIAN RESOURCES CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+(i) a current ratio, which is the ratio of OpCo’s consolidated current assets (including an add back of unused commitments under the revolving credit facility and excluding non-cash derivative assets and certain restricted cash) to its consolidated current liabilities (excluding the current portion of long-term debt under the Credit Agreement and non-cash derivative liabilities), of not less than
+1.0
+to 1.0; and
+(ii) a leverage ratio, which is the ratio of total funded debt to consolidated EBITDAX (with such terms defined within the Credit Agreement) for the most recent quarter annualized, of not greater than
+3.5
+to 1.0.
+Upon commencement of the Investment Grade Period, certain covenants fell away and interest rates, as noted above, and collateral requirements were reduced under the Credit Agreement.
+OpCo was in compliance with the covenants and the applicable financial ratios described above as of March 31, 2026.
+On April 30, 2026, OpCo, as the borrower, entered into a credit agreement with a syndicate of banks that provides for an unsecured revolving credit facility, maturing in April 2031 (the “New Credit Agreement”). In connection with our entry into the New Credit Agreement, we terminated the existing Credit Agreement. Refer to
+Note 13—Subsequent Events
+for additional information regarding the New Credit Agreement.
+Senior Unsecured Notes
+The table below summarizes the interest rates, interest payment dates, principal amounts outstanding and the maturity dates related to OpCo’s outstanding senior unsecured note obligations as of March 31, 2026.
+Interest Rate
+Interest Payment Dates
+Principal Amount
+Maturity Date
+8.00
+% Senior Notes due 2027
+8.00
+%
+April 15, October 15
+$
+550,000
+April 15, 2027
+5.875
+% Senior Notes due 2029
+5.875
+%
+January 1, July 1
+700,000
+July 1, 2029
+9.875
+% Senior Notes due 2031
+9.875
+%
+January 15, July 15
+325,000
+July 15, 2031
+7.00
+% Senior Notes due 2032
+7.00
+%
+January 15, July 15
+1,000,000
+January 15, 2032
+6.25
+% Senior Notes due 2033
+6.25
+%
+February 1, August 1
+1,000,000
+February 1, 2033
+The
+8.00
+% senior notes due 2027,
+5.875
+% senior notes due 2029,
+9.875
+% senior notes due 2031,
+7.00
+% senior notes due 2032 and
+6.25
+% senior notes due 2033 (collectively, the “Senior Unsecured Notes”) are unsecured senior obligations. OpCo may redeem some or all of its Senior Unsecured Notes prior to their maturity at redemption prices that may include a premium, plus accrued and unpaid interest as described in the indentures governing the Senior Unsecured Notes. The Senior Unsecured Notes are fully and unconditionally guaranteed on a senior unsecured basis by the Company and each of OpCo’s current subsidiaries that guarantee borrowings under OpCo’s Credit Agreement.
+If OpCo experiences certain defined changes of control accompanied by a ratings decline, each holder of the Senior Unsecured Notes may require OpCo to repurchase all or a portion of its Senior Unsecured Notes for cash at a price equal to
+101
+% of the aggregate principal amount of such Senior Unsecured Notes, plus any accrued but unpaid interest to the date of repurchase.
+The indentures governing the Senior Unsecured Notes contain covenants that, among other things and subject to certain exceptions and qualifications, limit OpCo’s ability and the ability of OpCo’s restricted subsidiaries to: (i) incur or guarantee additional indebtedness or issue certain types of preferred stock; (ii) pay dividends on capital stock or redeem, repurchase or retire capital stock or subordinated indebtedness; (iii) transfer or sell assets; (iv) make investments; (v) create certain liens; (vi) enter into agreements that restrict dividends or other payments from their subsidiaries to them; (vii) consolidate, merge or transfer all or substantially all of their assets; (viii) engage in transactions with affiliates; and (ix) create unrestricted subsidiaries. Following the Company’s receipt of investment grade credit ratings from Standard & Poor’s Financial Services LLC, Fitch Ratings Inc. and Moody’s Ratings, certain of such covenants were suspended or terminated, as applicable, in accordance with the terms and conditions of the indentures governing the Senior Unsecured Notes. OpCo was in compliance with any remaining covenants as of March 31, 2026.
+Please refer to
+Note 5—Long-Term Debt
+included in Part II, Item 8 in the 2025 Annual Report for additional details around OpCo’s Senior Unsecured Notes.
+Senior Note Redemption
+On April 15, 2026, the Company redeemed all of the outstanding 8.00% Senior Notes due 2027. Refer to
+Note 13—Subsequent Events
+for additional information.
+16
+Table of Contents
+PERMIAN RESOURCES CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+Note 5—Asset Retirement Obligations
+The following table summarizes changes in the Company’s asset retirement obligations (“ARO”) associated with its working interests in oil and gas properties for the three months ended March 31, 2026:
+(in thousands)
+Asset retirement obligations, beginning of period
+$
+189,350
+Liabilities incurred
+3,833
+Liabilities acquired
+—
+Liabilities divested and settled
+(
+1,420
+)
+Accretion expense
+3,151
+Asset retirement obligations, end of period
+194,914
+Less current portion
+(1)
+(
+25,060
+)
+Asset retirement obligations - long-term, end of period
+$
+169,854
+(1)
+The current portion of ARO is included within
+Other current liabilities
+in the consolidated balance sheets.
+ARO reflect the present value of the estimated future costs associated with the plugging and abandonment of oil and gas wells, removal of equipment and facilities from leased acreage and land restoration in accordance with applicable local, state and federal laws. Inherent in the fair value calculation of ARO are numerous estimates and assumptions, including plug and abandonment settlement amounts, inflation factors, credit adjusted discount rates and the timing of settlement. To the extent future revisions to these assumptions impact the value of the existing ARO liabilities, a corresponding offsetting adjustment is made to the oil and gas property balance. Changes in the liability due to the passage of time are recognized as an increase in the carrying amount of the liability with an offsetting charge to accretion expense, which is included within depreciation, depletion and amortization.
+Note 6—Stock-Based Compensation
+The Company has a Long Term Incentive Plan (the “LTIP”) that has a total of
+71,718,560
+shares of Class A Common Stock authorized for issuance and provides for grants of certain types of equity and cash-based awards.
+Stock-based compensation expense is recognized within both
+General and administrative expenses
+and
+Exploration and other expenses
+in the consolidated statements of operations. The Company accounts for forfeitures of awards granted under the LTIP as they occur.
+The following table summarizes stock-based compensation expense recognized for the periods presented:
+Three Months Ended March 31,
+(in thousands)
+2026
+2025
+Equity Awards
+Restricted Stock
+$
+8,869
+$
+6,214
+Performance stock units
+7,333
+10,715
+Total stock-based compensation expense
+$
+16,202
+$
+16,929
+Equity Awards
+The Company has restricted stock, which includes both restricted stock and restricted stock units (collectively, “Restricted Stock”), stock options and performance stock units (“PSUs”) outstanding that were granted under the LTIP as discussed below. Each award has service-based and, in the case of the PSUs, market-based vesting requirements, and is expected to be settled in shares of Class A Common Stock upon vesting. As a result, these awards are classified as equity-based awards in accordance with ASC Topic 718,
+Compensation-Stock Compensation
+.
+17
+Table of Contents
+PERMIAN RESOURCES CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+Restricted Stock
+The following table provides information about Restricted Stock activity during the three months ended March 31, 2026:
+Restricted Stock
+Weighted Average Fair Value
+Unvested balance as of December 31, 2025
+6,107,715
+$
+14.17
+Granted
+378,375
+18.08
+Vested
+(
+990,328
+)
+13.86
+Forfeited
+—
+—
+Unvested balance as of March 31, 2026
+5,495,762
+14.50
+The Company grants service-based Restricted Stock to certain officers and employees, which either vests ratably over a
+three-year
+service period or cliff vests upon a
+twelve
+month to
+five year
+service period, and to directors, which vest over a
+one-year
+service period. Compensation cost for these service-based Restricted Stock grants is based on the closing market price of the Company’s Class A Common Stock on the grant date, and such costs are recognized ratably over the applicable vesting period. The total fair value of Restricted Stock that vested during the three months ended March 31, 2026 and 2025 was $
+13.7
+million and $
+7.3
+million, respectively. Unrecognized compensation cost related to Restricted Stock that were unvested as of March 31, 2026 was $
+58.9
+million, which the Company expects to recognize over a weighted average period of
+2.0
+years.
+Stock Options
+Stock options that have been granted under the LTIP expire
+ten years
+from the grant date and vest ratably over their
+three-year
+service period. The exercise price for an option granted under the LTIP is the closing market price of the Company’s Class A Common Stock on the grant date. Compensation cost for stock options is based on the grant-date fair value of the award, which is then recognized ratably over the vesting period of
+three years
+.
+The following table provides information about stock option awards outstanding during the three months ended March 31, 2026:
+Options
+Weighted Average Exercise Price
+Weighted Average Remaining Term
+(in years)
+Aggregate Intrinsic Value
+(in thousands)
+Outstanding as of December 31, 2025
+239,533
+$
+16.11
+$
+339
+Exercised
+(
+96,533
+)
+16.09
+280
+Expired
+—
+—
+Outstanding as of March 31, 2026
+143,000
+16.13
+1.9
+745
+Exercisable as of March 31, 2026
+143,000
+16.13
+1.9
+745
+Performance Stock Units
+The Company grants PSUs to certain officers and members of management that are subject to market-based vesting criteria as well as a service period of
+three years
+. Vesting at the end of the service period depends on the Company’s absolute annualized total shareholder return (“TSR”) over the performance period, as well as the Company’s TSR relative to the TSR of a group of peer companies. These market-based conditions must be met in order for the stock awards to vest, and it is therefore possible that no shares could ultimately vest. However, the Company recognizes compensation expense for the PSUs subject to market conditions regardless of whether it becomes probable that these conditions will be met or not, and compensation expense is not reversed if vesting does not actually occur.
+The Company’s PSUs currently outstanding can be settled in either Class A Common Stock or cash upon vesting at the Company’s discretion. The Company intends to settle all PSUs in Class A Common Stock and has sufficient shares available under the LTIP to settle the units in Class A Common Stock at the potential future vesting dates. Accordingly, the PSUs have been treated as equity-based awards with their fair values determined as of the grant date. The fair values of the awards are estimated using a Monte Carlo valuation model. The Monte Carlo valuation model is based on a large number of simulated stock price paths and potential TSR for the Company and its peer companies and produces a probabilistic assessment of fair value. Expected volatility was calculated based on the implied volatility of the Company’s Class A Common Stock and its peer companies, consistent with the remaining term of the performance period, or historical volatility where implied volatility data was unavailable for the respective term. The risk-free interest rate is based on U.S. Treasury yield curve rates with maturities consistent with the vesting periods.
+18
+Table of Contents
+PERMIAN RESOURCES CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+The following table summarizes the key assumptions and related information used to determine the fair value of PSUs granted during the three months ended March 31, 2026:
+2026 Awards
+Fair value per share
+$
+28.07
+Expected implied stock volatility
+41.4
+%
+Risk-free interest rate
+3.4
+%
+The following table provides information about PSUs outstanding during the three months ended March 31, 2026:
+Awards
+Weighted Average Fair Value
+Unvested balance as of December 31, 2025
+5,238,609
+$
+17.93
+Granted
+1,964,333
+28.07
+Vested
+—
+—
+Forfeited
+—
+—
+Unvested balance as of March 31, 2026
+7,202,942
+20.70
+As of March 31, 2026, there was $
+83.6
+million of unrecognized compensation cost related to PSUs that were unvested, which the Company expects to recognize on a pro-rata basis over a weighted average period of
+2.0
+years.
+Note 7—Derivative Instruments
+The Company is exposed to certain risks relating to its ongoing business operations and may use derivative instruments to manage its exposure to commodity price risk from time to time.
+Commodity Derivative Contracts
+Historically, prices received for crude oil and natural gas production have been volatile because of supply and demand factors, worldwide political factors, general economic conditions and seasonal weather patterns. The Company may periodically use derivative instruments, such as swaps, costless collars, basis swaps, and other similar agreements, to mitigate its exposure to declines in commodity prices and to the corresponding negative impacts such declines can have on its cash flows from operations, returns on capital and other financial results. While the use of these instruments limits the downside risk of adverse price changes, their use may also limit future revenues from favorable price changes. The Company does not enter into derivative contracts for speculative or trading purposes.
+Commodity Swaps.
+The Company may use commodity derivative instruments known as fixed price swaps to realize a known price for a specific volume of production or basis swaps to hedge the difference between the index price and a local or future index price. All transactions are settled in cash with one party paying the other for the resulting difference in price multiplied by the contract volume.
+The following table summarizes the approximate volumes and average contract prices of derivative contracts the Company had in place as of March 31, 2026:
+Period
+Volume (Bbls)
+Volume
+(Bbls/d)
+Wtd. Avg. Crude Price
+($/Bbl)
+Crude oil swaps - NYMEX WTI
+April 2026 - June 2026
+7,280,000
+80,000
+$
+67.43
+July 2026 - September 2026
+6,440,000
+70,000
+68.68
+October 2026 - December 2026
+6,440,000
+70,000
+67.10
+January 2027 - March 2027
+535,500
+5,950
+74.31
+April 2027 - June 2027
+541,450
+5,950
+72.96
+July 2027 - September 2027
+547,400
+5,950
+72.16
+October 2027 - December 2027
+547,400
+5,950
+71.41
+19
+Table of Contents
+PERMIAN RESOURCES CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+Period
+Volume (Bbls)
+Volume
+(Bbls/d)
+Wtd. Avg. Differential
+($/Bbl)
+Crude oil basis differential swaps - Mid-Cush
+(1)
+April 2026 - June 2026
+6,980,000
+76,703
+$
+0.94
+July 2026 - September 2026
+6,440,000
+70,000
+1.03
+October 2026 - December 2026
+6,440,000
+70,000
+1.03
+January 2027 - March 2027
+450,000
+5,000
+1.10
+April 2027 - June 2027
+455,000
+5,000
+1.10
+July 2027 - September 2027
+460,000
+5,000
+1.10
+October 2027 - December 2027
+460,000
+5,000
+1.10
+Period
+Volume (Bbls)
+Volume
+(Bbls/d)
+Wtd. Avg. Differential
+($/Bbl)
+Crude oil roll differential swaps - NYMEX WTI
+April 2026 - June 2026
+6,980,000
+76,703
+$
+0.71
+July 2026 - September 2026
+6,578,000
+71,500
+1.24
+October 2026 - December 2026
+6,578,000
+71,500
+1.13
+(1)
+These crude oil basis swap transactions are settled utilizing the ARGUS MIDLAND WTI and ARGUS WTI CUSHING indices.
+Period
+Volume (MMBtu)
+Volume (MMBtu/d)
+Wtd. Avg. Gas Price
+($/MMBtu)
+Natural gas swaps - NYMEX Henry Hub
+April 2026 - June 2026
+12,467,000
+137,000
+$
+3.57
+July 2026 - September 2026
+12,604,000
+137,000
+3.83
+October 2026 - December 2026
+12,604,000
+137,000
+4.16
+January 2027 - March 2027
+12,600,000
+140,000
+4.24
+April 2027 - June 2027
+12,740,000
+140,000
+3.32
+July 2027 - September 2027
+12,880,000
+140,000
+3.58
+October 2027 - December 2027
+12,880,000
+140,000
+3.94
+Period
+Volume (MMBtu)
+Volume (MMBtu/d)
+Wtd. Avg. Gas Price
+($/MMBtu)
+Natural gas swaps - Waha
+April 2026 - June 2026
+8,645,000
+95,000
+$
+0.43
+July 2026 - September 2026
+8,740,000
+95,000
+1.80
+October 2026 - December 2026
+15,145,000
+164,620
+2.73
+January 2027 - March 2027
+7,650,000
+85,000
+3.57
+Period
+Volume (MMBtu)
+Volume (MMBtu/d)
+Wtd. Avg. Gas Price
+($/MMBtu)
+Natural gas swaps - HSC
+April 2026 - June 2026
+9,100,000
+100,000
+$
+3.63
+July 2026 - September 2026
+9,200,000
+100,000
+3.95
+October 2026 - December 2026
+9,200,000
+100,000
+4.24
+20
+Table of Contents
+PERMIAN RESOURCES CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+Period
+Volume (MMBtu)
+Volume (MMBtu/d)
+Wtd. Avg. Differential
+($/MMBtu)
+Natural gas basis differential swaps - Waha
+(1)
+April 2026 - June 2026
+12,467,000
+137,000
+$(
+2.31
+)
+July 2026 - September 2026
+12,604,000
+137,000
+(
+1.42
+)
+October 2026 - December 2026
+12,604,000
+137,000
+(
+1.21
+)
+January 2027 - March 2027
+14,490,000
+161,000
+(
+0.47
+)
+April 2027 - June 2027
+14,651,000
+161,000
+(
+1.11
+)
+July 2027 - September 2027
+14,812,000
+161,000
+(
+0.65
+)
+October 2027 - December 2027
+14,812,000
+161,000
+(
+0.91
+)
+(1)
+These natural gas basis swap contracts are settled utilizing the Inside FERC’s West Texas Waha price and the NYMEX Henry Hub price of natural gas.
+Derivative Instrument Reporting.
+The Company’s oil and natural gas derivative instruments have not been designated as hedges for accounting purposes. Therefore, all gains and losses are recognized in the Company’s consolidated statements of operations. All derivative instruments are recorded at fair value in the consolidated balance sheets, other than derivative instruments that meet the “normal purchase normal sale” exclusion, and any fair value gains and losses are recognized in current period earnings.
+The following table presents the impact of the Company’s derivative instruments in its consolidated statements of operations for the periods presented:
+Three Months Ended March 31,
+(in thousands)
+2026
+2025
+Net gain (loss) on derivative instruments
+$
+(
+339,924
+)
+$
+57,731
+21
+Table of Contents
+PERMIAN RESOURCES CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+Offsetting of Derivative Assets and Liabilities.
+The Company’s commodity derivatives are included in the accompanying consolidated balance sheets as derivative assets and liabilities. The Company nets its financial derivative instrument fair value amounts executed with the same counterparty pursuant to ISDA master netting agreements, which provide for net settlement over the term of the contract and in the event of default or termination of the contract.
+The tables below summarize the fair value amounts and the classification in the consolidated balance sheets of the Company’s derivative contracts outstanding at the respective balance dates, as well as the gross recognized derivative assets, liabilities and offset amounts:
+Balance Sheet Classification
+Gross Fair Value Asset/Liability Amounts
+Gross Amounts Offset
+(1)
+Net Recognized Fair Value Assets/Liabilities
+(in thousands)
+March 31, 2026
+Derivative Assets
+Commodity contracts
+Derivative instruments
+$
+225,937
+$
+(
+179,711
+)
+$
+46,226
+Other noncurrent assets
+27,994
+(
+1,360
+)
+26,634
+Derivative Liabilities
+Commodity contracts
+Derivative instruments
+$
+342,033
+$
+(
+179,711
+)
+$
+162,322
+Other noncurrent liabilities
+1,360
+(
+1,360
+)
+—
+December 31, 2025
+Derivative Assets
+Commodity contracts
+Derivative instruments
+$
+281,752
+$
+(
+2,027
+)
+$
+279,725
+Other noncurrent assets
+8,733
+(
+7,987
+)
+746
+Derivative Liabilities
+Commodity contracts
+Derivative instruments
+$
+2,027
+$
+(
+2,027
+)
+$
+—
+Other noncurrent liabilities
+8,623
+(
+7,987
+)
+636
+(1)
+The Company has agreements in place with each of its counterparties that allow for the financial right of offset for derivative assets against derivative liabilities at settlement or in the event of a default under the agreements or if contracts are terminated.
+Contingent Features in Financial Derivative Instruments.
+None of the Company’s derivative instruments contain credit-risk-related contingent features. Counterparties to the Company’s financial derivative contracts are high credit-quality financial institutions that are primarily lenders under the Credit Agreement. The Company intends to enter into new hedge arrangements primarily with participants under the New Credit Agreement. These hedge arrangements were previously secured equally with the holders of any debt under the Credit Agreement, which eliminated the potential need to post collateral when the Company is in a derivative liability position. Upon commencement of the Investment Grade Period, the security interests attached to such hedge arrangements were terminated simultaneously with the termination of security interests under the Credit Agreement. The Company is not required to post letters of credit or corporate guarantees for its derivative counterparties in order to secure contract performance obligations.
+In addition, the Company is exposed to credit risk associated with its derivative contracts from non-performance by its counterparties. The Company mitigates its exposure to any single counterparty by contracting with a number of financial institutions, each of which has a high credit rating and generally is a lender under the New Credit Agreement as referenced above.
+Note 8—Fair Value Measurements
+Recurring Fair Value Measurements
+The Company follows ASC Topic 820,
+Fair Value Measurement and Disclosure,
+which establishes a three-level valuation hierarchy for disclosure of fair value measurements. The valuation hierarchy categorizes assets and liabilities measured at fair value into one of three different levels depending on the observability of the inputs employed in the measurement. The three levels are defined as follows:
+•
+Level 1: Quoted Prices in Active Markets for Identical Assets – inputs to the valuation methodology are quoted prices (unadjusted) for identical assets or liabilities in active markets.
+22
+Table of Contents
+PERMIAN RESOURCES CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+•
+Level 2: Significant Other Observable Inputs – inputs to the valuation methodology include quoted prices for similar assets and liabilities in active markets, and inputs that are observable for the asset or liability, either directly or indirectly, for substantially the full term of the financial instrument.
+•
+Level 3: Significant Unobservable Inputs – inputs to the valuation methodology are unobservable and significant to the fair value measurement.
+The following table presents, for each applicable level within the fair value hierarchy, the Company’s net derivative assets and liabilities, including both current and noncurrent portions, measured at fair value on a recurring basis:
+(in thousands)
+Level 1
+Level 2
+Level 3
+March 31, 2026
+Total assets
+$
+—
+$
+72,860
+$
+—
+Total liabilities
+—
+162,322
+—
+December 31, 2025
+Total assets
+$
+—
+$
+280,471
+$
+—
+Total liabilities
+—
+636
+—
+Both financial and non-financial assets and liabilities are categorized within the above fair value hierarchy based on the lowest level of input that is significant to the fair value measurement. The Company’s assessment of the significance of a particular input to the fair value measurement in its entirety requires judgment and considers factors specific to the asset or liability. The following is a description of the valuation methodologies used by the Company as well as the general classification of such instruments pursuant to the above fair value hierarchy. There were no transfers between any of the fair value levels during any period presented.
+Derivatives
+The Company uses Level 2 inputs to measure the fair value of its oil and natural gas commodity derivatives. The Company uses industry-standard models that consider various assumptions including current market and contractual prices for the underlying instruments, implied market volatility, time value, nonperformance risk, as well as other relevant economic measures. Substantially all of these inputs are observable in the marketplace throughout the full term of the instrument and can be supported by observable data. The Company utilizes its counterparties’ valuations to assess the reasonableness of its own valuations. Refer to
+Note 7—Derivative Instruments
+for details of the gross and net derivative assets, liabilities and offset amounts as presented in the consolidated balance sheets.
+Nonrecurring Fair Value Measurements
+The Company applies the provisions of the fair value measurement standard on a nonrecurring basis to its non-financial assets and liabilities, including proved oil and gas properties. These assets and liabilities are not measured at fair value on an ongoing basis but are subject to fair value adjustments in certain circumstances.
+Oil and Gas Property Acquisitions.
+The fair value measurements of assets acquired and liabilities assumed are measured on the acquisition date using an income valuation technique based on inputs that are not observable in the market and therefore represent Level 3 inputs. Significant inputs to the valuation of acquired oil and gas properties include estimates of: (i) reserves; (ii) production rates; (iii) future operating and development costs; (iv) future commodity prices, including price differentials; (v) future cash flows; (vi) a market participant-based weighted average cost of capital rate; and (vii) risk adjustment factors applied to proved and unproved reserves. These inputs require significant judgements and estimates by the Company’s management at the time of valuation.
+Impairment of Oil and Natural Gas Properties.
+The Company reviews its proved oil and natural gas properties for impairment whenever events and circumstances indicate that the fair value of these assets may be below their carrying value. An impairment loss is indicated if the sum of the expected undiscounted future net cash flows from oil and gas properties is less than the carrying amount of the assets. In this circumstance, the Company then recognizes impairment expense for the amount by which the carrying amount of proved properties exceeds their estimated fair value. The Company reviews its oil and natural gas properties on a field-by-field basis.
+The Company calculates the estimated fair value of its oil and natural gas properties using an income approach that is based on inputs that are not observable in the market and therefore represent Level 3 inputs. Significant inputs to the expected future net cash flows used for the impairment review and the related fair value measurement of oil and natural gas proved properties include
+23
+Table of Contents
+PERMIAN RESOURCES CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+estimates of: (i) oil and gas reserves; (ii) future production decline rates; (iii) future operating and development costs; (iv) future commodity prices, including price differentials; and (v) a market participant-based weighted average cost of capital rate. These inputs require significant judgments and estimates by the Company’s management.
+Asset Retirement Obligations.
+The initial measurement of ARO at fair value is calculated using discounted cash flow techniques and is based on internal estimates of future retirement costs associated with property, plant and equipment. Significant Level 3 inputs used in the calculation of ARO include the estimated future costs to plug and abandon oil and gas properties and reserve lives. Refer to
+Note 5—Asset Retirement Obligations
+for additional information on the Company’s ARO.
+Other Financial Instruments
+The carrying amounts of the Company’s cash, cash equivalents, accounts receivable, accounts payable, and accrued liabilities approximate their fair values because of the short-term maturities and/or liquid nature of these assets and liabilities.
+The Company’s senior notes and borrowings under the Credit Agreement are accounted for at cost.
+The following table summarizes the carrying values, principal amounts and fair values of these instruments as of the periods indicated:
+March 31, 2026
+December 31, 2025
+Carrying Value
+Principal Amount
+Fair Value
+Carrying Value
+Principal Amount
+Fair Value
+Credit Facility
+(1)
+$
+—
+$
+—
+$
+—
+$
+—
+$
+—
+$
+—
+8.00
+% Senior Notes due 2027
+(2)(3)
+555,289
+550,000
+550,592
+556,453
+550,000
+557,270
+5.875
+% Senior Notes due 2029
+(2)
+673,571
+700,000
+701,037
+671,782
+700,000
+703,417
+9.875
+% Senior Notes due 2031
+(2)
+343,098
+325,000
+345,276
+343,761
+325,000
+349,642
+7.00
+% Senior Notes due 2032
+(2)
+986,631
+1,000,000
+1,033,917
+986,174
+1,000,000
+1,044,656
+6.25
+% Senior Notes due 2033
+(2)
+987,781
+1,000,000
+1,017,011
+987,428
+1,000,000
+1,028,006
+(1)
+The carrying values of the amounts outstanding under the Credit Agreement approximate fair value because its variable interest rates are tied to current market rates and the applicable credit spreads represent current market rates for the credit risk profile of the Company.
+(2)
+The carrying values include associated unamortized debt issuance costs and any debt discounts or premiums as reflected in the consolidated balance sheets. The fair values are determined using quoted market prices for these debt securities, a Level 1 classification in the fair value hierarchy, and are based on the aggregate principal amount of the senior notes outstanding.
+(3)
+On April 15, 2026, the Company redeemed all of the outstanding
+8.00
+% senior notes due 2027 at a redemption price equal to 100% of the aggregate principal amount outstanding of $
+550.0
+million plus accrued and unpaid interest up to, but excluding, the redemption date.
+Note 9—Shareholders’ Equity and Noncontrolling Interest
+Corporation Reorganization and Stock Conversions
+In connection with the Reorganization, certain shareholders surrendered
+48.9
+million shares of Class C Common Stock to the Company for no value, which shares were subsequently canceled, and thereafter the corresponding underlying common units of OpCo (“Common Units”) were contributed to the new public holding company in exchange for newly issued shares of its Class A Common Stock. No Class A Common Stock or Class C Common Stock was sold as part of these transactions, and the aggregate amount of the Company’s total common stock outstanding remained the same following the Reorganization as existing common stock of the Company was exchanged for corresponding equity of the new public holding company on a one-for-one basis.
+A portion of the Class C Common Stock surrendered in connection with the Reorganization was held by certain executive officers and entities controlled by a member of the Company’s board of directors and constituted a related party transaction in accordance with ASC 850,
+Related Party Transactions
+. No cash was exchanged and no amounts due from or to the related parties were recorded in connection with the transaction.
+During the three months ended March 31, 2026 and 2025, including the exchanges completed in connection with the Reorganization, certain legacy owners of Colgate Energy Partners III, LLC (“Colgate”) and Earthstone Energy, Inc. (“Earthstone”) exchanged an aggregate
+84.4
+million and
+0.5
+million, respectively, of their Common Units, with the cancellation of a corresponding number of shares of Class C Common Stock, for an equivalent number of shares of Class A Common Stock. Deferred tax liabilities of $
+137.0
+million and less than $
+0.1
+million were recorded in equity as a result of the conversions of shares from the noncontrolling interest owners for the three months ended March 31, 2026 and 2025, respectively. No cash proceeds were received by the Company in connection with these transactions.
+24
+Table of Contents
+PERMIAN RESOURCES CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+Noncontrolling Interest
+The noncontrolling interest relates to Common Units that were issued in connection with the merger with Colgate on September 1, 2022 and the merger with Earthstone on November 1, 2023. The noncontrolling interest percentage is affected by various equity transactions such as conversions of Common Units for Class A Common Stock (and corresponding Class C Common Stock cancellations) and transactions involving Class A Common Stock. The Company consolidates the financial position, results of operations and cash flows of OpCo and reflects the portion retained by other holders of Common Units as a noncontrolling interest. Refer to the consolidated statements of shareholders’ equity for a summary of the activity attributable to the noncontrolling interest during the periods presented.
+The exchanges related to the Reorganization reduced the noncontrolling interest ownership of OpCo from
+10
+% as of December 31, 2025 to approximately
+4
+%. Separate from and subsequent to the Reorganization, the remaining legacy owners exchanged all of their outstanding Common Units for Class A Common Stock, reducing the noncontrolling interest to
+zero
+as of March 31, 2026.
+Dividends
+The following table summarizes the Company’s dividend per share of Class A Common Stock and distribution per Common Unit (each of which has an underlying share of Class C Common Stock) declared and paid during each period:
+Dividend/Distribution per Share
+Total Dividends/Distributions Declared and Paid
+Three Months Ended,
+(in thousands)
+March 31, 2026
+$
+0.16
+$
+134,915
+March 31, 2025
+$
+0.15
+$
+121,010
+Note 10—Earnings Per Share
+Basic earnings per share (“EPS”) is calculated by dividing net income attributable to Class A Common Stock by the weighted average shares of Class A Common Stock outstanding during each period. Diluted EPS is calculated by dividing adjusted net income by the weighted average shares of diluted Class A Common Stock outstanding, which includes the effect of potentially dilutive securities. Potentially dilutive securities for the diluted EPS calculation consists of (i) unvested equity-based Restricted Stock and PSUs as well as outstanding stock options, all using the treasury stock method; and (ii) the Company’s Class C Common Stock and shares issuable for the
+3.25
+% senior unsecured convertible notes due 2028 (the “Convertible Senior Notes”) using the “if-converted” method. The Convertible Senior Notes were fully redeemed during the year ended December 31, 2025, and therefore are no longer dilutive securities in the EPS calculation.
+The following table reflects the EPS computations for the periods indicated based on a weighted average number of Class A Common Stock outstanding each period:
+Three Months Ended March 31,
+(in thousands, except per share data)
+2026
+2025
+Net income attributable to Class A Common Stock
+$
+43,620
+$
+329,298
+Add: Interest on Convertible Senior Notes, net of tax
+—
+1,283
+Adjusted net income (attributable to Class A Common Stock)
+$
+43,620
+$
+330,581
+Basic weighted average shares of Class A Common Stock outstanding
+812,208
+704,035
+Add: Dilutive effects of Convertible Senior Notes
+—
+29,753
+Add: Dilutive effects of equity awards
+15,754
+14,409
+Diluted weighted average shares of Class A Common Stock outstanding
+827,962
+748,197
+Basic net earnings per share of Class A Common Stock
+$
+0.05
+$
+0.47
+Diluted net earnings per share of Class A Common Stock
+$
+0.05
+$
+0.44
+25
+Table of Contents
+PERMIAN RESOURCES CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+The following table presents shares excluded from the diluted earnings per share calculation for the periods presented as their impact was anti-dilutive:
+Three Months Ended March 31,
+(in thousands)
+2026
+2025
+Weighted average shares of Class C Common Stock outstanding
+24,343
+99,594
+Performance stock units
+—
+568
+Restricted Stock
+106
+77
+Out-of-the-money stock options
+181
+308
+Note 11—Commitments and Contingencies
+Commitments
+The Company routinely enters into, extends or amends operating agreements in the ordinary course of business. There has been no material, non-routine changes in commitments during the three months ended March 31, 2026.
+Contingencies
+The Company may at times be subject to various commercial or regulatory claims, prior period adjustments from service providers, litigation or other legal proceedings that arise in the ordinary course of business. While the outcome of these lawsuits and claims cannot be predicted with certainty, management believes it is remote that the impact of such matters that are reasonably possible to occur will have a material adverse effect on the Company’s financial position, results of operations, or cash flows. Management is unaware of any pending litigation brought against the Company requiring a contingent liability to be recognized as of the date of these consolidated financial statements.
+Note 12—Revenues
+Revenue from Contracts with Customers
+Crude oil, NGL and natural gas sales are recognized at the point that control of the product is transferred to the customer and collectability is reasonably assured. Substantially all of the Company’s contract pricing provisions are tied to a market index, with certain adjustments based on, among other factors, transportation costs to an active market and quality differentials. As a result, the Company’s realized prices of oil, NGLs and natural gas fluctuate to remain competitive with other available oil, NGLs and natural gas supplies both globally and locally.
+Oil and gas revenues presented within the consolidated statements of operations relate to the sale of oil, NGLs and natural gas and purchased gas sales as shown below:
+Three Months Ended March 31,
+2026
+2025
+Operating revenues (in thousands):
+Oil sales
+$
+1,227,594
+$
+1,109,771
+NGL sales
+154,393
+185,022
+Natural gas sales
+(
+18,504
+)
+81,658
+Purchased gas sales, net
+24,663
+—
+Oil and gas sales
+$
+1,388,146
+$
+1,376,451
+Oil sales
+The Company’s crude oil sales contracts are generally structured whereby oil is delivered to the purchaser at a contractually agreed-upon delivery point at which the purchaser takes title of the product. This delivery point is usually at the wellhead or at the inlet of a transportation pipeline. Revenue is recognized when control transfers to the purchaser at the delivery point based on the net price received from the purchaser. Any downstream transportation costs incurred by crude purchasers are reflected as a net reduction to oil sales revenues.
+NGL and Natural gas sales
+Under the Company’s natural gas processing contracts, liquids rich natural gas is delivered to a midstream gathering and processing entity at the agreed upon delivery point at which the purchaser takes title of the product. The midstream processing entity gathers and processes the raw gas and then remits proceeds to the Company. For these contracts, the Company evaluates when control is transferred and revenue should be recognized. Where the Company elects to take its NGL or residue gas product
+26
+Table of Contents
+PERMIAN RESOURCES CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+“in-kind” at the plant tailgate, fees incurred prior to transfer of control at the outlet of the plant are presented as
+Gathering, processing and transportation expenses
+within the consolidated statements of operations. Where the Company does not take its NGL or residue gas products “in-kind”, transfer of control occurs at the inlet of the gas gathering systems, or prior, and fees incurred subsequent to this point are reflected as a net reduction to NGL and natural gas sales revenues presented in the table above.
+Purchased gas sales
+The Company has entered into a series of natural gas purchase and sale agreements to facilitate the sale of natural gas at additional markets. The proceeds and costs of these transactions are presented net as they are transacted with the same counterparty (or same related parties) as shown in the line item Purchased gas sales, net in the table above.
+Performance obligations
+For all commodity products, the Company records revenue in the month production is delivered to the purchaser. Settlement statements for crude oil are generally received within 30 days following the date that production volumes are delivered, but for NGL and natural gas sales, statements may not be re
+ceived for
+30
+to
+60
+days after delivery has occurred. However, payment is unconditional once the performance obligations have been satisfied. At such time, the volumes delivered and sal
+es prices can be reasonably estimated and amounts due from customers are accrued in
+Accounts receivable, net
+in the consolidated balance sheets. As of March 31, 2026 and December 31, 2025, such receivable balances were $
+602.8
+million and $
+435.0
+million, respectively.
+The Company records any differences between its estimates and the actual amounts received for product sales in the month that payment is received from the purchaser. Historically, any identified differences between revenue estimates and actual revenue received have not been significant. For the three months ended March 31, 2026 and 2025, revenue recognized in the reporting period related to performance obligations satisfied in prior reporting periods were not material.
+Transaction price allocated to remaining performance obligations
+For the Company’s product sales that have a contract term greater than one year, the Company has utilized the practical expedien
+t in ASC Topic 606,
+Revenue from contracts with Customers,
+which states the Company is not required to disclose the transaction price allocated to the remaining performance obligations if the variable consideration is allocated entirely to a wholly unsatisfied performance obligation. Under t
+hese sales contracts, monthly sales of a product generally represent a separate performance obligation. Therefore, future commodity volumes to be delivered and sold are wholly unsatisfied, and disclosure of the transaction price allocated to such unsatisfied performance obligations is not required.
+Note 13—Subsequent Events
+Senior Note Redemption
+On April 15, 2026, the Company redeemed all of its outstanding
+8.00
+% senior notes due 2027 at a redemption price equal to
+100
+% of the aggregate principal amount outstanding of $
+550.0
+million plus accrued and unpaid interest up to, but excluding, the redemption date.
+New Credit Agreement
+On April 30, 2026, OpCo entered into the New Credit Agreement that provides for a $
+3.0
+billion senior unsecured credit facility. The New Credit Agreement replaces the Company’s existing Credit Agreement, which was terminated without penalty in connection with the consummation of the New Credit Agreement.
+The New Credit Agreement has a scheduled maturity date of April 30, 2031, and includes an option to extend the term for successive one-year periods, subject to, among certain other terms and conditions, the consent of the lenders holding greater than
+50
+% of the commitments then outstanding under the New Credit Agreement. The New Credit Agreement commits the lenders thereunder to provide advances up to an aggregate principal amount of $
+3.0
+billion outstanding at any given time, with an option to request increases in the aggregate commitments to an amount not to exceed $
+4.0
+billion, subject to certain terms and conditions. The New Credit Agreement also includes a swingline subfacility and a letter of credit subfacility.
+Advances under the New Credit Agreement will accrue interest based on either SOFR plus an applicable margin, or the Alternate Base Rate plus an applicable margin at the Company’s election, with such terms being defined in the New Credit Agreement. The applicable margin used in connection with interest rates, as well as commitment fees for undrawn commitments, will be based on the Company’s credit rating for its long-term senior unsecured indebtedness for borrowed money (not supported by third-party credit enhancement) at the applicable time. As of April 30, 2026, the applicable margin for SOFR and Alternate Base Rate Loans is
+150
+basis points and
+50
+basis points, respectively, and the commitment fee is
+20
+basis points.
+27
+Table of Contents
+PERMIAN RESOURCES CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+The New Credit Agreement contains representations, warranties, covenants and events of default that the Company believes are customary for investment grade, senior unsecured commercial bank credit agreements, including a financial covenant for the maintenance of a ratio of Total Indebtedness to Capitalization Ratio (as defined in the New Credit Agreement) of no greater than
+65
+%.
+28
+Table of Contents
+Item 2.  Management’s Discussion and Analysis of Financial Condition and Results of Operations
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with the accompanying consolidated financial statements and related notes. The following discussion and analysis contain forward-looking statements that reflect our future plans, estimates, beliefs and expected performance. The forward-looking statements are dependent upon events, risks and uncertainties that may be outside our control. Our actual results could differ materially from those discussed in these forward-looking statements. Factors that could cause or contribute to such differences include, but are not limited to, future market prices for oil, NGLs and natural gas, future production volumes, estimates of proved reserves, capital expenditures, economic and competitive conditions, international conflict, inflation, tariffs, regulatory changes, and other uncertainties, as well as those factors discussed in “Cautionary Statement Concerning Forward-Looking Statements” and under the heading “Item 1A. Risk Factors” in this Quarterly Report and the 2025 Annual Report; all of which are difficult to predict. In light of these risks, uncertainties and assumptions, the forward-looking events discussed may or may not occur. We do not undertake any obligation to publicly update any forward-looking statements except as otherwise required by applicable law.
+Overview
+Permian Resources Corporation is an independent oil and natural gas company focused on driving returns to our stockholders through the acquisition, optimization and development of high-return oil and natural gas properties. Our assets and operations are located in the Permian Basin, with a concentration in the core of the Delaware Basin. Our principal business objective is to increase shareholder value by efficiently developing our oil and natural gas assets, with an overall objective of improving our rates of return and generating sustainable free cash flow. Unless otherwise specified or the context otherwise requires, all references in these discussions to “Permian Resources,” “we,” “us,” or “our” are to Permian Resources Corporation and its consolidated subsidiaries, including Permian Resources Operating, LLC (“OpCo”).
+Market Conditions
+Our revenue, profitability and ability to return cash to stockholders can depend substantially on factors beyond our control, such as economic, political and regulatory developments. Prices for crude oil, NGLs and natural gas have experienced significant fluctuations in recent years and may continue to fluctuate widely in the future.
+Oil prices declined through the end of 2025 and into early 2026, reflecting concerns regarding global economic growth, elevated interest rates, persistent inflation, increased global oil supply, and evolving tariffs and international trade policies. While global demand remained relatively strong and geopolitical risks persisted, higher‑than‑anticipated production increases from OPEC and the potential impact on global inventory levels contributed to additional downward pressure on prices during this period. More recently, oil prices have increased, with NYMEX WTI spot prices reaching a high of $102.88 per barrel on March 30, 2026, driven primarily by supply disruptions associated with heightened geopolitical tensions in the Middle East, including disruptions to key shipping routes in the Strait of Hormuz, which have adversely affected global supply conditions.
+Throughout 2025 and 2026, natural gas prices in the Permian Basin have been adversely impacted by low demand as a result of pipeline capacity constraints out of the basin, pipeline maintenance, and higher production levels. These factors have led to lower or, during certain periods, negative regional gas prices being realized for natural gas sales at the Waha Hub in West Texas.
+The oil and natural gas industry is cyclical, and it is likely that commodity prices, as well as commodity price differentials, will continue to be volatile due to fluctuations in global supply and demand, inventory levels, geopolitical events, federal and state government regulations, weather conditions, growth in alternative energy sources, supply chain constraints and other factors. The following table highlights the quarterly average price trends for NYMEX WTI spot prices for crude oil and NYMEX Henry Hub index price for natural gas since the first quarter of 2024:
+2024
+2025
+2026
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+Q1
+Crude oil (per Bbl)
+$
+76.96
+$
+80.55
+$
+75.16
+$
+70.28
+$
+71.42
+$
+63.71
+$
+64.95
+$
+59.13
+$
+71.93
+Natural gas (per MMBtu)
+$
+2.41
+$
+2.04
+$
+2.08
+$
+2.42
+$
+4.27
+$
+3.16
+$
+3.07
+$
+3.69
+$
+4.84
+Lower commodity prices and lower futures curves for oil and gas prices can result in impairments of our proved oil and natural gas properties or undeveloped acreage and may materially and adversely affect our operating cash flows, liquidity, financial condition, results of operations, future business and operations, and/or our ability to finance planned capital expenditures.
+29
+Table of Contents
+Due to the cyclical nature of the oil and gas industry, fluctuating demand for oilfield goods and services can put pressure on the pricing structure within our industry. The cost of oilfield goods and services are closely linked to commodity price trends, rising when prices increase and decreasing when prices fall. In addition, the U.S. saw higher levels of inflation during 2025 and 2026 due to concerns over international conflicts, tariffs and trade policies. Inflationary pressures such as these may also result in increases to the costs of our oilfield goods, services and personnel, which can in turn cause our capital expenditures and operating costs to rise.
+2026 Highlights
+Corporation Reorganization
+On January 7, 2026, we completed a corporate reorganization pursuant to which we, among other things, reorganized under a new public holding company (the “Reorganization”). In connection with the Reorganization, the public holding company prior to the Reorganization became a wholly owned subsidiary of the new public holding company, which, following completion of the Reorganization, changed its name to “Permian Resources Corporation,” became the successor issuer of the prior public holding company and replaced the prior public holding company, with its shares of Class A Common Stock continuing to trade on the NYSE on an uninterrupted basis.
+In connection with the Reorganization, certain holders of our Class C Common Stock exchanged all of their Common Units for Class A Common Stock on a one-for-one basis (and their corresponding shares of Class C Common Stock were cancelled for no consideration).
+Separate from and subsequent to the Reorganization, the remaining Class C Common stockholders exchanged all of their outstanding Common Units for Class A Common Stock, which fully eliminated our noncontrolling interest as of March 31, 2026.
+2026 Bolt-On Acquisitions
+During the three months ended March 31, 2026, we completed multiple acquisitions of oil and natural gas properties for a cumulative adjusted purchase price of approximately $204.9 million. These acquisitions are part of our ongoing bolt-on and grassroots acquisition programs.
+Return of Capital Program
+During the three months ended March 31, 2026, we declared and paid quarterly base dividends of $0.16 per share of Class A Common Stock. The cash dividends paid totaled $134.9 million for the three months ended March 31, 2026.
+Financing
+During the first quarter of 2026, we achieved investment grade corporate and issuer credit ratings from Standard & Poor’s Financial Services LLC (“S&P”). Subsequently, on April 1, 2026, we achieved investment grade corporate and issuer credit ratings from Moody’s Ratings (“Moody’s”). Previously, in July 2025, we achieved investment grade corporate and issuer credit ratings from Fitch Ratings Inc. (“Fitch”).  As a result, we are now rated investment grade by all three rating agencies, which we believe reflects the strength of our balance sheet, our disciplined acquisition and capital financing, and our growing scale. We anticipate this achievement will result in reduced interest expense, improved access to capital markets, and enhanced liquidity, among other benefits.
+On April 15, 2026, we redeemed all of our outstanding 8.00% senior notes due 2027 at a redemption price equal to 100% of the aggregate principal amount outstanding of $550.0 million plus accrued and unpaid interest up to, but excluding, the redemption date.
+On April 30, 2026, OpCo entered into a credit agreement with a syndicate of banks that provides for an unsecured revolving credit facility, maturing in April 2031 (the “New Credit Agreement”). In connection with our entry into the New Credit Agreement, we terminated our existing secured revolving credit facility (the “Credit Agreement”). Refer to
+Liquidity and Capital Resources
+for additional information regarding the New Credit Agreement.
+30
+Table of Contents
+Results of Operations
+Three Months Ended March 31, 2026 Compared to Three Months Ended March 31, 2025
+The following table provides the components of our net revenues and net production (net of all royalties, overriding royalties and production due to others) for the periods indicated, as well as each period’s average prices and average daily production volumes:
+Three Months Ended March 31,
+Increase/(Decrease)
+2026
+2025
+$
+%
+Net revenues (in thousands):
+Oil sales
+$
+1,227,594
+$
+1,109,771
+$
+117,823
+11
+%
+NGL sales
+154,393
+185,022
+(30,629)
+(17)
+%
+Natural gas sales
+(18,504)
+81,658
+(100,162)
+(123)
+%
+Purchased gas sales, net
+24,663
+—
+24,663
+100
+%
+Oil and gas sales
+$
+1,388,146
+$
+1,376,451
+$
+11,695
+1
+%
+Net production:
+Oil (MBbls)
+17,311
+15,747
+1,564
+10
+%
+NGL (MBbls)
+9,300
+7,741
+1,559
+20
+%
+Natural gas (MMcf)
+63,268
+60,605
+2,663
+4
+%
+Total (MBoe)
+(1)
+37,156
+33,589
+3,567
+11
+%
+Average daily net production:
+Oil (Bbls/d)
+192,349
+174,967
+17,382
+10
+%
+NGL (Bbls/d)
+103,338
+86,010
+17,328
+20
+%
+Natural gas (Mcf/d)
+702,979
+673,388
+29,591
+4
+%
+Total (Boe/d)
+(1)
+412,850
+373,209
+39,641
+11
+%
+Average sales prices:
+Oil (per Bbl)
+$
+70.91
+$
+70.48
+$
+0.43
+1
+%
+Effect of derivative settlements on average price (per Bbl)
+(2.81)
+0.97
+(3.78)
+(390)
+%
+Oil including the effects of hedging (per Bbl)
+$
+68.10
+$
+71.45
+$
+(3.35)
+(5)
+%
+NGL (per Bbl)
+$
+16.60
+$
+23.90
+$
+(7.30)
+(31)
+%
+Natural gas (per Mcf)
+$
+(0.29)
+$
+1.35
+$
+(1.64)
+(121)
+%
+Effect of derivative settlements on average price (per Mcf)
+1.23
+0.10
+1.13
+1,130
+%
+Effect of purchased gas sales on average price (per Mcf)
+0.39
+—
+0.39
+100
+%
+Natural gas including the effects of hedging (per Mcf)
+$
+1.33
+$
+1.45
+$
+(0.12)
+(8)
+%
+(1)
+Calculated by converting natural gas to oil equivalent barrels at a ratio of six Mcf of natural gas to one Boe.
+31
+Table of Contents
+Oil and Gas Sales
+. Total net revenues for the three months ended March 31, 2026 were $11.7 million (or 1%) higher than total net revenues for the three months ended March 31, 2025. Revenues are primarily a function of oil, NGL and natural gas volumes sold and average commodity prices realized.
+Net production volumes for oil, NGLs and natural gas increased 10%, 20% and 4%, respectively, between periods. The increase in oil production resulted from additional production added from wells placed online or acquired since the first quarter of 2025. These oil volume increases were partially offset by normal production declines across our existing wells. NGLs and natural gas are produced concurrently with our crude oil volumes, which typically result in a high correlation between fluctuations in oil quantities sold and NGL and natural gas quantities sold driving the respective 20% and 4% increases in NGL and natural gas volumes between periods. NGL volumes were further impacted by processors operating in higher ethane-recovery during the first quarter of 2026 as compared to the same 2025 period, resulting in a higher percentage of NGLs being recovered from our wet gas stream between periods.
+These increases were partially offset by lower realized sales prices for NGLs and natural gas which decreased 31% and 121%, respectively, in the first quarter of 2026 compared to the same 2025 period. The 31% decrease in the average realized NGL price between periods was primarily attributable to lower Mont Belvieu spot prices for plant products in the first quarter of 2026 compared to the same 2025 period. Our average realized natural gas price decreased 121% between periods to negative $0.29 during the first quarter of 2026 due to negative regional market prices as discussed under the “Market Conditions” section above. The negative gas price realized during the three months ended March 31, 2026, was partially offset by net proceeds of $24.7 million from our purchased gas sales that facilitate additional gas sales at markets that had more favorable pricing during the period.
+Operating Expenses.
+The following table sets forth selected operating expense data for the periods indicated:
+Three Months Ended March 31,
+Increase/(Decrease)
+2026
+2025
+Change
+%
+Operating costs (in thousands):
+Lease operating expenses
+$
+192,882
+$
+179,627
+$
+13,255
+7
+%
+Severance and ad valorem taxes
+101,312
+107,993
+(6,681)
+(6)
+%
+Gathering, processing and transportation expenses
+50,639
+46,650
+3,989
+9
+%
+Operating cost metrics:
+Lease operating expenses (per Boe)
+$
+5.19
+$
+5.35
+$
+(0.16)
+(3)
+%
+Severance and ad valorem taxes (% of revenue)
+7.3
+%
+7.8
+%
+(0.5)
+%
+(6)
+%
+Gathering, processing and transportation expenses (per Boe)
+$
+1.36
+$
+1.39
+$
+(0.03)
+(2)
+%
+Lease Operating Expenses.
+Lease operating expenses (“LOE”) per Boe for the first quarter of 2026 decreased 3% to $5.19 from $5.35 during the first quarter of 2025. This decrease in our LOE per Boe rate was primarily driven by increased production volumes with only a limited increase in nominal LOE. While LOE per Boe decreased between periods, total LOE for the three months ended March 31, 2026 increased $13.3 million compared to the three months ended March 31, 2025 as a direct result of our higher well count between periods primarily due to additional wells placed on production or acquired since March 31, 2025.
+Severance and Ad Valorem Taxes.
+Severance and ad valorem taxes for the three months ended March 31, 2026 decreased $6.7 million compared to the three months ended March 31, 2025. Our severance and ad valorem taxes as a percentage of revenues also decreased between periods from 7.8% for the three months ended March 31, 2025 to 7.3% for the three months ended March 31, 2026. Severance taxes are based on the market value of our oil and gas production at the wellhead, while ad valorem taxes are generally based on the assessed taxable value of proved developed oil and gas properties and vary across the different counties in which we operate. The lower rate in the current period was primarily driven by higher total oil and gas sales as well as lower ad valorem tax assessments compared to the prior period.
+32
+Table of Contents
+Gathering, Processing and Transportation Expenses.
+Gathering, processing and transportation costs (“GP&T”) for the three months ended March 31, 2026 increased $4.0 million as compared to the three months ended March 31, 2025. This increase in expense was mainly attributable to higher NGL and natural gas volumes sold between periods, which in turn resulted in a higher amount of plant processing fees and gathering costs being incurred.
+Depreciation, Depletion and Amortization.
+The following table summarizes our depreciation, depletion and amortization (“DD&A”) for the periods indicated:
+Three Months Ended March 31,
+(in thousands, except per Boe data)
+2026
+2025
+Depreciation, depletion and amortization
+$
+526,288
+$
+474,203
+Depreciation, depletion and amortization per Boe
+$
+14.16
+$
+14.12
+For the three months ended March 31, 2026, DD&A expense amounted to $526.3 million, an increase of $52.1 million over the same 2025 period. The primary factor contributing to higher DD&A expense in 2026 was the increase in our overall production volumes between periods, which increased DD&A expense by $50.4 million, while our slightly higher DD&A rate of $14.16 per Boe increased DD&A expense by $1.7 million between periods. Our DD&A rate can fluctuate as a result of finding and development costs incurred, acquisitions, and impairments, as well as changes in proved developed and proved undeveloped reserves.
+General and Administrative Expenses.
+The following table summarizes our general and administrative (“G&A”) expenses for the periods indicated:
+Three Months Ended March 31,
+(in thousands)
+2026
+2025
+Cash general and administrative expenses
+$
+28,609
+$
+26,857
+Stock-based compensation
+15,163
+16,199
+General and administrative expenses
+$
+43,772
+$
+43,056
+Cash general and administrative expenses per Boe
+$
+0.77
+$
+0.80
+G&A expenses for the three months ended March 31, 2026 were $43.8 million compared to $43.1 million for the three months ended March 31, 2025. Higher G&A for the first quarter of 2026 was the result of $1.8 million higher cash G&A between periods mainly related to our increased headcount and overall corporate growth. These increased expenses were partially offset by a $1.0 million decrease in stock-based compensation between periods associated with the timing of grants and vesting of our equity awards.
+While cash G&A expense increased between periods, on a per Boe basis our cash G&A rate decreased 4% from $0.80 per Boe during the three months ended March 31, 2025 to $0.77 per Boe during the three months ended March 31, 2026. This per Boe rate decrease was the result of focus on controlling costs and growing production.
+Other Income and Expenses.
+Interest Expense.
+The following table summarizes our interest expense for the periods indicated:
+Three Months Ended March 31,
+(in thousands)
+2026
+2025
+Credit facility
+$
+2,318
+$
+2,353
+5.375% Senior Notes due 2026
+—
+3,889
+8.00% Senior Notes due 2027
+11,000
+11,000
+3.25% Convertible Senior Notes due 2028
+—
+1,381
+5.875% Senior Notes due 2029
+10,281
+10,281
+9.875% Senior Notes due 2031
+8,023
+9,128
+7.00% Senior Notes due 2032
+17,500
+17,500
+6.25% Senior Notes due 2033
+15,625
+15,625
+Amortization of debt issuance costs, discount and premium
+1,746
+2,139
+Other interest expense
+527
+543
+Total
+$
+67,020
+$
+73,839
+33
+Table of Contents
+Interest expense decreased $6.8 million for the three months ended March 31, 2026 as compared to the three months ended March 31, 2025 primarily due to less interest incurred on our senior notes that were fully or partially redeemed or repurchased since March 31, 2025. Refer to
+Note 4—Long-Term Debt
+under Part I, Item 1 of this Quarterly Report for additional information regarding our senior notes.
+Net Gain (Loss) on Derivative Instruments.
+Net gains and losses are a function of (i) changes in derivative fair values associated with fluctuations in the forward price curves for the commodities underlying each of our hedge contracts outstanding; and (ii) monthly cash settlements on any closed out hedge positions during the period.
+The following table presents gains and losses on our derivative instruments for the periods indicated:
+Three Months Ended March 31,
+(in thousands)
+2026
+2025
+Realized cash settlement gains (losses)
+$
+29,373
+$
+21,308
+Non-cash mark-to-market derivative gain (loss)
+(369,297)
+36,423
+Total
+$
+(339,924)
+$
+57,731
+Income Tax Expense
+. The following table summarizes our pre-tax income and income tax expense for the periods indicated:
+Three Months Ended March 31,
+(in thousands)
+2026
+2025
+Income before income taxes
+$
+63,880
+$
+490,897
+Income tax expense
+(13,486)
+(100,334)
+For the three months ended March 31, 2026, we generated pre-tax net income of $63.9 million and recorded income tax expense of $13.5 million.
+During the three months ended March 31, 2025, we generated pre-tax net income of $490.9 million and recorded income tax expense of $100.3 million. The primary factor decreasing our income tax expense below the U.S. statutory rate was the portion of pre-tax income attributable to our non-controlling interest partners that is not taxable to the Company.
+34
+Table of Contents
+Liquidity and Capital Resources
+Overview
+Our primary sources of liquidity have been cash flows from operations, borrowings under our credit facility, proceeds from offerings of debt or equity securities, or proceeds from the sale of oil and gas properties. Our future cash flows are subject to a number of variables, including oil and natural gas prices, which have been and will likely continue to be volatile. Lower commodity prices can negatively impact our cash flows and our ability to access debt or equity markets, and sustained low oil and natural gas prices could have a material and adverse effect on our liquidity position. To date, our primary uses of capital have been for drilling and development capital expenditures and the acquisition of oil and natural gas properties.
+During 2026, we achieved investment grade credit ratings from S&P and Moody’s. We previously achieved investment grade credit ratings from Fitch in 2025. We believe this achievement enhances our financial flexibility by broadening our access to investment grade debt markets, reducing our cost of borrowing, and expanding potential investors eligible to hold our indebtedness.
+We continually evaluate our capital needs and compare them to our capital resources. D
+uring the three months ended March 31, 2026 our total capital expenditures incurred for drilling and development activity were $466.2 million. We funded our capital expenditures for the three months ended March 31, 2026 entirely from cash flows from operations, and we expect to fund the remainder of our 2026 capital expenditures budget entirely from cash flows from operations given our anticipated level of oil and gas production, current commodity prices and our commodity hedge positions in place.
+We are the operator of a high percentage of our acreage and can control the amount and timing of our capital expenditures. Accordingly, we can choose to defer or accelerate a portion of our planned capital expenditures depending on a variety of factors, including but not limited to: (i) prevailing and anticipated prices for oil and natural gas; (ii) oil and gas storage or transportation constraints; (iii) the success of our drilling activities; (iv) the availability of necessary equipment, infrastructure and capital; (v) the receipt and timing of required regulatory permits and approvals; (vi) seasonal conditions; (vii) property or land acquisition costs; and (viii) the level of participation by other working interest owners.
+We plan to return capital to shareholders primarily through our base dividend, in addition to opportunistic share repurchases. During the three months ended March 31, 2026, we declared and paid quarterly dividends totaling $0.16 per share of Class A Common Stock. The cash dividends paid totaled $134.9 million for the three months ended March 31, 2026.
+Our stock repurchase program can be used to reduce our shares of common stock outstanding. Such repurchases would be made at terms and prices determined by us based upon prevailing market conditions, applicable legal requirements, available liquidity, compliance with our debt agreements and other factors.
+In addition, we may, from time to time, seek to retire or purchase our outstanding senior notes through cash purchases and/or exchanges for debt in open-market purchases, privately negotiated transactions or otherwise.
+Although we cannot provide any assurance that cash flows from operations or other sources of needed capital will be available to us at acceptable terms, or at all, and noting that
+our ability to access the public or private debt or equity capital markets at economic terms in the future will be affected by general economic conditions, the domestic and global oil and financial markets, our operational and financial performance, the value and performance of our debt or equity securities, prevailing commodity prices and other macroeconomic factors outside of our control, we believe that
+based on our current expectations and projections, we will have sufficient capital available to fund our capital expenditure requirements through the 12-month period following the filing of this Quarterly Report and the long-term. Additionally, our recently achieved investment grade credit ratings from each of S&P, Moody’s and Fitch are expected to further support our access to the debt capital markets at favorable terms.
+Analysis of Cash Flow Changes
+The following table summarizes our cash flows for the periods indicated:
+Three Months Ended March 31,
+(in thousands)
+2026
+2025
+Net cash provided by operating activities
+$
+815,076
+$
+898,032
+Net cash used in investing activities
+(664,005)
+(361,816)
+Net cash used in financing activities
+(133,981)
+(313,323)
+For the three months ended March 31, 2026, we generated $815.1 million of cash from operating activities, a decrease of $83.0 million from the same period in 2025. Cash provided by operating activities decreased primarily due to lower realized prices for NGLs and natural gas, higher lease operating expenses and GP&T as well as the timing of collections on our receivables and payments to our suppliers during the three months ended March 31, 2026 as compared to the same 2025 period.
+35
+Table of Contents
+These decreasing factors were partially offset by higher production volumes, more realized derivative gains and lower severance and ad valorem taxes and cash interest expense during the three months ended March 31, 2026 as compared to the same 2025 period. Refer to “Results of Operations” for more information on the impact of volumes and prices on revenues and on fluctuations in our operating costs between periods.
+During the three months ended March 31, 2026, cash flows from operating activities and cash on hand were used to (i) fund $466.2 million of drilling and development cash capital expenditures; (ii) fund acquisitions of oil and gas properties of $204.9 million; and (iii) pay $134.9 million in dividends to our shareholders.
+During the three months ended March 31, 2025, cash flows from operating activities and proceeds of $176.0 million primarily from the sale of oil and natural gas gathering systems that were acquired during a prior year acquisition were used to (i) fund $500.7 million of drilling and development cash capital expenditures; (ii) redeem $175.0 million of our senior notes; (iii) pay $121.0 million in dividends and cash distributions to our shareholders and holders of our Common Units; and (iv) fund acquisitions of oil and gas properties of $35.4 million.
+Credit Agreement
+OpCo had a secured revolving Credit Agreement with a syndicate of banks maturing in February 2028. As of March 31, 2026, we had no borrowings outstanding and $2.5 billion in available borrowing capacity. In connection with our entry into the New Credit Agreement, we terminated the Credit Agreement. For further information on our Credit Agreement, refer to
+Note 4—Long-Term Debt
+under Part I, Item 1 of this Quarterly Report.
+On April 30, 2026, OpCo entered into the New Credit Agreement that provides for a $3.0 billion senior unsecured credit facility. The New Credit Agreement replaces the existing Credit Agreement, which was terminated without penalty in connection with the consummation of the New Credit Agreement.
+The New Credit Agreement has a scheduled maturity date of April 30, 2031, and includes an option to extend the term for successive one-year periods, subject to, among certain other terms and conditions, the consent of the lenders holding greater than 50% of the commitments then outstanding under the New Credit Agreement. The New Credit Agreement commits the lenders thereunder to provide advances up to an aggregate principal amount of $3.0 billion outstanding at any given time, with an option to request increases in the aggregate commitments to an amount not to exceed $4.0 billion, subject to certain terms and conditions. The New Credit Agreement also includes a swingline subfacility and a letter of credit subfacility.
+Advances under the New Credit Agreement will accrue interest based on either SOFR plus an applicable margin, or the Alternate Base Rate plus an applicable margin at our election. The applicable margin used in connection with interest rates, as well as commitment fees for undrawn commitments, will be based on our credit rating for our long-term senior unsecured indebtedness for borrowed money (not supported by third-party credit enhancement) at the applicable time. As of April 30, 2026, the applicable margin for SOFR and Alternate Base Rate Loans is 150 basis points and 50 basis points, respectively, and the commitment fee is 20 basis points.
+The New Credit Agreement contains representations, warranties, covenants and events of default that we believe are customary for investment grade, senior unsecured commercial bank credit agreements, including a financial covenant for the maintenance of a ratio of Total Indebtedness to Capitalization Ratio (as defined in the New Credit Agreement) of no greater than 65%.
+Senior Notes
+OpCo had $3.5 billion in debt outstanding as of March 31, 2026, consisting of senior unsecured notes with maturity dates ranging from 2027 to 2033. For further information on our debt instruments, refer to
+Note 4—Long-Term Debt
+under Part I, Item 1 of this Quarterly Report.
+Contractual Obligations
+Our contractual obligations include operating and transportation agreements, drilling rig contracts, office and equipment leases, asset retirement obligations, long-term debt obligations and cash interest expense on long-term debt obligations, which we routinely enter into, modify or extend. Since December 31, 2025, there have not been any significant, non-routine changes in our contractual obligations.
+Critical Accounting Policies and Estimates
+There have been no material changes to the critical accounting policies as disclosed in Part II, Item 7.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations—Critical Accounting Policies and Estimates
+in our 2025 Annual Report.
+New Accounting Pronouncements
+Refer to
+Note 1—Basis of Presentation and Summary of Significant Accounting Policies
+under Part I, Item 1 of this Quarterly Report for a discussion of the potential effects of new accounting pronouncements.
+36
+Table of Contents
+Item 3.    Quantitative and Qualitative Disclosures About Market Risk
+The term “market risk” as it applies to our business refers to the risk of loss arising from adverse changes in oil and natural gas prices and interest rates, and we are exposed to market risk as described below. The primary objective of the following information is to provide quantitative and qualitative information about our potential exposure to market risks. The disclosures are not meant to be precise indicators of expected future losses, but rather indicators of reasonably possible losses. All of our market risk sensitive instruments were entered into for purposes other than speculative trading.
+Commodity Price Risk
+Our primary market risk exposure is in the pricing that we receive for our oil, NGL and natural gas production. Pricing for oil, NGLs and natural gas has been volatile and unpredictable, and we expect this volatility to continue in the future. Based on our production for the first three months of 2026, our oil and gas sales for the three months ended March 31, 2026, would have moved up or down $122.8 million for each 10% change in oil prices per Bbl, $15.4 million for each 10% change in NGL prices per Bbl, and $1.9 million for each 10% change in natural gas prices per Mcf.
+Due to this volatility, we have historically used, and we may elect to continue to selectively use, commodity derivative instruments (such as collars, swaps, puts and basis swaps) to mitigate price risk associated with a portion of our anticipated production. Our derivative instruments allow us to reduce, but not eliminate, the potential effects of the variability in cash flows that can emanate from fluctuations in oil and natural gas prices and thereby provide increased certainty of cash flows for our development program and debt service requirements. These instruments provide price protection against declines in oil and natural gas prices, but alternatively they limit our potential gains from future increases in prices. Our Credit Agreement previously limited our ability to enter into commodity hedges covering greater than 85% of our reasonably anticipated projected production from proved properties; however, the New Credit Agreement does not contain such limitation.
+The table below summarizes the terms of the derivative contracts we had in place as of March 31, 2026 and additional contracts entered into through April 30, 2026. Refer to
+Note 7—Derivative Instruments
+in Part I, Item 1 of this Quarterly Report for open derivative positions as of March 31, 2026.
+Period
+Volume (Bbls)
+Volume
+(Bbls/d)
+Wtd. Avg. Crude Price
+($/Bbl)
+Crude oil swaps - NYMEX WTI
+April 2026 - June 2026
+7,280,000
+80,000
+$67.43
+July 2026 - September 2026
+6,440,000
+70,000
+68.68
+October 2026 - December 2026
+6,440,000
+70,000
+67.10
+January 2027 - March 2027
+900,000
+10,000
+74.25
+April 2027 - June 2027
+910,000
+10,000
+72.94
+July 2027 - September 2027
+920,000
+10,000
+72.06
+October 2027 - December 2027
+920,000
+10,000
+71.29
+Period
+Volume (Bbls)
+Volume
+(Bbls/d)
+Wtd. Avg. Differential
+($/Bbl)
+Crude oil basis differential swaps - Mid-Cush
+(1)
+April 2026 - June 2026
+6,980,000
+76,703
+$0.94
+July 2026 - September 2026
+6,440,000
+70,000
+1.03
+October 2026 - December 2026
+6,440,000
+70,000
+1.03
+January 2027 - March 2027
+900,000
+10,000
+1.10
+April 2027 - June 2027
+910,000
+10,000
+1.10
+July 2027 - September 2027
+920,000
+10,000
+1.10
+October 2027 - December 2027
+920,000
+10,000
+1.10
+Period
+Volume (Bbls)
+Volume
+(Bbls/d)
+Wtd. Avg. Differential
+($/Bbl)
+Crude oil roll differential swaps - NYMEX WTI
+April 2026 - June 2026
+6,980,000
+76,703
+$0.71
+July 2026 - September 2026
+6,578,000
+71,500
+1.24
+October 2026 - December 2026
+6,578,000
+71,500
+1.13
+(1)
+These crude oil basis swap transactions are settled utilizing the ARGUS MIDLAND WTI and ARGUS WTI CUSHING indices.
+37
+Table of Contents
+Period
+Volume (MMBtu)
+Volume (MMBtu/d)
+Wtd. Avg. Gas Price
+($/MMBtu)
+Natural gas swaps - NYMEX Henry Hub
+April 2026 - June 2026
+12,467,000
+137,000
+$3.57
+July 2026 - September 2026
+12,604,000
+137,000
+3.83
+October 2026 - December 2026
+12,604,000
+137,000
+4.16
+January 2027 - March 2027
+12,600,000
+140,000
+4.24
+April 2027 - June 2027
+12,740,000
+140,000
+3.32
+July 2027 - September 2027
+12,880,000
+140,000
+3.58
+October 2027 - December 2027
+12,880,000
+140,000
+3.94
+Period
+Volume (MMBtu)
+Volume (MMBtu/d)
+Wtd. Avg. Gas Price
+($/MMBtu)
+Natural gas swaps - Waha
+April 2026 - June 2026
+8,645,000
+95,000
+$0.43
+July 2026 - September 2026
+8,740,000
+95,000
+1.80
+October 2026 - December 2026
+15,145,000
+164,620
+2.73
+January 2027 - March 2027
+7,650,000
+85,000
+3.57
+Period
+Volume (MMBtu)
+Volume (MMBtu/d)
+Wtd. Avg. Gas Price
+($/MMBtu)
+Natural gas swaps - HSC
+April 2026 - June 2026
+9,100,000
+100,000
+$3.63
+July 2026 - September 2026
+9,200,000
+100,000
+3.95
+October 2026 - December 2026
+9,200,000
+100,000
+4.24
+Period
+Volume (MMBtu)
+Volume (MMBtu/d)
+Wtd. Avg. Differential
+($/MMBtu)
+Natural gas basis differential swaps - Waha
+(1)
+April 2026 - June 2026
+12,467,000
+137,000
+$(2.31)
+July 2026 - September 2026
+12,604,000
+137,000
+(1.42)
+October 2026 - December 2026
+12,604,000
+137,000
+(1.21)
+January 2027 - March 2027
+14,490,000
+161,000
+(0.47)
+April 2027 - June 2027
+14,651,000
+161,000
+(1.11)
+July 2027 - September 2027
+14,812,000
+161,000
+(0.65)
+October 2027 - December 2027
+14,812,000
+161,000
+(0.91)
+Period
+Volume (MMBtu)
+Volume (MMBtu/d)
+Wtd. Avg. Differential
+($/MMBtu)
+Natural gas basis differential swaps - HSC
+(2)
+January 2027 - March 2027
+6,300,000
+70,000
+$(0.48)
+April 2027 - June 2027
+6,370,000
+70,000
+(0.48)
+July 2027 - September 2027
+6,440,000
+70,000
+(0.48)
+October 2027 - December 2027
+6,440,000
+70,000
+(0.48)
+January 2028 - March 2028
+9,100,000
+100,000
+(0.36)
+April 2028 - June 2028
+9,100,000
+100,000
+(0.36)
+July 2028 - September 2028
+9,200,000
+100,000
+(0.36)
+October 2028 - December 2028
+9,200,000
+100,000
+(0.36)
+(1)
+These natural gas basis swap contracts are settled utilizing the Inside FERC’s West Texas Waha price and the NYMEX Henry Hub price of natural gas.
+(2)
+These natural gas basis swap contracts are settled utilizing the HSC price and the NYMEX Henry Hub price of natural gas.
+38
+Table of Contents
+Changes in the fair value of derivative contracts from December 31, 2025 to March 31, 2026, are presented below:
+(in thousands)
+Commodity Derivative Asset (Liability)
+Net fair value of oil and gas derivative contracts outstanding as of December 31, 2025
+$
+279,835
+Commodity hedge contract settlement payments, net of any receipts
+(29,373)
+Cash and non-cash mark-to-market gains (losses) on commodity hedge contracts
+(1)
+(339,924)
+Net fair value of oil and gas derivative contracts outstanding as of March 31, 2026
+$
+(89,462)
+(1)
+At inception, new derivative contracts entered into by us have no intrinsic value.
+A hypothetical upward or downward shift of 10% per Bbl in the NYMEX forward curve for crude oil as of March 31, 2026 would cause a $188.5 million increase or decrease in this fair value position, and a hypothetical upward or downward shift of 10% per MMBtu in the NYMEX forward curve for natural gas as of March 31, 2026 would cause a $19.1 million increase or decrease in this same fair value position.
+Interest Rate Risk
+Our ability to borrow and the rates offered by lenders can be adversely affected by deteriorations in the credit markets and/or downgrades in our credit rating. The New Credit Agreement interest rate is, and the Credit Agreement interest rate was, based on a SOFR spread, which exposes us to interest rate risk to the extent we have borrowings outstanding under the credit facilities. As of March 31, 2026, we had no borrowings outstanding under the Credit Agreement. We do not currently have or intend to enter into any derivative hedge contracts to protect against fluctuations in interest rates applicable to our outstanding indebtedness.
+The total debt balance of $3.5 billion consists of our senior notes, which have fixed interest rates; therefore, this balance is not affected by interest rate movements. For additional information regarding our debt instruments, see
+Note 4—Long-Term Debt
+, in Part I, Item 1 of this Quarterly Report.
+39
+Table of Contents
+Item 4.    Controls and Procedures
+Evaluation of Disclosure Control and Procedures
+In accordance with Rules 13a-15 and 15d-15 under the Exchange Act, we have evaluated, under the supervision and with the participation of management, including our principal executive officers and principal financial officer, the effectiveness of the design and operation of our disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act) as of March 31, 2026. Our disclosure controls and procedures are designed to provide reasonable assurance that the information required to be disclosed in reports that we file under the Exchange Act is accumulated and communicated to our management, including our principal executive officers and principal financial officer, as appropriate, to allow timely decisions regarding required disclosure and is recorded, processed, summarized and reported within the time periods specified in the rules and forms of the SEC. Based upon that evaluation, our principal executive officers and principal financial officer concluded that our disclosure controls and procedures were effective as of March 31, 2026 at the reasonable assurance level.
+Changes in Internal Control over Financial Reporting
+There were no changes in the system of internal control over financial reporting (as defined in Rule 13a-15(f) and Rule 15d-15(f) under the Exchange Act) during the three months ended March 31, 2026 that have materially affected, or are reasonably likely to materially affect, the Company’s internal control over financial reporting.
+PART II.  OTHER INFORMATION
+Item 1.    Legal Proceedings
+Refer to
+Note 11—Commitments and Contingencies
+under Part I, Item 1 of this Quarterly Report for more information regarding our legal proceedings.
+Environmental
+. Due to the nature of the oil and gas industry, we are exposed to environmental risks. We have various policies and procedures to minimize and mitigate the risks from environmental contamination and we conduct periodic reviews to identify changes in our environmental risk profile. Liabilities are recorded when environmental damages resulting from events are probable and the costs can be reasonably estimated. Item 103 of Regulation S-K promulgated under the Exchange Act requires disclosure regarding certain proceedings arising under federal, state or local environmental laws when a governmental authority is a party to the proceedings and such proceedings involve potential monetary sanctions that the Company reasonably believes will exceed a specified threshold. Pursuant to such item, we have elected to use a $1 million threshold for purposes of determining whether disclosure of any such proceedings is required. We believe proceedings under this threshold are not material to our business and financial condition.
+In connection with the merger with Earthstone Energy, Inc. (“Earthstone”), we assumed a liability related to potential environmental defects that were identified through diligence reviews associated with Earthstone’s previous acquisition of Novo Oil & Gas Legacy Holdings, LLC, Novo Intermediate, LLC and Novo Oil & Gas Holdings, LLC (collectively “Novo”). We have received a Tolling Agreement for Novo’s alleged violations but have not yet received a Notice of Violation (“NOV”). At this time, these violations are expected to result in a penalty that will be finalized upon issuance of the NOV; while the Company cannot predict the ultimate outcome of this matter, the potential for penalties or settlement costs could exceed $1 million. The Company does not believe that this matter will have a material adverse effect on its business, financial position, results of operations, or cash flows.
+We are not aware of any other material environmental claims existing as of March 31, 2026 over our threshold which have not been provided for or would otherwise have a material impact on our financial statements; however, there can be no assurance that current regulatory requirements will not change or that unknown potential past non-compliance with environmental laws or other environmental liabilities will not be discovered on our properties.
+Item 1A.    Risk Factors
+In addition to the other information set forth in this Quarterly Report, you should carefully consider the risk factors and other cautionary statements described under the heading “
+Item 1A. Risk Factors
+” included in our 2025 Annual Report and the risk factors and other cautionary statements contained in our other SEC filings. Additional risks and uncertainties not currently known to us or that we currently deem to be immaterial also may materially adversely affect our business, financial condition or future results. There have been no material changes in our risk factors from those described in our 2025 Annual Report or our SEC filings.
+40
+Table of Contents
+Item 2.    Unregistered Sales of Equity Securities and Use of Proceeds
+Issuer Purchases of Equity Securities
+During the three months ended March 31, 2026, we did not purchase any common stock in the open market under our stock repurchase program.
+Item 5. Other Information
+Trading Plans
+During the quarter ended March 31, 2026, no directors or officers, as defined in Rule 16a-1(f),
+adopted
+or
+terminated
+a “Rule 10b5-1 trading arrangement” or a “non-Rule 10b5-1 trading arrangement,” each as defined in Regulation S-K Item 408.
+41
+Table of Contents
+Item 6.    Exhibits
+Exhibit
+Number
+Description of Exhibit
+2.1
+Agreement and Plan of Merger, dated as of August 21, 2023, among Permian Resources Corporation, Smits Merger Sub I Inc., Smits Merger Sub II LLC, Permian Resources Operating, LLC, Earthstone Energy, Inc. and Earthstone Energy Holdings, LLC. (incorporated by reference to Exhibit 2.1 to the Company’s Current Report on Form 8-K filed with the SEC on August 21, 2023).
+2.2
+Master Reorganization Agreement, dated as of December 22, 2025, by and among Permian Resources Corporation (n/k/a Permian Resources Holdings Inc.), Permian Resources Operating, LLC, PRC NewCo Inc (n/k/a Permian Resources Corporation) and PRC NewCo II Inc (incorporated by reference to Exhibit 2.1 to the Company’s Current Report on Form 8-K filed with the SEC on December 22, 2025).
+3.1
+Amended and Restated Certificate of Incorporation (incorporated by reference to Exhibit 3.1 to the Company’s Current Report on Form 8-K12B filed with the SEC on January 7, 2026)
+.
+3.2
+Second Amended and Restated Bylaws (incorporated by reference to Exhibit 3.2 to the Company’s Annual Report on Form 10-K filed with the SEC on February 26, 2026).
+3.3
+Eighth Amended and Restated Limited Liability Company Agreement of Permian Resources Operating, LLC dated as of January 7, 2026 (incorporated by reference to Exhibit 10.2 to the Company’s Current Report on Form 8-K12B filed with the SEC on January 7, 2026).
+10.1
+Form of Indemnification Agreement (incorporated by reference to Exhibit 10.3 to the Company’s Current Report on Form 8-K12B filed with the SEC on January 7, 2026).
+10.2#
+Form of Restricted Stock Unit Agreement under the Permian Resources Corporation 2023 Long Term Incentive Plan (incorporated by reference to Exhibit 10.31 to the Company’s Annual Report on Form 10-K filed with the SEC on February 26, 2026).
+10.3
+Second Amended and Restated Registration Rights Agreement, dated January 7, 2026, by and between the Company, Permian Resources Holdings Inc. (f/k/a Permian Resources Corporation) and the signatories thereto (incorporated by reference to Exhibit 4.1 to the Company’s Current Report on Form 8-K12B filed with the SEC on January 7, 2026).
+10.4
+Share Surrender and Unit Exchange Agreement, dated as of January 7, 2026, by and among Permian Resources Corporation (n/k/a Permian Resources Holdings Inc.), Permian Resources Operating, LLC, PRC NewCo Inc (n/k/a Permian Resources Corporation) and the individuals set forth on the signature pages thereto (incorporated by reference to Exhibit 10.1 to the Company’s Current Report on Form 8-K12B filed with the SEC on January 7, 2026).
+10.5
+Credit Agreement, dated as of April 30, 2026, among Permian Resources Operating, LLC, JPMorgan Chase Bank, N.A. and the lenders party thereto (incorporated by reference to Exhibit 10.1 to the Company’s Current Report on Form 8-K filed with the SEC on
+May
+6
+, 2026).
+31.1*
+Certification of Co-Chief Executive Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+31.2*
+Certification of Co-Chief Executive Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+31.3*
+Certification of Chief Financial Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+32.1**
+Certification of Co-Chief Executive Officers pursuant to 18 U.S.C. Section 1350.
+32.2**
+Certification of Chief Financial Officer pursuant to 18 U.S.C. Section 1350.
+101.INS*
+Inline XBRL Instance Document - The instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document.
+101.SCH*
+Inline XBRL Taxonomy Extension Schema Document.
+101.CAL*
+Inline XBRL Taxonomy Extension Calculation Linkbase Document.
+101.DEF*
+Inline XBRL Taxonomy Extension Definition Linkbase Document.
+101.LAB*
+Inline XBRL Taxonomy Extension Label Linkbase Document.
+101.PRE*
+Inline XBRL Taxonomy Extension Presentation Linkbase Document.
+104
+Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101)
+*    Filed herewith.
+**    Furnished herewith.
+#    Management contract or compensatory plan or agreement.
+42
+Table of Contents
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereto duly authorized.
+PERMIAN RESOURCES CORPORATION
+By:
+/s/ GUY M. OLIPHINT
+Guy M. Oliphint
+Executive Vice President and Chief Financial Officer
+Date:
+May 7, 2026
+43

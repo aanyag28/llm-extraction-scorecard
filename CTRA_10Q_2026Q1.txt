@@ -1,0 +1,4435 @@
+0000858470
+12-31
+2026
+Q1
+FALSE
+http://fasb.org/us-gaap/2025#OtherAssetsNoncurrent
+http://fasb.org/us-gaap/2025#OtherAssetsNoncurrent
+http://fasb.org/us-gaap/2025#AccruedLiabilitiesCurrent
+http://fasb.org/us-gaap/2025#AccruedLiabilitiesCurrent
+http://fasb.org/us-gaap/2025#OtherLiabilitiesNoncurrent
+http://fasb.org/us-gaap/2025#OtherLiabilitiesNoncurrent
+xbrli:shares
+iso4217:USD
+iso4217:USD
+xbrli:shares
+ctra:segment
+xbrli:pure
+utr:MBoe
+iso4217:USD
+utr:MBbls
+utr:MMBTU
+iso4217:USD
+utr:MMBTU
+ctra:impaired_asset_and_liability
+0000858470
+2026-01-01
+2026-03-31
+0000858470
+2026-04-30
+0000858470
+2026-03-31
+0000858470
+2025-12-31
+0000858470
+us-gaap:OilAndCondensateMember
+2026-01-01
+2026-03-31
+0000858470
+us-gaap:OilAndCondensateMember
+2025-01-01
+2025-03-31
+0000858470
+us-gaap:NaturalGasProductionMember
+2026-01-01
+2026-03-31
+0000858470
+us-gaap:NaturalGasProductionMember
+2025-01-01
+2025-03-31
+0000858470
+srt:NaturalGasLiquidsReservesMember
+2026-01-01
+2026-03-31
+0000858470
+srt:NaturalGasLiquidsReservesMember
+2025-01-01
+2025-03-31
+0000858470
+2025-01-01
+2025-03-31
+0000858470
+ctra:OtherRevenuesMember
+2026-01-01
+2026-03-31
+0000858470
+ctra:OtherRevenuesMember
+2025-01-01
+2025-03-31
+0000858470
+2024-12-31
+0000858470
+2025-03-31
+0000858470
+us-gaap:CommonStockMember
+2025-12-31
+0000858470
+us-gaap:TreasuryStockCommonMember
+2025-12-31
+0000858470
+us-gaap:AdditionalPaidInCapitalMember
+2025-12-31
+0000858470
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-12-31
+0000858470
+us-gaap:RetainedEarningsMember
+2025-12-31
+0000858470
+us-gaap:RetainedEarningsMember
+2026-01-01
+2026-03-31
+0000858470
+us-gaap:AdditionalPaidInCapitalMember
+2026-01-01
+2026-03-31
+0000858470
+us-gaap:TreasuryStockCommonMember
+2026-01-01
+2026-03-31
+0000858470
+us-gaap:CommonStockMember
+2026-01-01
+2026-03-31
+0000858470
+us-gaap:CommonStockMember
+2026-03-31
+0000858470
+us-gaap:TreasuryStockCommonMember
+2026-03-31
+0000858470
+us-gaap:AdditionalPaidInCapitalMember
+2026-03-31
+0000858470
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2026-03-31
+0000858470
+us-gaap:RetainedEarningsMember
+2026-03-31
+0000858470
+us-gaap:CommonStockMember
+2024-12-31
+0000858470
+us-gaap:TreasuryStockCommonMember
+2024-12-31
+0000858470
+us-gaap:AdditionalPaidInCapitalMember
+2024-12-31
+0000858470
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-12-31
+0000858470
+us-gaap:RetainedEarningsMember
+2024-12-31
+0000858470
+us-gaap:RetainedEarningsMember
+2025-01-01
+2025-03-31
+0000858470
+us-gaap:CommonStockMember
+2025-01-01
+2025-03-31
+0000858470
+us-gaap:AdditionalPaidInCapitalMember
+2025-01-01
+2025-03-31
+0000858470
+us-gaap:TreasuryStockCommonMember
+2025-01-01
+2025-03-31
+0000858470
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-01-01
+2025-03-31
+0000858470
+us-gaap:CommonStockMember
+2025-03-31
+0000858470
+us-gaap:TreasuryStockCommonMember
+2025-03-31
+0000858470
+us-gaap:AdditionalPaidInCapitalMember
+2025-03-31
+0000858470
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-03-31
+0000858470
+us-gaap:RetainedEarningsMember
+2025-03-31
+0000858470
+ctra:DevonEnergyCorporationMember
+2026-02-01
+2026-02-01
+0000858470
+ctra:DevonEnergyCorporationMember
+ctra:DevonEnergyCorporationMember
+2026-02-01
+0000858470
+ctra:DevonEnergyCorporationMember
+2026-02-01
+0000858470
+ctra:FranklinMountainEnergyMember
+2025-01-27
+2025-01-27
+0000858470
+ctra:AvantMember
+2025-01-17
+2025-01-17
+0000858470
+ctra:FMEAndAvantMember
+2025-01-01
+2025-03-31
+0000858470
+ctra:ProvedOilAndGasPropertiesMember
+2026-03-31
+0000858470
+ctra:ProvedOilAndGasPropertiesMember
+2025-12-31
+0000858470
+ctra:UnprovedOilAndGasPropertiesMember
+2026-03-31
+0000858470
+ctra:UnprovedOilAndGasPropertiesMember
+2025-12-31
+0000858470
+ctra:GatheringAndPipelineSystemsMember
+2026-03-31
+0000858470
+ctra:GatheringAndPipelineSystemsMember
+2025-12-31
+0000858470
+ctra:LandBuildingsAndOtherEquipmentMember
+2026-03-31
+0000858470
+ctra:LandBuildingsAndOtherEquipmentMember
+2025-12-31
+0000858470
+ctra:ThreePointSeventySevenPercentageWeightedAveragePrivatePlacementSeniorNotesMember
+us-gaap:SeniorNotesMember
+2026-03-31
+0000858470
+ctra:ThreePointSeventySevenPercentageWeightedAveragePrivatePlacementSeniorNotesMember
+us-gaap:SeniorNotesMember
+2025-12-31
+0000858470
+ctra:ThreePointNineZeroPercentageSeniorNotesDueMay152027Member
+us-gaap:SeniorNotesMember
+2026-03-31
+0000858470
+ctra:ThreePointNineZeroPercentageSeniorNotesDueMay152027Member
+us-gaap:SeniorNotesMember
+2025-12-31
+0000858470
+ctra:FourPointThreeSevenFivePercentageSeniorNotesDueMarch152029Member
+us-gaap:SeniorNotesMember
+2026-03-31
+0000858470
+ctra:FourPointThreeSevenFivePercentageSeniorNotesDueMarch152029Member
+us-gaap:SeniorNotesMember
+2025-12-31
+0000858470
+ctra:FivePointSixtyPercentageSeniorNotesDueMarch152034Member
+us-gaap:SeniorNotesMember
+2026-03-31
+0000858470
+ctra:FivePointSixtyPercentageSeniorNotesDueMarch152034Member
+us-gaap:SeniorNotesMember
+2025-12-31
+0000858470
+ctra:FivePointFortyPercentageSeniorNotesDueFebruary152035Member
+us-gaap:SeniorNotesMember
+2026-03-31
+0000858470
+ctra:FivePointFortyPercentageSeniorNotesDueFebruary152035Member
+us-gaap:SeniorNotesMember
+2025-12-31
+0000858470
+ctra:FivePointNinetyPercentageSeniorNotesDueFebruary152055Member
+us-gaap:SeniorNotesMember
+2026-03-31
+0000858470
+ctra:FivePointNinetyPercentageSeniorNotesDueFebruary152055Member
+us-gaap:SeniorNotesMember
+2025-12-31
+0000858470
+ctra:TrancheBTermLoanDueIn2028Member
+us-gaap:LineOfCreditMember
+2026-03-31
+0000858470
+ctra:TrancheBTermLoanDueIn2028Member
+us-gaap:LineOfCreditMember
+2025-12-31
+0000858470
+us-gaap:RevolvingCreditFacilityMember
+2026-01-01
+2026-03-31
+0000858470
+us-gaap:RevolvingCreditFacilityMember
+2025-01-01
+2025-03-31
+0000858470
+us-gaap:RevolvingCreditFacilityMember
+us-gaap:LineOfCreditMember
+2026-03-31
+0000858470
+us-gaap:SecuredDebtMember
+ctra:TrancheAMember
+us-gaap:LineOfCreditMember
+2024-12-31
+0000858470
+us-gaap:SecuredDebtMember
+ctra:TrancheBMember
+us-gaap:LineOfCreditMember
+2024-12-31
+0000858470
+us-gaap:SecuredDebtMember
+ctra:TrancheAMember
+us-gaap:LineOfCreditMember
+2025-01-01
+2025-01-31
+0000858470
+us-gaap:SecuredDebtMember
+ctra:TrancheBMember
+us-gaap:LineOfCreditMember
+2025-01-01
+2025-01-31
+0000858470
+us-gaap:SecuredDebtMember
+ctra:TrancheAMember
+us-gaap:LineOfCreditMember
+2025-01-01
+2025-12-31
+0000858470
+us-gaap:SecuredDebtMember
+ctra:TrancheBMember
+us-gaap:LineOfCreditMember
+2025-01-01
+2025-12-31
+0000858470
+us-gaap:SecuredDebtMember
+ctra:TrancheBMember
+us-gaap:LineOfCreditMember
+2026-02-01
+2026-02-28
+0000858470
+ctra:WTIOilCollarsMember
+srt:ScenarioForecastMember
+2026-04-01
+2026-06-30
+0000858470
+ctra:WTIOilCollarsMember
+srt:ScenarioForecastMember
+2026-07-01
+2026-09-30
+0000858470
+ctra:WTIOilCollarsMember
+srt:ScenarioForecastMember
+2026-10-01
+2026-12-31
+0000858470
+ctra:WTIOilCollarsMember
+srt:ScenarioForecastMember
+2027-01-01
+2027-03-31
+0000858470
+ctra:WTIOilCollarsMember
+srt:ScenarioForecastMember
+2027-04-01
+2027-06-30
+0000858470
+ctra:WTIOilCollarsMember
+srt:ScenarioForecastMember
+2027-07-01
+2027-09-30
+0000858470
+ctra:WTIOilCollarsMember
+srt:ScenarioForecastMember
+2027-10-01
+2027-12-31
+0000858470
+ctra:WTIOilCollarsMember
+srt:ScenarioForecastMember
+2026-06-30
+0000858470
+ctra:WTIOilCollarsMember
+srt:ScenarioForecastMember
+2026-09-30
+0000858470
+ctra:WTIOilCollarsMember
+srt:ScenarioForecastMember
+2026-12-31
+0000858470
+ctra:WTIOilCollarsMember
+srt:ScenarioForecastMember
+2027-03-31
+0000858470
+ctra:WTIOilCollarsMember
+srt:ScenarioForecastMember
+2027-06-30
+0000858470
+ctra:WTIOilCollarsMember
+srt:ScenarioForecastMember
+2027-09-30
+0000858470
+ctra:WTIOilCollarsMember
+srt:ScenarioForecastMember
+2027-12-31
+0000858470
+ctra:WTINYMEXOilSwapsMember
+srt:ScenarioForecastMember
+2026-04-01
+2026-06-30
+0000858470
+ctra:WTINYMEXOilSwapsMember
+srt:ScenarioForecastMember
+2026-07-01
+2026-09-30
+0000858470
+ctra:WTINYMEXOilSwapsMember
+srt:ScenarioForecastMember
+2026-10-01
+2026-12-31
+0000858470
+ctra:WTINYMEXOilSwapsMember
+srt:ScenarioForecastMember
+2027-01-01
+2027-03-31
+0000858470
+ctra:WTINYMEXOilSwapsMember
+srt:ScenarioForecastMember
+2027-04-01
+2027-06-30
+0000858470
+ctra:WTINYMEXOilSwapsMember
+srt:ScenarioForecastMember
+2027-07-01
+2027-09-30
+0000858470
+ctra:WTINYMEXOilSwapsMember
+srt:ScenarioForecastMember
+2027-10-01
+2027-12-31
+0000858470
+ctra:WTINYMEXOilSwapsMember
+srt:ScenarioForecastMember
+2026-06-30
+0000858470
+ctra:WTINYMEXOilSwapsMember
+srt:ScenarioForecastMember
+2026-09-30
+0000858470
+ctra:WTINYMEXOilSwapsMember
+srt:ScenarioForecastMember
+2026-12-31
+0000858470
+ctra:WTINYMEXOilSwapsMember
+srt:ScenarioForecastMember
+2027-03-31
+0000858470
+ctra:WTINYMEXOilSwapsMember
+srt:ScenarioForecastMember
+2027-06-30
+0000858470
+ctra:WTINYMEXOilSwapsMember
+srt:ScenarioForecastMember
+2027-09-30
+0000858470
+ctra:WTINYMEXOilSwapsMember
+srt:ScenarioForecastMember
+2027-12-31
+0000858470
+ctra:WTIMidlandOilBasisSwapsMember
+srt:ScenarioForecastMember
+2026-04-01
+2026-06-30
+0000858470
+ctra:WTIMidlandOilBasisSwapsMember
+srt:ScenarioForecastMember
+2026-07-01
+2026-09-30
+0000858470
+ctra:WTIMidlandOilBasisSwapsMember
+srt:ScenarioForecastMember
+2026-10-01
+2026-12-31
+0000858470
+ctra:WTIMidlandOilBasisSwapsMember
+srt:ScenarioForecastMember
+2027-01-01
+2027-03-31
+0000858470
+ctra:WTIMidlandOilBasisSwapsMember
+srt:ScenarioForecastMember
+2027-04-01
+2027-06-30
+0000858470
+ctra:WTIMidlandOilBasisSwapsMember
+srt:ScenarioForecastMember
+2027-07-01
+2027-09-30
+0000858470
+ctra:WTIMidlandOilBasisSwapsMember
+srt:ScenarioForecastMember
+2027-10-01
+2027-12-31
+0000858470
+ctra:WTIMidlandOilBasisSwapsMember
+srt:ScenarioForecastMember
+2026-06-30
+0000858470
+ctra:WTIMidlandOilBasisSwapsMember
+srt:ScenarioForecastMember
+2026-09-30
+0000858470
+ctra:WTIMidlandOilBasisSwapsMember
+srt:ScenarioForecastMember
+2026-12-31
+0000858470
+ctra:WTIMidlandOilBasisSwapsMember
+srt:ScenarioForecastMember
+2027-03-31
+0000858470
+ctra:WTIMidlandOilBasisSwapsMember
+srt:ScenarioForecastMember
+2027-06-30
+0000858470
+ctra:WTIMidlandOilBasisSwapsMember
+srt:ScenarioForecastMember
+2027-09-30
+0000858470
+ctra:WTIMidlandOilBasisSwapsMember
+srt:ScenarioForecastMember
+2027-12-31
+0000858470
+ctra:NYMEXGasCollarsMember
+srt:ScenarioForecastMember
+2026-04-01
+2026-06-30
+0000858470
+ctra:NYMEXGasCollarsMember
+srt:ScenarioForecastMember
+2026-07-01
+2026-09-30
+0000858470
+ctra:NYMEXGasCollarsMember
+srt:ScenarioForecastMember
+2026-10-01
+2026-12-31
+0000858470
+ctra:NYMEXGasCollarsMember
+srt:ScenarioForecastMember
+2027-01-01
+2027-03-31
+0000858470
+ctra:NYMEXGasCollarsMember
+srt:ScenarioForecastMember
+2027-04-01
+2027-06-30
+0000858470
+ctra:NYMEXGasCollarsMember
+srt:ScenarioForecastMember
+2027-07-01
+2027-09-30
+0000858470
+ctra:NYMEXGasCollarsMember
+srt:ScenarioForecastMember
+2027-10-01
+2027-12-31
+0000858470
+ctra:NYMEXGasCollarsMember
+srt:ScenarioForecastMember
+2026-06-30
+0000858470
+ctra:NYMEXGasCollarsMember
+srt:ScenarioForecastMember
+2026-09-30
+0000858470
+ctra:NYMEXGasCollarsMember
+srt:ScenarioForecastMember
+2026-12-31
+0000858470
+ctra:NYMEXGasCollarsMember
+srt:ScenarioForecastMember
+2027-03-31
+0000858470
+ctra:NYMEXGasCollarsMember
+srt:ScenarioForecastMember
+2027-06-30
+0000858470
+ctra:NYMEXGasCollarsMember
+srt:ScenarioForecastMember
+2027-09-30
+0000858470
+ctra:NYMEXGasCollarsMember
+srt:ScenarioForecastMember
+2027-12-31
+0000858470
+ctra:TranscoLeidyGasBasisSwapsMember
+srt:ScenarioForecastMember
+2026-04-01
+2026-06-30
+0000858470
+ctra:TranscoLeidyGasBasisSwapsMember
+srt:ScenarioForecastMember
+2026-07-01
+2026-09-30
+0000858470
+ctra:TranscoLeidyGasBasisSwapsMember
+srt:ScenarioForecastMember
+2026-10-01
+2026-12-31
+0000858470
+ctra:TranscoLeidyGasBasisSwapsMember
+srt:ScenarioForecastMember
+2027-01-01
+2027-03-31
+0000858470
+ctra:TranscoLeidyGasBasisSwapsMember
+srt:ScenarioForecastMember
+2027-04-01
+2027-06-30
+0000858470
+ctra:TranscoLeidyGasBasisSwapsMember
+srt:ScenarioForecastMember
+2027-07-01
+2027-09-30
+0000858470
+ctra:TranscoLeidyGasBasisSwapsMember
+srt:ScenarioForecastMember
+2027-10-01
+2027-12-31
+0000858470
+ctra:TranscoLeidyGasBasisSwapsMember
+srt:ScenarioForecastMember
+2026-06-30
+0000858470
+ctra:TranscoLeidyGasBasisSwapsMember
+srt:ScenarioForecastMember
+2026-09-30
+0000858470
+ctra:TranscoLeidyGasBasisSwapsMember
+srt:ScenarioForecastMember
+2026-12-31
+0000858470
+ctra:TranscoLeidyGasBasisSwapsMember
+srt:ScenarioForecastMember
+2027-03-31
+0000858470
+ctra:TranscoLeidyGasBasisSwapsMember
+srt:ScenarioForecastMember
+2027-06-30
+0000858470
+ctra:TranscoLeidyGasBasisSwapsMember
+srt:ScenarioForecastMember
+2027-09-30
+0000858470
+ctra:TranscoLeidyGasBasisSwapsMember
+srt:ScenarioForecastMember
+2027-12-31
+0000858470
+ctra:TranscoZone6NonNYGasBasisSwapsMember
+srt:ScenarioForecastMember
+2026-04-01
+2026-06-30
+0000858470
+ctra:TranscoZone6NonNYGasBasisSwapsMember
+srt:ScenarioForecastMember
+2026-07-01
+2026-09-30
+0000858470
+ctra:TranscoZone6NonNYGasBasisSwapsMember
+srt:ScenarioForecastMember
+2026-10-01
+2026-12-31
+0000858470
+ctra:TranscoZone6NonNYGasBasisSwapsMember
+srt:ScenarioForecastMember
+2027-01-01
+2027-03-31
+0000858470
+ctra:TranscoZone6NonNYGasBasisSwapsMember
+srt:ScenarioForecastMember
+2027-04-01
+2027-06-30
+0000858470
+ctra:TranscoZone6NonNYGasBasisSwapsMember
+srt:ScenarioForecastMember
+2027-07-01
+2027-09-30
+0000858470
+ctra:TranscoZone6NonNYGasBasisSwapsMember
+srt:ScenarioForecastMember
+2027-10-01
+2027-12-31
+0000858470
+ctra:TranscoZone6NonNYGasBasisSwapsMember
+srt:ScenarioForecastMember
+2026-06-30
+0000858470
+ctra:TranscoZone6NonNYGasBasisSwapsMember
+srt:ScenarioForecastMember
+2026-09-30
+0000858470
+ctra:TranscoZone6NonNYGasBasisSwapsMember
+srt:ScenarioForecastMember
+2026-12-31
+0000858470
+ctra:TranscoZone6NonNYGasBasisSwapsMember
+srt:ScenarioForecastMember
+2027-03-31
+0000858470
+ctra:TranscoZone6NonNYGasBasisSwapsMember
+srt:ScenarioForecastMember
+2027-06-30
+0000858470
+ctra:TranscoZone6NonNYGasBasisSwapsMember
+srt:ScenarioForecastMember
+2027-09-30
+0000858470
+ctra:TranscoZone6NonNYGasBasisSwapsMember
+srt:ScenarioForecastMember
+2027-12-31
+0000858470
+ctra:WahaGasBasisSwapsMember
+srt:ScenarioForecastMember
+2026-04-01
+2026-06-30
+0000858470
+ctra:WahaGasBasisSwapsMember
+srt:ScenarioForecastMember
+2026-07-01
+2026-09-30
+0000858470
+ctra:WahaGasBasisSwapsMember
+srt:ScenarioForecastMember
+2026-10-01
+2026-12-31
+0000858470
+ctra:WahaGasBasisSwapsMember
+srt:ScenarioForecastMember
+2027-01-01
+2027-03-31
+0000858470
+ctra:WahaGasBasisSwapsMember
+srt:ScenarioForecastMember
+2027-04-01
+2027-06-30
+0000858470
+ctra:WahaGasBasisSwapsMember
+srt:ScenarioForecastMember
+2027-07-01
+2027-09-30
+0000858470
+ctra:WahaGasBasisSwapsMember
+srt:ScenarioForecastMember
+2027-10-01
+2027-12-31
+0000858470
+ctra:WahaGasBasisSwapsMember
+srt:ScenarioForecastMember
+2026-06-30
+0000858470
+ctra:WahaGasBasisSwapsMember
+srt:ScenarioForecastMember
+2026-09-30
+0000858470
+ctra:WahaGasBasisSwapsMember
+srt:ScenarioForecastMember
+2026-12-31
+0000858470
+ctra:WahaGasBasisSwapsMember
+srt:ScenarioForecastMember
+2027-03-31
+0000858470
+ctra:WahaGasBasisSwapsMember
+srt:ScenarioForecastMember
+2027-06-30
+0000858470
+ctra:WahaGasBasisSwapsMember
+srt:ScenarioForecastMember
+2027-09-30
+0000858470
+ctra:WahaGasBasisSwapsMember
+srt:ScenarioForecastMember
+2027-12-31
+0000858470
+ctra:TranscoLeidyGasBasisSwapsApril2026Member
+srt:ScenarioForecastMember
+2027-01-01
+2027-03-31
+0000858470
+ctra:TranscoLeidyGasBasisSwapsApril2026Member
+srt:ScenarioForecastMember
+2027-04-01
+2027-06-30
+0000858470
+ctra:TranscoLeidyGasBasisSwapsApril2026Member
+srt:ScenarioForecastMember
+2027-07-01
+2027-09-30
+0000858470
+ctra:TranscoLeidyGasBasisSwapsApril2026Member
+srt:ScenarioForecastMember
+2027-10-01
+2027-12-31
+0000858470
+ctra:TranscoLeidyGasBasisSwapsApril2026Member
+srt:ScenarioForecastMember
+2027-03-31
+0000858470
+ctra:TranscoLeidyGasBasisSwapsApril2026Member
+srt:ScenarioForecastMember
+2027-06-30
+0000858470
+ctra:TranscoLeidyGasBasisSwapsApril2026Member
+srt:ScenarioForecastMember
+2027-09-30
+0000858470
+ctra:TranscoLeidyGasBasisSwapsApril2026Member
+srt:ScenarioForecastMember
+2027-12-31
+0000858470
+ctra:WahaGasBasisSwapsApril2026Member
+srt:ScenarioForecastMember
+2027-01-01
+2027-03-31
+0000858470
+ctra:WahaGasBasisSwapsApril2026Member
+srt:ScenarioForecastMember
+2027-04-01
+2027-06-30
+0000858470
+ctra:WahaGasBasisSwapsApril2026Member
+srt:ScenarioForecastMember
+2027-07-01
+2027-09-30
+0000858470
+ctra:WahaGasBasisSwapsApril2026Member
+srt:ScenarioForecastMember
+2027-10-01
+2027-12-31
+0000858470
+ctra:WahaGasBasisSwapsApril2026Member
+srt:ScenarioForecastMember
+2027-03-31
+0000858470
+ctra:WahaGasBasisSwapsApril2026Member
+srt:ScenarioForecastMember
+2027-06-30
+0000858470
+ctra:WahaGasBasisSwapsApril2026Member
+srt:ScenarioForecastMember
+2027-09-30
+0000858470
+ctra:WahaGasBasisSwapsApril2026Member
+srt:ScenarioForecastMember
+2027-12-31
+0000858470
+us-gaap:CommodityContractMember
+us-gaap:NondesignatedMember
+2026-03-31
+0000858470
+us-gaap:CommodityContractMember
+us-gaap:NondesignatedMember
+2025-12-31
+0000858470
+ctra:GasContractsMember
+2026-01-01
+2026-03-31
+0000858470
+ctra:GasContractsMember
+2025-01-01
+2025-03-31
+0000858470
+ctra:OilContractsMember
+2026-01-01
+2026-03-31
+0000858470
+ctra:OilContractsMember
+2025-01-01
+2025-03-31
+0000858470
+us-gaap:FairValueInputsLevel1Member
+2026-03-31
+0000858470
+us-gaap:FairValueInputsLevel2Member
+2026-03-31
+0000858470
+us-gaap:FairValueInputsLevel3Member
+2026-03-31
+0000858470
+us-gaap:FairValueInputsLevel1Member
+2025-12-31
+0000858470
+us-gaap:FairValueInputsLevel2Member
+2025-12-31
+0000858470
+us-gaap:FairValueInputsLevel3Member
+2025-12-31
+0000858470
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+2026-03-31
+0000858470
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+2026-03-31
+0000858470
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+2025-12-31
+0000858470
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+2025-12-31
+0000858470
+2026-04-01
+2026-03-31
+0000858470
+ctra:PreviousShareRepurchaseProgramMember
+2025-01-01
+2025-03-31
+0000858470
+us-gaap:RestrictedStockUnitsRSUMember
+2026-01-01
+2026-03-31
+0000858470
+us-gaap:RestrictedStockUnitsRSUMember
+2025-01-01
+2025-03-31
+0000858470
+us-gaap:PerformanceSharesMember
+2026-01-01
+2026-03-31
+0000858470
+us-gaap:PerformanceSharesMember
+2025-01-01
+2025-03-31
+0000858470
+us-gaap:RestrictedStockUnitsRSUMember
+us-gaap:ShareBasedPaymentArrangementEmployeeMember
+2026-01-01
+2026-03-31
+0000858470
+us-gaap:RestrictedStockUnitsRSUMember
+srt:MinimumMember
+us-gaap:ShareBasedPaymentArrangementEmployeeMember
+2026-01-01
+2026-03-31
+0000858470
+us-gaap:RestrictedStockUnitsRSUMember
+srt:MaximumMember
+us-gaap:ShareBasedPaymentArrangementEmployeeMember
+2026-01-01
+2026-03-31
+0000858470
+us-gaap:RestrictedStockUnitsRSUMember
+srt:MinimumMember
+us-gaap:ShareBasedPaymentArrangementEmployeeMember
+2026-03-31
+0000858470
+us-gaap:RestrictedStockUnitsRSUMember
+srt:MaximumMember
+us-gaap:ShareBasedPaymentArrangementEmployeeMember
+2026-03-31
+0000858470
+ctra:TSRPerformanceSharesMember
+2026-01-01
+2026-03-31
+0000858470
+ctra:TSRPerformanceSharesMember
+2026-03-31
+0000858470
+ctra:TSRPerformanceSharesMember
+2026-02-23
+2026-02-23
+0000858470
+srt:MinimumMember
+ctra:TSRPerformanceSharesMember
+2026-01-01
+2026-03-31
+0000858470
+srt:MaximumMember
+ctra:TSRPerformanceSharesMember
+2026-01-01
+2026-03-31
+0000858470
+ctra:TSRPerformanceSharesMember
+2026-01-31
+2026-01-31
+0000858470
+ctra:TSRPerformanceSharesMember
+2026-02-01
+2026-02-28
+0000858470
+ctra:TreasuryStockMethodMember
+2026-01-01
+2026-03-31
+0000858470
+ctra:TreasuryStockMethodMember
+2025-01-01
+2025-03-31
+0000858470
+ctra:FranklinMountainEnergyMember
+2026-01-01
+2026-03-31
+0000858470
+ctra:FranklinMountainEnergyMember
+2025-01-01
+2025-03-31
+Table of Contents
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+FORM
+10-Q
+☒
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934.
+For the quarterly period ended
+March 31, 2026
+OR
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934.
+Commission file number
+1-10447
+COTERRA ENERGY INC.
+(Exact name of registrant as specified in its charter)
+Delaware
+04-3072771
+(State or other jurisdiction of
+incorporation or organization)
+(I.R.S. Employer
+Identification Number)
+Three Memorial City Plaza
+840 Gessner Road,
+Suite 1400,
+Houston,
+Texas
+77024
+(Address of principal executive offices, including ZIP code)
+(
+281
+)
+589-4600
+(Registrant’s telephone number, including area code)
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, par value $0.10 per share
+CTRA
+New York Stock Exchange
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports) and (2) has been subject to such filing requirements for the past 90 days.
+Yes
+☒
+No
+☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).
+Yes
+☒
+No
+☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer
+☒
+Accelerated filer
+☐
+Non-accelerated filer
+☐
+Smaller reporting company
+☐
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes
+☐
+No
+☒
+As of April 30, 2026, there were
+759,358,254
+shares of common stock, par value $0.10 per share, outstanding.
+Table of Contents
+COTERRA ENERGY INC.
+TABLE OF CONTENTS
+Page
+Part I. Financial Information
+Item 1.
+Financial Statements
+Condensed Consolidated Balance Sheet (Unaudited) as of
+March
+3
+1
+, 202
+6
+and December 31, 202
+5
+3
+Condensed Consolidated Statement of Operations (Unaudited) for the Three
+Months Ended
+March
+3
+1
+, 202
+6
+and 202
+5
+4
+Condensed Consolidated Statement of Cash Flows (Unaudited) for the Three Months Ended March 31, 2026 and 2025
+5
+Condensed Consolidated Statement of Stockholders’ Equity (Unaudited) for the Three Months Ended March 31, 2026 and 2025
+6
+Notes to the Condensed Consolidated Financial Statements (Unaudited)
+7
+Item 2.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+20
+Item 3.
+Quantitative and Qualitative Disclosures about Market Risk
+30
+Item 4.
+Controls and Procedures
+33
+Part II. Other Information
+Item 1.
+Legal Proceedings
+34
+Item 1A.
+Risk Factors
+34
+Item 2.
+Unregistered Sales of Equity Securities and Use of Proceeds
+34
+Item 5.
+Other Information
+35
+Item 6.
+Exhibits
+36
+Signatures
+37
+2
+Table of Contents
+PART I. FINANCIAL INFORMATION
+ITEM 1. Financial Statements
+COTERRA ENERGY INC.
+CONDENSED CONSOLIDATED BALANCE SHEET (Unaudited)
+(In millions, except per share amounts)
+March 31,
+2026
+December 31,
+2025
+ASSETS
+Current assets
+Cash and cash equivalents
+$
+485
+$
+114
+Restricted cash
+5
+5
+Accounts receivable, net
+1,259
+1,208
+Income taxes receivable
+57
+201
+Inventories
+38
+48
+Other current assets
+124
+273
+Total current assets
+1,968
+1,849
+Properties and equipment, net (Successful efforts method)
+22,179
+22,058
+Other assets
+480
+334
+$
+24,627
+$
+24,241
+LIABILITIES, REDEEMABLE PREFERRED STOCK AND STOCKHOLDERS’ EQUITY
+Current liabilities
+Accounts payable
+$
+1,316
+$
+1,056
+Current portion of long-term debt
+250
+250
+Accrued liabilities
+367
+197
+Interest payable
+25
+54
+Total current liabilities
+1,958
+1,557
+Long-term debt
+3,263
+3,568
+Deferred income taxes
+3,722
+3,703
+Asset retirement obligations
+337
+329
+Other liabilities
+233
+238
+Total liabilities
+9,513
+9,395
+Commitments and contingencies (Note 8)
+Redeemable preferred stock
+8
+8
+Stockholders’ equity
+Common stock:
+Authorized —
+1,800
+shares of $
+0.10
+par value in 2026 and 2025
+Issued —
+759
+shares and
+760
+shares in 2026 and 2025, respectively
+76
+76
+Additional paid-in capital
+7,823
+7,854
+Retained earnings
+7,193
+6,894
+Accumulated other comprehensive income
+14
+14
+Total stockholders' equity
+15,106
+14,838
+$
+24,627
+$
+24,241
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+3
+Table of Contents
+COTERRA ENERGY INC.
+CONDENSED CONSOLIDATED STATEMENT OF OPERATIONS (Unaudited)
+Three Months Ended
+March 31,
+(In millions, except per share amounts)
+2026
+2025
+OPERATING REVENUES
+Oil
+$
+1,043
+$
+886
+Natural gas
+1,110
+898
+NGL
+195
+206
+Loss on derivative instruments, net
+(
+434
+)
+(
+112
+)
+Other
+33
+26
+1,947
+1,904
+OPERATING EXPENSES
+Direct operations
+291
+216
+Gathering, processing and transportation
+267
+282
+Taxes other than income
+101
+96
+Exploration
+5
+10
+Depreciation, depletion and amortization
+555
+506
+General and administrative
+79
+92
+1,298
+1,202
+Loss on sale of assets
+(
+3
+)
+—
+INCOME FROM OPERATIONS
+646
+702
+Interest expense
+46
+53
+Interest income
+(
+3
+)
+(
+8
+)
+Income before income taxes
+603
+657
+Income tax expense
+137
+141
+NET INCOME
+$
+466
+$
+516
+Earnings per share
+Basic
+$
+0.61
+$
+0.68
+Diluted
+$
+0.61
+$
+0.68
+Weighted-average common shares outstanding
+Basic
+759
+756
+Diluted
+763
+761
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+4
+Table of Contents
+COTERRA ENERGY INC.
+CONDENSED CONSOLIDATED STATEMENT OF CASH FLOWS (Unaudited)
+Three Months Ended
+March 31,
+(In millions)
+2026
+2025
+CASH FLOWS FROM OPERATING ACTIVITIES
+Net income
+$
+466
+$
+516
+Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation, depletion and amortization
+555
+506
+Deferred income tax expense
+23
+11
+Loss on sale of assets
+3
+—
+Loss on derivative instruments, net
+434
+112
+Net cash paid on settlement of derivative instruments
+(
+105
+)
+(
+22
+)
+Amortization of debt premium, debt discount and debt issuance costs, net
+(
+5
+)
+(
+3
+)
+Stock-based compensation and other
+20
+15
+Changes in assets and liabilities:
+Accounts receivable, net
+(
+51
+)
+(
+4
+)
+Income taxes
+144
+107
+Inventories
+10
+(
+8
+)
+Other current assets
+(
+5
+)
+10
+Accounts payable and accrued liabilities
+202
+(
+73
+)
+Interest payable
+(
+29
+)
+14
+Other assets and liabilities
+(
+16
+)
+(
+37
+)
+Net cash provided by operating activities
+1,646
+1,144
+CASH FLOWS FROM INVESTING ACTIVITIES
+Capital expenditures for drilling, completion and other fixed asset additions
+(
+655
+)
+(
+472
+)
+Capital expenditures for leasehold and property acquisitions
+(
+15
+)
+(
+37
+)
+Cash consideration paid for business combinations, net of cash received
+—
+(
+3,219
+)
+Other
+(
+86
+)
+—
+Net cash used in investing activities
+(
+756
+)
+(
+3,728
+)
+CASH FLOWS FROM FINANCING ACTIVITIES
+Proceeds from issuance of debt
+169
+1,000
+Repayments of debt
+(
+469
+)
+(
+250
+)
+Common stock repurchases
+(
+35
+)
+(
+24
+)
+Dividends paid
+(
+169
+)
+(
+178
+)
+Tax withholding on vesting of stock awards
+(
+16
+)
+(
+21
+)
+Other
+1
+1
+Net cash (used in) provided by financing activities
+(
+519
+)
+528
+Net increase (decrease) in cash, cash equivalents and restricted cash
+371
+(
+2,056
+)
+Cash, cash equivalents and restricted cash, beginning of period
+119
+2,277
+Cash, cash equivalents and restricted cash, end of period
+$
+490
+$
+221
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+5
+Table of Contents
+COTERRA ENERGY INC.
+CONDENSED CONSOLIDATED STATEMENT OF STOCKHOLDERS’ EQUITY (Unaudited)
+(In millions, except per share amounts)
+Common Shares
+Common Stock Par
+Treasury Shares
+Treasury Stock
+Additional Paid-In Capital
+Accumulated Other Comprehensive Income
+Retained Earnings
+Total
+Balance at December 31, 2025
+760
+$
+76
+—
+$
+—
+$
+7,854
+$
+14
+$
+6,894
+$
+14,838
+Net income
+—
+—
+—
+—
+—
+—
+466
+466
+Exercise of stock options
+—
+—
+—
+—
+1
+—
+—
+1
+Common stock repurchases
+—
+—
+1
+(
+32
+)
+—
+—
+—
+(
+32
+)
+Common stock retirements
+(
+1
+)
+—
+(
+1
+)
+32
+(
+32
+)
+—
+—
+—
+Cash dividends on common stock at $
+0.22
+per share
+—
+—
+—
+—
+—
+—
+(
+167
+)
+(
+167
+)
+Balance at March 31, 2026
+759
+$
+76
+—
+$
+—
+$
+7,823
+$
+14
+$
+7,193
+$
+15,106
+(In millions, except per share amounts)
+Common Shares
+Common Stock Par
+Treasury Shares
+Treasury Stock
+Additional Paid-In Capital
+Accumulated Other Comprehensive Income
+Retained Earnings
+Total
+Balance at December 31, 2024
+735
+$
+74
+—
+$
+—
+$
+7,179
+$
+12
+$
+5,857
+$
+13,122
+Net income
+—
+—
+—
+—
+—
+—
+516
+516
+Issuance of common stock for acquisition
+28
+2
+—
+—
+783
+—
+—
+785
+Stock amortization and vesting
+2
+—
+—
+—
+(
+9
+)
+—
+—
+(
+9
+)
+Common stock repurchases
+—
+—
+1
+(
+24
+)
+—
+—
+—
+(
+24
+)
+Common stock retirements
+(
+1
+)
+—
+(
+1
+)
+24
+(
+24
+)
+—
+—
+—
+Cash dividends on common stock at $
+0.22
+per share
+—
+—
+—
+—
+—
+—
+(
+170
+)
+(
+170
+)
+Other comprehensive income
+—
+—
+—
+—
+—
+4
+—
+4
+Balance at March  31, 2025
+764
+$
+76
+—
+$
+—
+$
+7,929
+$
+16
+$
+6,203
+$
+14,224
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+6
+Table of Contents
+COTERRA ENERGY INC.
+NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Unaudited)
+1.
+Financial Statement Presentation
+During interim periods, Coterra Energy Inc. (the “Company”) follows the same accounting policies disclosed in its Annual Report on Form 10-K for the year ended December 31, 2025 (the “Form 10-K”) filed with the SEC. The interim condensed consolidated financial statements are unaudited and should be read in conjunction with the Notes to the Consolidated Financial Statements and information presented in the Form 10-K. In management’s opinion, the accompanying interim condensed consolidated financial statements contain all material adjustments, consisting only of normal recurring adjustments, necessary for a fair statement. The results for any interim period are not necessarily indicative of the results that may be expected for the entire year.
+From time-to-time, management makes certain reclassifications to prior year statements to conform with the current year presentation. These reclassifications have no impact on previously reported stockholders’ equity, net income or cash flows.
+Significant Accounting Policies
+Segment Reporting
+The Company operates in
+one
+reportable operating segment, oil and natural gas development, exploration and production.
+Refer to Note 1 of the Notes to the Consolidated Financial Statements in the Form 10-K for further information.
+2.
+Mergers and Acquisitions
+Pending Merger
+On February 1, 2026, the Company entered into an Agreement and Plan of Merger (the “Merger Agreement”) with Devon Energy Corporation (“Devon”) to combine via an all-stock merger transaction (“Merger”). Devon is a leading oil and gas producer in the U.S. with a diversified multi-basin portfolio headlined by a world-class acreage position in the Delaware Basin. Under terms of the Merger Agreement, at closing Coterra stockholders will receive a fixed exchange ratio of
+0.70
+shares of  Devon common stock for each share of Coterra common stock. Upon completion, Devon stockholders will own approximately
+54
+percent of the combined company and Coterra stockholders will own approximately
+46
+percent on a fully diluted basis. The respective Board of Directors of the Company and Devon unanimously approved the Merger. The Merger Agreement contains customary pre-closing covenants, including the obligation of each of Coterra and Devon to conduct their respective businesses in the ordinary course consistent with past practice and to refrain from taking certain specified actions without the consent of the other party. Until closing, the Company must continue to operate as a stand-alone company.
+On May 4, 2026, the stockholders of the Company and Devon approved the Merger, which is expected to close on May 7, 2026, subject to customary closing conditions.
+Franklin Mountain Energy (“FME”) and Avant Acquisitions
+On January 27, 2025, the Company closed on its acquisition of all of the issued and outstanding equity ownership interests of a group of privately owned oil and gas exploration and production companies with assets and operations in the Delaware Basin of New Mexico (the “FME interests”) for total consideration of $
+2.5
+billion, which included $
+1.7
+billion in cash and the issuance of
+28,190,682
+shares of the Company’s common stock valued at $
+785
+million based on the closing price of the Company’s common stock on the closing date.
+On January 17, 2025, the Company closed on the acquisition of certain interests in oil and gas properties located in the Delaware Basin in New Mexico from certain privately owned sellers for total cash consideration of $
+1.5
+billion (the “Avant assets”).
+Combined Unaudited Pro Forma Financial Information
+The results of operations of the FME interests and Avant assets have been included in the Company’s condensed consolidated financial statements since the closing date of the acquisitions. The following supplemental pro forma financial information for the three months ended March 31, 2025 has been prepared to give effect to the acquisitions of the FME interests and Avant assets as if they had occurred on January 1, 2025. The information below reflects pro forma adjustments based on available information and certain assumptions that the Company believes are factual and supportable. The pro forma results of
+7
+Table of Contents
+operations do not include any cost savings or other synergies that may have resulted from the acquisitions or any estimated costs that may have been incurred by the Company to integrate the FME Interests and Avant assets.
+The pro forma financial information is not necessarily indicative of the results that might have occurred had the transactions actually taken place on January 1, 2025 and is not intended to be a projection of future results. Future results may vary significantly from the results reflected in the following pro forma financial information because of normal production declines, changes in commodity prices, future acquisitions and divestitures, future development and exploration activities and other factors.
+The following table represents the pro forma effect on the Company of the FME and Avant acquisitions as if they had occurred on January 1, 2025:
+(In millions)
+Three Months Ended
+March 31, 2025
+Pro forma revenue
+$
+1,996
+Pro forma net income
+$
+547
+3.
+Properties and Equipment, Net
+Properties and equipment, net are comprised of the following:
+(In millions)
+March 31,
+2026
+December 31,
+2025
+Proved oil and gas properties
+$
+27,842
+$
+27,058
+Unproved oil and gas properties
+4,683
+4,834
+Gathering and pipeline systems
+1,092
+1,065
+Land, buildings and other equipment
+280
+270
+33,897
+33,227
+Accumulated DD&A
+(
+11,718
+)
+(
+11,169
+)
+$
+22,179
+$
+22,058
+Capitalized Exploratory Well Costs
+As of and for the three months ended March 31, 2026, the Company did not have any projects with exploratory well costs capitalized for a period of greater than
+one year
+after drilling.
+8
+Table of Contents
+4.
+Long-Term Debt and Credit Agreements
+The following table includes a summary of the Company’s long-term debt:
+(In millions)
+March 31,
+2026
+December 31,
+2025
+Private placement senior notes:
+3.77
+% senior notes due September 18, 2026
+$
+250
+$
+250
+Senior notes:
+3.90
+% senior notes due May 15, 2027
+750
+750
+4.375
+% senior notes due March 15, 2029
+500
+500
+5.60
+% senior notes due March 15, 2034
+500
+500
+5.40
+% senior notes due February 15, 2035
+750
+750
+5.90
+% senior notes due February 15, 2055
+750
+750
+Term loan:
+Tranche B term loan due January 17, 2028
+—
+300
+3,500
+3,800
+Unamortized debt premium
+41
+47
+Unamortized debt discount
+(
+9
+)
+(
+9
+)
+Unamortized debt issuance costs
+(
+19
+)
+(
+20
+)
+Total debt, net
+3,513
+3,818
+Less: current portion of long-term debt
+250
+250
+Long-term debt
+$
+3,263
+$
+3,568
+As of March 31, 2026, the Company was in compliance with all financial covenants for its revolving credit agreement and
+3.77
+% private placement senior notes.
+Revolving Credit Agreement
+During the three months ended March 31, 2026, the Company borrowed and repaid $
+169
+million under its revolving credit agreement. The Company’s weighted-average interest rate for borrowings under the revolving credit agreement for the three months ended March 31, 2026 was
+7.0
+percent. There were
+no
+borrowings under the revolving credit agreement during the three months ended March 31, 2025.
+As of March 31, 2026, the Company had
+no
+borrowings outstanding under its revolving credit agreement and unused commitments of $
+2.0
+billion.
+Term Loan
+In December 2024, the Company entered into a delayed draw term loan credit agreement with Toronto Dominion (Texas), LLC, as administrative agent, and certain other lenders and issuing banks (the “Term Loan”), which consisted of a $
+500
+million Tranche A Term Loan and a $
+500
+million Tranche B Term Loan. In January 2025, the Company borrowed $
+500
+million under the Tranche A Term Loan to partially fund the acquisition of the FME interests and $
+500
+million under the Tranche B Term Loan to partially fund the acquisition of the Avant assets. During 2025, the Company repaid the full $
+500
+million Tranche A Term Loan and $
+200
+million of the Tranche B Term Loan. In February 2026, the Company repaid the remaining $
+300
+million of the Tranche B Term Loan.
+During the three months ended March 31, 2026 and 2025, the weighted-average effective interest rate on the Company’s Term Loan was approximately
+5.2
+percent and
+6.0
+percent, respectively.
+9
+Table of Contents
+5.
+Derivative Instruments
+As of March 31, 2026, the Company had the following outstanding financial commodity derivatives:
+2026
+2027
+Oil
+Second Quarter
+Third Quarter
+Fourth Quarter
+First Quarter
+Second Quarter
+Third Quarter
+Fourth Quarter
+WTI oil collars
+Volume (MBbl)
+7,462
+7,544
+8,004
+3,600
+2,730
+2,760
+2,760
+Weighted average floor ($/Bbl)
+$
+56.46
+$
+56.10
+$
+56.38
+$
+56.25
+$
+60.00
+$
+60.00
+$
+60.00
+Weighted average ceiling ($/Bbl)
+$
+72.60
+$
+72.18
+$
+73.99
+$
+80.63
+$
+86.23
+$
+84.20
+$
+82.50
+WTI-NYMEX oil swaps
+Volume (MBbl)
+910
+920
+920
+—
+—
+—
+—
+Weighted average price ($/Bbl)
+$
+66.14
+$
+66.14
+$
+66.14
+$
+—
+$
+—
+$
+—
+$
+—
+WTI Midland oil basis swaps
+Volume (MBbl)
+7,280
+7,360
+8,004
+3,600
+2,730
+2,760
+2,760
+Weighted average differential ($/Bbl)
+$
+0.96
+$
+0.95
+$
+0.96
+$
+1.00
+$
+1.05
+$
+1.05
+$
+1.05
+2026
+2027
+Natural Gas
+Second Quarter
+Third Quarter
+Fourth Quarter
+First Quarter
+Second Quarter
+Third Quarter
+Fourth Quarter
+NYMEX gas collars
+Volume (MMBtu)
+81,900,000
+82,800,000
+82,800,000
+34,200,000
+34,580,000
+34,960,000
+34,960,000
+Weighted average floor ($/MMBtu)
+$
+3.39
+$
+3.39
+$
+3.39
+$
+3.08
+$
+3.08
+$
+3.08
+$
+3.08
+Weighted average ceiling ($/MMBtu)
+$
+5.61
+$
+5.61
+$
+5.61
+$
+5.65
+$
+5.65
+$
+5.65
+$
+5.65
+Transco Leidy gas basis swaps
+Volume (MMBtu)
+22,750,000
+23,000,000
+23,000,000
+2,025,000
+2,047,500
+2,070,000
+2,070,000
+Weighted average differential ($/MMBtu)
+$
+(
+0.78
+)
+$
+(
+0.78
+)
+$
+(
+0.78
+)
+$
+(
+0.65
+)
+$
+(
+0.65
+)
+$
+(
+0.65
+)
+$
+(
+0.65
+)
+Transco Zone 6 Non-NY gas basis swaps
+Volume (MMBtu)
+22,750,000
+23,000,000
+23,000,000
+13,500,000
+13,650,000
+13,800,000
+13,800,000
+Weighted average differential ($/MMBtu)
+$
+(
+0.16
+)
+$
+(
+0.16
+)
+$
+(
+0.16
+)
+$
+0.35
+$
+0.35
+$
+0.35
+$
+0.35
+Waha gas basis swaps
+Volume (MMBtu)
+18,200,000
+18,400,000
+18,400,000
+9,450,000
+9,555,000
+9,660,000
+9,660,000
+Weighted average differential ($/MMBtu)
+$
+(
+1.92
+)
+$
+(
+1.92
+)
+$
+(
+1.92
+)
+$
+(
+1.30
+)
+$
+(
+1.30
+)
+$
+(
+1.30
+)
+$
+(
+1.30
+)
+10
+Table of Contents
+In April 2026, the Company entered into the following financial commodity derivatives:
+2027
+Natural Gas
+First Quarter
+Second Quarter
+Third Quarter
+Fourth Quarter
+Transco Leidy gas basis swaps
+Volume (MMBtu)
+2,250,000
+2,275,000
+2,300,000
+2,300,000
+Weighted average differential ($/MMBtu)
+$
+(
+0.65
+)
+$
+(
+0.65
+)
+$
+(
+0.65
+)
+$
+(
+0.65
+)
+Waha gas basis swaps
+Volume (MMBtu)
+2,250,000
+2,275,000
+2,300,000
+2,300,000
+Weighted average differential ($/MMBtu)
+$
+(
+1.29
+)
+$
+(
+1.29
+)
+$
+(
+1.29
+)
+$
+(
+1.29
+)
+Effect of Derivative Instruments on the Condensed Consolidated Balance Sheet
+Fair Values of Derivative Instruments
+Derivative Assets
+Derivative Liabilities
+(In millions)
+Balance Sheet Location
+March 31,
+2026
+December 31,
+2025
+March 31,
+2026
+December 31,
+2025
+Commodity contracts
+Other current assets
+$
+81
+$
+235
+$
+—
+$
+—
+Commodity contracts
+Accrued liabilities
+—
+—
+239
+2
+Commodity contracts
+Other assets
+65
+3
+—
+—
+Commodity contracts
+Other liabilities
+—
+—
+—
+—
+$
+146
+$
+238
+$
+239
+$
+2
+Offsetting of Derivative Assets and Liabilities in the Condensed Consolidated Balance Sheet
+(In millions)
+March 31,
+2026
+December 31,
+2025
+Derivative assets
+Gross amounts of recognized assets
+$
+294
+$
+242
+Gross amounts offset in the condensed consolidated balance sheet
+(
+148
+)
+(
+4
+)
+Net amounts of assets presented in the condensed consolidated balance sheet
+146
+238
+Gross amounts of financial instruments not offset in the condensed consolidated balance sheet
+—
+15
+Net amount
+$
+146
+$
+253
+Derivative liabilities
+Gross amounts of recognized liabilities
+$
+387
+$
+6
+Gross amounts offset in the condensed consolidated balance sheet
+(
+148
+)
+(
+4
+)
+Net amounts of liabilities presented in the condensed consolidated balance sheet
+239
+2
+Gross amounts of financial instruments not offset in the condensed consolidated balance sheet
+56
+—
+Net amount
+$
+295
+$
+2
+11
+Table of Contents
+Effect of Derivative Instruments on the Condensed Consolidated Statement of Operations
+Three Months Ended
+March 31,
+(In millions)
+2026
+2025
+Cash paid on settlement of derivative instruments
+Oil contracts
+$
+(
+52
+)
+$
+(
+5
+)
+Gas contracts
+(
+53
+)
+(
+17
+)
+Non-cash gain (loss) on derivative instruments
+Oil contracts
+(
+410
+)
+5
+Gas contracts
+81
+(
+95
+)
+$
+(
+434
+)
+$
+(
+112
+)
+6.
+Fair Value Measurements
+The Company follows the authoritative guidance for measuring fair value of assets and liabilities in its financial statements. For further information regarding the fair value hierarchy, refer to Note 1 of the Notes to the Consolidated Financial Statements in the Form 10-K.
+Financial Assets and Liabilities
+The following fair value hierarchy table presents information about the Company’s financial assets and liabilities measured at fair value on a recurring basis:
+(In millions)
+Quoted Prices in
+Active Markets for
+Identical Assets
+(Level 1)
+Significant Other
+Observable Inputs
+(Level 2)
+Significant
+Unobservable Inputs
+(Level 3)
+Balance at
+March 31, 2026
+Assets
+Deferred compensation plan
+$
+21
+$
+—
+$
+—
+$
+21
+Derivative instruments
+—
+—
+294
+294
+$
+21
+$
+—
+$
+294
+$
+315
+Liabilities
+Deferred compensation plan
+$
+21
+$
+—
+$
+—
+$
+21
+Derivative instruments
+—
+40
+347
+387
+$
+21
+$
+40
+$
+347
+$
+408
+(In millions)
+Quoted Prices in
+Active Markets for
+Identical Assets
+(Level 1)
+Significant Other
+Observable Inputs
+(Level 2)
+Significant
+Unobservable Inputs
+(Level 3)
+Balance at
+December 31, 2025
+Assets
+Deferred compensation plan
+$
+21
+$
+—
+$
+—
+$
+21
+Derivative instruments
+—
+32
+210
+242
+$
+21
+$
+32
+$
+210
+$
+263
+Liabilities
+Deferred compensation plan
+$
+21
+$
+—
+$
+—
+$
+21
+Derivative instruments
+—
+—
+6
+6
+$
+21
+$
+—
+$
+6
+$
+27
+The Company’s investments associated with its deferred compensation plans consist of mutual funds that are publicly traded and for which market prices are readily available.
+The derivative instruments were measured based on quotes from the Company’s third-party valuation service provider. Such quotes have been derived using an income approach that considers various inputs, including current market and contractual prices for the underlying instruments, quoted forward commodity prices, basis differentials, volatility factors and interest rates for a similar length of time as the derivative contract term as applicable. Estimates are derived from or verified using relevant NYMEX futures contracts and are compared to multiple quotes obtained from counterparties. The determination
+12
+Table of Contents
+of the fair values presented above also incorporates a credit adjustment for non-performance risk. Non-performance risk of the Company’s counterparties is measured by reviewing credit default swap spreads for the various financial institutions with which the Company has derivative contracts while non-performance risk of the Company is evaluated using credit default swap spreads for various similarly rated companies in the same sector as the Company. The Company has not incurred any losses related to non-performance risk of its counterparties and does not anticipate any material impact on its financial results due to non-performance by third parties.
+The most significant unobservable inputs relative to the Company’s Level 3 derivative contracts are basis differentials, discount rates and volatility factors. An increase (decrease) in these unobservable inputs would result in an increase (decrease) in fair value, respectively. The Company does not have access to the specific assumptions used in the models provided by third-party valuation service providers or its counterparties’ valuation models. Consequently, additional disclosures regarding significant Level 3 unobservable inputs were not provided.
+The following table sets forth a reconciliation of changes in the fair value of financial assets and liabilities classified as Level 3 in the fair value hierarchy:
+Three Months Ended
+March 31,
+(In millions)
+2026
+2025
+Balance at beginning of period
+$
+204
+$
+(
+9
+)
+Total gain (loss) included in earnings
+(
+357
+)
+(
+112
+)
+Settlement (gain) loss
+100
+19
+Balance at end of period
+$
+(
+53
+)
+$
+(
+102
+)
+Change in unrealized gains (losses) relating to assets and liabilities still held at the end of the period
+$
+156
+$
+(
+93
+)
+Non-Financial Assets and Liabilities
+The Company discloses or recognizes its non-financial assets and liabilities, such as impairments of oil and gas properties or acquisitions, at fair value on a nonrecurring basis. As
+none
+of the Company’s other non-financial assets and liabilities were measured at fair value as of March 31, 2026, additional disclosures were not required.
+The estimated fair value of the Company’s asset retirement obligations at inception is determined by utilizing the income approach by applying a credit-adjusted risk-free rate, which takes into account the Company’s credit risk, the time value of money, and the current economic state to the undiscounted expected abandonment cash flows. Given the unobservable nature of the inputs, the measurement of the asset retirement obligations was classified as Level 3 in the fair value hierarchy.
+Fair Value of Other Financial Instruments
+The estimated fair value of other financial instruments is the amount at which the instruments could be exchanged currently between willing parties. The carrying amounts reported in the Condensed Consolidated Balance Sheet for cash and cash equivalents and restricted cash approximate fair value, due to the short-term maturities of these instruments. Cash and cash equivalents and restricted cash are classified as Level 1 in the fair value hierarchy, and the remaining financial instruments are classified as Level 2.
+The fair value of the Company’s senior notes is based on quoted market prices, which is classified as Level 1 in the fair value hierarchy. The fair value of the Company’s private placement senior notes is based on third-party quotes, which are derived from credit spreads for the difference between the issue rate and the period end market rate and other unobservable inputs. The Company’s private placement senior notes are valued using a market approach and are classified as Level 3 in the fair value hierarchy. The fair value of the Company’s Term Loan approximates the carrying value as the interest rates are variable and reflective of market rates. The Company’s Term Loan is classified as Level 1 in the fair value hierarchy.
+13
+Table of Contents
+The carrying amount and estimated fair value of debt are as follows:
+March 31, 2026
+December 31, 2025
+(In millions)
+Carrying
+Amount
+Estimated Fair
+Value
+Carrying
+Amount
+Estimated Fair
+Value
+Total debt
+$
+3,513
+$
+3,475
+$
+3,818
+$
+3,798
+Current maturities
+(
+250
+)
+(
+249
+)
+(
+250
+)
+(
+249
+)
+Long-term debt, excluding current maturities
+$
+3,263
+$
+3,226
+$
+3,568
+$
+3,549
+7.
+Asset Retirement Obligations
+Activity related to the Company’s asset retirement obligations is as follows:
+Three Months Ended
+March 31,
+(In millions)
+2026
+2025
+Balance at beginning of period
+$
+343
+$
+302
+Liabilities incurred
+4
+3
+Liabilities assumed in acquisitions
+—
+19
+Accretion expense
+3
+3
+Balance at end of period
+350
+327
+Less: current asset retirement obligations
+(
+13
+)
+(
+13
+)
+Noncurrent asset retirement obligations
+$
+337
+$
+314
+8.
+Commitments and Contingencies
+Contractual Obligations
+The Company has various contractual obligations in the normal course of its operations. There have been no material changes to the Company’s contractual obligations described under “Gathering, Processing and Transportation Agreements,” “Power Purchase Commitments” and “Lease Commitments” as disclosed in Note 8 of the Notes to Consolidated Financial Statements in the Form 10-K.
+Legal Matters
+The Company is a defendant in various legal proceedings arising in the normal course of business. While the outcome and impact of these legal proceedings on the Company cannot be predicted with certainty, management believes that the resolution of these proceedings will not have a material effect on the Company’s financial position, results of operations or cash flows.
+Contingency Reserves
+When deemed necessary, the Company establishes reserves for certain legal proceedings. All known liabilities for legal matters are accrued when management determines they are probable and the potential loss is estimable. The establishment of a reserve is based on an estimation process that includes the advice of legal counsel and subjective judgment of management. While management believes these reserves to be adequate, it is reasonably possible that the Company could incur additional losses with respect to those matters for which reserves have been established. The Company believes that any such amount above the amounts accrued would not be material to the Condensed Consolidated Financial Statements. Future changes in facts and circumstances not currently known or foreseeable could result in the actual liability exceeding the estimated ranges of loss and amounts accrued.
+14
+Table of Contents
+9.
+Revenue Recognition
+Disaggregation of Revenue
+The following table presents revenues from contracts with customers disaggregated by product:
+Three Months Ended
+March 31,
+(In millions)
+2026
+2025
+Oil
+$
+1,043
+$
+886
+Natural gas
+1,110
+898
+NGL
+195
+206
+Other
+33
+26
+$
+2,381
+$
+2,016
+All of the Company’s revenues from contracts with customers represent products transferred at a point in time as control is transferred to the customer and generated in the U.S.
+Transaction Price Allocated to Remaining Performance Obligations
+As of March 31, 2026, the Company had $
+5.4
+billion of unsatisfied performance obligations related to natural gas sales that have a fixed pricing component and a contract term greater than one year. The Company expects to recognize these obligations ratably over the next
+13
+years.
+Contract Balances
+Receivables from contracts with customers are recorded when the right to consideration becomes unconditional, generally when control of the product has been transferred to the customer. Receivables from contracts with customers were $
+1.0
+billion and $
+968
+million as of March 31, 2026 and December 31, 2025, respectively, and are reported in accounts receivable, net in the Condensed Consolidated Balance Sheet. As of March 31, 2026,
+the Company had no assets or liabilities related to its revenue contracts, including no upfront payments or rights to deficiency payments.
+10.
+Capital Stock
+Issuance of Common Stock
+Upon the closing of the FME acquisition in January 2025, the Company issued
+28,190,682
+shares of its common stock to the sellers of the FME interests. The shares were valued at $
+785
+million based on the closing price of the stock on the date of issuance.
+Dividends
+The following table summarizes the dividends the Company has paid on its common stock during the three months ended March 31, 2026 and 2025:
+Rate Per Share
+Total Dividends Paid
+(In millions)
+2026
+First quarter
+$
+0.22
+$
+167
+$
+0.22
+$
+167
+2025
+First quarter
+$
+0.22
+$
+170
+$
+0.22
+$
+170
+Treasury Stock
+During the three months ended March 31, 2026 and 2025, the Company repurchased and retired
+1
+million shares for $
+32
+million and
+1
+million shares for $
+24
+million, respectively. As of March 31, 2026, the Company had $
+1.0
+billion remaining under its current share repurchase program.
+15
+Table of Contents
+11.
+Stock-Based Compensation
+General
+Stock-based compensation expense of awards issued under the Company’s incentive plans, and the income tax benefit of awards vested and exercised, are as follows:
+Three Months Ended
+March 31,
+(In millions)
+2026
+2025
+Restricted stock units - employees and non-employee directors
+$
+13
+$
+11
+Performance share awards
+6
+5
+Total stock-based compensation expense
+$
+19
+$
+16
+Income tax benefit
+$
+9
+$
+14
+Refer to Note 13 of the Notes to the Consolidated Financial Statements in the Form 10-K for further description of the various types of stock-based compensation awards and the applicable award terms.
+Restricted Stock Units - Employees
+During the three months ended March 31, 2026, the Company granted
+521,317
+restricted stock units to employees of the Company with a weighted average grant date value of $
+30.50
+per unit. The fair value of restricted stock unit grants is based on the closing stock price on the grant date. Restricted stock units generally vest at the end of a
+three-year
+service period or
+five-year
+service period. The Company assumed a
+zero
+to
+five
+percent annual forfeiture rate for purposes of recognizing stock-based compensation expense for awards granted in 2026 based on the Company’s actual forfeiture history and expectations for this type of award.
+During the three months ended March 31, 2026,
+662,551
+restricted stock units granted in 2023 vested. The weighted average grant date value was $
+23.22
+per unit.
+Performance Share Awards
+Total Shareholder Return (“TSR”) Performance Share Awards
+.
+During the three months ended March 31, 2026, the Company granted
+548,644
+TSR Performance Share Awards, which are earned or not earned, based on the comparative performance of the Company’s common stock measured against a predetermined group of companies in the Company’s peer group and certain industry-related indices over a
+three-year
+performance period, which commenced on February 1, 2026 and ends on January 31, 2029.
+These awards have both an equity and liability component, with the right to receive up to the first
+100
+percent of the award in shares of common stock and the right to receive up to an additional
+100
+percent of the value of the award in excess of the equity component in cash. These awards also include a feature that will reduce the potential cash component of the award if the actual performance is negative over the
+three-year
+period and the base calculation indicates an above-target payout. The equity portion of these awards is valued on the grant date and is not marked-to-market, while the liability portion of the awards is valued as of the end of each reporting period on a mark-to-market basis. The Company calculates the fair value of the equity and liability portions of the awards using a Monte Carlo simulation model.
+The Company assumed a
+zero
+percent annual forfeiture rate for purposes of recognizing stock-based compensation expense for these awards based on the Company’s actual forfeiture history and expectations for this type of award.
+The following assumptions were used to determine the grant date fair value of the equity component and the period-end fair value of the liability component of the TSR Performance Share Awards:
+Grant Date
+February 23, 2026
+March 31, 2026
+Fair value per performance share award
+$
+21.68
+$
+9.72
+- $
+14.68
+Assumptions:
+Stock price volatility
+27.1
+%
+27.1
+% -
+29.0
+%
+Risk-free rate of return
+3.42
+%
+3.66
+% -
+3.77
+%
+16
+Table of Contents
+The stock price volatility was calculated using historical closing stock price data for the Company for the period associated with the expected term through the grant date of each award. The risk-free rate of return percentages are based on the continuously compounded equivalent of the U.S. Treasury within the expected term as measured on the grant date.
+In January 2026, the performance period ended for the TSR Performance Share Awards that were granted in 2023, and
+557,472
+shares with a grant date fair value of $
+10
+million vested based on the Company’s ranking relative to a predetermined peer group. Cash payments associated with these awards of approximately $
+2
+million were also made in February 2026. The calculation of the award payout was certified by the Compensation Committee of the Board of Directors on February 5, 2026.
+12.
+Earnings per Share
+Basic earnings per share (“EPS”) is computed by dividing net income available to common stockholders by the weighted-average number of shares of common stock outstanding for the period. Diluted EPS is similarly calculated, except that the shares of common stock outstanding for the period is increased using the treasury stock and as-if converted methods to reflect the potential dilution that could occur if outstanding stock awards were vested or exercised at the end of the applicable period. Anti-dilutive shares represent potentially dilutive securities that are excluded from the computation of diluted income or loss per share as their impact would be anti-dilutive.
+The following is a calculation of basic and diluted net earnings per share under the two-class method:
+Three Months Ended
+March 31,
+(In millions, except per share amounts)
+2026
+2025
+Income (Numerator)
+Net income
+$
+466
+$
+516
+Less: dividends attributable to participating securities
+—
+—
+Net income available to common stockholders
+$
+466
+$
+516
+Shares (Denominator)
+Weighted average shares - Basic
+759
+756
+Dilution effect of stock awards at end of period
+4
+5
+Weighted average shares - Diluted
+763
+761
+Earnings per share
+Basic
+$
+0.61
+$
+0.68
+Diluted
+$
+0.61
+$
+0.68
+The following is a calculation of weighted-average shares excluded from diluted EPS due to the anti-dilutive effect:
+Three Months Ended
+March 31,
+(In millions)
+2026
+2025
+Weighted-average stock awards excluded from diluted EPS due to the anti-dilutive effect calculated using the treasury stock method
+—
+—
+17
+Table of Contents
+13.
+Additional Balance Sheet Information
+Certain balance sheet amounts are comprised of the following:
+(In millions)
+March 31,
+2026
+December 31,
+2025
+Accounts receivable, net
+Trade accounts
+$
+1,003
+$
+968
+Joint interest accounts
+247
+214
+Other accounts
+12
+29
+1,262
+1,211
+Allowance for credit losses
+(
+3
+)
+(
+3
+)
+$
+1,259
+$
+1,208
+Inventories
+Tubular goods and well equipment
+$
+33
+$
+43
+Commodity inventory
+5
+5
+$
+38
+$
+48
+Other current assets
+Prepaid balances
+$
+9
+$
+10
+Derivative instruments
+81
+235
+Other accounts
+34
+28
+$
+124
+$
+273
+Other assets
+Deferred compensation plan
+$
+21
+$
+21
+Debt issuance costs
+8
+8
+Operating lease right-of-use assets
+166
+182
+Derivative instruments
+65
+3
+Other accounts
+220
+120
+$
+480
+$
+334
+Accounts payable
+Trade accounts
+$
+204
+$
+90
+Royalty and other owners
+564
+479
+Accrued gathering, processing and transportation
+99
+101
+Accrued capital costs
+207
+207
+Taxes other than income
+84
+70
+Accrued lease operating costs
+79
+86
+Other accounts
+79
+23
+$
+1,316
+$
+1,056
+Accrued liabilities
+Employee benefits
+$
+47
+$
+82
+Taxes other than income
+18
+34
+Derivative instruments
+239
+2
+Operating lease liabilities
+57
+68
+Other accounts
+6
+11
+$
+367
+$
+197
+18
+Table of Contents
+(In millions)
+March 31,
+2026
+December 31,
+2025
+Other liabilities
+Deferred compensation plan
+$
+21
+$
+21
+Postretirement benefits
+9
+10
+Operating lease liabilities
+115
+120
+Other accounts
+88
+87
+$
+233
+$
+238
+14.
+Interest Expense
+Interest expense is comprised of the following:
+Three Months Ended
+March 31,
+(In millions)
+2026
+2025
+Interest Expense
+Interest expense
+$
+46
+$
+55
+Debt (premium) discount amortization, net
+(
+6
+)
+(
+5
+)
+Debt issuance cost amortization
+1
+2
+Other
+5
+1
+$
+46
+$
+53
+15.
+Supplemental Cash Flow Information
+Three Months Ended
+March 31,
+(In millions)
+2026
+2025
+Non-cash activity
+Issuance of common stock for FME interests
+$
+—
+$
+785
+Retirement of treasury shares
+$
+32
+$
+24
+19
+Table of Contents
+ITEM 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+The following review of operations of Coterra Energy Inc. (“Coterra,” the “Company,” “our,” “we” and “us”) for the three month periods ended March 31, 2026 and 2025 should be read in conjunction with our Condensed Consolidated Financial Statements and the Notes included in this Quarterly Report on Form 10-Q (this “Form 10-Q”) and with the Consolidated Financial Statements, Notes and Management’s Discussion and Analysis included in our Annual Report on Form 10-K for the year ended December 31, 2025 filed on February 27, 2026 (our “Form 10-K”).
+For the abbreviations and definitions of certain terms commonly used in the oil and gas industry, please see the “Glossary of Certain Oil and Gas Terms” included within our Form 10-K.
+OVERVIEW
+Pending Merger
+On February 1, 2026, we entered into an Agreement and Plan of Merger (the “Merger Agreement”) with Devon Energy Corporation (“Devon”) to combine via an all-stock merger transaction (“Merger”). Devon is a leading oil and gas producer in the U.S. with a diversified multi-basin portfolio headlined by a world-class acreage position in the Delaware Basin. Under terms of the Merger Agreement, at closing our stockholders will receive a fixed exchange ratio of 0.70 shares of  Devon common stock for each share of our common stock. Upon completion, Devon stockholders will own approximately 54 percent of the combined company and our stockholders will own approximately 46 percent on a fully diluted basis. The respective Board of Directors of Coterra and Devon unanimously approved the Merger. The Merger Agreement contains customary pre-closing covenants, including the obligation of each of Coterra and Devon to conduct their respective businesses in the ordinary course consistent with past practice and to refrain from taking certain specified actions without the consent of the other party. Until closing, we must continue to operate as a stand-alone company.
+On May 4, 2026, our stockholders and Devon stockholders approved the Merger, which is expected to close on May 7, 2026, subject to customary closing conditions.
+Financial and Operating Overview
+Financial and operating results for the three months ended March 31, 2026 compared to the three months ended March 31, 2025 reflect the following:
+•
+Net income decreased $50 million from $516 million, or $0.68 per share, in 2025 to
+$466 million, or $0.61
+per share, in 2026.
+•
+Net cash provided by operating activities increased $502 million, from $1.1 billion in 2025 to $1.6 billion in 2026.
+•
+Equivalent production increased 2.2 MMBoe from 67.2 MMBoe, or 746.8 MBoe per day, in 2025 to 69.4 MMBoe, or 771.0 MBoe per day, in 2026.
+◦
+Oil production increased 2.0 MMBbl from 12.7 MMBbl, or 141.2 MBbl per day, in 2025 to 14.7 MMBbl, or 163.7 MBbl per day, in 2026.
+◦
+Natural gas production decreased 16.0 Bcf from 273.9 Bcf, or 3,043.8 MMcf per day, in 2025 to 257.9 Bcf, or 2,866.0 MMcf per day, in 2026.
+◦
+NGL volumes increased 2.9 MMBbl from 8.8 MMBbl, or 98.3 MBbl per day, in 2025 to 11.7 MMBbl, or 129.7 MBbl per day, in 2026.
+•
+Average realized prices (including impact of derivatives):
+◦
+Oil was $67.28 per Bbl in 2026, 3 percent lower than the $69.30 per Bbl realized in 2025.
+◦
+Natural gas was $4.10 per Mcf in 2026, 28 percent higher than the $3.21 per Mcf realized in 2025.
+◦
+NGL price was $16.70 per Bbl in 2026, 28 percent lower than the $23.23 per Bbl realized in 2025.
+•
+Total capital expenditures for drilling, completion and other fixed assets were $655 million in 2026 compared to $552 million in the corresponding period of the prior year.
+20
+Table of Contents
+Other financial highlights for the three months ended March 31, 2026 include the following:
+•
+Announced our quarterly dividend of $0.22 per share in February 2026.
+•
+Repaid the remaining $300 million outstanding under the Term Loan.
+•
+Repurchased and retired 1 million shares of our common stock for $32 million.
+Market Conditions and Commodity Prices
+Our financial results depend on many factors, particularly commodity prices and our ability to find and develop oil and gas reserves and market our production on economically attractive terms. Commodity prices are affected by many factors outside of our control, including changes in market supply and demand, which can be impacted by pipeline capacity constraints, inventory storage levels, basis differentials, weather conditions, and geopolitical, economic and other factors.
+While oil prices declined overall in 2025, spot and future prices have surged in 2026 due to acute geopolitical disruption. Forecasts for growing global oil demand follow a modest trend based upon economic conditions and are subject to volatile market conditions, including ongoing shifts in U.S. and international trade policy, as well as geopolitical risk and uncertainty. These geopolitical risks and uncertainties include, among other items, the U.S.-Iran conflict that began in late February 2026 and the impacts thereof on traffic through the Strait of Hormuz and Persian Gulf producers. While spot and future prices have traded with increased volatility since the outbreak of the conflict, the longer-term impacts of these changes remain to be seen, including the effects on domestic U.S. oil production and capital expenditure for the same.
+Natural gas prices rose overall in 2025 and are forecasted to strengthen further into 2026, driven by shifting weather models and expected growing LNG exports. Additionally, increasing power generation opportunities for natural gas, both from demands for electric grids fueled by natural gas-power generation and off-grid demand related to datacenter growth, is anticipated to buoy natural gas prices. Basis differentials have continued to persist in the U.S., with prices at the Waha Hub in the Permian Basin reaching negative spot pricing throughout early 2026 due to oversupply and maintenance, however we expect that additional pipeline capacity coming online beginning in late 2026 will alleviate the spread on Waha basis differentials for natural gas. We continue to expect natural gas prices overall to be stronger in 2026 compared to 2025.
+Although the current outlook on oil and natural gas prices is generally favorable, and our operations have not been significantly impacted in the short-term, in the event further disruptions occur or the current market volatility and U.S. and international economic policy uncertainty continues for an extended period of time, our operations could be adversely impacted, commodity prices could decline and our costs may increase. We expect commodity price volatility to continue, including as a result of U.S. and international economic policy (such as tariffs or retaliatory tariffs), actions of OPEC+ (including the ability of OPEC+ to successfully coordinate production quotas and the exit of members from OPEC+) and potentially swift near- and medium-term fluctuations in supply and demand, such as potential changes to drilling and capital programs in the short term by U.S. producers. While we are unable to predict future commodity prices, at current oil, natural gas and NGL price levels, we do not believe that an impairment of our oil and gas properties is reasonably likely to occur in the near future. However, in the event that commodity prices significantly decline or costs significantly increase from current levels, our management would evaluate the recoverability of the carrying value of our oil and gas properties.
+For information about the impact of realized commodity prices on our revenues, refer to “Results of Operations” below.
+Outlook
+Our first quarter 2026 total production volumes exceeded our internal expectations. During the quarter, Winter Storm Fern adversely impacted operations, resulting in curtailed oil production of approximately 3.0 MBbl per day and 6.5 MBoe per day. Consistent with our internal expectations, 2026 capital expenditures are expected to be weighted to the first half of 2026.
+We are reiterating the full-year 2026 guidance ranges previously announced in February. These guidance ranges reflect Coterra on a standalone basis, including with respect to capital expenditures, production and operating expense, and do not give effect to the planned merger with Devon.
+FINANCIAL CONDITION
+Liquidity and Capital Resources
+We strive to maintain an adequate liquidity level to address commodity price volatility and risk. Our liquidity requirements consist primarily of our planned capital expenditures, payment of contractual obligations (including debt maturities and interest payments), working capital requirements, dividend payments and share repurchases. Although we have
+21
+Table of Contents
+no obligation to do so, we may also from time-to-time refinance or retire our outstanding debt through privately negotiated transactions, open market repurchases, redemptions, exchanges, tender offers or otherwise.
+Our primary sources of liquidity are cash on hand, net cash provided by operating activities and available borrowing capacity under our revolving credit agreement. Our liquidity requirements are generally funded with cash flows provided by operating activities, together with cash on hand and draws under our revolving credit agreement. However, from time-to-time, our investments may be funded by sales of assets and private or public financing based on our monitoring of capital markets and our balance sheet. While there are no “rating triggers” in any of our debt agreements that would accelerate the scheduled maturities should our credit rating fall below a certain level, a change in our credit rating could adversely impact our interest rate on any borrowings under our revolving credit agreement and our ability to economically access debt markets and could trigger the requirement to post credit support under various agreements, which could reduce the borrowing capacity under our revolving credit agreement. As of the date hereof, our debt is currently rated as investment grade by the three leading ratings agencies. For more on the impact of credit ratings on our interest rates and fees for unused commitments under our revolving credit agreement, see Note 4 of the Notes to the Consolidated Financial Statements in our Form 10-K. We believe that, with operating cash flow, cash on hand and availability under our revolving credit agreement, we have the ability to finance our spending plans over the next 12 months and, based on current expectations, for the longer term.
+Our working capital is substantially influenced by the variables discussed above and fluctuates based on the timing and amount of borrowings and repayments under our revolving credit agreement, borrowings and repayments of debt, the timing of cash collections and payments on our trade accounts receivable and payable, respectively, payment of dividends, repurchases of our securities and changes in the fair value of our commodity derivative activity. From time-to-time, our working capital will reflect a deficit, while at other times it will reflect a surplus. This fluctuation is not unusual. As of March 31, 2026, our working capital surplus of $10 million was lower than at December 31, 2025, primarily due to higher accounts payable and accrued liabilities, partially offset by higher cash and cash equivalents. As of December 31, 2025, we had a working capital surplus of $292 million. We believe we have adequate liquidity and availability under our revolving credit agreement as outlined above to meet our working capital requirements and debt repayments over the next 12 months.
+As of March 31, 2026, we had unrestricted cash on hand of $485 million and unused commitments of $2.0 billion under our revolving credit agreement.
+Our revolving credit agreement includes a covenant potentially limiting our borrowing capacity as determined by our leverage ratio. As of March 31, 2026, we were in compliance with all financial covenants applicable to our revolving credit agreement and private placement senior notes. Refer to Note 4 of the Notes to the Condensed Consolidated Financial Statements in this report and Note 4 of the Notes to the Consolidated Financial Statements in our Form 10-K for further details.
+Cash Flows
+Our cash flows from operating activities, investing activities and financing activities were as follows:
+Three Months Ended
+March 31,
+Variance
+(In millions)
+2026
+2025
+Amount
+Percent
+Cash flows provided by operating activities
+$
+1,646
+$
+1,144
+$
+502
+44
+%
+Cash flows used in investing activities
+(756)
+(3,728)
+2,972
+(80)
+%
+Cash flows (used in) provided by financing activities
+(519)
+528
+(1,047)
+(198)
+%
+Net increase (decrease) in cash, cash equivalents and restricted cash
+$
+371
+$
+(2,056)
+$
+2,427
+(118)
+%
+Operating Activities.
+Operating cash flow fluctuations are substantially driven by changes in commodity prices, production volumes and operating expenses. As discussed above, commodity prices have historically been volatile. Fluctuations in cash flow may result in an increase or decrease in our planned capital expenditures.
+Net cash provided by operating activities for the three months ended March 31, 2026 increased by $502 million compared to the same period in 2025. This increase was primarily due to higher oil and natural gas revenues driven by higher oil and natural gas prices and higher oil production. These increases were partially offset by an increase in operating costs during the first three months of 2026 compared to 2025.
+Refer to “Results of Operations” below for additional information relative to commodity prices, production and operating expense fluctuations. We are unable to predict future commodity prices and, as a result, cannot provide any assurance about future levels of net cash provided by operating activities.
+22
+Table of Contents
+Investing Activities
+.
+Cash flows used in investing activities decreased by $3.0 billion for the three months ended March 31, 2026 compared to the same period in 2025. This decrease was primarily due to $3.2 billion of net cash consideration paid for the FME and Avant acquisitions that closed in January 2025, partially offset by $161 million higher cash paid for capital expenditures in 2026 compared to 2025.
+Financing Activities
+.
+Cash flows used in financing activities increased by $1.0 billion for the three months ended March 31, 2026 compared to the same period in 2025 primarily due to lower proceeds from debt issuances and higher repayments of debt. In 2025, we received $1.0 billion proceeds under our term loans to fund the FME and Avant acquisitions that closed in January 2025, compared to $169 million of proceeds from our revolving credit facility in 2026. Additionally, we repaid the remaining $300 million balance under the term loan and $169 million of borrowings under our revolving credit facility in 2026 compared to the repayment of $250 million of debt in 2025.
+Capitalization
+Information about our capitalization is as follows:
+(Dollars in millions)
+March 31,
+2026
+December 31,
+2025
+Total debt
+(1)
+$
+3,513
+$
+3,818
+Stockholders’ equity
+15,106
+14,838
+Total capitalization
+$
+18,619
+$
+18,656
+Debt to total capitalization
+19
+%
+20
+%
+Cash and cash equivalents
+$
+485
+$
+114
+________________________________________________________
+(1)
+There were no borrowings outstanding under our revolving credit agreement as of March 31, 2026 and December 31, 2025.
+Share repurchases
+. During the three months ended March 31, 2026, we repurchased and retired 1 million shares of our common stock for $32 million. We repurchased and retired 1 million shares of our common stock for $24 million during the three months ended March 31, 2025.
+As of March 31, 2026, we had $1.0 billion remaining under our current share repurchase program.
+Dividends
+. In February 2026, our Board of Directors approved a quarterly dividend of $0.22 per share.
+The following table summarizes our dividends on our common stock for the three months ended March 31, 2026 and 2025:
+Rate Per Share
+Total Dividends
+(In millions)
+2026
+First quarter
+$
+0.22
+$
+167
+$
+0.22
+$
+167
+2025
+First quarter
+$
+0.22
+$
+170
+$
+0.22
+$
+170
+Capital and Exploration Expenditures
+On an annual basis, we generally fund most of our capital expenditures, excluding any significant property acquisitions, with cash flow provided by operating activities, and, if required, borrowings under our revolving credit agreement. We budget these expenditures based on our projected cash flows for the year.
+23
+Table of Contents
+The following table presents major components of our capital and exploration expenditures:
+Three Months Ended
+March 31,
+(In millions)
+2026
+2025
+Acquisitions
+Proved oil and gas properties
+$
+—
+$
+2,510
+Unproved oil and gas properties
+—
+1,253
+Gathering and pipeline systems
+—
+333
+$
+—
+$
+4,096
+Capital expenditures:
+Drilling and facilities
+$
+613
+$
+512
+Pipeline and gathering
+30
+29
+Other
+12
+11
+Capital expenditures for drilling, completion and other fixed asset additions
+655
+552
+Capital expenditures for leasehold and property acquisitions
+15
+37
+Exploration expenditures
+(1)
+5
+10
+$
+675
+$
+599
+________________________________________________________
+(1)
+There were no exploratory dry hole costs for the three months ended March 31, 2026 and 2025.
+For the three months ended March 31, 2026, our capital program focused on the Permian Basin, Marcellus Shale and Anadarko Basin, where we drilled 47.6 net wells and turned-in-line 51.4 net wells.
+Contractual Obligations
+We have various contractual obligations in the normal course of our operations. There have been no material changes to our contractual obligations described under “Gathering, Processing and Transportation Agreements,” “Power Purchase Commitments” and “Lease Commitments” as disclosed in Note 8 of the Notes to the Consolidated Financial Statements and the obligations described under “Contractual Obligations” in Item 7 “Management’s Discussion and Analysis of Financial Condition and Results of Operations” included in our Form 10-K.
+Critical Accounting Policies and Estimates
+Our discussion and analysis of our financial condition and results of operations are based on our Condensed Consolidated Financial Statements, which have been prepared in accordance with GAAP. The preparation of these financial statements requires us to make estimates and judgments that affect the reported amounts of assets, liabilities, revenues and expenses. Refer to our Form 10-K for further discussion of our critical accounting policies.
+RESULTS OF OPERATIONS
+First Three Months of 2026 and 2025 Compared
+Operating Revenues
+Three Months Ended
+March 31,
+Variance
+(In millions)
+2026
+2025
+Amount
+Percent
+Oil
+$
+1,043
+$
+886
+$
+157
+18
+%
+Natural gas
+1,110
+898
+212
+24
+%
+NGL
+195
+206
+(11)
+(5)
+%
+Loss on derivative instruments, net
+(434)
+(112)
+(322)
+288
+%
+Other
+33
+26
+7
+27
+%
+$
+1,947
+$
+1,904
+$
+43
+2
+%
+24
+Table of Contents
+Production Revenues
+Our production revenues are derived from sales of our oil, natural gas and NGL production. Increases or decreases in our revenues, profitability and future production growth are highly dependent on the commodity prices we receive, which, as discussed above, fluctuate due to a variety of factors, including supply and demand, the availability of transportation, seasonality and geopolitical, economic and other factors.
+Production and Sales Price
+The following table presents our total and average daily production volumes for oil, natural gas and NGLs, and our average oil, natural gas and NGL sales prices for the periods indicated.
+Three Months Ended
+March 31,
+Variance
+2026
+2025
+Amount
+Percent
+Production Volumes
+Oil (MMBbl)
+14.7
+12.7
+2.0
+16
+%
+Natural gas (Bcf)
+257.9
+273.9
+(16.0)
+(6)
+%
+NGL (MMBbl)
+11.7
+8.8
+2.9
+32
+%
+Equivalents (MMBoe)
+69.4
+67.2
+2.2
+3
+%
+Average Daily Production Volumes
+Oil (MBbl)
+163.7
+141.2
+22.5
+16
+%
+Natural gas (MMcf)
+2,866.0
+3,043.8
+(177.8)
+(6)
+%
+NGL (MBbl)
+129.7
+98.3
+31.4
+32
+%
+Equivalents (MBoe)
+771.0
+746.8
+24.2
+3
+%
+Average Sales Price
+Excluding Derivative Settlements
+Oil ($/Bbl)
+$
+70.79
+$
+69.73
+$
+1.06
+2
+%
+Natural gas ($/Mcf)
+$
+4.30
+$
+3.28
+$
+1.02
+31
+%
+NGL ($/Bbl)
+$
+16.70
+$
+23.23
+$
+(6.53)
+(28)
+%
+Including Derivative Settlements
+Oil ($/Bbl)
+$
+67.28
+$
+69.30
+$
+(2.02)
+(3)
+%
+Natural gas ($/Mcf)
+$
+4.10
+$
+3.21
+$
+0.89
+28
+%
+NGL ($/Bbl)
+$
+16.70
+$
+23.23
+$
+(6.53)
+(28)
+%
+Oil Revenues
+Three Months Ended
+March 31,
+Variance
+Increase
+(Decrease)
+(In millions)
+2026
+2025
+Amount
+Percent
+Volume (MMBbl)
+14.7
+12.7
+2.0
+16
+%
+$
+141
+Price ($/Bbl)
+$
+70.79
+$
+69.73
+$
+1.06
+2
+%
+16
+$
+157
+Oil revenues increased $157 million primarily due to higher production in the Permian Basin and slightly higher oil prices.
+25
+Table of Contents
+Natural Gas Revenues
+Three Months Ended
+March 31,
+Variance
+Increase
+(Decrease)
+(In millions)
+2026
+2025
+Amount
+Percent
+Volume (Bcf)
+257.9
+273.9
+(16.0)
+(6)
+%
+$
+(52)
+Price ($/Mcf)
+$
+4.30
+$
+3.28
+$
+1.02
+31
+%
+264
+$
+212
+Natural gas revenues increased $212 million primarily due to higher natural gas prices and higher production in the Permian and Anadarko Basins, partially offset by lower production in the Marcellus Shale.
+NGL Revenues
+Three Months Ended
+March 31,
+Variance
+Increase
+(Decrease)
+(In millions)
+2026
+2025
+Amount
+Percent
+Volume (MMBbl)
+11.7
+8.8
+2.9
+32
+%
+$
+66
+Price ($/Bbl)
+$
+16.70
+$
+23.23
+$
+(6.53)
+(28)
+%
+(77)
+$
+(11)
+NGL revenues decreased $11 million primarily due to lower NGL prices partially offset by higher volumes in the Permian and Anadarko Basins.
+Loss on Derivative Instruments, Net
+Net gains and losses on our derivative instruments are a function of fluctuations in the underlying commodity index prices as compared to the contracted prices and the monthly cash settlements (if any) of the derivative instruments. We have elected not to designate our derivatives as hedging instruments for accounting purposes and, therefore, we do not apply hedge accounting treatment to our derivative instruments. Consequently, changes in the fair value of our derivative instruments and cash settlements are included as a component of operating revenues as either a net gain or loss on derivative instruments. Cash settlements of our contracts are included in cash flows from operating activities in our statement of cash flows.
+The following table presents the components of “Loss on derivative instruments, net” for the periods indicated:
+Three Months Ended
+March 31,
+(In millions)
+2026
+2025
+Cash paid on settlement of derivative instruments
+Oil contracts
+$
+(52)
+$
+(5)
+Gas contracts
+(53)
+(17)
+Non-cash gain (loss) on derivative instruments
+Oil contracts
+(410)
+5
+Gas contracts
+81
+(95)
+$
+(434)
+$
+(112)
+Operating Costs and Expenses
+Costs associated with producing oil and natural gas are substantial. Among other factors, some of these costs vary with commodity prices, some trend with the volume and commodity mix, some are a function of the number of wells we own and operate, some depend on the prices charged by service companies, and some fluctuate based on a combination of the foregoing. Our costs for services, labor and supplies have modestly declined driven by lower industry activity levels and current oil prices. These savings are being partially offset by tariff impacts that many vendors have faced. In January 2025 with the completion of the FME and Avant acquisitions, we expanded our operations in the Permian Basin.
+26
+Table of Contents
+The table below reflects our operating costs and expenses for the periods indicated, and a discussion of the operating costs and expenses follows:
+Three Months Ended
+March 31,
+Variance
+Per Boe
+(In millions, except per Boe)
+2026
+2025
+Amount
+Percent
+2026
+2025
+Operating Expenses
+Direct operations
+$
+291
+$
+216
+$
+75
+35
+%
+$
+4.19
+$
+3.21
+Gathering, processing and transportation
+267
+282
+(15)
+(5)
+%
+3.84
+4.20
+Taxes other than income
+101
+96
+5
+5
+%
+1.46
+1.43
+Exploration
+5
+10
+(5)
+(50)
+%
+0.07
+0.15
+Depreciation, depletion and amortization
+555
+506
+49
+10
+%
+8.00
+7.53
+General and administrative
+79
+92
+(13)
+(14)
+%
+1.14
+1.37
+$
+1,298
+$
+1,202
+$
+96
+8
+%
+$
+18.70
+$
+17.89
+Direct Operations
+Direct operations generally consist of costs for labor, equipment, maintenance, saltwater disposal, compression, power, treating and miscellaneous other costs (collectively, “lease operating expense”). Direct operations also include well workover activity necessary to maintain production from existing wells.
+Direct operations expense consisted of lease operating expense and workover expense as follows:
+Three Months Ended
+March 31,
+Per Boe
+(In millions, except per Boe)
+2026
+2025
+Variance
+2026
+2025
+Direct Operations
+Lease operating expense
+$
+235
+$
+189
+$
+46
+$
+3.38
+$
+2.81
+Workover expense
+56
+27
+29
+0.81
+0.40
+$
+291
+$
+216
+$
+75
+$
+4.19
+$
+3.21
+Lease operating expense increased primarily due to higher production levels and higher costs in the Permian Basin driven in part by the FME and Avant acquisitions, which have higher lifting costs than our legacy wells.
+Workover expense increased by $29 million primarily due to higher expense related to the FME and Avant acquisitions and higher workover activity in the Permian Basin.
+Gathering, Processing and Transportation
+Gathering, processing and transportation costs principally consist of expenditures to prepare and transport production downstream from the wellhead, including gathering, fuel, and compression, along with processing costs, which are incurred to extract NGLs from the raw natural gas stream. Gathering costs also include costs associated with operating our gas gathering infrastructure, including operating and maintenance expenses. Costs vary by operating area and will fluctuate with increases or decreases in production volumes, contractual fees, and changes in fuel and compression costs.
+Gathering, processing and transportation costs decreased $15 million primarily due to lower production in the Marcellus Shale.
+Taxes Other Than Income
+Taxes other than income consist of production (or severance) taxes, drilling impact fees, ad valorem taxes and other taxes. State and local taxing authorities assess these taxes, with production taxes being based on the volume or value of production, drilling impact fees being based on drilling activities and prevailing natural gas prices and ad valorem taxes being based on the value of properties.
+27
+Table of Contents
+The following table presents taxes other than income for the periods indicated:
+Three Months Ended
+March 31,
+(In millions)
+2026
+2025
+Variance
+Taxes Other than Income
+Production
+$
+83
+$
+79
+$
+4
+Drilling impact fees
+6
+5
+1
+Ad valorem
+12
+12
+—
+$
+101
+$
+96
+$
+5
+Production taxes as percentage of revenue (Permian and Anadarko Basins)
+6.3
+%
+6.3
+%
+Taxes other than income increased $5 million primarily due to an increase in our production taxes as a result of higher production due to the FME and Avant acquisitions in the Permian Basin that closed in January 2025 and higher production from our legacy properties in the Permian and Anadarko Basins.
+Depreciation, Depletion and Amortization (“DD&A”)
+DD&A expense consisted of the following for the periods indicated:
+Three Months Ended
+March 31,
+Per BOE
+(In millions, except per BOE)
+2026
+2025
+Variance
+2026
+2025
+DD&A Expense
+Depletion
+$
+520
+$
+467
+$
+53
+$
+7.49
+$
+6.95
+Depreciation
+21
+23
+(2)
+0.31
+0.35
+Amortization of unproved properties
+11
+13
+(2)
+0.16
+0.19
+Accretion of ARO
+3
+3
+—
+0.04
+0.04
+$
+555
+$
+506
+$
+49
+$
+8.00
+$
+7.53
+Depletion of our producing properties is computed on a field basis using the units-of-production method under the successful efforts method of accounting. The economic life of each producing property depends upon the estimated proved reserves for that property, which in turn depend upon the assumed realized sales price for future production. Therefore, fluctuations in oil and natural gas prices will impact the level of proved developed and proved reserves used in the calculation. Higher prices generally have the effect of increasing reserves, which reduces depletion expense. Conversely, lower prices generally have the effect of decreasing reserves, which increases depletion expense. The cost of replacing production also impacts our depletion expense. In addition, changes in estimates of reserve quantities, estimates of operating and future development costs, reclassifications of properties from unproved to proved and impairments of oil and gas properties will impact depletion expense. Our depletion expense increased $53 million primarily due to a higher depletion rate and an increase in production. Our depletion rate increased primarily due to a shift in our production mix to fields with higher depletion rates and changes in our year-end reserves estimates.
+Fixed assets consist primarily of gas gathering facilities, water infrastructure, buildings, vehicles, aircraft, furniture and fixtures and computer equipment and software. These items are recorded at cost and are depreciated on the straight-line method based on expected lives of the individual assets, which range from three to 30 years. Also included in our depreciation expense is the depreciation of the right-of-use asset associated with our finance lease gathering system, which ended in 2025.
+Unproved properties are amortized based on our drilling experience and our expectation of converting our unproved leaseholds to proved properties. The rate of amortization depends on the timing and success of our exploration and development program. If development of unproved properties is deemed unsuccessful, and the properties are abandoned or surrendered, the capitalized costs are expensed in the period the determination is made.
+General and Administrative (“G&A”)
+G&A expense consists primarily of salaries and related benefits, stock-based compensation, office rent, legal and consulting fees, systems costs and other administrative costs incurred.
+28
+Table of Contents
+The table below reflects our G&A expense for the periods indicated:
+Three Months Ended
+March 31,
+(In millions)
+2026
+2025
+Variance
+G&A Expense
+General and administrative expense
+$
+60
+$
+76
+$
+(16)
+Stock-based compensation expense
+19
+16
+3
+$
+79
+$
+92
+$
+(13)
+G&A expense, excluding stock-based compensation expense, decreased $16 million primarily due to acquisition and transition costs associated with the FME and Avant acquisitions completed in January 2025.
+Stock-based compensation expense will fluctuate based on the grant date fair value of awards, the number of awards, the requisite service period of the awards, estimated employee forfeitures, and the timing of the awards.
+Interest Expense
+The table below reflects our interest expense for the periods indicated:
+Three Months Ended
+March 31,
+(In millions)
+2026
+2025
+Variance
+Interest Expense
+Interest expense
+$
+46
+$
+55
+$
+(9)
+Debt premium and discount amortization, net
+(6)
+(5)
+(1)
+Debt issuance cost amortization
+1
+2
+(1)
+Other
+5
+1
+4
+$
+46
+$
+53
+$
+(7)
+Interest expense decreased $7 million primarily due to lower interest expense on our term loans which were repaid throughout 2025 and early 2026. This decrease was partially offset by an increase of $4 million of other interest mainly due to assessments arising from the timing of certain regulatory and tax filings in 2026.
+Interest Income
+Interest income decreased $5 million due to lower cash balances during 2026 compared to 2025.
+Income Tax Expense
+Three Months Ended
+March 31,
+(In millions)
+2026
+2025
+Variance
+Income Tax Expense
+Current tax expense
+$
+114
+$
+130
+$
+(16)
+Deferred tax expense
+23
+11
+12
+$
+137
+$
+141
+$
+(4)
+Combined federal and state effective income tax rate
+22.7
+%
+21.4
+%
+Income tax expense decreased $4 million for the three months ended March 31, 2026 compared to the three months ended March 31, 2025 primarily due to lower pre-tax income partially offset by a higher effective tax rate. The effective tax rate increased due to differences in permanent book-to-tax adjustments and non-recurring discrete items recorded during the three months ended March 31, 2026 and 2025.
+29
+Table of Contents
+Forward-Looking Information
+This report includes forward-looking statements within the meaning of federal securities laws. All statements, other than statements of historical fact, included in this report are forward-looking statements. Such forward-looking statements include, but are not limited to, statements regarding future financial and operating performance and results, strategic pursuits and goals, market prices, future hedging and risk management activities, the impact of tariffs, timing and amount of capital expenditures, the anticipated benefits of the Merger (as defined above) involving us and Devon Energy Corporation (“Devon”), the anticipated impact of the Merger on the combined business and future financial and operating results, the expected amount and timing of synergies from the Merger, the anticipated timing of the closing of the Merger transaction and other statements that are not historical facts contained in this report. The words “expect,” “project,” “estimate,” “believe,” “anticipate,” “intend,” “budget,” “plan,” “forecast,” “target,” “predict,” “potential,” “possible,” “may,” “should,” “could,” “would,” “will,” “strategy,” “outlook” and similar expressions are also intended to identify forward-looking statements. We can provide no assurance that the forward-looking statements contained in this report will occur as expected, and actual results may differ materially from those included in this report. Forward-looking statements are based on current expectations and assumptions that involve a number of risks and uncertainties that could cause actual results to differ materially from those included in this report. These risks and uncertainties include, without limitation, the availability of cash on hand and other sources of liquidity to fund our capital expenditures, changes in U.S. and international economic policy (including tariffs and retaliatory tariffs and the impacts thereof), actions by, or disputes among or between, members of OPEC+, market factors, market prices (including geographic basis differentials) of oil and natural gas and the impacts thereof (including downward adjustments to our estimated proved reserves and potential impairment charges), impacts of inflation and tariff policies, labor shortages and economic disruption, geopolitical disruptions such as the war in Ukraine or the conflict in the Middle East or Venezuela, or further escalation thereof, results of future drilling and marketing activities, the risk that an event, change or other circumstances could give rise to the termination of the Merger Agreement (as defined above), the risk that a condition to closing of the Merger (including obtaining required regulatory approvals) may not be satisfied on a timely basis or at all, the length of time necessary to close the Merger, the risk that the businesses will not be integrated as described in the Merger Agreement, the risk that cost savings and any other synergies form the transaction may not be fully realized or may take longer to realize than expected, the risk that disruptions form the Merger will harm our business, including current plans and operations that management’s time and attention will be diverted on Merger-related issues, potential adverse reactions or changes to business relationships resulting from the announcement, pendency or completion of the Merger, potential litigation relating to the Merger that could be instituted against us or our directors or officers, legislative and regulatory initiatives, electronic, cyber or physical security breaches, the impact of public health crises, including pandemics and epidemics and any related company or governmental policies or actions, and other factors detailed herein and in our other SEC filings. Refer to “Risk Factors” in Item 1A of Part I of our Form 10-K for additional information about these risks and uncertainties. Forward-looking statements are based on the estimates and opinions of management at the time the statements are made. Except to the extent required by applicable law, we undertake no obligation to update or revise any forward-looking statement, whether as a result of new information, future events or otherwise. You are cautioned not to place undue reliance on these forward-looking statements, which speak only as of the date hereof.
+Investors should note that we announce material financial information in SEC filings, press releases and public conference calls. Based on guidance from the SEC, we may use the Investors section of our website (www.coterra.com) to communicate with investors. It is possible that the financial and other information posted there could be deemed to be material information. The information on our website is not part of, and is not incorporated into, this report.
+ITEM 3. Quantitative and Qualitative Disclosures about Market Risk
+In the normal course of business, we are subject to a variety of risks, including market risks associated with changes in commodity prices and interest rate movements on outstanding debt. Except as otherwise indicated, the following quantitative and qualitative information is provided about financial instruments to which we were party as of March 31, 2026 and from which we may incur future gains or losses from changes in commodity prices or interest rates.
+Commodity Price Risk
+Our most significant market risk exposure is pricing applicable to our oil, natural gas and NGL production. Realized prices are mainly driven by the worldwide price for oil and spot market prices for North American natural gas and NGL production. As noted above, these prices have been volatile and unpredictable. To mitigate the volatility in commodity prices, we may enter into derivative instruments to hedge a portion of our production.
+Derivative Instruments and Risk Management Activities
+Our commodity price risk management strategy is designed to reduce the risk of commodity price volatility for our production in the oil and natural gas markets through the use of financial commodity derivatives. A committee that consists of members of senior management oversees these risk management activities. Our financial commodity derivatives generally
+30
+Table of Contents
+cover a portion of our production and, while protecting us in the event of price declines, limit the benefit to us in the event of price increases. Further, if any of our counterparties defaulted, this protection might be limited as we might not receive the full benefit of our financial commodity derivatives. Please read the discussion below as well as Note 5 in this Form 10-Q and Note 5 of the Notes to the Consolidated Financial Statements in our Form 10-K for a more detailed discussion of our derivatives.
+Periodically, we enter into financial commodity derivatives, including collar, swap and basis swap agreements, to protect against exposure to commodity price declines. All of our financial derivatives are used for risk management purposes and are not held for trading purposes. Under the collar agreements, if the index price rises above the ceiling price, we pay the counterparty. If the index price falls below the floor price, the counterparty pays us. Under the swap agreements, we receive a fixed price on a notional quantity of natural gas in exchange for paying a variable price based on a market-based index.
+As of March 31, 2026, we had the following outstanding financial commodity derivatives:
+2026
+2027
+Fair Value Asset (Liability)
+(In millions)
+Oil
+Second Quarter
+Third Quarter
+Fourth Quarter
+First Quarter
+Second Quarter
+Third Quarter
+Fourth Quarter
+WTI oil collars
+$
+(267)
+Volume (MBbl)
+7,462
+7,544
+8,004
+3,600
+2,730
+2,760
+2,760
+Weighted average floor ($/Bbl)
+$
+56.46
+$
+56.10
+$
+56.38
+$
+56.25
+$
+60.00
+$
+60.00
+$
+60.00
+Weighted average ceiling ($/Bbl)
+$
+72.60
+$
+72.18
+$
+73.99
+$
+80.63
+$
+86.23
+$
+84.20
+$
+82.50
+WTI-NYMEX oil swaps
+(40)
+Volume (MBbl)
+910
+920
+920
+—
+—
+—
+—
+Weighted average price ($/Bbl)
+$
+66.14
+$
+66.14
+$
+66.14
+$
+—
+$
+—
+$
+—
+$
+—
+WTI Midland oil basis swaps
+(17)
+Volume (MBbl)
+7,280
+7,360
+8,004
+3,600
+2,730
+2,760
+2,760
+Weighted average differential ($/Bbl)
+$
+0.96
+$
+0.95
+$
+0.96
+$
+1.00
+$
+1.05
+$
+1.05
+$
+1.05
+31
+Table of Contents
+2026
+2027
+Fair Value Asset (Liability)
+(In millions)
+Natural Gas
+Second Quarter
+Third Quarter
+Fourth Quarter
+First Quarter
+Second Quarter
+Third Quarter
+Fourth Quarter
+NYMEX gas collars
+$
+95
+Volume (MMBtu)
+81,900,000
+82,800,000
+82,800,000
+34,200,000
+34,580,000
+34,960,000
+34,960,000
+Weighted average floor ($/MMBtu)
+$
+3.39
+$
+3.39
+$
+3.39
+$
+3.08
+$
+3.08
+$
+3.08
+$
+3.08
+Weighted average ceiling ($/MMBtu)
+$
+5.61
+$
+5.61
+$
+5.61
+$
+5.65
+$
+5.65
+$
+5.65
+$
+5.65
+Transco Leidy gas basis swaps
+6
+Volume (MMBtu)
+22,750,000
+23,000,000
+23,000,000
+2,025,000
+2,047,500
+2,070,000
+2,070,000
+Weighted average differential ($/MMBtu)
+$
+(0.78)
+$
+(0.78)
+$
+(0.78)
+$
+(0.65)
+$
+(0.65)
+$
+(0.65)
+$
+(0.65)
+Transco Zone 6 Non-NY gas basis swaps
+27
+Volume (MMBtu)
+22,750,000
+23,000,000
+23,000,000
+13,500,000
+13,650,000
+13,800,000
+13,800,000
+Weighted average differential ($/MMBtu)
+$
+(0.16)
+$
+(0.16)
+$
+(0.16)
+$
+0.35
+$
+0.35
+$
+0.35
+$
+0.35
+Waha gas basis swaps
+103
+Volume (MMBtu)
+18,200,000
+18,400,000
+18,400,000
+9,450,000
+9,555,000
+9,660,000
+9,660,000
+Weighted average differential ($/MMBtu)
+$
+(1.92)
+$
+(1.92)
+$
+(1.92)
+$
+(1.30)
+$
+(1.30)
+$
+(1.30)
+$
+(1.30)
+In April 2026, we entered into the following financial commodity derivatives:
+2027
+Natural Gas
+First Quarter
+Second Quarter
+Third Quarter
+Fourth Quarter
+Transco Leidy gas basis swaps
+Volume (MMBtu)
+2,250,000
+2,275,000
+2,300,000
+2,300,000
+Weighted average differential ($/MMBtu)
+$
+(0.65)
+$
+(0.65)
+$
+(0.65)
+$
+(0.65)
+Waha gas basis swaps
+Volume (MMBtu)
+2,250,000
+2,275,000
+2,300,000
+2,300,000
+Weighted average differential ($/MMBtu)
+$
+(1.29)
+$
+(1.29)
+$
+(1.29)
+$
+(1.29)
+A significant portion of our expected oil and natural gas production for the remainder of 2026 and beyond is currently unhedged and directly exposed to the volatility in oil and natural gas prices, whether favorable or unfavorable.
+During the three months ended March 31, 2026, oil collars with floor prices ranging from $50.00 to $65.00 per Bbl and ceiling prices ranging from $67.40 to $80.85 per Bbl covered 4.9 MMBbls, or 33 percent, of our oil production at a weighted-average price of $67.92 per Bbl. Oil swaps covered 0.9 MMBbls, or 6 percent, of our oil production at a weighted-average price of $66.14 per Bbl. Oil basis swaps covered 4.5 MMBbls, or 31 percent, of our oil production at a weighted-average differential of $0.97 per Bbl.
+During the three months ended March 31, 2026, natural gas collars with floor prices ranging from $2.75 to $3.75 per MMBtu and ceiling prices ranging from $5.00 to $8.30 per MMBtu covered 104.9 Bcf, or 41 percent of our natural gas production at a weighted-average price of $4.61 per MMBtu. Gas basis swaps covered 58.2 Bcf, or 23 percent of natural gas production at a weighted-average differential of $(0.89) per MMBtu.
+32
+Table of Contents
+We are exposed to market risk on financial commodity derivative instruments to the extent of changes in market prices of the related commodity. However, the market risk exposure on these derivative contracts is generally offset by the gain or loss recognized upon the ultimate sale of the commodity. Although notional contract amounts are used to express the volume of oil and natural gas agreements, the amounts that can be subject to credit risk in the event of non-performance by third parties are substantially smaller. Our counterparties are primarily commercial banks and financial service institutions that our management believes present minimal credit risk, and our derivative contracts are with multiple counterparties to minimize our exposure to any individual counterparty. We perform both quantitative and qualitative assessments of these counterparties based on their credit ratings and credit default swap rates where applicable. We have not incurred any losses related to non-performance risk of our counterparties, and we do not anticipate any material impact on our financial results due to non-performance by third parties. However, we cannot be certain that we will not experience such losses in the future.
+Interest Rate Risk
+As of March 31, 2026, we had total debt of $3.5 billion. Our debt portfolio includes floating rate debt and fixed-rate instruments. Our revolving credit agreement borrowings are floating rate debt instruments, which exposes us to the risk of earnings or cash flow losses as the result of potential increases in market interest rates.
+There are no “rating triggers” in any of our debt agreements that would accelerate the scheduled maturities. Should our credit rating fall below a certain level, a change in our credit rating could adversely impact our interest rate on any borrowings under our revolving credit agreement. As of the date hereof, our debt is currently rated as investment grade by the three leading ratings agencies. For more on the impact of credit ratings on our interest rates, see Note 4 of the Notes to the Consolidated Financial Statements in our Form 10-K.
+As of March 31, 2026, we had no outstanding balance under our revolving credit agreement and $3.5 billion outstanding borrowings under fixed-rate debt instruments, which do not carry significant exposure to movements in market interest rates.
+Fair Value of Other Financial Instruments
+The estimated fair value of other financial instruments is the amount at which the instrument could be exchanged currently between willing parties. The carrying amounts reported in the Condensed Consolidated Balance Sheet for cash, cash equivalents and restricted cash approximate fair value due to the short-term maturities of these instruments.
+The fair value of our senior notes is based on quoted market prices. The fair value of our private placement senior notes is based on third-party quotes which are derived from credit spreads for the difference between the issue rate and the period end market rate and other unobservable inputs. The fair value of the borrowing under our term loan approximates the carrying value as the interest rates are variable and reflective of market rates.
+The carrying amount and estimated fair value of debt are as follows:
+March 31, 2026
+December 31, 2025
+(In millions)
+Carrying
+Amount
+Estimated Fair
+Value
+Carrying
+Amount
+Estimated Fair
+Value
+Long-term debt
+$
+3,513
+$
+3,475
+$
+3,818
+$
+3,798
+Current maturities
+(250)
+(249)
+(250)
+(249)
+Long-term debt, excluding current maturities
+$
+3,263
+$
+3,226
+$
+3,568
+$
+3,549
+ITEM 4. Controls and Procedures
+As of March 31, 2026, the Company carried out an evaluation, under the supervision and with the participation of the Company’s management, including the Company’s Chief Executive Officer and Chief Financial Officer, of the effectiveness of the design and operation of the Company’s disclosure controls and procedures pursuant to Rules 13a-15 and 15d-15 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”). Based upon that evaluation, the Chief Executive Officer and Chief Financial Officer concluded that the Company’s disclosure controls and procedures are effective to provide reasonable assurance with respect to the recording, processing, summarizing and reporting, within the time periods specified in the SEC’s rules and forms, of information required to be disclosed by the Company in the reports that it files or submits under the Exchange Act.
+There were no changes in the Company’s internal control over financial reporting that occurred during the first quarter of 2026 that have materially affected, or are reasonably likely to materially affect, the Company’s internal control over financial reporting.
+33
+Table of Contents
+PART II. OTHER INFORMATION
+ITEM 1. Legal Proceedings
+Legal Matters
+The information set forth under the heading “Legal Matters” in Note 8 of the Notes to Condensed Consolidated Financial Statements included in this Form 10-Q is incorporated by reference in response to this item.
+Governmental Proceedings
+From time-to-time, we receive notices of violation from governmental and regulatory authorities, including notices relating to alleged violations of environmental statutes or the rules and regulations promulgated thereunder. While we cannot predict with certainty whether these notices of violation will result in fines, penalties or both, if fines or penalties are imposed, they may result in monetary sanctions, individually or in the aggregate, in excess of a specified threshold. We have elected to use a $1 million threshold for disclosing governmental proceedings of this nature. We believe proceedings under this threshold are not material to our business and financial condition.
+In June 2023, we received a Notice of Violation and Opportunity to Confer (“NOVOC”) from the U.S. Environmental Protection Agency (“EPA”) alleging violations of the Clean Air Act, the Texas State Implementation Plan, the New Mexico State Implementation Plan (“NMSIP”) and certain other state and federal regulations pertaining to Company facilities in Texas and New Mexico. Separately, in July 2023, we received a letter from the U.S. Department of Justice that the EPA has referred this NOVOC for civil enforcement proceedings. In August 2023, we received a second NOVOC from the EPA alleging violations of the Clean Air Act, the NMSIP, and certain other state and federal regulations pertaining to Company facilities in New Mexico. We have exchanged information with the EPA and continue to engage in discussions aimed at resolving the allegations. At this time we are unable to predict with certainty the financial impact of these NOVOCs or the timing of any resolution. However, any enforcement action related to these NOVOCs will likely result in fines or penalties, or both, and corrective actions, which may increase our development costs and operating costs. We believe that any fines, penalties, or corrective actions that may result from these matters will not have a material effect on our financial position, results of operations, or cash flows.
+ITEM 1A. Risk Factors
+For additional information about the risk factors that affect us, see Item 1A of Part I of our Form 10-K.
+ITEM 2. Unregistered Sales of Equity Securities and Use of Proceeds
+Issuer Purchases of Equity Securities
+Share repurchase activity during the quarter ended March 31, 2026 was as follows:
+Period
+Total Number of Shares Purchased
+(In thousands)
+Average Price Paid per Share
+Total Number of Shares Purchased as Part of Publicly Announced Plans or Programs
+(In thousands)
+(1)
+Maximum Approximate Dollar Value of Shares That May Yet Be Purchased Under the Plans or Programs
+(In millions)
+January 2026
+1,236
+$
+25.88
+1,236
+$
+953
+February 2026
+—
+$
+—
+—
+$
+953
+March 2026
+—
+$
+—
+—
+$
+953
+1,236
+1,236
+_______________________________________________________________________________
+(1)    All purchases during the covered periods were made under the share repurchase program, which was approved by our Board of Directors in February 2023 and which authorized the repurchase of up to $2.0 billion of our common stock. The share repurchase program does not have an expiration date. Purchases were made under terms intended to qualify for exemption under Rules 10b-18 and 10b5-1.
+34
+Table of Contents
+ITEM 5. Other Information
+Trading Plan Arrangements
+During the three months ended March 31, 2026, no director or officer of the Company
+adopted
+or
+terminated
+a “Rule 10b5-1 trading arrangement” or “non-Rule 10b5-1 trading arrangement,” as each term is defined in Item 408 of Regulation S-K.
+35
+Table of Contents
+ITEM 6. Exhibits
+Index to Exhibits
+Exhibit
+Number
+Description
+2.1
+Agreement and Plan of Merger, dated as of February 1, 2026, by and among Coterra Energy Inc., Devon Energy Corporation, and Cubs Merger Sub, Inc. (incorporated herein by reference to Exhibit 2.1 of Coterra’s Current Report on Form 8-K filed with the SEC on February 2, 2026).
+3.1
+Amended and Restated Certificate of Incorporation of Coterra Energy Inc. (incorporated herein by reference to Exhibit 3.1 of Coterra’s Current Report on Form 8-K filed with the SEC on May 2, 2024).
+3.2
+Amended and Restated Bylaws of Coterra Energy Inc. (incorporated herein by reference to Exhibit 3.2 of Coterra's Quarterly Report on Form 10-Q for the fiscal quarter ended June 30, 2025).
+4.1
+Certificate of Designations to 8 1⁄8% Series A Cumulative Perpetual Convertible Preferred Stock of Cimarex Energy Co. (incorporated herein by reference to Exhibit 4.3 of Coterra’s Annual Report on Form 10-K filed with the SEC on March 1, 2022).
+4.2
+Amendment to Certificate of Designations to 8 1/8% Series A Cumulative Perpetual Convertible Preferred Stock of Cimarex Energy Co. (incorporated herein by reference to Exhibit 4.4 of Coterra’s Annual Report on Form 10-K filed with the SEC on March 1, 2022).
+4.3
+Amendment to Certificate of Designations to 8 1/8% Series A Cumulative Perpetual Convertible Preferred Stock of Cimarex Energy Co. (incorporated herein by reference to Exhibit 4.3 of Coterra’s Quarterly Report on Form 10-Q for the fiscal quarter ended March 31, 2022)
+.
+*10.1
+Amended and Restated Severance Compensation Agreement, dated as of January 31, 2026, by and between Coterra Energy Inc. and Thomas E. Jorden (incorporated herein by reference to Exhibit 10.1 of Coterra’s Current Report on Form 8-K filed with the SEC on February 2, 2026).
+*10.2
+Form of Amended and Restated Severance Compensation Agreement between Coterra Energy Inc. and certain officers (incorporated herein by reference to Exhibit 10.2 of Coterra’s Current Report on Form 8-K filed with the SEC on February 2, 2026).
+**31.1
+302 Certification — Chairman, President and Chief Executive Officer.
+**31.2
+302 Certification — Executive Vice President and Chief Financial Officer.
+**32.1
+906 Certification.
+101.INS
+Inline XBRL Instance Document. The instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document.
+101.SCH
+Inline XBRL Taxonomy Extension Schema Document.
+101.CAL
+Inline XBRL Taxonomy Extension Calculation Linkbase Document.
+101.DEF
+Inline XBRL Taxonomy Extension Definition Linkbase Document.
+101.LAB
+Inline XBRL Taxonomy Extension Label Linkbase Document.
+101.PRE
+Inline XBRL Taxonomy Extension Presentation Linkbase Document.
+104
+Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101).
+*    Compensatory plan, contract or arrangement.
+**    Filed herewith.
+36
+Table of Contents
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+COTERRA ENERGY INC.
+(Registrant)
+May 6, 2026
+By:
+/s/ THOMAS E. JORDEN
+Thomas E. Jorden
+Chairman, Chief Executive Officer and President
+(Principal Executive Officer)
+May 6, 2026
+By:
+/s/ SHANNON E. YOUNG III
+Shannon E. Young III
+Executive Vice President and Chief Financial Officer
+(Principal Financial Officer)
+May 6, 2026
+By:
+/s/ GREGORY F. CONAWAY
+Gregory F. Conaway
+Vice President and Chief Accounting Officer
+(Principal Accounting Officer)
+37

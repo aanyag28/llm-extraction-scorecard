@@ -1,0 +1,31 @@
+Here are the extracted metrics for the reporting period covered by this filing (**Quarter ended June 30, 2026**):
+
+---
+
+### **Metric 1: Total Revenue**
+* **Metric:** Total Revenue
+* **Exact Amount:** $5,562 million
+* **Unit:** Millions of USD
+* **Reporting Period:** Three months ended June 30, 2026
+* **Section/Table:** Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations – Results of Operations
+* **Source:** Form 10-Q for the quarter ended June 30, 2026 (Sum of oil, natural gas, and NGL sales of $4,786 million + sales of purchased oil of $739 million + other operating income of $37 million; for the six months ended June 30, 2026, total revenue was $9,802 million).
+
+---
+
+### **Metric 2: Total Production Volume**
+* **Metric:** Total Production Volume
+* **Exact Amount:** 92,607 MBOE
+* **Unit:** MBOE
+* **Reporting Period:** Three months ended June 30, 2026
+* **Section/Table:** Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations – Results of Operations (Production Data Table)
+* **Source:** Form 10-Q for the quarter ended June 30, 2026 (Combined production volume reported as 92,607 MBOE for the three months ended June 30, 2026; total production volume for the six months ended June 30, 2026 was 180,749 MBOE).
+
+---
+
+### **Metric 3: Capital Expenditures**
+* **Metric:** Capital Expenditures
+* **Exact Amount:** $996 million
+* **Unit:** Millions of USD
+* **Reporting Period:** Three months ended June 30, 2026
+* **Section/Table:** Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations – Second Quarter 2026 Financial and Operating Highlights / Capital Expenditure Activities
+* **Source:** Form 10-Q for the quarter ended June 30, 2026 (Cash capital expenditures, excluding acquisitions, of $996 million for the second quarter of 2026; for the six months ended June 30, 2026, total cash capital expenditures were $1,929 million).

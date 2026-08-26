@@ -1,0 +1,30 @@
+**1. TOTAL REVENUE**
+
+Metric: Total Revenue  
+Exact Amount: $671,637 thousand (or $671,637,000)  
+Unit: USD (in thousands)  
+Reporting Period: Three months ended March 31, 2026  
+Section/Table: Condensed Consolidated Statements of Operations — Unaudited  
+Source: Part I, Item 1. Financial Statements — Unaudited — Condensed Consolidated Statements of Operations  
+
+---
+
+**2. TOTAL PRODUCTION VOLUME**
+
+Metric: Total Production Volume  
+Exact Amount: TOTAL PRODUCTION = 18,683 MBOE  
+Unit: MBOE  
+Reporting Period: Three months ended March 31, 2026  
+Section/Table: Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations — Results of Operations — Revenues (Operating Data)  
+Source: Part I, Item 2. MD&A — Net Production Volumes Table  
+
+---
+
+**3. CAPITAL EXPENDITURES**
+
+Metric: Capital Expenditures  
+Exact Amount: $458,556 thousand (comprising $364,521 thousand for drilling, completion and equipping capital expenditures; $21,501 thousand for midstream capital expenditures; $71,280 thousand for expenditures for other property and equipment; and $1,254 thousand for acquisition of oil and natural gas properties)  
+Unit: USD (in thousands)  
+Reporting Period: Three months ended March 31, 2026  
+Section/Table: Condensed Consolidated Statements of Cash Flows — Unaudited (Investing Activities)  
+Source: Part I, Item 1. Financial Statements — Unaudited — Condensed Consolidated Statements of Cash Flows

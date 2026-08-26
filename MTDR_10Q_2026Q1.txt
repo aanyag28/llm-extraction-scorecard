@@ -1,0 +1,4185 @@
+0001520006
+false
+2026
+Q1
+December 31
+http://www.matadorresources.com/20260331#OpenBasisSwapContractsMember
+http://fasb.org/us-gaap/2025#DerivativeAssetsCurrent
+http://fasb.org/us-gaap/2025#DerivativeAssetsCurrent
+http://fasb.org/us-gaap/2025#OtherLiabilitiesCurrent
+http://fasb.org/us-gaap/2025#OtherLiabilitiesCurrent
+xbrli:shares
+iso4217:USD
+iso4217:USD
+xbrli:shares
+xbrli:pure
+utr:D
+utr:bbl
+iso4217:USD
+utr:bbl
+utr:MMBTU
+iso4217:USD
+utr:MMBTU
+mtdr:segment
+0001520006
+2026-01-01
+2026-03-31
+0001520006
+2026-05-06
+0001520006
+2026-03-31
+0001520006
+2025-12-31
+0001520006
+us-gaap:OilAndGasMember
+2026-01-01
+2026-03-31
+0001520006
+us-gaap:OilAndGasMember
+2025-01-01
+2025-03-31
+0001520006
+us-gaap:NaturalGasMidstreamMember
+2026-01-01
+2026-03-31
+0001520006
+us-gaap:NaturalGasMidstreamMember
+2025-01-01
+2025-03-31
+0001520006
+mtdr:NaturalGasSalesMember
+2026-01-01
+2026-03-31
+0001520006
+mtdr:NaturalGasSalesMember
+2025-01-01
+2025-03-31
+0001520006
+2025-01-01
+2025-03-31
+0001520006
+us-gaap:CommonStockMember
+2025-12-31
+0001520006
+us-gaap:AdditionalPaidInCapitalMember
+2025-12-31
+0001520006
+us-gaap:RetainedEarningsMember
+2025-12-31
+0001520006
+us-gaap:TreasuryStockCommonMember
+2025-12-31
+0001520006
+us-gaap:ParentMember
+2025-12-31
+0001520006
+us-gaap:NoncontrollingInterestMember
+2025-12-31
+0001520006
+us-gaap:RetainedEarningsMember
+2026-01-01
+2026-03-31
+0001520006
+us-gaap:ParentMember
+2026-01-01
+2026-03-31
+0001520006
+us-gaap:CommonStockMember
+2026-01-01
+2026-03-31
+0001520006
+us-gaap:AdditionalPaidInCapitalMember
+2026-01-01
+2026-03-31
+0001520006
+us-gaap:TreasuryStockCommonMember
+2026-01-01
+2026-03-31
+0001520006
+us-gaap:NoncontrollingInterestMember
+2026-01-01
+2026-03-31
+0001520006
+us-gaap:CommonStockMember
+2026-03-31
+0001520006
+us-gaap:AdditionalPaidInCapitalMember
+2026-03-31
+0001520006
+us-gaap:RetainedEarningsMember
+2026-03-31
+0001520006
+us-gaap:TreasuryStockCommonMember
+2026-03-31
+0001520006
+us-gaap:ParentMember
+2026-03-31
+0001520006
+us-gaap:NoncontrollingInterestMember
+2026-03-31
+0001520006
+us-gaap:CommonStockMember
+2024-12-31
+0001520006
+us-gaap:AdditionalPaidInCapitalMember
+2024-12-31
+0001520006
+us-gaap:RetainedEarningsMember
+2024-12-31
+0001520006
+us-gaap:TreasuryStockCommonMember
+2024-12-31
+0001520006
+us-gaap:ParentMember
+2024-12-31
+0001520006
+us-gaap:NoncontrollingInterestMember
+2024-12-31
+0001520006
+2024-12-31
+0001520006
+us-gaap:RetainedEarningsMember
+2025-01-01
+2025-03-31
+0001520006
+us-gaap:ParentMember
+2025-01-01
+2025-03-31
+0001520006
+us-gaap:CommonStockMember
+2025-01-01
+2025-03-31
+0001520006
+us-gaap:AdditionalPaidInCapitalMember
+2025-01-01
+2025-03-31
+0001520006
+us-gaap:TreasuryStockCommonMember
+2025-01-01
+2025-03-31
+0001520006
+us-gaap:NoncontrollingInterestMember
+2025-01-01
+2025-03-31
+0001520006
+us-gaap:CommonStockMember
+2025-03-31
+0001520006
+us-gaap:AdditionalPaidInCapitalMember
+2025-03-31
+0001520006
+us-gaap:RetainedEarningsMember
+2025-03-31
+0001520006
+us-gaap:TreasuryStockCommonMember
+2025-03-31
+0001520006
+us-gaap:ParentMember
+2025-03-31
+0001520006
+us-gaap:NoncontrollingInterestMember
+2025-03-31
+0001520006
+2025-03-31
+0001520006
+mtdr:OilRevenuesMember
+2026-01-01
+2026-03-31
+0001520006
+mtdr:OilRevenuesMember
+2025-01-01
+2025-03-31
+0001520006
+mtdr:NaturalGasRevenuesMember
+2026-01-01
+2026-03-31
+0001520006
+mtdr:NaturalGasRevenuesMember
+2025-01-01
+2025-03-31
+0001520006
+us-gaap:LetterOfCreditMember
+mtdr:CreditAgreementMember
+2026-03-31
+0001520006
+us-gaap:LetterOfCreditMember
+mtdr:CreditAgreementMember
+2025-12-31
+0001520006
+us-gaap:LineOfCreditMember
+mtdr:SanMateoCreditFacilityMember
+2026-03-31
+0001520006
+us-gaap:LineOfCreditMember
+mtdr:SanMateoCreditFacilityMember
+2025-12-31
+0001520006
+mtdr:SeniorNotesDue2028Member
+us-gaap:UnsecuredDebtMember
+2026-03-31
+0001520006
+mtdr:SeniorNotesDue2028Member
+us-gaap:UnsecuredDebtMember
+2025-12-31
+0001520006
+mtdr:SeniorNotesDue2032Member
+us-gaap:UnsecuredDebtMember
+2026-03-31
+0001520006
+mtdr:SeniorNotesDue2032Member
+us-gaap:UnsecuredDebtMember
+2025-12-31
+0001520006
+mtdr:SeniorNotesDue2033Member
+us-gaap:UnsecuredDebtMember
+2026-03-31
+0001520006
+mtdr:SeniorNotesDue2033Member
+us-gaap:UnsecuredDebtMember
+2025-12-31
+0001520006
+mtdr:SeniorNotesDue2034Member
+us-gaap:UnsecuredDebtMember
+2026-03-31
+0001520006
+mtdr:SeniorNotesDue2034Member
+us-gaap:UnsecuredDebtMember
+2025-12-31
+0001520006
+mtdr:CreditAgreementMember
+2026-03-31
+0001520006
+mtdr:CreditAgreementMember
+us-gaap:SubsequentEventMember
+2026-04-01
+2026-05-06
+0001520006
+mtdr:CreditAgreementMember
+us-gaap:SubsequentEventMember
+2026-05-06
+0001520006
+us-gaap:RevolvingCreditFacilityMember
+mtdr:AmendmentToCreditAgreementMember
+2025-05-01
+2025-05-31
+0001520006
+us-gaap:RevolvingCreditFacilityMember
+mtdr:AmendmentToCreditAgreementMember
+2025-05-31
+0001520006
+us-gaap:LineOfCreditMember
+mtdr:SanMateoCreditFacilityMember
+us-gaap:SubsequentEventMember
+2026-04-01
+2026-05-06
+0001520006
+us-gaap:LineOfCreditMember
+mtdr:SanMateoCreditFacilityMember
+us-gaap:SubsequentEventMember
+2026-05-06
+0001520006
+us-gaap:LineOfCreditMember
+mtdr:SanMateoCreditFacilityMember
+srt:MaximumMember
+2025-06-01
+2025-06-30
+0001520006
+us-gaap:LineOfCreditMember
+mtdr:SanMateoCreditFacilityMember
+2025-06-01
+2025-06-30
+0001520006
+us-gaap:LineOfCreditMember
+mtdr:SanMateoCreditFacilityMember
+srt:MinimumMember
+2025-06-01
+2025-06-30
+0001520006
+us-gaap:LineOfCreditMember
+mtdr:SanMateoCreditFacilityMember
+2025-06-30
+0001520006
+mtdr:SeniorNotesDue2028Member
+us-gaap:UnsecuredDebtMember
+2026-03-01
+2026-03-31
+0001520006
+mtdr:SeniorNotesDue2034Member
+us-gaap:UnsecuredDebtMember
+2026-03-05
+0001520006
+mtdr:SeniorNotesDue2034Member
+us-gaap:UnsecuredDebtMember
+2026-03-05
+2026-03-05
+0001520006
+mtdr:SeniorNotesDue2034Member
+us-gaap:SeniorNotesMember
+2026-03-05
+2026-03-05
+0001520006
+mtdr:SeniorNotesDue2034Member
+us-gaap:SeniorNotesMember
+2026-01-01
+2026-03-31
+0001520006
+mtdr:SeniorNotesDue2034Member
+us-gaap:DebtInstrumentRedemptionPeriodOneMember
+us-gaap:SeniorNotesMember
+2026-01-01
+2026-03-31
+0001520006
+mtdr:SeniorNotesDue2034Member
+us-gaap:DebtInstrumentRedemptionPeriodTwoMember
+us-gaap:SeniorNotesMember
+2026-01-01
+2026-03-31
+0001520006
+mtdr:SeniorNotesDue2034Member
+us-gaap:DebtInstrumentRedemptionPeriodThreeMember
+us-gaap:SeniorNotesMember
+2026-01-01
+2026-03-31
+0001520006
+mtdr:SeniorNotesDue2034Member
+us-gaap:SeniorNotesMember
+2026-03-31
+0001520006
+stpr:NM
+2026-01-01
+2026-03-31
+0001520006
+stpr:NM
+2025-01-01
+2025-03-31
+0001520006
+us-gaap:StateAndLocalTaxJurisdictionOtherMember
+2026-01-01
+2026-03-31
+0001520006
+us-gaap:StateAndLocalTaxJurisdictionOtherMember
+2025-01-01
+2025-03-31
+0001520006
+mtdr:ServiceBasedRestrictedStockUnitsMember
+2026-01-01
+2026-03-31
+0001520006
+mtdr:PerformanceBasedStockUnitsMember
+2026-01-01
+2026-03-31
+0001520006
+us-gaap:RestrictedStockMember
+2026-01-01
+2026-03-31
+0001520006
+srt:MinimumMember
+mtdr:PerformanceBasedStockUnitsMember
+2026-01-01
+2026-03-31
+0001520006
+srt:MaximumMember
+mtdr:PerformanceBasedStockUnitsMember
+2026-01-01
+2026-03-31
+0001520006
+mtdr:ServicebasedRestrictedStockUnitsAndPerformanceBasedStockUnitsMember
+2026-01-01
+2026-03-31
+0001520006
+2026-02-27
+2026-02-27
+0001520006
+srt:ScenarioForecastMember
+us-gaap:SubsequentEventMember
+2026-04-22
+2026-04-22
+0001520006
+mtdr:MatadorResourcesCompanyMember
+mtdr:SanMateoMember
+2026-01-01
+2026-03-31
+0001520006
+mtdr:MatadorResourcesCompanyMember
+mtdr:SanMateoMember
+2025-01-01
+2025-03-31
+0001520006
+mtdr:FivePointMember
+mtdr:SanMateoMember
+2026-01-01
+2026-03-31
+0001520006
+mtdr:FivePointMember
+mtdr:SanMateoMember
+2025-01-01
+2025-03-31
+0001520006
+mtdr:SanMateoMember
+mtdr:FivePointMember
+2026-01-01
+2026-03-31
+0001520006
+mtdr:SanMateoMember
+mtdr:MatadorResourcesCompanyMember
+2026-01-01
+2026-03-31
+0001520006
+mtdr:FivePointMember
+2026-01-01
+2026-03-31
+0001520006
+mtdr:FivePointMember
+2025-01-01
+2025-03-31
+0001520006
+mtdr:OilCostlessCollarMember
+mtdr:CommodityOneMember
+2026-03-31
+0001520006
+mtdr:OilCostlessCollarMember
+mtdr:CommodityOneMember
+srt:MinimumMember
+2026-03-31
+0001520006
+mtdr:OilCostlessCollarMember
+mtdr:CommodityOneMember
+srt:MaximumMember
+2026-03-31
+0001520006
+mtdr:OilCostlessCollarMember
+mtdr:CommodityTwoMember
+2026-03-31
+0001520006
+mtdr:OilCostlessCollarMember
+mtdr:CommodityTwoMember
+srt:MinimumMember
+2026-03-31
+0001520006
+mtdr:OilCostlessCollarMember
+mtdr:CommodityTwoMember
+srt:MaximumMember
+2026-03-31
+0001520006
+mtdr:NaturalGasBasisSwapMember
+mtdr:CommodityThreeMember
+2026-03-31
+0001520006
+mtdr:NaturalGasBasisSwapMember
+mtdr:CommodityThreeMember
+srt:MinimumMember
+2026-03-31
+0001520006
+mtdr:NaturalGasBasisSwapMember
+mtdr:CommodityThreeMember
+srt:MaximumMember
+2026-03-31
+0001520006
+mtdr:OilCostlessCollarMember
+2026-03-31
+0001520006
+mtdr:NaturalGasSwapMember
+mtdr:CommodityOneMember
+2026-03-31
+0001520006
+mtdr:GasDerivativesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel2Member
+2026-03-31
+0001520006
+mtdr:CommodityTwoMember
+2026-03-31
+0001520006
+mtdr:NaturalGasBasisSwapMember
+mtdr:CommodityTwoMember
+2026-03-31
+0001520006
+mtdr:NaturalGasBasisSwapMember
+2026-03-31
+0001520006
+us-gaap:OtherCurrentAssetsMember
+2026-03-31
+0001520006
+us-gaap:OtherNoncurrentAssetsMember
+2026-03-31
+0001520006
+us-gaap:OtherCurrentLiabilitiesMember
+2026-03-31
+0001520006
+us-gaap:OtherNoncurrentLiabilitiesMember
+2026-03-31
+0001520006
+us-gaap:OtherCurrentAssetsMember
+2025-12-31
+0001520006
+srt:OilReservesMember
+us-gaap:SalesMember
+2026-01-01
+2026-03-31
+0001520006
+srt:OilReservesMember
+us-gaap:SalesMember
+2025-01-01
+2025-03-31
+0001520006
+srt:NaturalGasReservesMember
+us-gaap:SalesMember
+2026-01-01
+2026-03-31
+0001520006
+srt:NaturalGasReservesMember
+us-gaap:SalesMember
+2025-01-01
+2025-03-31
+0001520006
+us-gaap:SalesMember
+2026-01-01
+2026-03-31
+0001520006
+us-gaap:SalesMember
+2025-01-01
+2025-03-31
+0001520006
+mtdr:OilDerivativesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel1Member
+2026-03-31
+0001520006
+mtdr:OilDerivativesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel2Member
+2026-03-31
+0001520006
+mtdr:OilDerivativesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel3Member
+2026-03-31
+0001520006
+mtdr:OilDerivativesMember
+us-gaap:FairValueMeasurementsRecurringMember
+2026-03-31
+0001520006
+mtdr:NaturalGasCostlessCollarsMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel1Member
+2026-03-31
+0001520006
+mtdr:NaturalGasCostlessCollarsMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel2Member
+2026-03-31
+0001520006
+mtdr:NaturalGasCostlessCollarsMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel3Member
+2026-03-31
+0001520006
+mtdr:NaturalGasCostlessCollarsMember
+us-gaap:FairValueMeasurementsRecurringMember
+2026-03-31
+0001520006
+mtdr:GasDerivativesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel1Member
+2026-03-31
+0001520006
+mtdr:GasDerivativesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel3Member
+2026-03-31
+0001520006
+mtdr:GasDerivativesMember
+us-gaap:FairValueMeasurementsRecurringMember
+2026-03-31
+0001520006
+mtdr:NaturalGasBasisSwapMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel1Member
+2026-03-31
+0001520006
+mtdr:NaturalGasBasisSwapMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel2Member
+2026-03-31
+0001520006
+mtdr:NaturalGasBasisSwapMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel3Member
+2026-03-31
+0001520006
+mtdr:NaturalGasBasisSwapMember
+us-gaap:FairValueMeasurementsRecurringMember
+2026-03-31
+0001520006
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel1Member
+2026-03-31
+0001520006
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel2Member
+2026-03-31
+0001520006
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel3Member
+2026-03-31
+0001520006
+us-gaap:FairValueMeasurementsRecurringMember
+2026-03-31
+0001520006
+mtdr:OilDerivativesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel1Member
+2025-12-31
+0001520006
+mtdr:OilDerivativesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel2Member
+2025-12-31
+0001520006
+mtdr:OilDerivativesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel3Member
+2025-12-31
+0001520006
+mtdr:OilDerivativesMember
+us-gaap:FairValueMeasurementsRecurringMember
+2025-12-31
+0001520006
+mtdr:NaturalGasCostlessCollarsMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel1Member
+2025-12-31
+0001520006
+mtdr:NaturalGasCostlessCollarsMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel2Member
+2025-12-31
+0001520006
+mtdr:NaturalGasCostlessCollarsMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel3Member
+2025-12-31
+0001520006
+mtdr:NaturalGasCostlessCollarsMember
+us-gaap:FairValueMeasurementsRecurringMember
+2025-12-31
+0001520006
+mtdr:NaturalGasBasisSwapMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel1Member
+2025-12-31
+0001520006
+mtdr:NaturalGasBasisSwapMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel2Member
+2025-12-31
+0001520006
+mtdr:NaturalGasBasisSwapMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel3Member
+2025-12-31
+0001520006
+mtdr:NaturalGasBasisSwapMember
+us-gaap:FairValueMeasurementsRecurringMember
+2025-12-31
+0001520006
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel1Member
+2025-12-31
+0001520006
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel2Member
+2025-12-31
+0001520006
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel3Member
+2025-12-31
+0001520006
+us-gaap:FairValueMeasurementsRecurringMember
+2025-12-31
+0001520006
+mtdr:DeliveryOfNaturalGasAndOilProductionToThirdPartiesMember
+2026-01-01
+2026-03-31
+0001520006
+mtdr:DeliveryOfNaturalGasAndOilProductionToThirdPartiesMember
+2025-01-01
+2025-03-31
+0001520006
+mtdr:DeliveryOfNaturalGasAndOilProductionToThirdPartiesMember
+2026-03-31
+0001520006
+mtdr:RustlerBreaksandWolfAssetAreaMember
+mtdr:SanMateoMidstreamMember
+us-gaap:CorporateJointVentureMember
+2026-01-01
+2026-03-31
+0001520006
+mtdr:RustlerBreaksAssetAreaMember
+mtdr:SanMateoMidstreamMember
+us-gaap:CorporateJointVentureMember
+2026-01-01
+2026-03-31
+0001520006
+mtdr:SanMateoMidstreamMember
+mtdr:OperationalAgreementsMember
+2026-03-31
+0001520006
+us-gaap:AccountsPayableMember
+2026-03-31
+0001520006
+us-gaap:AccountsPayableMember
+2025-12-31
+0001520006
+mtdr:AccruedEvaluatedAndUnprovedAndUnevaluatedPropertyCostsMember
+2026-03-31
+0001520006
+mtdr:AccruedEvaluatedAndUnprovedAndUnevaluatedPropertyCostsMember
+2025-12-31
+0001520006
+mtdr:AccruedLeaseOperatingExpensesMember
+2026-03-31
+0001520006
+mtdr:AccruedLeaseOperatingExpensesMember
+2025-12-31
+0001520006
+mtdr:AccruedInterestOnBorrowingsUnderCreditAgreementMember
+2026-03-31
+0001520006
+mtdr:AccruedInterestOnBorrowingsUnderCreditAgreementMember
+2025-12-31
+0001520006
+mtdr:AccruedDerivativePaymentsMember
+2026-03-31
+0001520006
+mtdr:AccruedDerivativePaymentsMember
+2025-12-31
+0001520006
+mtdr:AccruedPartnersShareOfJointInterestChargesMember
+2026-03-31
+0001520006
+mtdr:AccruedPartnersShareOfJointInterestChargesMember
+2025-12-31
+0001520006
+mtdr:AccruedCompensationAndBenefitsMember
+2026-03-31
+0001520006
+mtdr:AccruedCompensationAndBenefitsMember
+2025-12-31
+0001520006
+mtdr:AccruedPayableRelatedToPurchasedNaturalGasMember
+2026-03-31
+0001520006
+mtdr:AccruedPayableRelatedToPurchasedNaturalGasMember
+2025-12-31
+0001520006
+mtdr:AccruedSupportEquipmentAndFacilitiesCostsMember
+2026-03-31
+0001520006
+mtdr:AccruedSupportEquipmentAndFacilitiesCostsMember
+2025-12-31
+0001520006
+mtdr:AccruedAssetRetirementObligationsMember
+2026-03-31
+0001520006
+mtdr:AccruedAssetRetirementObligationsMember
+2025-12-31
+0001520006
+mtdr:OtherAccruedLiabilityMember
+2026-03-31
+0001520006
+mtdr:OtherAccruedLiabilityMember
+2025-12-31
+0001520006
+mtdr:MineralPropertiesMember
+2026-01-01
+2026-03-31
+0001520006
+mtdr:MineralPropertiesMember
+2025-01-01
+2025-03-31
+0001520006
+mtdr:MidstreamPropertiesMember
+2026-01-01
+2026-03-31
+0001520006
+mtdr:MidstreamPropertiesMember
+2025-01-01
+2025-03-31
+0001520006
+us-gaap:OperatingSegmentsMember
+us-gaap:OilAndGasMember
+mtdr:ExplorationandProductionSegmentMember
+2026-01-01
+2026-03-31
+0001520006
+us-gaap:OperatingSegmentsMember
+us-gaap:OilAndGasMember
+mtdr:MidstreamSegmentMember
+2026-01-01
+2026-03-31
+0001520006
+us-gaap:CorporateNonSegmentMember
+us-gaap:OilAndGasMember
+2026-01-01
+2026-03-31
+0001520006
+us-gaap:IntersegmentEliminationMember
+us-gaap:OilAndGasMember
+2026-01-01
+2026-03-31
+0001520006
+us-gaap:OperatingSegmentsMember
+us-gaap:NaturalGasMidstreamMember
+mtdr:ExplorationandProductionSegmentMember
+2026-01-01
+2026-03-31
+0001520006
+us-gaap:OperatingSegmentsMember
+us-gaap:NaturalGasMidstreamMember
+mtdr:MidstreamSegmentMember
+2026-01-01
+2026-03-31
+0001520006
+us-gaap:CorporateNonSegmentMember
+us-gaap:NaturalGasMidstreamMember
+2026-01-01
+2026-03-31
+0001520006
+us-gaap:IntersegmentEliminationMember
+us-gaap:NaturalGasMidstreamMember
+2026-01-01
+2026-03-31
+0001520006
+us-gaap:OperatingSegmentsMember
+mtdr:NaturalGasSalesMember
+mtdr:ExplorationandProductionSegmentMember
+2026-01-01
+2026-03-31
+0001520006
+us-gaap:OperatingSegmentsMember
+mtdr:NaturalGasSalesMember
+mtdr:MidstreamSegmentMember
+2026-01-01
+2026-03-31
+0001520006
+us-gaap:CorporateNonSegmentMember
+mtdr:NaturalGasSalesMember
+2026-01-01
+2026-03-31
+0001520006
+us-gaap:IntersegmentEliminationMember
+mtdr:NaturalGasSalesMember
+2026-01-01
+2026-03-31
+0001520006
+us-gaap:OperatingSegmentsMember
+mtdr:ExplorationandProductionSegmentMember
+2026-01-01
+2026-03-31
+0001520006
+us-gaap:OperatingSegmentsMember
+mtdr:MidstreamSegmentMember
+2026-01-01
+2026-03-31
+0001520006
+us-gaap:CorporateNonSegmentMember
+2026-01-01
+2026-03-31
+0001520006
+us-gaap:IntersegmentEliminationMember
+2026-01-01
+2026-03-31
+0001520006
+us-gaap:OperatingSegmentsMember
+mtdr:ExplorationandProductionSegmentMember
+2026-03-31
+0001520006
+us-gaap:OperatingSegmentsMember
+mtdr:MidstreamSegmentMember
+2026-03-31
+0001520006
+us-gaap:CorporateNonSegmentMember
+2026-03-31
+0001520006
+us-gaap:IntersegmentEliminationMember
+2026-03-31
+0001520006
+us-gaap:OperatingSegmentsMember
+us-gaap:OperatingIncomeLossMember
+mtdr:MidstreamSegmentMember
+2026-01-01
+2026-03-31
+0001520006
+us-gaap:OperatingSegmentsMember
+us-gaap:OilAndGasMember
+mtdr:ExplorationandProductionSegmentMember
+2025-01-01
+2025-03-31
+0001520006
+us-gaap:OperatingSegmentsMember
+us-gaap:OilAndGasMember
+mtdr:MidstreamSegmentMember
+2025-01-01
+2025-03-31
+0001520006
+us-gaap:CorporateNonSegmentMember
+us-gaap:OilAndGasMember
+2025-01-01
+2025-03-31
+0001520006
+us-gaap:IntersegmentEliminationMember
+us-gaap:OilAndGasMember
+2025-01-01
+2025-03-31
+0001520006
+us-gaap:OperatingSegmentsMember
+us-gaap:NaturalGasMidstreamMember
+mtdr:ExplorationandProductionSegmentMember
+2025-01-01
+2025-03-31
+0001520006
+us-gaap:OperatingSegmentsMember
+us-gaap:NaturalGasMidstreamMember
+mtdr:MidstreamSegmentMember
+2025-01-01
+2025-03-31
+0001520006
+us-gaap:CorporateNonSegmentMember
+us-gaap:NaturalGasMidstreamMember
+2025-01-01
+2025-03-31
+0001520006
+us-gaap:IntersegmentEliminationMember
+us-gaap:NaturalGasMidstreamMember
+2025-01-01
+2025-03-31
+0001520006
+us-gaap:OperatingSegmentsMember
+mtdr:NaturalGasSalesMember
+mtdr:ExplorationandProductionSegmentMember
+2025-01-01
+2025-03-31
+0001520006
+us-gaap:OperatingSegmentsMember
+mtdr:NaturalGasSalesMember
+mtdr:MidstreamSegmentMember
+2025-01-01
+2025-03-31
+0001520006
+us-gaap:CorporateNonSegmentMember
+mtdr:NaturalGasSalesMember
+2025-01-01
+2025-03-31
+0001520006
+us-gaap:IntersegmentEliminationMember
+mtdr:NaturalGasSalesMember
+2025-01-01
+2025-03-31
+0001520006
+us-gaap:OperatingSegmentsMember
+mtdr:ExplorationandProductionSegmentMember
+2025-01-01
+2025-03-31
+0001520006
+us-gaap:OperatingSegmentsMember
+mtdr:MidstreamSegmentMember
+2025-01-01
+2025-03-31
+0001520006
+us-gaap:CorporateNonSegmentMember
+2025-01-01
+2025-03-31
+0001520006
+us-gaap:IntersegmentEliminationMember
+2025-01-01
+2025-03-31
+0001520006
+us-gaap:OperatingSegmentsMember
+mtdr:ExplorationandProductionSegmentMember
+2025-03-31
+0001520006
+us-gaap:OperatingSegmentsMember
+mtdr:MidstreamSegmentMember
+2025-03-31
+0001520006
+us-gaap:CorporateNonSegmentMember
+2025-03-31
+0001520006
+us-gaap:IntersegmentEliminationMember
+2025-03-31
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+________________________________________________________
+FORM
+10-Q
+_________________________________________________________
+☒
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended
+March 31, 2026
+OR
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from             to
+Commission File Number
+001-35410
+_________________________________________________________
+Matador Resources Company
+(Exact name of registrant as specified in its charter)
+_________________________________________________________
+Texas
+27-4662601
+(State or other jurisdiction of
+incorporation or organization)
+(I.R.S. Employer
+Identification No.)
+5400 LBJ Freeway,
+Suite 1500
+Dallas,
+Texas
+75240
+(Address of principal executive offices)
+(Zip Code)
+(
+972
+)
+371-5200
+(Registrant’s telephone number, including area code)
+_________________________________________________________
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading symbol(s)
+Name of each exchange on which registered
+Common Stock, par value $0.01 per share
+MTDR
+New York Stock Exchange
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+☒
+Yes
+☐
+No
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).
+☒
+Yes
+☐
+No
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer
+☒
+Accelerated filer
+☐
+Non-accelerated filer
+☐
+Smaller reporting company
+☐
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).
+☐
+Yes
+☒
+No
+As of May 6, 2026, there were
+124,178,227
+shares of the registrant’s common
+s
+tock, par value $0.01 per share, outstanding.
+Table of Contents
+MATADOR RESOURCES COMPANY
+FORM 10-Q
+FOR THE QUARTER ENDED MARCH 31, 2026
+TABLE OF CONTENTS
+Page
+PART I — FINANCIAL INFORMATION
+3
+Item 1. Financial Statements — Unaudited
+3
+Condensed Consolidated Balance Sheets at March 31, 2026 and December 31, 2025
+3
+Condensed Consolidated Statements of Operations for the Three Months Ended March 31, 2026 and 2025
+4
+Condensed Consolidated Statements of Changes in Shareholders’ Equity for the Three
+Months
+Ended March 31, 2026 and 2025
+5
+Condensed Consolidated Statements of Cash Flows for the Three Months Ended March 31, 2026 and 2025
+7
+Notes to Condensed Consolidated Financial Statements
+8
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+21
+Item 3. Quantitative and Qualitative Disclosures About Market Risk
+35
+Item 4. Controls and Procedures
+35
+PART II — OTHER INFORMATION
+37
+Item 1. Legal Proceedings
+37
+Item 1A. Risk Factors
+37
+Item 2. Repurchase of Equity by the Company or Affiliates
+37
+Item 5. Other Information
+37
+Item 6. Exhibits
+38
+SIGNATURES
+39
+Table of Contents
+Part I — FINANCIAL INFORMATION
+Item 1. Financial Statements — Unaudited
+Matador Resources Company and Subsidiaries
+CONDENSED CONSOLIDATED BALANCE SHEETS — UNAUDITED
+(In thousands, except par value and share data)
+March 31,
+2026
+December 31,
+2025
+ASSETS
+Current assets
+Cash
+$
+30,451
+$
+15,314
+Restricted cash
+62,021
+64,163
+Accounts receivable
+Oil and natural gas revenues
+412,066
+286,158
+Joint interest billings
+181,207
+140,043
+Other
+122,145
+103,628
+Derivative instruments
+90,600
+34,052
+Lease and well equipment inventory
+45,580
+43,842
+Prepaid expenses and other current assets
+140,706
+129,368
+Total current assets
+1,084,776
+816,568
+Property and equipment, at cost
+Oil and natural gas properties, full-cost method
+Evaluated
+14,820,207
+14,286,726
+Unproved and unevaluated
+1,772,371
+1,823,456
+Midstream properties
+1,972,401
+1,963,059
+Other property and equipment
+58,008
+53,199
+Less accumulated depletion, depreciation and amortization
+(
+7,687,846
+)
+(
+7,395,142
+)
+Net property and equipment
+10,935,141
+10,731,298
+Other assets
+Other long-term assets
+154,572
+162,703
+Total assets
+$
+12,174,489
+$
+11,710,569
+LIABILITIES AND SHAREHOLDERS’ EQUITY
+Current liabilities
+Accounts payable and accrued liabilities
+$
+702,371
+$
+540,620
+Royalties payable
+337,063
+351,062
+Derivative instruments
+306,200
+—
+Advances from joint interest owners
+61,107
+64,169
+Other current liabilities
+72,274
+75,658
+Total current liabilities
+1,479,015
+1,031,509
+Long-term liabilities
+Borrowings under Credit Agreement
+185,000
+398,000
+Borrowings under San Mateo Credit Facility
+918,000
+883,000
+Senior unsecured notes payable
+2,365,941
+2,121,102
+Asset retirement obligations
+150,117
+144,063
+Derivative instruments
+5,821
+—
+Deferred income taxes
+1,016,696
+1,015,931
+Other long-term liabilities
+140,814
+120,312
+Total long-term liabilities
+4,782,389
+4,682,408
+Commitments and contingencies (see Note 9)
+Shareholders’ equity
+Common stock - $
+0.01
+par value,
+160,000,000
+shares authorized;
+124,446,843
+and
+124,409,739
+shares issued;
+and
+124,205,978
+and
+124,262,322
+shares outstanding, respectively
+1,244
+1,244
+Additional paid-in capital
+2,521,758
+2,509,118
+Retained earnings
+3,070,423
+3,153,112
+Treasury stock, at cost,
+240,865
+and
+147,417
+shares, respectively
+(
+8,525
+)
+(
+5,333
+)
+Total Matador Resources Company shareholders’ equity
+5,584,900
+5,658,141
+Non-controlling interest in subsidiaries
+328,185
+338,511
+Total shareholders’ equity
+5,913,085
+5,996,652
+Total liabilities and shareholders’ equity
+$
+12,174,489
+$
+11,710,569
+The accompanying notes are an integral part of these financial statements.
+3
+Table of Contents
+Matador Resources Company and Subsidiaries
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS — UNAUDITED
+(In thousands, except per share data)
+Three Months Ended
+March 31,
+2026
+2025
+Revenues
+Oil and natural gas revenues
+$
+818,731
+$
+909,918
+Third-party midstream services revenues
+42,091
+33,499
+Sales of purchased natural gas
+80,782
+62,756
+Realized (loss) gain on derivatives
+(
+14,493
+)
+2,714
+Unrealized (loss) gain on derivatives
+(
+255,474
+)
+5,071
+Total revenues
+671,637
+1,013,958
+Expenses
+Lease operating
+107,526
+104,411
+Transportation and processing
+14,842
+20,061
+Midstream operating
+55,227
+51,803
+Purchased natural gas
+42,335
+54,133
+Depletion, depreciation and amortization
+292,704
+281,891
+Taxes other than income
+70,891
+77,049
+Accretion of asset retirement obligations
+2,268
+1,727
+General and administrative
+39,023
+33,732
+Total expenses
+624,816
+624,807
+Operating income
+46,821
+389,151
+Other income (expense)
+Interest expense
+(
+51,525
+)
+(
+49,489
+)
+Loss on debt extinguishment
+(
+15,587
+)
+—
+Loss on asset sales
+(
+578
+)
+—
+Other income
+4,367
+5,506
+Total other expense
+(
+63,323
+)
+(
+43,983
+)
+(Loss) income before income taxes
+(
+16,502
+)
+345,168
+Income tax (benefit) provision
+Current
+—
+22,981
+Deferred
+(
+684
+)
+59,940
+Total income tax (benefit) provision
+(
+684
+)
+82,921
+Net (loss) income
+(
+15,818
+)
+262,247
+Net income attributable to non-controlling interest in subsidiaries
+(
+20,054
+)
+(
+22,162
+)
+Net (loss) income attributable to Matador Resources Company shareholders
+$
+(
+35,872
+)
+$
+240,085
+(Loss) earnings per common share
+Basic
+$
+(
+0.29
+)
+$
+1.92
+Diluted
+$
+(
+0.29
+)
+$
+1.92
+Weighted average common shares outstanding
+Basic
+123,480
+125,189
+Diluted
+123,480
+125,342
+The accompanying notes are an integral part of these financial statements.
+4
+Table of Contents
+Matador Resources Company and Subsidiaries
+CONDENSED CONSOLIDATED STATEMENTS OF CHANGES IN SHAREHOLDERS’ EQUITY — UNAUDITED
+(In thousands)
+For the Three Months Ended March 31, 2026
+Total shareholders’ equity attributable to Matador Resources Company
+Non-controlling interest in subsidiaries
+Total shareholders’ equity
+Common Stock
+Additional
+paid-in capital
+Retained earnings
+Treasury Stock
+Shares
+Amount
+Shares
+Amount
+Balance at January 1, 2026
+124,410
+$
+1,244
+$
+2,509,118
+$
+3,153,112
+147
+$
+(
+5,333
+)
+$
+5,658,141
+$
+338,511
+$
+5,996,652
+Dividends declared ($
+0.375
+per share)
+—
+—
+—
+(
+46,817
+)
+—
+—
+(
+46,817
+)
+—
+(
+46,817
+)
+Issuance of stock pursuant to incentive and purchase plans, net of shares withheld for taxes
+37
+—
+(
+998
+)
+—
+76
+(
+2,478
+)
+(
+3,476
+)
+—
+(
+3,476
+)
+Stock-based compensation expense related to equity-based awards including amounts capitalized
+—
+—
+8,187
+—
+—
+—
+8,187
+—
+8,187
+Contribution related to formation of San Mateo, net of tax of $
+1.4
+million (see Note 6)
+—
+—
+5,451
+—
+—
+—
+5,451
+—
+5,451
+Distributions to non-controlling interest owners of less-than-wholly-owned subsidiaries
+—
+—
+—
+—
+—
+—
+—
+(
+30,380
+)
+(
+30,380
+)
+Repurchases of common stock
+—
+—
+—
+—
+18
+(
+714
+)
+(
+714
+)
+—
+(
+714
+)
+Current period net (loss) income
+—
+—
+—
+(
+35,872
+)
+—
+—
+(
+35,872
+)
+20,054
+(
+15,818
+)
+Balance at March 31, 2026
+124,447
+$
+1,244
+$
+2,521,758
+$
+3,070,423
+241
+$
+(
+8,525
+)
+$
+5,584,900
+$
+328,185
+$
+5,913,085
+The accompanying notes are an integral part of these financial statements.
+5
+Table of Contents
+Matador Resources Company and Subsidiaries
+CONDENSED CONSOLIDATED STATEMENTS OF CHANGES IN SHAREHOLDERS’ EQUITY — UNAUDITED
+(In thousands)
+For the Three Months Ended March 31, 2025
+Total shareholders’ equity attributable to Matador Resources Company
+Non-controlling interest in subsidiaries
+Total shareholders’ equity
+Common Stock
+Additional
+paid-in capital
+Retained earnings
+Treasury Stock
+Shares
+Amount
+Shares
+Amount
+Balance at January 1, 2025
+125,101
+$
+1,251
+$
+2,533,247
+$
+2,556,987
+53
+$
+(
+2,336
+)
+$
+5,089,149
+$
+368,283
+$
+5,457,432
+Dividends declared ($
+0.3125
+per share)
+—
+—
+—
+(
+39,180
+)
+—
+—
+(
+39,180
+)
+—
+(
+39,180
+)
+Issuance of stock pursuant to incentive and purchase plans, net of shares withheld for taxes
+228
+2
+(
+7,112
+)
+—
+75
+(
+3,333
+)
+(
+10,443
+)
+—
+(
+10,443
+)
+Stock-based compensation expense related to equity-based awards including amounts capitalized
+—
+—
+5,669
+—
+—
+—
+5,669
+—
+5,669
+Contribution related to formation of San Mateo, net of tax of $
+0.6
+million (see Note 6)
+—
+—
+2,212
+—
+—
+—
+2,212
+—
+2,212
+Distributions to non-controlling interest owners of less-than-wholly-owned subsidiaries
+—
+—
+—
+—
+—
+—
+—
+(
+33,810
+)
+(
+33,810
+)
+Current period net income
+—
+—
+—
+240,085
+—
+—
+240,085
+22,162
+262,247
+Balance at March 31, 2025
+125,329
+$
+1,253
+$
+2,534,016
+$
+2,757,892
+128
+$
+(
+5,669
+)
+$
+5,287,492
+$
+356,635
+$
+5,644,127
+The accompanying notes are an integral part of these financial statements.
+6
+Table of Contents
+Matador Resources Company and Subsidiaries
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS — UNAUDITED
+(In thousands)
+Three Months Ended March 31,
+2026
+2025
+Operating activities
+Net (loss) income
+$
+(
+15,818
+)
+$
+262,247
+Adjustments to reconcile net (loss) income to net cash provided by operating activities
+Unrealized loss (gain) on derivatives
+255,474
+(
+5,071
+)
+Depletion, depreciation and amortization
+292,704
+281,891
+Accretion of asset retirement obligations
+2,268
+1,727
+Stock-based compensation expense
+4,518
+3,888
+Loss on extinguishment of debt
+15,587
+—
+Deferred income tax (benefit) provision
+(
+684
+)
+59,940
+Amortization of debt issuance cost and other debt-related costs
+3,538
+3,663
+Other non-cash changes
+6,653
+209
+Changes in operating assets and liabilities
+Accounts receivable, prepaid expenses and other current assets
+(
+188,684
+)
+19,629
+Lease and well equipment inventory
+1,052
+(
+10,833
+)
+Other long-term assets
+(
+149
+)
+(
+192
+)
+Accounts payable, accrued liabilities and other current liabilities
+113,457
+44,093
+Royalties payable
+(
+13,999
+)
+32,241
+Advances from joint interest owners
+(
+3,062
+)
+32,504
+Other long-term liabilities
+(
+2,309
+)
+1,943
+Net cash provided by operating activities
+470,546
+727,879
+Investing activities
+Drilling, completion and equipping capital expenditures
+(
+377,375
+)
+(
+378,362
+)
+Acquisition of oil and natural gas properties
+(
+61,655
+)
+(
+81,662
+)
+Midstream capital expenditures
+(
+17,634
+)
+(
+72,934
+)
+Expenditures for other property and equipment
+(
+2,132
+)
+(
+942
+)
+Proceeds from sale of assets
+858
+22,238
+Net cash used in investing activities
+(
+457,938
+)
+(
+511,662
+)
+Financing activities
+Repayments of borrowings under Credit Agreement
+(
+648,000
+)
+(
+595,500
+)
+Borrowings under Credit Agreement
+435,000
+405,000
+Repayments of borrowings under San Mateo Credit Facility
+(
+105,000
+)
+(
+100,000
+)
+Borrowings under San Mateo Credit Facility
+140,000
+140,000
+Cost to amend credit facilities
+(
+134
+)
+—
+Proceeds from issuance of senior unsecured notes
+750,000
+—
+Cost to issue senior unsecured notes
+(
+12,126
+)
+—
+Purchase of senior unsecured notes
+(
+509,670
+)
+—
+Proceeds from sale-leaseback financing obligation
+24,000
+—
+Repurchases of common stock
+(
+707
+)
+—
+Dividends paid
+(
+46,817
+)
+(
+39,180
+)
+Contributions related to formation of San Mateo
+6,900
+2,800
+Distributions to non-controlling interest owners of less-than-wholly-owned subsidiaries
+(
+30,380
+)
+(
+35,661
+)
+Taxes paid related to net share settlement of stock-based compensation
+(
+2,416
+)
+(
+10,545
+)
+Other
+(
+263
+)
+(
+357
+)
+Net cash provided by (used in) financing activities
+387
+(
+233,443
+)
+Change in cash and restricted cash
+12,995
+(
+17,226
+)
+Cash and restricted cash at beginning of period
+79,477
+94,742
+Cash and restricted cash at end of period
+$
+92,472
+$
+77,516
+The accompanying notes are an integral part of these financial statements.
+7
+Table of Contents
+Matador Resources Company and Subsidiaries
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS —
+UNAUDITED
+NOTE 1 — NATURE OF OPERATIONS
+Matador Resources Company, a Texas corporation (“Matador” and, collectively with its subsidiaries, the “Company”), is an independent energy company engaged in the exploration, development, production and acquisition of oil and natural gas resources in the United States, with an emphasis on oil and natural gas shale and other unconventional plays. The Company’s current operations are focused primarily on the oil and liquids-rich portion of the Wolfcamp and Bone Spring plays in the Delaware Basin in Southeast New Mexico and West Texas. The Company also has operations in the Haynesville shale and Cotton Valley plays in Northwest Louisiana. Additionally, the Company conducts midstream operations primarily through its midstream joint venture, San Mateo Midstream, LLC and its subsidiaries (“San Mateo”), in support of, and to provide flow assurance for, the Company’s exploration, development and production operations, and San Mateo provides natural gas processing, oil transportation services, oil, natural gas and produced water gathering services and produced water disposal services to third parties.
+NOTE 2 — SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+Interim Financial Statements, Basis of Presentation, Consolidation and Significant Estimates
+The interim unaudited condensed consolidated financial statements of the Company have been prepared in accordance with the rules and regulations of the Securities and Exchange Commission (“SEC”) but do not include all of the information and footnotes required by generally accepted accounting principles in the United States of America (“U.S. GAAP”) for complete financial statements and should be read in conjunction with the Company’s audited consolidated financial statements and notes thereto included in the Company’s Annual Report on Form 10-K for the year ended December 31, 2025 filed with the SEC on February 26, 2026 (the “Annual Report”).
+The Company consolidates certain subsidiaries and joint ventures that are less-than-wholly-owned and are not involved in oil and natural gas exploration, including San Mateo, and the net income and equity attributable to the non-controlling interest in these subsidiaries have been reported separately as required by Accounting Standards Codification Topic 810,
+Consolidation
+. The Company proportionately consolidates certain joint ventures that are less-than-wholly-owned and are involved in oil and natural gas exploration. All intercompany accounts and transactions have been eliminated in consolidation.
+Certain reclassifications to captions within the interim unaudited condensed consolidated balance sheets, statements of operations and statements of changes in shareholders’ equity have been made to the prior period’s financial statements to conform to the current period presentation. These reclassifications had no effect on previously reported results of operations, cash flows or retained earnings. In management’s opinion, these interim unaudited condensed consolidated financial statements include all normal, recurring adjustments that are necessary for a fair presentation of the Company’s interim unaudited condensed consolidated financial statements as of March 31, 2026. Amounts as of December 31, 2025 are derived from the Company’s audited consolidated financial statements included in the Annual Report.
+The preparation of financial statements in conformity with U.S. GAAP requires management to make estimates and assumptions that affect the amounts reported in the financial statements and accompanying notes. These estimates and assumptions may also affect disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reporting period. The Company’s interim unaudited condensed consolidated financial statements are based on a number of significant estimates, including oil and natural gas revenues, accrued assets and liabilities, stock-based compensation, valuation of derivative instruments, deferred tax assets and liabilities, purchase price allocations and oil and natural gas reserves. The estimates of oil and natural gas reserves quantities and future net cash flows are the basis for the calculations of depletion and impairment of oil and natural gas properties, as well as estimates in the purchase price allocations and of asset retirement obligations and certain tax accruals. While the Company believes its estimates are reasonable, changes in facts and assumptions or the discovery of new information may result in revised estimates. Actual results could differ from these estimates.
+8
+Table of Contents
+Matador Resources Company and Subsidiaries
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS —
+UNAUDITED — CONTINUED
+NOTE 2 — SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES — Continued
+Revenues
+The following table summarizes the Company’s total revenues and revenues from contracts with customers on a disaggregated basis for the three months ended March 31, 2026 and 2025 (in thousands).
+Three Months Ended
+March 31,
+2026
+2025
+Revenues from contracts with customers
+$
+941,604
+$
+1,006,173
+Realized (loss) gain on derivatives
+(
+14,493
+)
+2,714
+Unrealized (loss) gain on derivatives
+(
+255,474
+)
+5,071
+Total revenues
+$
+671,637
+$
+1,013,958
+Three Months Ended
+March 31,
+2026
+2025
+Oil revenues
+$
+788,349
+$
+749,322
+Natural gas revenues
+30,382
+160,596
+Third-party midstream services revenues
+42,091
+33,499
+Sales of purchased natural gas
+80,782
+62,756
+Total revenues from contracts with customers
+$
+941,604
+$
+1,006,173
+Property and Equipment
+The Company uses the full-cost method of accounting for its investments in oil and natural gas properties. Under this method, the Company is required to perform a ceiling test each quarter that determines a limit, or ceiling, on the capitalized costs of oil and natural gas properties based primarily on the after-tax estimated future net cash flows from oil and natural gas properties using a
+10
+% discount rate and the arithmetic average of first-day-of-the-month oil and natural gas prices for the prior 12-month period. For each of the three months ended March 31, 2026 and 2025, the cost center ceiling was higher than the capitalized costs of oil and natural gas properties, and, as a result,
+no
+impairment charge was necessary.
+The Company capitalized approximately $
+21.1
+million and $
+17.5
+million of its general and administrative costs for the three months ended March 31, 2026 and 2025, respectively. The Company capitalized approximately $
+7.0
+million and $
+8.7
+million of its interest expense for the three months ended March 31, 2026 and 2025, respectively.
+(Loss)
+Earnings Per Common Share
+The Company reports basic (loss) earnings attributable to Matador shareholders per common share, which excludes the effect of potentially dilutive securities, and diluted (loss) earnings attributable to Matador shareholders per common share, which includes the effect of all potentially dilutive securities unless their impact is anti-dilutive.
+The following table sets forth the computation of diluted weighted average common shares outstanding for the three months ended March 31, 2026 and 2025 (in thousands).
+Three Months Ended
+March 31,
+2026
+2025
+Weighted average common shares outstanding
+Basic
+123,480
+125,189
+Dilutive effect of options and restricted stock units
+—
+153
+Diluted weighted average common shares outstanding
+123,480
+125,342
+9
+Table of Contents
+Matador Resources Company and Subsidiaries
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS —
+UNAUDITED — CONTINUED
+NOTE 3 — ASSET RETIREMENT OBLIGATIONS
+The following table summarizes the changes in the Company’s asset retirement obligations for the three months ended March 31, 2026 (in thousands).
+Beginning asset retirement obligations
+$
+150,372
+Liabilities incurred during period
+2,551
+Liabilities settled during period
+(
+125
+)
+Accretion expense
+2,268
+Ending asset retirement obligations
+155,066
+Less: current asset retirement obligations
+(1)
+(
+4,949
+)
+Long-term asset retirement obligations
+$
+150,117
+_______________
+(1)
+Included in accrued liabilities in the Company’s interim unaudited condensed consolidated balance sheet at March 31, 2026.
+NOTE 4 — DEBT
+The components of debt, including the effects of issuance costs and discounts, net as of March 31, 2026 and December 31, 2025, are set forth below (in thousands).
+March 31,
+2026
+December 31,
+2025
+Revolving credit agreements:
+Credit Agreement due 2029
+$
+185,000
+$
+398,000
+San Mateo Credit Facility due 2029
+918,000
+883,000
+Senior unsecured notes:
+6.875
+% senior notes due 2028 (the “2028 Notes”)
+—
+500,000
+6.500
+% senior notes due 2032 (the “2032 Notes”)
+900,000
+900,000
+6.250
+% senior notes due 2033 (the “2033 Notes”)
+750,000
+750,000
+6.000
+% senior notes due 2034 (the “2034 Notes”)
+750,000
+—
+Issuance costs and discounts, net
+(
+34,059
+)
+(
+28,898
+)
+Total senior unsecured notes payable
+2,365,941
+2,121,102
+Total long-term debt
+$
+3,468,941
+$
+3,402,102
+Credit Agreements
+MRC Energy Company
+At March 31, 2026, the Company had $
+185.0
+million in borrowings outstanding under the Company’s reserves-based revolving credit facility (the “Credit Agreement”) and approximately $
+53.8
+million in outstanding letters of credit issued pursuant to the Credit Agreement. Since March 31, 2026, the Company repaid $
+140.0
+million of borrowings under the Credit Agreement, and at May 6, 2026, the Company had $
+45.0
+million in borrowings outstanding under the Credit Agreement.
+The outstanding borrowings under the Credit Agreement mature on March 22, 2029. The borrowing base under the Credit Agreement is determined semi-annually as of May 1 and November 1 by the lenders based primarily on the estimated value of the Company’s proved oil and natural gas reserves at December 31 and June 30 of each year, respectively. The Company and the lenders may each request an unscheduled redetermination of the borrowing base once between scheduled redetermination dates.
+The Credit Agreement requires the Company to maintain (i) a current ratio, which is defined as (x) total consolidated current assets plus the unused availability under the Credit Agreement divided by (y) total consolidated current liabilities less current maturities of debt, of not less than
+1.0
+at the end of each fiscal quarter, and (ii) a debt to EBITDA ratio, which is defined as debt outstanding (net of up to the greater of $
+150.0
+million or
+10
+% of the elected borrowing commitments of unrestricted cash and cash equivalents), divided by a rolling four quarter EBITDA calculation, of
+3.5
+or less at the end of each fiscal quarter. The Company was in compliance with the terms of the Credit Agreement at March 31, 2026.
+10
+Table of Contents
+Matador Resources Company and Subsidiaries
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS —
+UNAUDITED — CONTINUED
+NOTE 4 — DEBT — Continued
+San Mateo Midstream, LLC
+At March 31, 2026, San Mateo had $
+918.0
+million in borrowings outstanding under its secured revolving credit facility (the “San Mateo Credit Facility”) and approximately $
+15.4
+million in outstanding letters of credit issued pursuant to the San Mateo Credit Facility. Since March 31, 2026, San Mateo repaid $
+58.0
+million of borrowings under the San Mateo Credit Facility, and at May 6, 2026, San Mateo had $
+860.0
+million in borrowings outstanding under the San Mateo Credit Facility.
+The San Mateo Credit Facility is non-recourse with respect to Matador and its other subsidiaries but is guaranteed by San Mateo’s subsidiaries and secured by substantially all of San Mateo’s assets, including real property. The outstanding borrowings under the San Mateo Credit Facility mature on November 26, 2029.
+The San Mateo Credit Facility requires San Mateo to maintain a debt to EBITDA ratio, which is defined as total consolidated funded indebtedness outstanding (as defined in the San Mateo Credit Facility) divided by a rolling four quarter EBITDA calculation, of
+5.00
+or less, subject to certain exceptions. The San Mateo Credit Facility also requires San Mateo to maintain an interest coverage ratio, which is defined as a rolling four quarter EBITDA calculation divided by San Mateo’s consolidated interest expense for such period, of
+2.50
+or more. The San Mateo Credit Facility also restricts the ability of San Mateo to distribute cash to its members if San Mateo’s debt to EBITDA ratio is greater than
+4.50
+or San Mateo’s liquidity is less than
+10
+% of the lender commitments under the San Mateo Credit Facility. San Mateo was in compliance with the terms of the San Mateo Credit Facility at March 31, 2026.
+Senior Unsecured Notes
+2028 Notes Tender Offer and Redemption
+In March 2026, the Company completed the repurchase of an aggregate principal amount of $
+419.8
+million of the $
+500.0
+million of the 2028 Notes pursuant to the Company’s cash tender offer announced on February 26, 2026 (the “2028 Notes Tender Offer”). Additionally, in March 2026, the Company irrevocably deposited funds with the trustee to redeem the remaining aggregate principal amount of $
+80.2
+million of 2028 Notes outstanding on April 15, 2026 (the “2028 Notes Redemption”), and as a result of such deposit, to satisfy and discharge the Company’s obligations under the indenture governing the 2028 Notes. In connection with the 2028 Notes Tender Offer and 2028 Notes Redemption, the Company incurred a loss on debt extinguishment of $
+15.6
+million, including a $
+9.7
+million cash prepayment premium and a $
+5.9
+million write-off of remaining unamortized deferred issuance costs and discounts.
+2034 Notes
+On March 5, 2026, the Company completed the sale of $
+750.0
+million in aggregate principal amount of the 2034 Notes, which have a
+6.0
+% coupon rate and mature on April 15, 2034. Interest is payable in arrears on each April 15 and October 15. The first interest payment date will be October 15, 2026. The 2034 Notes are jointly and severally guaranteed on a senior unsecured basis by certain subsidiaries of the Company (the “Guarantors”). San Mateo is not a Restricted Subsidiary (as defined in the indenture governing the 2034 Notes (the “2034 Notes Indenture”)) or Guarantor of the 2034 Notes.
+The Company used the net proceeds from the sale of the 2034 Notes of $
+737.9
+million, after deducting initial purchasers’ discounts and estimated offering expenses, to fund the 2028 Notes Tender Offer and 2028 Notes Redemption and for general corporate purposes.
+At any time prior to April 15, 2029, the Company may redeem up to
+40
+% in aggregate principal amount of the 2034 Notes at a redemption price of
+106.0
+% of the principal amount thereof, plus accrued and unpaid interest, if any, to the redemption date, in an amount not greater than the net proceeds of certain equity offerings, so long as the redemption occurs within
+180
+days of completing such equity offering and at least
+60
+% of the aggregate principal amount of the 2034 Notes remains outstanding immediately after such redemption. In addition, at any time prior to April 15, 2029, the Company may redeem all or part of the 2034 Notes for cash at a redemption price equal to
+100
+% of their principal amount plus an applicable make-whole premium and accrued and unpaid interest, if any, to the applicable redemption date.
+11
+Table of Contents
+Matador Resources Company and Subsidiaries
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS —
+UNAUDITED — CONTINUED
+NOTE 4 — DEBT — Continued
+On or after April 15, 2029, the Company may redeem all or a part of the 2034 Notes at any time or from time to time at the following redemption prices (expressed as percentages of the principal amount) plus accrued and unpaid interest, if any, to the applicable redemption date, if redeemed during the twelve-month period beginning on April 15 of the years indicated below:
+Year
+Redemption Price
+2029
+103.0
+%
+2030
+101.5
+%
+2031 and thereafter
+100.0
+%
+Subject to certain exceptions, the 2034 Notes Indenture contains various covenants that limit the Company’s and its Restricted Subsidiaries’ ability to take certain actions, including the following:
+•
+incur additional indebtedness;
+•
+sell assets;
+•
+pay dividends or make certain investments;
+•
+create liens that secure indebtedness;
+•
+enter into transactions with affiliates; and
+•
+merge or consolidate with another company.
+In the case of an event of default arising from certain events of bankruptcy or insolvency with respect to Matador, any Restricted Subsidiary that is a Significant Subsidiary (as defined in the 2034 Notes Indenture) or any group of Restricted Subsidiaries that, taken together, would constitute a Significant Subsidiary, all outstanding 2034 Notes will become due and payable immediately without further action or notice. If any other event of default occurs and is continuing, the trustee or the holders of at least
+25
+% in principal amount of the then outstanding 2034 Notes may declare all the 2034 Notes to be due and payable immediately. Events of default include the following:
+•
+default for 30 days in the payment when due of interest on the 2034 Notes;
+•
+default in the payment when due of the principal of, or premium, if any, on the 2034 Notes;
+•
+failure by the Company to comply with its obligations to offer to purchase or purchase 2034 Notes pursuant to the change of control or asset sale covenants of the 2034 Notes Indenture or to comply with the covenant relating to mergers;
+•
+failure by the Company for
+180
+days after notice to comply with its reporting obligations under the 2034 Notes Indenture;
+•
+failure by the Company for
+60
+days after notice to comply with any of the other agreements in the 2034 Notes Indenture;
+•
+payment defaults and accelerations with respect to other indebtedness of the Company and its Restricted Subsidiaries in the aggregate principal amount of $
+100.0
+million or more;
+•
+failure by the Company or any Restricted Subsidiary to pay certain final judgments aggregating in excess of $
+100.0
+million within
+60
+days;
+•
+any subsidiary guarantee by a Guarantor ceases to be in full force and effect, is declared null and void in a judicial proceeding or is denied or disaffirmed by its maker; and
+•
+certain events of bankruptcy or insolvency with respect to the Company or any Restricted Subsidiary that is a Significant Subsidiary or any group of Restricted Subsidiaries that, taken together, would constitute a Significant Subsidiary.
+12
+Table of Contents
+Matador Resources Company and Subsidiaries
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS -
+UNAUDITED - CONTINUED
+NOTE 5 — INCOME TAXES
+The Company recorded
+no
+current tax provision and a deferred income tax benefit of $
+0.7
+million for the three months ended March 31, 2026. The Company recorded a current income tax provision of $
+23.0
+million and a deferred income tax provision of $
+59.9
+million for the three months ended March 31, 2025. The decrease in the current and deferred income tax provision for the three months ended March 31, 2026 compared to the respective period of 2025 was primarily the result of both lower book earnings and the One Big Beautiful Bill Act of 2025 (the “OBBBA”). See Note 8,
+Income Taxes
+, of the Company’s Annual Report for further details of the provisions of the OBBBA that most significantly affect its income taxes.
+The Company’s effective income tax rate of
+2
+% for the three months ended March 31, 2026 differed from the U.S. federal statutory rate primarily due to the impact of permanent differences between book and tax income recognized discretely in the current period relative to the loss before income taxes. The Company’s effective tax rate of
+26
+% for the three months ended March 31, 2025 differed from the U.S. federal statutory rate primarily due to state taxes in New Mexico.
+The Company did not make any payments for income taxes during the three months ended March 31, 2026 and 2025.
+The Company’s cash refunds received for income taxes during the three months ended March 31, 2026 and 2025 are as follows (in thousands).
+Three Months Ended
+March 31,
+2026
+2025
+Federal
+$
+—
+$
+—
+State
+New Mexico
+(
+4,039
+)
+—
+Other
+(
+50
+)
+—
+Total cash refunds for income taxes
+$
+(
+4,089
+)
+$
+—
+NOTE 6 — EQUITY
+Stock-Based Compensation
+During the three months ended March 31, 2026, the Company granted awards to certain of its employees of
+392,000
+service-based restricted stock units to be settled in cash, which are liability instruments, and
+392,000
+performance-based stock units and
+2,000
+service-based shares of restricted stock, which are equity instruments. The performance-based stock units vest in an amount between
+zero
+and
+200
+% of the target units granted based on the Company’s relative total shareholder return over the
+three-year
+period ending December 31, 2028, as compared to a designated peer group. The service-based restricted stock and restricted stock units vest over a
+three-year
+period. The fair value of these awards was approximately $
+37.6
+million on their respective grant dates.
+Common Stock Dividend
+Matador’s Board of Directors (the “Board”) declared a quarterly cash dividend of $
+0.375
+per share of common stock in February 2026. The dividend, which totaled $
+46.8
+million, was paid on March 10, 2026 to shareholders of record as of February 27, 2026. On April 22, 2026, the Board declared a quarterly cash dividend of $
+0.375
+per share of common stock payable on June 5, 2026 to shareholders of record as of May 8, 2026.
+Share Repurchase Program
+As further described in the Annual Report, the Company maintains a share repurchase program (the “Share Repurchase Program”) authorizing the repurchase of up to $
+400.0
+million of common stock. During the three months ended March 31, 2026, the Company repurchased
+17,702
+shares of common stock under the Share Repurchase Program at a weighted average price of $
+39.92
+per common share for a total cost of $
+0.7
+million.
+San Mateo Distributions and Contributions
+During the three months ended March 31, 2026 and 2025, San Mateo distributed $
+31.6
+million and $
+35.2
+million, respectively, to the Company and $
+30.4
+million and $
+33.8
+million, respectively, to a subsidiary of Five Point Infrastructure LLC (“Five Point”), the Company’s joint venture partner in San Mateo. During the three months ended March 31, 2026 and 2025, there were
+no
+contributions to San Mateo by either the Company or Five Point.
+13
+Table of Contents
+Matador Resources Company and Subsidiaries
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS —
+UNAUDITED — CONTINUED
+NOTE 6 — EQUITY — Continued
+Performance Incentives
+Five Point paid the Company $
+6.9
+million and $
+2.8
+million of performance incentives during the three months ended March 31, 2026 and 2025, respectively. These performance incentives are recorded when received, net of the $
+1.4
+million and $
+0.6
+million deferred tax impact to the Company for the three months ended March 31, 2026 and 2025, respectively, in “Additional paid-in capital” in the Company’s interim unaudited condensed consolidated balance sheets. These performance incentives received in the three months ended March 31, 2026 and 2025 are also denoted as “Contributions related to formation of San Mateo” under “Financing activities” in the Company’s interim unaudited condensed consolidated statements of cash flows and changes in shareholders’ equity.
+NOTE 7 — DERIVATIVE FINANCIAL INSTRUMENTS
+At March 31, 2026, the Company had various costless collar contracts open and in place to mitigate its exposure to oil and natural gas price volatility, each with an established price floor and ceiling. At March 31, 2026, the Company had natural gas swap and natural gas basis differential swap contracts open and in place to mitigate its exposure to natural gas price volatility, with a specific term (calculation period), notional quantity (volume hedged) and fixed price. The Company had no open contracts associated with natural gas liquids prices at March 31, 2026.
+The following is a summary of the Company’s open costless collar contracts at March 31, 2026.
+Commodity
+Calculation Period
+Notional Quantity
+(Bbl or MMBtu)
+Weighted Average Price Floor
+($/Bbl or          $/MMBtu)
+Weighted Average Price Ceiling
+($/Bbl or          $/MMBtu)
+Fair Value of
+Asset
+(Liability)
+(thousands)
+Oil - WTI
+04/01/2026 - 12/31/2026
+18,425,000
+$
+52.75
+$
+66.36
+$
+(
+303,047
+)
+Oil - WTI
+01/01/2027 - 12/31/2027
+3,650,000
+$
+55.00
+$
+76.00
+(
+8,975
+)
+Natural Gas - Henry Hub
+04/01/2026 - 12/31/2026
+41,250,000
+$
+3.50
+$
+6.70
+18,194
+Total open costless collar contracts
+$
+(
+293,828
+)
+The following is a summary of the Company’s open swap contracts at March 31, 2026.
+Commodity
+Calculation Period
+Notional Quantity (MMBtu)
+Fixed Price
+($/MMBtu)
+Fair Value of
+Asset
+(Liability)
+(thousands)
+Natural Gas - Waha
+04/01/2026 - 07/31/2026
+12,200,000
+$
+(
+0.53
+)
+$
+19,981
+Total open swap contracts
+$
+19,981
+The following is a summary of the Company’s open basis differential swap contracts at March 31, 2026.
+Commodity
+Calculation Period
+Notional Quantity (MMBtu)
+Fixed Price
+($/MMBtu)
+Fair Value of
+Asset
+(Liability)
+(thousands)
+Natural Gas Basis Differential
+04/01/2026 - 12/31/2026
+41,250,000
+$
+(
+2.52
+)
+$
+52,426
+Total open basis differential swap contracts
+$
+52,426
+The Company’s derivative financial instruments are subject to master netting arrangements, and the Company’s counterparties allow for cross-commodity master netting provided the settlement dates for the commodities are the same. The Company does not present different types of commodities with the same counterparty on a net basis in its interim unaudited condensed consolidated balance sheets.
+14
+Table of Contents
+Matador Resources Company and Subsidiaries
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS —
+UNAUDITED — CONTINUED
+NOTE 7 — DERIVATIVE FINANCIAL INSTRUMENTS — Continued
+The following table presents the gross asset and liability fair values of the Company’s commodity price derivative financial instruments and the location of these balances in the interim unaudited condensed consolidated balance sheets as of March 31, 2026 and December 31, 2025 (in thousands).
+Derivative Instruments
+Gross
+amounts
+recognized
+Gross amounts
+netted in the condensed
+consolidated
+balance sheets
+Net amounts presented in the condensed
+consolidated
+balance sheets
+March 31, 2026
+Current assets
+$
+118,170
+$
+(
+27,570
+)
+$
+90,600
+Other assets
+9,975
+(
+9,975
+)
+—
+Current liabilities
+(
+333,770
+)
+27,570
+(
+306,200
+)
+Long-term liabilities
+(
+15,796
+)
+9,975
+(
+5,821
+)
+Total
+$
+(
+221,421
+)
+$
+—
+$
+(
+221,421
+)
+December 31, 2025
+Current assets
+$
+57,450
+$
+(
+23,398
+)
+$
+34,052
+Current liabilities
+(
+23,398
+)
+23,398
+—
+Total
+$
+34,052
+$
+—
+$
+34,052
+The following table summarizes the location and aggregate gain (loss) of all derivative financial instruments recorded in the interim unaudited condensed consolidated statements of operations for the periods presented (in thousands).
+Three Months Ended
+March 31,
+Type of Instrument
+Location in Condensed Consolidated
+Statement of Operations
+2026
+2025
+Derivative Instrument
+Oil
+Revenues: Realized loss on derivatives
+$
+(
+51,817
+)
+$
+—
+Natural Gas
+Revenues: Realized gain on derivatives
+37,324
+2,714
+Realized (loss) gain on derivatives
+(
+14,493
+)
+2,714
+Oil
+Revenues: Unrealized loss on derivatives
+(
+312,739
+)
+(
+16,142
+)
+Natural Gas
+Revenues: Unrealized gain on derivatives
+57,265
+21,213
+Unrealized (loss) gain on derivatives
+(
+255,474
+)
+5,071
+Total
+$
+(
+269,967
+)
+$
+7,785
+NOTE 8 — FAIR VALUE MEASUREMENTS
+The Company measures and reports certain financial and non-financial assets and liabilities on a fair value basis. Fair value is the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date (exit price). Fair value measurements are classified and disclosed in one of the following categories.
+Level 1    Unadjusted quoted prices for identical, unrestricted assets or liabilities in active markets.
+Level 2    Quoted prices in markets that are not active, or inputs that are observable, either directly or indirectly, for substantially the full term of the asset or liability. This category includes those derivative instruments that are valued with industry standard models that consider various inputs, including: (i) quoted forward prices for commodities, (ii) time value of money and (iii) current market and contractual prices for the underlying instruments, as well as other relevant economic measures. Substantially all of these inputs are observable in the marketplace throughout the full term of the derivative instrument and can be derived from observable data or supported by observable levels at which transactions are executed in the marketplace.
+15
+Table of Contents
+Matador Resources Company and Subsidiaries
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS —
+UNAUDITED — CONTINUED
+NOTE 8 — FAIR VALUE MEASUREMENTS — Continued
+Level 3    Unobservable inputs that are not corroborated by market data that reflect a company’s own market assumptions.
+Financial and non-financial assets and liabilities are classified based on the lowest level of input that is significant to the fair value measurement. The assessment of the significance of a particular input to the fair value measurement requires judgment, which may affect the valuation of the fair value of assets and liabilities and their placement within the fair value hierarchy levels.
+The following tables summarize the valuation of the Company’s financial assets and liabilities that were accounted for at fair value on a recurring basis in accordance with the classifications provided above as of March 31, 2026 and December 31, 2025 (in thousands).
+Fair Value Measurements at
+March 31, 2026 using
+Description
+Level 1
+Level 2
+Level 3
+Total
+Assets (Liabilities)
+Oil costless collars
+$
+—
+$
+(
+312,022
+)
+$
+—
+$
+(
+312,022
+)
+Natural gas costless collars
+—
+18,194
+—
+18,194
+Natural gas swaps
+—
+19,981
+—
+19,981
+Natural gas basis differential swaps
+—
+52,426
+—
+52,426
+Total
+$
+—
+$
+(
+221,421
+)
+$
+—
+$
+(
+221,421
+)
+Fair Value Measurements at
+December 31, 2025 using
+Description
+Level 1
+Level 2
+Level 3
+Total
+Assets (Liabilities)
+Oil costless collars
+$
+—
+$
+717
+$
+—
+$
+717
+Natural gas costless collars
+—
+17,396
+—
+17,396
+Natural gas basis differential swaps
+—
+15,939
+—
+15,939
+Total
+$
+—
+$
+34,052
+$
+—
+$
+34,052
+Additional disclosures related to derivative financial instruments are provided in Note 7,
+Derivative Financial Instruments
+.
+Other Fair Value Measurements
+At March 31, 2026 and December 31, 2025, the carrying values reported on the interim unaudited condensed consolidated balance sheets for accounts receivable, prepaid expenses and other current assets, accounts payable, accrued liabilities, royalties payable, amounts due to affiliates, advances from joint interest owners and other current liabilities approximated their fair values due to their short-term maturities.
+At March 31, 2026 and December 31, 2025, the carrying value of borrowings under the Credit Agreement and the San Mateo Credit Facility approximated their fair value as both are subject to short-term floating interest rates that reflect market rates available to the Company at the time and are classified at Level 2 in the fair value hierarchy.
+16
+Table of Contents
+Matador Resources Company and Subsidiaries
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS —
+UNAUDITED — CONTINUED
+NOTE 8 — FAIR VALUE MEASUREMENTS — Continued
+The following table summarizes the carrying values and fair values of outstanding senior unsecured notes at March 31, 2026 and December 31, 2025 (in thousands).
+March 31,
+2026
+December 31,
+2025
+Fair Value
+Hierarchy
+Carrying
+Value
+Fair
+Value
+Carrying
+Value
+Fair
+Value
+2028 Notes
+Level 1
+$
+—
+$
+—
+$
+500,000
+$
+511,585
+2032 Notes
+Level 1
+$
+900,000
+$
+913,491
+$
+900,000
+$
+914,265
+2033 Notes
+Level 1
+$
+750,000
+$
+753,023
+$
+750,000
+$
+751,920
+2034 Notes
+Level 1
+$
+750,000
+$
+746,250
+$
+—
+$
+—
+Certain assets and liabilities are measured at fair value on a nonrecurring basis, including assets and liabilities acquired in a business combination, lease and well equipment inventory when the market value is determined to be lower than the cost of the inventory, and other property and equipment that are reduced to fair value when they are impaired or held for sale.
+There were no material nonrecurring fair value measurements for either of the periods presented.
+NOTE 9 — COMMITMENTS AND CONTINGENCIES
+Processing, Transportation and Produced Water Disposal Commitments
+Firm Commitments
+From time to time, the Company enters into agreements with third parties whereby the Company commits to deliver anticipated natural gas and oil production and produced water from certain portions of its acreage for transportation, gathering, processing, fractionation, sales and disposal. The Company paid approximately $
+25.3
+million and $
+21.5
+million for services under these agreements during the three months ended March 31, 2026 and 2025, respectively. Certain of these agreements contain minimum volume commitments. If the Company does not meet the minimum volume commitments under these agreements, it will be required to pay certain deficiency fees. If the Company ceased operations in the areas subject to these agreements at March 31, 2026, the total deficiencies required to be paid by the Company under these agreements would be approximately $
+2.29
+billion.
+San Mateo Commitments
+The Company dedicated to San Mateo its current and certain future leasehold interests in the Rustler Breaks asset area and the Wolf portion of the West Texas asset area and acreage in the southern portion of the Arrowhead asset area (the “Greater Stebbins Area”) and the Stateline asset area pursuant to
+15-year
+, fixed-fee oil transportation, oil, natural gas and produced water gathering and produced water disposal agreements. In addition, the Company dedicated to San Mateo its current and certain future leasehold interests in the Rustler Breaks asset area and acreage in the Greater Stebbins Area and Stateline asset area pursuant to
+15-year
+, fixed-fee natural gas processing agreements. The Company also dedicated to San Mateo certain of its current and future leasehold interests in the Ranger and Antelope Ridge asset areas pursuant to 15-year, fixed-fee natural gas gathering, compression, treating and processing agreements (collectively with the transportation, gathering, produced water disposal and natural gas processing agreements, the “Operational Agreements”). San Mateo provides the Company with firm service under each of the Operational Agreements in exchange for certain minimum volume commitments. The remaining minimum contractual obligation under the Operational Agreements at March 31, 2026 was approximately $
+701.2
+million.
+Legal Proceedings
+The Company is a party to several legal proceedings encountered in the ordinary course of its business. While the ultimate outcome and impact on the Company cannot be predicted with certainty, in the opinion of management, it is remote that these legal proceedings will have a material adverse impact on the Company’s financial condition, results of operations or cash flows.
+17
+Matador Resources Company and Subsidiaries
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS —
+UNAUDITED — CONTINUED
+NOTE 10 — SUPPLEMENTAL DISCLOSURES
+Accounts Payable and Accrued Liabilities
+The following table summarizes the Company’s current accounts payable and accrued liabilities at March 31, 2026 and December 31, 2025 (in thousands).
+March 31,
+2026
+December 31,
+2025
+Accounts payable
+$
+203,599
+$
+179,337
+Accrued evaluated and unproved and unevaluated property costs
+200,628
+151,680
+Accrued lease operating expenses
+97,111
+85,009
+Accrued interest on debt
+53,755
+32,157
+Accrued derivative payments
+51,175
+—
+Accrued partners’ share of joint interest charges
+38,450
+24,427
+Accrued compensation and benefits
+19,847
+33,162
+Accrued payable related to purchased natural gas
+9,051
+10,530
+Accrued midstream properties costs
+5,271
+7,648
+Accrued asset retirement obligations
+4,949
+6,309
+Other
+18,535
+10,361
+Total accounts payable and accrued liabilities
+$
+702,371
+$
+540,620
+Supplemental Cash Flow Information
+The following table provides supplemental disclosures of cash flow information for the three months ended March 31, 2026 and 2025 (in thousands).
+Three Months Ended
+March 31,
+2026
+2025
+Cash paid for interest expense, net of amounts capitalized
+$
+26,950
+$
+32,771
+Increase (decrease) in asset retirement obligations related to mineral properties
+$
+2,426
+$
+(
+3,976
+)
+Increase in asset retirement obligations related to midstream properties
+$
+—
+$
+8
+Increase (decrease) in liabilities for drilling, completion and equipping capital expenditures
+$
+51,605
+$
+(
+1,060
+)
+(Decrease) increase in liabilities for acquisition of oil and natural gas properties
+$
+(
+205
+)
+$
+98
+(Decrease) increase in liabilities for midstream properties capital expenditures
+$
+(
+2,290
+)
+$
+3,592
+Stock-based compensation expense recognized as a liability
+$
+8,334
+$
+2,881
+Transfer of inventory to (from) oil and natural gas properties
+$
+2,955
+$
+(
+8,100
+)
+The following table provides a reconciliation of cash and restricted cash recorded in the interim unaudited condensed consolidated balance sheets to cash and restricted cash as presented on the interim unaudited condensed consolidated statements of cash flows (in thousands).
+Three Months Ended
+March 31,
+2026
+2025
+Cash
+$
+30,451
+$
+14,522
+Restricted cash
+62,021
+62,994
+Total cash and restricted cash
+$
+92,472
+$
+77,516
+18
+Table of Contents
+Matador Resources Company and Subsidiaries
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS —
+UNAUDITED — CONTINUED
+NOTE 11 — SEGMENT INFORMATION
+The Company has
+two
+business segments: (i) exploration and production and (ii) midstream. The exploration and production segment is engaged in the exploration, development, production and acquisition of oil and natural gas resources in the United States and is currently focused primarily on the oil and liquids-rich portion of the Wolfcamp and Bone Spring plays in the Delaware Basin in Southeast New Mexico and West Texas. The Company also has operations in the Haynesville shale and Cotton Valley plays in Northwest Louisiana. The midstream segment conducts midstream operations in support of, and provides flow assurance for, the Company’s exploration, development and production operations and provides natural gas processing, oil transportation services, oil, natural gas and produced water gathering services and produced water disposal services to third parties. The majority of the Company’s midstream operations in the Delaware Basin are conducted through San Mateo.
+The Company’s chief operating decision maker (“CODM”) is the Chairman and Chief Executive Officer. The CODM uses operating income to assess income generated from each segment to allocate resources by either reinvesting profits as midstream or drilling and completion capital expenditures, or for determining the appropriate amounts for acquisition spend, the repayment of debt, the payment of dividends and repurchases of common stock.
+The following tables present selected financial information for the periods presented regarding the Company’s business segments on a stand-alone basis, corporate expenses that are not allocated to a segment and the consolidation and elimination entries necessary to arrive at the financial information for the Company on a consolidated basis (in thousands). On a consolidated basis, midstream services revenues consist primarily of those revenues from midstream operations related to third parties, including working interest owners in the Company’s operated wells. All midstream services revenues associated with Company-owned production are eliminated in consolidation. In evaluating the operating results of the exploration and production and midstream segments, the Company does not allocate certain expenses to the individual segments, including general and administrative expenses. Such expenses are reflected in the column labeled “Corporate.”
+Exploration and Production
+Consolidations and Eliminations
+Consolidated Company
+Midstream
+Corporate
+Three Months Ended March 31, 2026
+Oil and natural gas revenues
+$
+815,951
+$
+2,780
+$
+—
+$
+—
+$
+818,731
+Midstream services revenues
+—
+135,948
+—
+(
+93,857
+)
+42,091
+Sales of purchased natural gas
+34,367
+46,415
+—
+—
+80,782
+Realized loss on derivatives
+(
+14,493
+)
+—
+—
+—
+(
+14,493
+)
+Unrealized loss on derivatives
+(
+255,474
+)
+—
+—
+—
+(
+255,474
+)
+Operating expense
+(1)
+147,178
+55,227
+—
+(
+39,652
+)
+162,753
+Other expenses
+(2)
+414,605
+67,177
+34,486
+(
+54,205
+)
+462,063
+Operating income
+(3)
+$
+18,568
+$
+62,739
+$
+(
+34,486
+)
+$
+—
+$
+46,821
+Total assets
+(4)
+$
+10,187,710
+$
+1,833,540
+$
+153,239
+$
+—
+$
+12,174,489
+Capital expenditures
+(5)
+$
+479,060
+$
+15,734
+$
+2,132
+$
+—
+$
+496,926
+_____________________
+(1)
+Includes lease operating expense for the exploration and production segment and midstream operating expense for the midstream segment.
+(2)
+Includes depletion, depreciation and amortization expenses of $
+275.3
+million and $
+17.0
+million for the exploration and production and midstream segments, respectively. Also includes corporate depletion, depreciation and amortization expenses of $
+0.4
+million. Other expenses for each reportable segment also include (i) transportation and processing, (ii) general and administrative expenses, (iii) accretion of asset retirement obligations, (iv) purchased natural gas and (v) taxes other than income.
+(3)
+Includes $
+20.1
+million in net income attributable to non-controlling interest in subsidiaries related to the midstream segment.
+(4)
+Excludes intercompany receivables and investments in subsidiaries.
+(5)
+Includes $
+61.4
+million attributable to land and seismic acquisition expenditures related to the exploration and production segment and $
+5.2
+million in capital expenditures attributable to non-controlling interest in subsidiaries related to the midstream segment.
+19
+Table of Contents
+Matador Resources Company and Subsidiaries
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS —
+UNAUDITED — CONTINUED
+NOTE 11 — SEGMENT INFORMATION — Continued
+Exploration and Production
+Consolidations and Eliminations
+Consolidated Company
+Midstream
+Corporate
+Three Months Ended March 31, 2025
+Oil and natural gas revenues
+$
+905,931
+$
+3,987
+$
+—
+$
+—
+$
+909,918
+Midstream services revenues
+—
+119,979
+—
+(
+86,480
+)
+33,499
+Sales of purchased natural gas
+25,577
+37,179
+—
+—
+62,756
+Realized gain on derivatives
+2,714
+—
+—
+—
+2,714
+Unrealized gain on derivatives
+5,071
+—
+—
+—
+5,071
+Operating expense
+(1)
+145,867
+51,803
+—
+(
+41,456
+)
+156,214
+Other expenses
+(2)
+431,339
+53,423
+28,855
+(
+45,024
+)
+468,593
+Operating income
+(3)
+$
+362,087
+$
+55,919
+$
+(
+28,855
+)
+$
+—
+$
+389,151
+Total assets
+(4)
+$
+9,310,313
+$
+1,665,288
+$
+106,440
+$
+—
+$
+11,082,041
+Capital expenditures
+(5)
+$
+476,152
+$
+77,184
+$
+942
+$
+—
+$
+554,278
+_____________________
+(1)
+Includes lease operating expense for the exploration and production segment and midstream operating expense for the midstream segment.
+(2)
+Includes depletion, depreciation and amortization expenses of $
+269.5
+million
+and $
+12.1
+million for the exploration and production and midstream segments, respectively. Also includes corporate depletion, depreciation and amortization expenses of $
+0.4
+million. Other expenses for each reportable segment also include (i) transportation and processing, (ii) general and administrative expenses, (iii) accretion of asset retirement obligations, (iv) purchased natural gas and (v) taxes other than income.
+(3)
+Includes $
+22.2
+million in net income attributable to non-controlling interest in subsidiaries related to the midstream segment.
+(4)
+Excludes intercompany receivables and investments in subsidiaries.
+(5)
+Includes $
+81.8
+million attributable to land and seismic acquisition expenditures related to the exploration and production segment and $
+30.8
+million in capital expenditures attributable to non-controlling interest in subsidiaries related to the midstream segment.
+20
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with our interim unaudited condensed consolidated financial statements and related notes thereto contained herein and the consolidated financial statements and related notes thereto contained in our Annual Report on Form 10-K for the year ended December 31, 2025 (the “Annual Report”) filed with the Securities and Exchange Commission (the “SEC”) on February 26, 2026, along with Management’s Discussion and Analysis of Financial Condition and Results of Operations contained in the Annual Report. The Annual Report is accessible on the SEC’s website at
+www.sec.gov
+and on our website at
+www.matadorresources.com
+. Our discussion and analysis includes forward-looking information that involves risks and uncertainties and should be read in conjunction with the “Risk Factors” section of the Annual Report and the section entitled “Cautionary Note Regarding Forward-Looking Statements” below for information about the risks and uncertainties that could cause our actual results to be materially different than our forward-looking statements.
+In this Quarterly Report on Form 10-Q (this “Quarterly Report”), (i) references to “we,” “our” or the “Company” refer to Matador Resources Company and its subsidiaries as a whole (unless the context indicates otherwise), (ii) references to “Matador” refer solely to Matador Resources Company and (iii) references to “San Mateo” refer to San Mateo Midstream, LLC, collectively with its subsidiaries. For certain oil and natural gas terms used in this Quarterly Report, please see the “Glossary of Oil and Natural Gas Terms” included with the Annual Report.
+Cautionary Note Regarding Forward-Looking Statements
+Certain statements in this Quarterly Report constitute “forward-looking statements” within the meaning of Section 27A of the Securities Act of 1933, as amended (the “Securities Act”), and Section 21E of the Securities Exchange Act of 1934, as amended (the “Exchange Act”). Additionally, forward-looking statements may be made orally or in press releases, conferences, reports, on our website or otherwise, in the future by us or on our behalf. All statements, other than statements of historical fact, included in this Quarterly Report regarding our strategy, future operations, estimated revenues and losses, projected costs, prospects, plans and objectives of management are forward-looking statements. Such statements are generally identifiable by the terminology used such as “anticipate,” “believe,” “continue,” “could,” “estimate,” “expect,” “forecasted,” “hypothetical,” “intend,” “may,” “might,” “plan,” “potential,” “predict,” “project,” “seek,” “should,” “would” or other similar words, although not all forward-looking statements contain such identifying words.
+By their very nature, forward-looking statements require us to make assumptions that may not materialize or that may not be accurate. Forward-looking statements are subject to known and unknown risks and uncertainties and other factors that may cause actual results, levels of activity and achievements to differ materially from those expressed or implied by such statements. Such factors include those described in the “Risk Factors” section of the Annual Report, as well as the following factors, among others: general economic conditions, including the effects of inflation and interest rates; tariffs and trade tensions; our ability to execute our business plan, including whether our drilling program is successful; changes in oil, natural gas and natural gas liquids (“NGL”) prices and the demand for oil, natural gas and NGLs; our ability to replace reserves and efficiently develop current reserves; the operating results of our midstream business’s oil, natural gas and water gathering and transportation systems, pipelines and facilities, the acquiring of third-party business and the drilling of any additional salt water disposal wells; costs of operations; delays and other difficulties related to producing oil, natural gas and NGLs or the construction, expansion or operation of our midstream assets; delays and other difficulties related to regulatory and governmental approvals and restrictions; impact on our operations due to seismic events; availability of sufficient capital to execute our business plan, including from future cash flows, capital markets, available borrowing capacity under our revolving credit facilities and otherwise; our ability to make acquisitions on economically acceptable terms; our ability to integrate acquisitions; the operating results of and availability of any potential distributions from our joint ventures; weather conditions, environmental conditions and natural disasters; disruption from our acquisitions making it more difficult to maintain business and operational relationships; significant transaction costs associated with our acquisitions; evolving cybersecurity risks; the risk of litigation and/or regulatory actions related to our acquisitions; and the other factors discussed below and elsewhere in this Quarterly Report and in other documents that we file with or furnish to the SEC, all of which are difficult to predict. Forward-looking statements may include statements about:
+•
+our business strategy;
+•
+our estimated future reserves and the present value thereof, including whether or not a full-cost ceiling impairment could be realized;
+•
+our cash flows and liquidity;
+•
+the amount, timing and payment of dividends, if any;
+•
+our financial strategy, budget, projections and operating results;
+•
+the supply and demand of oil, natural gas and NGLs;
+•
+oil, natural gas and NGL prices, including our realized prices thereof;
+•
+the timing and amount of future production of oil and natural gas;
+21
+•
+the availability of drilling and production equipment;
+•
+the availability of oil storage capacity;
+•
+the availability and cost of oil field labor;
+•
+the amount, nature and timing of capital expenditures, including future exploration and development costs;
+•
+the availability and terms of capital;
+•
+our drilling of wells;
+•
+our ability to negotiate and consummate acquisition and divestiture opportunities;
+•
+the integration of acquisitions with our business;
+•
+government regulation and taxation of the oil and natural gas industry;
+•
+tariffs and trade restrictions;
+•
+our marketing of oil and natural gas;
+•
+our exploitation projects or property acquisitions;
+•
+the ability of our midstream business to construct, maintain and operate midstream pipelines and facilities, including the operation of cryogenic natural gas processing plants and the drilling of additional salt water disposal wells;
+•
+the ability of our midstream business to attract third-party volumes;
+•
+our costs of exploiting and developing our properties and conducting other operations;
+•
+general economic conditions;
+•
+competition in the oil and natural gas industry, including in both the exploration and production and midstream segments;
+•
+the effectiveness of our risk management and hedging activities;
+•
+our technology;
+•
+environmental liabilities;
+•
+our initiatives and efforts relating to environmental, social and governance matters;
+•
+counterparty credit risk;
+•
+geopolitical instability and developments in oil-producing and natural gas-producing countries;
+•
+our future operating results;
+•
+the impact of the One Big Beautiful Bill Act of 2025 (the “OBBBA”); and
+•
+our plans, objectives, expectations and intentions contained in this Quarterly Report or in our other filings with the SEC that are not historical.
+Although we believe that the expectations conveyed by the forward-looking statements in this Quarterly Report are reasonable based on information available to us on the date hereof, no assurances can be given as to future results, levels of activity, achievements or financial condition.
+You should not place undue reliance on any forward-looking statement and should recognize that the statements are predictions of future results, which may not occur as anticipated. Actual results could differ materially from those anticipated in the forward-looking statements and from historical results, due to the risks and uncertainties described above, as well as others not now anticipated. The impact of any one factor on a particular forward-looking statement is not determinable with certainty as such factors are interdependent upon other factors. The foregoing statements are not exclusive and further information concerning us, including factors that potentially could materially affect our financial results, may emerge from time to time. We undertake no obligation to update forward-looking statements to reflect actual results or changes in factors or assumptions affecting such forward-looking statements, except as required by law, including the securities laws of the United States and the rules and regulations of the SEC.
+Overview
+We are an independent energy company engaged in the exploration, development, production and acquisition of oil and natural gas resources in the United States, with an emphasis on oil and natural gas shale and other unconventional plays. Our current operations are focused primarily on the oil and liquids-rich portion of the Wolfcamp and Bone Spring plays in the Delaware Basin in Southeast New Mexico and West Texas. We also have operations in the Haynesville shale and Cotton Valley plays in Northwest Louisiana. Additionally, we conduct midstream operations in support of, and to provide flow assurance for, our exploration, development and production operations and provide natural gas processing, oil transportation services, oil, natural gas and produced water gathering services and produced water disposal services to third parties.
+22
+First Quarter Highlights
+For the three months ended March 31, 2026, our total oil equivalent production was 18.7 million BOE, and our average daily oil equivalent production was 207,594 BOE per day, of which 120,277 Bbl per day, or 58%, was oil and 523.9 MMcf per day, or 42%, was natural gas. Our average daily oil production of 120,277 Bbl per day for the three months ended March 31, 2026 increased 5% year-over-year from 115,030 Bbl per day for the three months ended March 31, 2025. Our average daily natural gas production of 523.9 MMcf per day for the three months ended March 31, 2026 increased 4% year-over-year from 501.6 MMcf per day for the three months ended March 31, 2025.
+The Delaware Basin contributed 100% of our daily oil production and 97% of our daily natural gas production in the first quarter of 2026, as compared to 100% of our daily oil production and 96% of our daily natural gas production in the first quarter of 2025.
+For the first quarter of 2026, we reported a net loss attributable to Matador shareholders of $35.9 million, or $0.29 per diluted common share, on a GAAP basis, primarily resulting from a $255.5 million unrealized loss on derivatives, as compared to net income attributable to Matador shareholders of $240.1 million, or $1.92 per diluted common share, for the first quarter of 2025. For the first quarter of 2026, our Adjusted EBITDA, a non‑GAAP financial measure, was $577.2 million, as compared to Adjusted EBITDA of $644.2 million during the first quarter of 2025.
+For a definition of Adjusted EBITDA and a reconciliation of Adjusted EBITDA to our net (loss) income and net cash provided by operating activities, see “—Liquidity and Capital Resources—Non-GAAP Financial Measures.” For more information regarding our financial results for the three months ended March 31, 2026, see “—Results of Operations” below.
+2026 Capital Expenditure Budget
+Our 2026 estimated capital expenditure budget consists of $1.35 to $1.44 billion for drilling, completing and equipping (“D/C/E”) capital expenditures and $100.0 to $110.0 million for midstream capital expenditures, which includes our proportionate share of San Mateo’s estimated 2026 capital expenditures as well as the estimated 2026 capital expenditures for other wholly-owned midstream projects.
+Capital Resources Update
+Matador’s Board of Directors (the “Board”) declared and paid quarterly cash dividends of $0.375 per share of common stock in the first quarter of 2026. On April 22, 2026, the Board declared a quarterly cash dividend of $0.375 per share of common stock payable on June 5, 2026 to shareholders of record as of May 8, 2026.
+In March 2026, we completed the repurchase of an aggregate principal amount of $419.8 million of the $500.0 million of outstanding senior notes due 2028 (the “2028 Notes”) as part of our cash tender offer announced on February 26, 2026 (the “2028 Notes Tender Offer”). Additionally, in March 2026, we irrevocably deposited funds with the trustee to redeem the remaining aggregate principal amount of $80.2 million of 2028 Notes outstanding on April 15, 2026 (the “2028 Notes Redemption”), and as a result of such deposit, to satisfy and discharge our obligations under the indenture governing the 2028 Notes.
+Additionally, in March 2026, we completed the sale of $750.0 million in aggregate principal amount of our 6.00% senior notes due 2034 (the “2034 Notes”). We used the net proceeds from the sale of the 2034 Notes (the “2034 Notes Offering”) of $737.9 million, after deducting initial purchasers’ discounts and estimated offering expenses, to fund the 2028 Notes Tender Offer and 2028 Notes Redemption and for general corporate purposes.
+For a summary of our sources and availability of liquidity as of March 31, 2026, see “Liquidity and Capital Resources” in Part I, Item 2 of this Quarterly Report.
+Critical Accounting Policies
+There have been no changes to our critical accounting policies and estimates from those set forth in the Annual Report.
+23
+Results of Operations
+Revenues
+The following table summarizes our unaudited revenues and production data for the periods indicated:
+Three Months Ended
+March 31,
+2026
+2025
+$ Change
+% Change
+Operating Data
+Revenues (in thousands)
+(1)
+Oil
+$
+788,349
+$
+749,322
+$
+39,027
+5
+%
+Natural gas
+30,382
+160,596
+(130,214)
+(81)
+%
+Total oil and natural gas revenues
+818,731
+909,918
+(91,187)
+(10)
+%
+Third-party midstream services revenues
+42,091
+33,499
+8,592
+26
+%
+Sales of purchased natural gas
+80,782
+62,756
+18,026
+29
+%
+Realized (loss) gain on derivatives
+(14,493)
+2,714
+(17,207)
+(634)
+%
+Unrealized (loss) gain on derivatives
+(255,474)
+5,071
+(260,545)
+(5,138)
+%
+Total revenues
+$
+671,637
+$
+1,013,958
+$
+(342,321)
+(34)
+%
+Net Production Volumes
+(1)
+Oil (MBbl)
+10,825
+10,353
+472
+5
+%
+Natural gas (Bcf)
+47.2
+45.1
+2.1
+4
+%
+Total oil equivalent (MBOE)
+(2)
+18,683
+17,877
+806
+5
+%
+Average daily production (BOE/d)
+(2)
+207,594
+198,631
+8,963
+5
+%
+Average Sales Prices
+Oil, without realized derivatives (per Bbl)
+$
+72.83
+$
+72.38
+$
+0.45
+1
+%
+Oil, with realized derivatives (per Bbl)
+$
+68.04
+$
+72.38
+$
+(4.34)
+(6)
+%
+Natural gas, without realized derivatives (per Mcf)
+$
+0.64
+$
+3.56
+$
+(2.92)
+(82)
+%
+Natural gas, with realized derivatives (per Mcf)
+$
+1.44
+$
+3.62
+$
+(2.18)
+(60)
+%
+_________________
+(1)
+We report our production volumes in two streams: oil and natural gas, including both dry and liquids-rich natural gas. Revenues associated with NGLs are included with our natural gas revenues.
+(2)
+Estimated using a conversion ratio of one Bbl of oil per six Mcf of natural gas.
+Three Months Ended March 31, 2026 as Compared to Three Months Ended March 31, 2025
+Oil and natural gas revenues.
+The increase in oil revenues resulted from the 5% increase in our oil production and the 1% increase in the weighted average oil price realized for the three months ended March 31, 2026, as compared to the three months ended March 31, 2025. The decrease in natural gas revenues primarily resulted from the 82% decrease in the weighted average natural gas price realized for the three months ended March 31, 2026, as compared to the three months ended March 31, 2025, which was partially offset by the 4% increase in our natural gas production. For further discussion of factors impacting commodity prices, see “—General Outlook and Trends.”
+Third-party midstream services revenues.
+Third-party midstream services revenues are those revenues from midstream operations related to third parties, including working interest owners in our operated wells. The increase in third-party midstream services revenues was primarily attributable to a $9.0 million increase in our third-party natural gas gathering and processing revenues during the three months ended March 31, 2026, as compared to the three months ended March 31, 2025, which was partially offset by a $0.7 million decrease in our third-party water disposal revenues during the three months ended March 31, 2026, as compared to the three months ended March 31, 2025.
+24
+Sales of purchased natural gas.
+The increase in sales of purchased natural gas was primarily the result of an 87% increase in natural gas volumes sold, which was partially offset by a 31% decrease in natural gas price realized in those sales. Sales of purchased natural gas reflect those natural gas purchase transactions that we periodically enter into with third parties whereby we purchase natural gas and (i) subsequently sell the natural gas to other purchasers or (ii) process the natural gas at San Mateo’s cryogenic natural gas processing plants and subsequently sell the residue natural gas and NGLs to other purchasers. These revenues, and the expenses related to these transactions included in “Purchased natural gas,” are presented on a gross basis in our interim unaudited condensed consolidated statements of operations.
+Realized (loss) gain on derivatives.
+Our realized loss on derivatives was $14.5 million for the three months ended March 31, 2026, as compared to a realized gain of $2.7 million for the three months ended March 31, 2025. For the three months ended March 31, 2026, we recorded a net loss of $51.8 million related to our oil costless collars resulting primarily from oil prices that were above the ceiling of certain of our oil costless collar contracts. This loss was partially offset by a net gain of $37.3 million primarily related to our natural gas costless collar and swap contracts, resulting primarily from natural gas basis differentials that were below the fixed prices of certain of our natural gas basis differential swap contracts. For the three months ended March 31, 2025, we recorded a net gain of $2.7 million related to our natural gas basis differential swap contracts, resulting primarily from natural gas basis differentials that were below the fixed prices of certain of our natural gas basis differential swap contracts. We realized an average loss on our oil derivatives of approximately $4.79 per Bbl produced during the three months ended March 31, 2026, as compared to no realized gains or losses from oil derivatives during the three months ended March 31, 2025. We realized an average gain on our natural gas derivatives of approximately $0.80 per Mcf produced during the three months ended March 31, 2026, as compared to an average gain of approximately $0.06 per Mcf produced during the three months ended March 31, 2025. See Note 7,
+Derivative Financial Instruments
+, for further details on our derivatives.
+Unrealized (loss) gain on derivatives.
+During the three months ended March 31, 2026, the aggregate net fair value of our open oil and natural gas costless collar, natural gas swap and natural gas basis differential swap contracts changed to a net liability of $221.4 million from a net asset of $34.1 million at December 31, 2025, resulting in an unrealized loss on derivatives of $255.5 million for the three months ended March 31, 2026. During the three months ended March 31, 2025, the aggregate net fair value of our open oil and natural gas costless collar and natural gas basis differential swap contracts changed to a net asset of $21.0 million from a net asset of $16.0 million at December 31, 2024, resulting in an unrealized gain on derivatives of $5.1 million for the three months ended March 31, 2025. See Note 7,
+Derivative Financial Instruments
+, for further details on our derivatives.
+25
+Expenses
+The following table summarizes our unaudited operating expenses and other income (expense) for the periods indicated:
+Three Months Ended
+March 31,
+(In thousands, except expenses per BOE)
+2026
+2025
+$ Change
+% Change
+Expenses
+Lease operating
+$
+107,526
+$
+104,411
+$
+3,115
+3
+%
+Transportation and processing
+14,842
+20,061
+(5,219)
+(26)
+%
+Midstream operating
+55,227
+51,803
+3,424
+7
+%
+Purchased natural gas
+42,335
+54,133
+(11,798)
+(22)
+%
+Depletion, depreciation and amortization
+292,704
+281,891
+10,813
+4
+%
+Taxes other than income
+70,891
+77,049
+(6,158)
+(8)
+%
+Accretion of asset retirement obligations
+2,268
+1,727
+541
+31
+%
+General and administrative
+39,023
+33,732
+5,291
+16
+%
+Total expenses
+624,816
+624,807
+9
+—
+%
+Operating income
+46,821
+389,151
+(342,330)
+(88)
+%
+Other income (expense)
+Interest expense
+(51,525)
+(49,489)
+(2,036)
+4
+%
+Loss on debt extinguishment
+(15,587)
+—
+(15,587)
+(100)
+%
+Loss on asset sales
+(578)
+—
+(578)
+(100)
+%
+Other income
+4,367
+5,506
+(1,139)
+(21)
+%
+Total other expense
+(63,323)
+(43,983)
+(19,340)
+44
+%
+(Loss) income before income taxes
+(16,502)
+345,168
+(361,670)
+(105)
+%
+Income tax (benefit) provision
+Current
+—
+22,981
+(22,981)
+(100)
+%
+Deferred
+(684)
+59,940
+(60,624)
+(101)
+%
+Total income tax (benefit) provision
+(684)
+82,921
+(83,605)
+(101)
+%
+Net (loss) income
+(15,818)
+262,247
+(278,065)
+(106)
+%
+Net income attributable to non-controlling interest in subsidiaries
+(20,054)
+(22,162)
+2,108
+(10)
+%
+Net (loss) income attributable to Matador Resources Company shareholders
+$
+(35,872)
+$
+240,085
+$
+(275,957)
+(115)
+%
+Expenses per BOE
+Lease operating
+$
+5.76
+$
+5.84
+$
+(0.08)
+(1)
+%
+Transportation and processing
+$
+0.79
+$
+1.12
+$
+(0.33)
+(29)
+%
+Midstream operating
+$
+2.96
+$
+2.90
+$
+0.06
+2
+%
+Depletion, depreciation and amortization
+$
+15.67
+$
+15.77
+$
+(0.10)
+(1)
+%
+Taxes other than income
+$
+3.79
+$
+4.31
+$
+(0.52)
+(12)
+%
+General and administrative
+$
+2.09
+$
+1.89
+$
+0.20
+11
+%
+Three Months Ended March 31, 2026 as Compared to Three Months Ended March 31, 2025
+Lease operating.
+The increase in lease operating expense was primarily attributable to the increased number of wells being operated by us and other operators (where we own a working interest) for the three months ended March 31, 2026, as compared to the three months ended March 31, 2025.
+Transportation and processing.
+The decrease in transportation and processing expenses is primarily due to additional allowable deductions identified in the state of New Mexico and a change in the mix of revenue contracts between the periods.
+26
+Midstream operating.
+The increase in midstream operating expense was primarily attributable to increased throughput volumes from Matador and other San Mateo customers, which resulted in a $3.3 million increase in expenses associated with plant processing and a $2.3 million increase in expenses associated with our expanded pipeline operations for the three months ended March 31, 2026, as compared to the three months ended March 31, 2025, which was partially offset by a $2.0 million decrease in expenses associated with our commercial produced water disposal operations for the three months ended March 31, 2026, as compared to the three months ended March 31, 2025.
+Purchased natural gas.
+The decrease in purchased natural gas expense was primarily due to a decline of approximately 129% in average Waha pricing, which was partially offset by a 31% increase in volumes purchased due to the weaker market pricing, during the three months ended March 31, 2026, as compared to the three months ended March 31, 2025.
+Depletion, depreciation and amortization.
+The increase in depletion, depreciation and amortization was primarily a result of the 5% increase in our total oil equivalent production for the three months ended March 31, 2026, as compared to the three months ended March 31, 2025.
+Taxes other than income.
+The decrease in taxes other than income is primarily due to the decrease in natural gas revenues, partially offset by the increase in oil revenues between the two periods.
+General and administrative
+. The increase in general and administrative expense was largely attributable to employee compensation costs, including a $6.8 million increase in stock-based compensation expense primarily associated with our cash-settled stock awards, the values of which are remeasured at each reporting period.
+Interest expense.
+For the three months ended March 31, 2026, we incurred total interest expense of $58.6 million. We capitalized $7.0 million of our interest expense on certain qualifying projects for the three months ended March 31, 2026 and expensed the remaining $51.5 million to operations. For the three months ended March 31, 2025, we incurred total interest expense of $58.2 million. We capitalized $8.7 million of our interest expense on certain qualifying projects for the three months ended March 31, 2025 and expensed the remaining $49.5 million to operations.
+Loss on debt extinguishment.
+In connection with the 2028 Notes Tender Offer and 2028 Notes Redemption, we incurred a loss on debt extinguishment of $15.6 million, including a $9.7 million cash prepayment premium and a $5.9 million write-off of remaining unamortized deferred issuance costs and discounts.
+Income tax (benefit) provision.
+The decreases in the current and deferred income tax provisions between the periods were primarily due to both lower book earnings and the OBBBA. See Note 8,
+Income Taxes
+, of our Annual Report for further details of the provisions of the OBBBA that most significantly affect our income taxes. Our effective income tax rate of 2% for the three months ended March 31, 2026 differed from the U.S. federal statutory rate primarily due to the impact of permanent differences between book and tax income recognized discretely in the current period relative to the loss before income taxes. Our effective tax rate of 26% for the three months ended March 31, 2025 differed from the U.S. federal statutory rate primarily due to state taxes in New Mexico.
+Liquidity and Capital Resources
+Our primary use of capital has been, and we expect will continue to be during the remainder of 2026 and for the foreseeable future, for the acquisition, exploration and development of oil and natural gas properties and for midstream investments. We expect to fund our 2026 capital expenditures through a combination of cash on hand, operating cash flows and performance incentives paid to us by Five Point Infrastructure LLC or its affiliates. If capital expenditures were to exceed these sources of cash during the remainder of 2026, we expect to fund any such excess capital expenditures, including for significant acquisitions, through borrowings under our secured revolving credit facility (the “Credit Agreement”) or San Mateo’s secured revolving credit facility (the “San Mateo Credit Facility”) (assuming availability under such facilities) or through other capital sources, including borrowings under expanded or additional credit arrangements, the sale or joint venture of midstream assets, oil and natural gas producing assets, leasehold interests or mineral interests and potential issuances of equity, debt or convertible securities, none of which may be available on satisfactory terms or at all. Our future success in growing proved reserves and production will be highly dependent on our ability to generate operating cash flows and access outside sources of capital.
+27
+The table below reflects our sources and availability of liquidity at March 31, 2026. See Note 4,
+Debt
+, for further details.
+(In thousands)
+Total Balance
+Availability
+Cash
+$
+30,451
+$
+30,451
+Credit Agreement
+$
+185,000
+$
+2,011,156
+(1)
+San Mateo Credit Facility
+$
+918,000
+$
+166,600
+(2)
+6.500% senior notes due 2032 (the “2032 Notes”)
+$
+900,000
+(3)
+6.250% senior notes due 2033 (the “2033 Notes”)
+$
+750,000
+(3)
+6.000% senior notes due 2034 (the “2034 Notes”)
+$
+750,000
+(3)
+(1)
+Reduced by approximately $53.8 million in outstanding letters of credit issued pursuant to the Credit Agreement.
+(2)
+Reduced by approximately $15.4 million in outstanding letters of credit issued pursuant to the San Mateo Credit Facility.
+(3)
+We believe we have access to additional financing and refinancing, if needed, although we can make no assurances as to the form or terms of such financing.
+In March 2026, we completed the 2034 Notes Offering. We used the net proceeds from the 2034 Notes Offering of $737.9 million, after deducting initial purchasers’ discounts and estimated offering expenses, to fund the 2028 Notes Tender Offer and 2028 Notes Redemption and for general corporate purposes. See Note 4,
+Debt
+, for further details of these debt transactions.
+Since March 31, 2026, we repaid $140.0 million of borrowings under the Credit Agreement, and at May 6, 2026, we had $45.0 million in borrowings outstanding under the Credit Agreement. Since March 31, 2026, San Mateo repaid $58.0 million of borrowings under the San Mateo Credit Facility, and at May 6, 2026, San Mateo had $860.0 million in borrowings outstanding under the San Mateo Credit Facility.
+The Board declared and paid quarterly cash dividends of $0.375 per share of common stock in the first quarter of 2026. On April 22, 2026, the Board declared a quarterly cash dividend of $0.375 per share of common stock payable on June 5, 2026 to shareholders of record as of May 8, 2026.
+As further described in the Annual Report, we maintain a share repurchase program (the “Share Repurchase Program”) authorizing the repurchase of up to $400.0 million of common stock. During the three months ended March 31, 2026, we repurchased 17,702 shares of common stock under the Share Repurchase Program at a weighted average price of $39.92 per common share for a total cost of $0.7 million.
+We expect that development of our Delaware Basin assets will be the primary focus of our operations and capital expenditures for the remainder of 2026. We have built significant optionality into our drilling program, which should generally allow us to decrease or increase the number of rigs we operate as necessary based on changing commodity prices and other factors. Our 2026 estimated capital expenditure budget consists of $1.35 to $1.44 billion for D/C/E capital expenditures and $100.0 to $110.0 million for midstream capital expenditures, which includes our proportionate share of San Mateo’s estimated 2026 capital expenditures as well as the estimated 2026 capital expenditures for other wholly-owned midstream projects. Substantially all of these 2026 estimated capital expenditures are expected to be allocated to (i) the further delineation and development of our leasehold position, (ii) the construction, installation and maintenance of midstream assets and (iii) our participation in certain non-operated well opportunities. Our Delaware Basin operated drilling program for the remainder of 2026 is expected to focus on the continued development of our various asset areas throughout the Delaware Basin, with a continued emphasis on drilling and completing a high percentage of longer horizontal wells.
+We intend to continue evaluating the opportunistic acquisition of producing properties, acreage and mineral interests and midstream assets, principally in the Delaware Basin. Purchase price multiples and per-acre prices can vary significantly based on the asset or prospect. As a result, it is difficult to estimate these capital expenditures with any degree of certainty; therefore, we have not provided estimated capital expenditures related to acquiring producing properties, acreage and mineral interests and midstream assets for 2026.
+As we have done in recent years, we may divest portions of our non-core assets as well as consider monetizing other assets, such as certain midstream assets and mineral and royalty interests, as value-creating opportunities arise. Divestitures and other types of monetizations are difficult to estimate with any degree of certainty. Therefore, we have not provided estimated proceeds related to divestitures or monetizations for 2026.
+28
+Our 2026 capital expenditures may be adjusted as business conditions warrant, and the amount, timing and allocation of such expenditures is largely discretionary and within our control. The aggregate amount of capital we will expend may fluctuate materially based on market conditions, the actual costs to drill, complete and place on production operated or non-operated wells, our drilling results, the actual costs and scope of our midstream activities, the ability of our joint venture partners to meet their capital obligations, other opportunities that may become available to us and our ability to obtain capital. When oil or natural gas prices decline, or costs increase significantly, we have the flexibility to defer a significant portion of our capital expenditures until later periods to conserve cash or to focus on projects that we believe have the highest expected returns and potential to generate near-term cash flows. We routinely monitor and adjust our capital expenditures in response to changes in prices, availability of financing, drilling, completion and acquisition costs, industry conditions, the timing of regulatory approvals, the availability of rigs, success or lack of success in our exploration and development activities, contractual obligations, drilling plans for properties we do not operate and other factors both within and outside our control.
+Exploration and development activities are subject to a number of risks and uncertainties, which could cause these activities to be less successful than we anticipate. A significant portion of our anticipated cash flows from operations for the remainder of 2026 is expected to come from producing wells and development activities on currently proved properties in the Delaware Basin and the Haynesville shale in Northwest Louisiana. Our existing operated and non-operated wells may not produce at the levels we are forecasting or may be temporarily shut in or restricted due to low commodity prices, and our exploration and development activities in these areas may not be as successful as we anticipate. Additionally, our anticipated cash flows from operations are based upon current expectations of oil and natural gas prices for 2026 and the hedges we currently have in place. For further discussion of our expectations of such commodity prices, see “—General Outlook and Trends” below. At times, we use commodity derivative financial instruments to mitigate our exposure to fluctuations in oil, natural gas and NGL prices and to partially offset reductions in our cash flows from operations resulting from declines in commodity prices. See Note 7,
+Derivative Financial Instruments
+, in this Quarterly Report for a summary of our open derivative financial instruments.
+Cash Flows
+Our unaudited cash flows for the three months ended March 31, 2026 and 2025 are presented below:
+Three Months Ended
+March 31,
+(In thousands)
+2026
+2025
+$ Change
+% Change
+Net cash provided by operating activities
+$
+470,546
+$
+727,879
+$
+(257,333)
+(35)
+%
+Net cash used in investing activities
+(457,938)
+(511,662)
+53,724
+(10)
+%
+Net cash provided by (used in) financing activities
+387
+(233,443)
+233,830
+(100)
+%
+Net change in cash and restricted cash
+$
+12,995
+$
+(17,226)
+$
+30,221
+(175)
+%
+Adjusted EBITDA
+attributable to Matador Resources Company shareholders
+(1)
+$
+577,170
+$
+644,223
+$
+(67,053)
+(10)
+%
+__________________
+(1)
+Adjusted EBITDA is a non-GAAP financial measure. For a definition of Adjusted EBITDA and a reconciliation of Adjusted EBITDA to our net (loss) income and net cash provided by operating activities, see “—Non-GAAP Financial Measures” below.
+Net Cash Provided by Operating Activities
+Excluding changes in operating assets and liabilities, net cash provided by operating activities decreased $44.3 million to $564.2 million for the three months ended March 31, 2026 from $608.5 million for the three months ended March 31, 2025. This decrease was primarily attributable to lower realized natural gas prices for the three months ended March 31, 2026, as compared to the three months ended March 31, 2025, which was partially offset by increased oil and natural gas production and higher realized oil prices for the three months ended March 31, 2026, as compared to the three months ended March 31, 2025. Changes in our operating assets and liabilities between the periods resulted in a $213.1 million decrease in net cash provided by operating activities for the three months ended March 31, 2026, as compared to the three months ended March 31, 2025.
+Net Cash Used in Investing Activities
+The decrease in net cash used in investing activities between the periods was primarily due to (i) a $55.3 million decrease in midstream capital expenditures and (ii) a $20.0 million decrease in expenditures related to the acquisition of oil and natural gas properties, partially offset by a $21.4 million decrease in cash provided by proceeds from the sale of assets.
+29
+Net Cash Provided by (Used in) Financing Activities
+The decrease in net cash used in financing activities between the periods was primarily due to (i) $737.9 million of net proceeds received from the 2034 Notes Offering during the period and (ii) $24.0 million of proceeds from the sale-leaseback financing obligation, partially offset by (i) $509.7 million used to repurchase the principal amount of the 2028 Notes and (ii) a $22.5 million increase in net repayments under the Credit Agreement.
+See Note 4,
+Debt
+, in this Quarterly Report for a summary of our debt, including the Credit Agreement, the San Mateo Credit Facility, the 2032 Notes, the 2033 Notes and the 2034 Notes.
+Non-GAAP Financial Measures
+We define Adjusted EBITDA as earnings before interest expense, income taxes, depletion, depreciation and amortization, accretion of asset retirement obligations, unrealized derivative gains and losses, non-recurring transaction costs for certain acquisitions, non-cash stock-based compensation expense, loss on debt extinguishment, net gain or loss on asset sales and impairments and certain other non-cash items. Adjusted EBITDA is not a measure of net (loss) income or cash flows as determined by GAAP. Adjusted EBITDA is a supplemental non-GAAP financial measure that is used by management and external users of our consolidated financial statements, such as industry analysts, investors, lenders and rating agencies.
+Management believes Adjusted EBITDA is necessary because it allows us to evaluate our operating performance and compare the results of operations from period to period without regard to our financing methods or capital structure. We exclude the items listed above from net (loss) income in calculating Adjusted EBITDA because these amounts can vary substantially from company to company within our industry depending upon accounting methods and book values of assets, capital structures and the method by which certain assets were acquired.
+Adjusted EBITDA should not be considered an alternative to, or more meaningful than, net (loss) income or net cash provided by operating activities as determined in accordance with GAAP or as a primary indicator of our operating performance or liquidity. Certain items excluded from Adjusted EBITDA are significant components of understanding and assessing a company’s financial performance, such as a company’s cost of capital and tax structure. Our Adjusted EBITDA may not be comparable to similarly titled measures of another company because all companies may not calculate Adjusted EBITDA in the same manner.
+The following table presents our calculation of Adjusted EBITDA and the reconciliation of Adjusted EBITDA to the GAAP financial measures of net (loss) income and net cash provided by operating activities, respectively.
+Three Months Ended
+March 31,
+(In thousands)
+2026
+2025
+Unaudited Adjusted EBITDA Reconciliation to Net (Loss) Income
+Net (loss) income attributable to Matador Resources Company shareholders
+$
+(35,872)
+$
+240,085
+Net income attributable to non-controlling interest in subsidiaries
+20,054
+22,162
+Net (loss) income
+(15,818)
+262,247
+Interest expense
+51,525
+49,489
+Total income tax (benefit) provision
+(684)
+82,921
+Depletion, depreciation and amortization
+292,704
+281,891
+Accretion of asset retirement obligations
+2,268
+1,727
+Unrealized loss (gain) on derivatives
+255,474
+(5,071)
+Non-cash stock-based compensation expense
+4,518
+3,888
+Loss on debt extinguishment
+15,587
+—
+Loss on asset sales
+578
+—
+Other non-recurring expense (income)
+4,798
+(3,286)
+Consolidated Adjusted EBITDA
+610,950
+673,806
+Adjusted EBITDA attributable to non-controlling interest in subsidiaries
+(33,780)
+(29,583)
+Adjusted EBITDA attributable to Matador Resources Company shareholders
+$
+577,170
+$
+644,223
+30
+Three Months Ended
+March 31,
+(In thousands)
+2026
+2025
+Unaudited Adjusted EBITDA Reconciliation to Net Cash Provided by Operating Activities
+Net cash provided by operating activities
+$
+470,546
+$
+727,879
+Net change in operating assets and liabilities
+93,694
+(119,385)
+Interest expense, net of non-cash portion
+47,987
+45,826
+Current income tax provision
+—
+22,981
+Other non-cash and non-recurring income (expense)
+(1,277)
+(3,495)
+Adjusted EBITDA attributable to non-controlling interest in subsidiaries
+(33,780)
+(29,583)
+Adjusted EBITDA attributable to Matador Resources Company shareholders
+$
+577,170
+$
+644,223
+For the three months ended March 31, 2026, we reported a net loss attributable to Matador shareholders of $35.9 million, as compared to net income of $240.1 million for the three months ended March 31, 2025. The decrease in net income attributable to Matador shareholders primarily resulted from a $255.5 million unrealized loss on derivatives for the three months ended March 31, 2026, as compared to a $5.1 million unrealized gain on derivatives for the three months ended March 31, 2025, combined with lower realized natural gas prices for the comparative periods. These decreases were partially offset by an $83.6 million decrease in the income tax provision, which was primarily due to the enactment of the OBBBA, and increased oil and natural gas production for the three months ended March 31, 2026, as compared to the three months ended March 31, 2025.
+Adjusted EBITDA, a non-GAAP financial measure, decreased $67.1 million to $577.2 million for the three months ended March 31, 2026, as compared to $644.2 million for the three months ended March 31, 2025. This decrease was primarily attributable to lower realized natural gas prices for the three months ended March 31, 2026, as compared to the three months ended March 31, 2025, partially offset by increased oil and natural gas production for the three months ended March 31, 2026, as compared to the three months ended March 31, 2025.
+Off-Balance Sheet Arrangements
+From time to time, we enter into off-balance sheet arrangements and transactions that can give rise to material off-balance sheet obligations. As of March 31, 2026, the material off-balance sheet arrangements and transactions that we have entered into include (i) non-operated drilling commitments, (ii) firm gathering, transportation, processing, fractionation, sales and disposal commitments and (iii) contractual obligations for which the ultimate settlement amounts are not fixed and determinable, such as derivative contracts that are sensitive to future changes in commodity prices or interest rates, gathering, treating, transportation and disposal commitments on uncertain volumes of future throughput, open delivery commitments and indemnification obligations following certain divestitures. Other than the off-balance sheet arrangements described above, we have no transactions, arrangements or other relationships with unconsolidated entities or other persons that are reasonably likely to materially affect our liquidity or availability of or requirements for capital resources. See “—Obligations and Commitments” below and Note 9,
+Commitments and Contingencies
+, in this Quarterly Report for more information regarding our off-balance sheet arrangements. Such information is incorporated herein by reference.
+31
+Obligations and Commitments
+We had the following material contractual obligations and commitments at March 31, 2026:
+Payments Due by Period
+(In thousands)
+Total
+Less
+Than
+1 Year
+1 - 3
+Years
+3 - 5
+Years
+More
+Than
+5 Years
+Contractual Obligations
+Borrowings, including letters of credit
+(1)
+$
+1,172,244
+$
+—
+$
+238,844
+$
+933,400
+$
+—
+Senior unsecured notes
+(2)
+2,400,000
+—
+—
+—
+2,400,000
+Office leases
+101,524
+5,167
+12,430
+13,186
+70,741
+Non-operated drilling commitments
+(3)
+59,775
+59,775
+—
+—
+—
+Drilling rig contracts
+(4)
+20,641
+20,641
+—
+—
+—
+Asset retirement obligations
+(5)
+155,066
+4,949
+8,768
+1,861
+139,488
+Transportation, gathering, processing and disposal agreements with non-affiliates
+(6)
+2,292,272
+199,623
+562,610
+435,901
+1,094,138
+Transportation, gathering, processing and disposal agreements with San Mateo
+(7)
+701,242
+42,804
+250,423
+206,590
+201,425
+Midstream contracts
+(8)
+31,097
+31,097
+—
+—
+—
+Total contractual cash obligations
+$
+6,933,861
+$
+364,056
+$
+1,073,075
+$
+1,590,938
+$
+3,905,792
+__________________
+(1)
+The amounts included in the table above represent principal maturities only. At March 31, 2026, we had $185.0 million in borrowings outstanding under the Credit Agreement and approximately $53.8 million in outstanding letters of credit issued pursuant to the Credit Agreement. The outstanding borrowings under the Credit Agreement mature on March 22, 2029. At March 31, 2026, San Mateo had $918.0 million of borrowings outstanding under the San Mateo Credit Facility and approximately $15.4 million in outstanding letters of credit issued pursuant to the San Mateo Credit Facility. The outstanding borrowings under the San Mateo Credit Facility mature on November 26, 2029. Assuming the amounts outstanding and interest rates of 5.43% and 5.67% respectively, for the Credit Agreement and the San Mateo Credit Facility at March 31, 2026, the interest expense for such facilities is expected to be approximately $10.2 million and $52.8 million, respectively, each year until maturity.
+(2)
+The amounts included in the table above represent principal maturities only. Interest expense on the $900.0 million of outstanding 2032 Notes as of March 31, 2026 is expected to be approximately $58.5 million each year until maturity. Interest expense on the $750.0 million of outstanding 2033 Notes as of March 31, 2026 is expected to be approximately $46.9 million each year until maturity. Interest expense on the $750.0 million of outstanding 2034 Notes as of March 31, 2026 is expected to be approximately $45.0 million each year until maturity.
+(3)
+At March 31, 2026, we had outstanding commitments to participate in the drilling and completion of various non-operated wells.
+(4)
+We do not own or operate our own drilling rigs, but instead we enter into contracts with third parties for such drilling rigs.
+(5)
+The amounts included in the table above represent discounted cash flow estimates for future asset retirement obligations at March 31, 2026.
+(6)
+From time to time, we enter into agreements with third parties whereby we commit to deliver anticipated natural gas and oil production and produced water from certain portions of our acreage for transportation, gathering, processing, fractionation, sales and disposal. Certain of these agreements contain minimum volume commitments, including contracts related to firm transportation on Energy Transfer’s Hugh Brinson Pipeline. If we do not meet the minimum volume commitments under these agreements, we would be required to pay certain deficiency fees. See Note 9,
+Commitments and Contingencies
+, in this Quarterly Report for more information about these contractual commitments.
+(7)
+We dedicated to San Mateo our current and certain future leasehold interests in the Rustler Breaks asset area and the Wolf portion of the West Texas asset area and acreage in the southern portion of the Arrowhead asset area (the “Greater Stebbins Area”) and Stateline asset area pursuant to 15-year, fixed-fee oil transportation, oil, natural gas and produced water gathering and produced water disposal agreements. In addition, we dedicated to San Mateo our current and certain future leasehold interests in the Rustler Breaks asset area and acreage in the Greater Stebbins Area and Stateline asset area pursuant to 15‑year, fixed-fee natural gas processing agreements. We also dedicated to San Mateo certain of our current and future leasehold interests in the Ranger and Antelope Ridge asset areas pursuant to 15-year, fixed-fee natural gas gathering, compression, treating and processing agreements with San Mateo, whereby San Mateo will gather, compress, treat and process natural gas produced from our operated wells in northern Lea County, New Mexico. See Note 9,
+Commitments and Contingencies
+, in this Quarterly Report for more information about these contractual commitments.
+(8)
+At March 31, 2026, we had outstanding commitments for capital expenditures to be utilized in San Mateo’s operations.
+32
+General Outlook and Trends
+Our business success and financial results are dependent on many factors beyond our control, such as economic, political and regulatory developments, as well as competition from other sources of energy. For example, the current administration and Congress have altered, and may continue to alter, our current regulatory framework and may impact our business and the oil and gas industry generally. Commodity price volatility, in particular, is a significant risk to our business, cash flows and results of operations. Commodity prices are affected by changes in market supply and demand, which are impacted by overall economic activity, ongoing military conflicts, including ongoing military conflicts between Russia and Ukraine and in the Middle East, political instability, particularly in China and in the Middle East, geopolitical tensions involving Iran (including the potential for stricter U.S. sanctions on Iranian oil exports, regional conflicts and potential disruptions to shipping routes in the Strait of Hormuz), the actions of Organization of Petroleum Exporting Countries, Russia and certain other oil-exporting countries, weather, pipeline capacity constraints, inventory storage levels, oil and natural gas price differentials and other factors.
+The prices we receive for oil, natural gas and NGLs heavily influence our revenues, profitability, cash flow available for capital expenditures, the repayment of debt, the payment of cash dividends, if any, and the repurchase of common stock, if any, access to capital, borrowing capacity under our Credit Agreement and future rate of growth. Oil, natural gas and NGL prices are subject to wide fluctuations in response to relatively minor changes in supply and demand. Historically, the markets for oil, natural gas and NGLs have been volatile, and these markets will likely continue to be volatile in the future. Declines in oil, natural gas or NGL prices not only reduce our revenues, but could also reduce the amount of oil, natural gas and NGLs we can produce economically and, as a result, could have a material adverse effect on our financial condition, results of operations, cash flows and reserves and our ability to comply with the financial covenants under our Credit Agreement. See “Risk Factors—Risks Related to our Financial Condition—Our success is dependent on the prices of oil, natural gas and NGLs. Low oil, natural gas and NGL prices and the continued volatility in these prices may adversely affect our financial condition and our ability to meet our capital expenditure requirements and financial obligations” in the Annual Report.
+Oil prices were higher in the first quarter of 2026, as compared to the first quarter of 2025. For the three months ended March 31, 2026, oil prices averaged $73.09 per Bbl, ranging from a low of $55.99 per Bbl in early January to a high of $102.88 per Bbl in late March, based upon the West Texas Intermediate (“WTI”) oil futures contract price for the earliest delivery date. Oil prices averaged $71.42 per Bbl for the three months ended March 31, 2025. We realized a weighted average oil price of $72.83 per Bbl ($68.04 with realized losses from oil derivatives) for our oil production for the three months ended March 31, 2026, as compared to $72.38 per Bbl (with no realized gains or losses from oil derivatives) for our oil production for the three months ended March 31, 2025. Oil prices have remained volatile since March 31, 2026. At May 6, 2026, the WTI oil futures contract for the earliest delivery date had increased from the average price for the first quarter of 2026 of $73.09 per Bbl, settling at $95.08 per Bbl.
+Natural gas prices were lower in the first quarter of 2026, as compared to the first quarter of 2025. For the three months ended March 31, 2026, natural gas prices averaged $3.47 per MMBtu, ranging from a high of $7.46 per MMBtu in late January to a low of $2.83 per MMBtu in late February, based upon the NYMEX Henry Hub natural gas futures contract price for the earliest delivery date. Natural gas prices averaged $3.87 per MMBtu for the three months ended March 31, 2025. We report production volumes in two streams, oil and natural gas (which includes both dry gas and NGLs). We realized a weighted average natural gas price of $0.64 per Mcf ($1.44 per Mcf including realized gains from natural gas derivatives) for our natural gas production (including revenues attributable to NGLs) for the three months ended March 31, 2026, as compared to $3.56 per Mcf ($3.62 per Mcf including realized gains from natural gas derivatives) for our natural gas production (including revenues attributable to NGLs) for the three months ended March 31, 2025. Certain volumes of our natural gas production are sold at prices established at the beginning of each month by the various markets where we sell our natural gas production, and certain volumes of our natural gas production are sold at daily market prices. At May 6, 2026, the NYMEX Henry Hub natural gas futures contract price for the earliest delivery date had decreased from the average price for the first quarter of 2026 of $3.47 per MMBtu, to $2.73 per MMBtu.
+The prices we receive for oil and natural gas production often reflect a discount to the relevant benchmark prices, such as the WTI oil price or the NYMEX Henry Hub natural gas price. The difference between the benchmark price and the price we receive is called a differential. At March 31, 2026, most of our oil production from the Delaware Basin was sold based on prices established in Midland, Texas, and a significant portion of our natural gas production from the Delaware Basin was sold based on Houston Ship Channel pricing, while the remainder of our Delaware Basin natural gas production was sold primarily based on prices established at the Waha hub in far West Texas.
+The Midland-Cushing (Oklahoma) oil price differential has been highly volatile in recent years. At May 6, 2026, this oil price differential was positive at approximately +$2.65 per Bbl. At May 6, 2026, we had no derivative contracts in place to mitigate our exposure to this Midland-Cushing (Oklahoma) oil price differential for 2026.
+33
+Certain volumes of our Delaware Basin natural gas production are exposed to the Waha-Henry Hub basis differential, which has also been highly volatile in recent years. In recent years, concerns about natural gas pipeline takeaway capacity out of the Delaware Basin began to increase and as a result, the Waha-Henry Hub basis differential began to widen. The Waha-Henry Hub basis differential averaged ($5.99) per MMBtu for the three months ended March 31, 2026. Between March 31, 2026 and May 6, 2026, this natural gas price differential remained wide at approximately ($6.57) per MMBtu. A significant portion of our Delaware Basin natural gas production, however, is sold at Houston Ship Channel pricing and is not exposed to Waha pricing. During 2023 and 2024, we typically realized a narrower differential to natural gas sold at the Waha hub despite higher transportation charges incurred to transport the natural gas to the Gulf Coast. At certain times, we may also sell a portion of our natural gas production into other markets to improve our realized natural gas pricing. Further, approximately 3% of our reported natural gas production for the three months ended March 31, 2026 was attributable to the Haynesville shale play, which is not exposed to Waha pricing. In addition, most of our natural gas volumes in the Delaware Basin are processed for NGLs, resulting in a further reduction in the reported natural gas volumes exposed to Waha pricing.
+We secured 500,000 MMBtu per day of firm natural gas transportation on Energy Transfer’s new Hugh Brinson pipeline, which Energy Transfer expects will begin flowing natural gas during the third or fourth quarter of 2026 and to be fully in-service by year-end 2026. The Hugh Brinson pipeline will provide Matador access to Henry Hub markets along the Louisiana Gulf Coast and to other opportunities such as liquefied natural gas (LNG) plants and export terminals along this pipeline route that have historically experienced more favorable pricing to the Waha hub.
+From time to time, we use derivative financial instruments to mitigate our exposure to commodity price risk associated with oil, natural gas and NGL prices. Even so, decisions as to whether, at what price and what production volumes to hedge are difficult and depend on market conditions and our forecast of future production and oil, natural gas and NGL prices, and we may not always employ the optimal hedging strategy. This, in turn, may affect the liquidity that can be accessed through the borrowing base under the Credit Agreement and through the capital markets. During the first three months of 2026, we recorded a net loss of $51.8 million related to our oil costless collars resulting primarily from oil prices that were above the ceiling of certain of our oil costless collar contracts. This loss was partially offset by a net gain of $37.3 million, resulting primarily from natural gas basis differentials that were below the fixed prices of certain of our natural gas basis differential swap contracts.
+We have at times, including in 2025 and 2026, experienced pipeline-related interruptions to our oil, natural gas or NGL production or produced water disposal. In certain recent periods, shortages of NGL fractionation capacity were experienced by certain operators in the Delaware Basin. Although we did not encounter such fractionation capacity problems, we can provide no assurances that such problems will not arise. If we do experience any material interruptions with produced water disposal, takeaway capacity or NGL fractionation, our oil and natural gas revenues, business, financial condition, results of operations and cash flows could be adversely affected. Should we experience future periods of negative pricing for natural gas, as we have experienced historically, including in 2025 and 2026, we may again temporarily shut in certain high gas-oil ratio wells and take other actions to mitigate the impact on our realized natural gas prices and results.
+We have at times experienced inflation in the costs of certain oilfield services, including diesel, steel, labor, trucking, sand, personnel and completion costs, among others. Should oil prices increase, we may be subject to additional service cost inflation in future periods, which may increase our costs to drill, complete, equip and operate wells. In addition, supply chain disruptions, tariffs and trade restrictions and other inflationary pressures experienced in recent periods throughout the United States and global economy and in the oil and natural gas industry may limit our ability to procure the necessary products and services we need for drilling, completing and producing wells in a timely and cost-effective manner, which could result in reduced margins and delays to our operations and could, in turn, adversely affect our business, financial condition, results of operations and cash flows.
+Like other oil and natural gas producing companies, our properties are subject to natural production declines. By their nature, our oil and natural gas wells will experience rapid initial production declines. We attempt to overcome these production declines by drilling to develop and identify additional reserves, by exploring for new sources of reserves and, at times, by acquisitions. During times of severe oil, natural gas and NGL price declines, however, drilling additional oil or natural gas wells may not be economic, and we may find it necessary to reduce capital expenditures and curtail drilling operations in order to preserve liquidity. A significant reduction in capital expenditures and drilling activities could materially impact our production volumes, revenues, reserves, cash flows and the availability under our Credit Agreement. See “Risk Factors—Risks Related to our Financial Condition—Our exploration, development, exploitation and midstream projects require substantial capital expenditures that may exceed our cash flows from operations and potential borrowings, and we may be unable to obtain needed capital on satisfactory terms, which could adversely affect our future growth” in the Annual Report.
+We strive to focus our efforts on increasing oil and natural gas reserves and production while controlling costs at a level that is appropriate for long-term operations. Our ability to find and develop sufficient quantities of oil and natural gas reserves at economical costs is critical to our long-term success. Future finding and development costs are subject to changes in the costs of acquiring, drilling and completing our prospects.
+34
+Regulatory Matters
+Our oil and natural gas exploration, development, production, midstream and related operations are subject to extensive federal, state and local laws, rules and regulations. Failure to comply with these laws, rules and regulations can result in substantial monetary penalties or delay or suspension of operations. The regulatory burden on the oil and natural gas industry increases our cost of doing business and affects our profitability. Because these laws, rules and regulations are frequently amended or reinterpreted and new laws, rules and regulations are proposed or promulgated, we are unable to predict the future cost or impact of complying with the laws, rules and regulations to which we are, or will become, subject. For more information about the Company’s regulatory matters, see “Business—Regulation” and “Risk Factors—Risks Related to Laws and Regulations” in the Annual Report.
+Item 3. Quantitative and Qualitative Disclosures About Market Risk
+Except as set forth below, there have been no material changes to the sources and effects of our market risk since December 31, 2025, which are disclosed in Part II, Item 7A of the Annual Report and incorporated herein by reference.
+Commodity price exposure.
+We are exposed to market risk as the prices of oil, natural gas and NGLs fluctuate as a result of changes in supply and demand and other factors. To partially reduce price risk caused by these market fluctuations, we have entered into derivative financial instruments in the past and expect to enter into derivative financial instruments in the future to cover a significant portion of our anticipated future production.
+We typically use costless (or zero-cost) collars, three-way collars and/or swap contracts to manage risks related to changes in oil, natural gas and NGL prices. Costless collars provide us with downside price protection through the purchase of a put option that is financed through the sale of a call option. Because the call option proceeds are used to offset the cost of the put option, these arrangements are initially “costless” to us. Three-way costless collars also provide us with downside price protection through the purchase of a put option, but they also allow us to participate in price upside through the purchase of a call option. The purchase of both the put option and call option are financed through the sale of a call option. Because the proceeds from the call option sale are used to offset the cost of the purchased put and call options, these arrangements are also initially “costless” to us. In the case of a costless collar, the put option or options and the call option or options have different fixed price components. When the settlement price is below the price floor established by the collar, we receive from our counterparty an amount equal to the difference between the settlement price and the price floor multiplied by the contract oil, natural gas or NGL volume. When the settlement price is above the price ceiling established by the costless collar, we pay our counterparty an amount equal to the difference between the settlement price and the price ceiling multiplied by the contract oil, natural gas or NGL volume. In a swap contract, a floating price is exchanged for a fixed price over a specified period, providing downside price protection.
+We record all derivative financial instruments at fair value, which is determined using purchase and sale information available for similarly traded securities. Additionally, we have considered the credit standing of the counterparties in determining the fair value of our derivative financial instruments.
+At March 31, 2026, we had various costless collar contracts open and in place to mitigate our exposure to oil and natural gas price volatility, each with an established price floor and ceiling. At March 31, 2026, we had natural gas swap and natural gas basis differential swap contracts open and in place to mitigate our exposure to natural gas price volatility, with a specific term (calculation period), notional quantity (volume hedged) and fixed price. We had no open contracts associated with NGL prices at March 31, 2026.
+See Note 7,
+Derivative Financial Instruments
+, in this Quarterly Report for a summary of our open derivative financial instruments. Such information is incorporated herein by reference.
+Item 4. Controls and Procedures
+Evaluation of Disclosure Controls and Procedures
+As of the end of the period covered by this Quarterly Report, we evaluated the effectiveness of the design and operation of the Company’s disclosure controls and procedures (as defined in Rule 13a-15(e) under the Exchange Act) under the supervision and with the participation of our management, including our Chief Executive Officer and our Chief Financial Officer. Based on that evaluation, our Chief Executive Officer and our Chief Financial Officer concluded that the Company’s disclosure controls and procedures were effective as of March 31, 2026 to ensure that (i) information required to be disclosed in the reports it files and submits under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in the SEC’s rules and forms and (ii) information required to be disclosed under the Exchange Act is accumulated and communicated to the Company’s management, including our Chief Executive Officer and our Chief Financial Officer, as appropriate to allow timely decisions regarding required disclosure.
+35
+Changes in Internal Control over Financial Reporting
+During the three months ended March 31, 2026, there were no changes in our internal controls that have materially affected or are reasonably likely to have a material effect on our internal control over financial reporting.
+36
+Part II — OTHER INFORMATION
+Item 1. Legal Proceedings
+We are party to several legal proceedings encountered in the ordinary course of business. While the ultimate outcome and impact on us cannot be predicted with certainty, in the opinion of management, it is remote that these legal proceedings will have a material adverse impact on our financial condition, results of operations or cash flows.
+During the three months ended March 31, 2026, there were no material changes regarding the legal proceedings we have disclosed in “Item 3. Legal Proceedings” in the Annual Report.
+Item 1A. Risk Factors
+We are subject to various risks and uncertainties in the course of our business. For a discussion of such risks and uncertainties, please see “Item 1A. Risk Factors” in the Annual Report. There have been no material changes to the risk factors we have disclosed in the Annual Report.
+Item 2. Repurchase of Equity by the Company or Affiliates
+The following table contains information about our acquisition of equity securities during the quarter ended March 31, 2026:
+Period
+Total Number of Shares Purchased
+(1)(2)
+Average Price Paid Per Share
+Total Number of Shares Purchased as Part of Publicly Announced Plans or Programs
+(2)
+Maximum Number (or Approximate Dollar Value in thousands) of Shares that May Yet Be Purchased under the Plans or Programs
+(2)
+January 1, 2026 to January 31, 2026
+17,851
+$
+39.95
+17,702
+$
+343,443
+February 1, 2026 to February 28, 2026
+27,486
+$
+47.87
+—
+$
+343,443
+March 1, 2026 to March 31, 2026
+40,902
+$
+57.21
+—
+$
+343,443
+Total
+86,239
+$
+50.66
+17,702
+_________________
+(1)
+During the first quarter of 2026, the Company re-acquired 68,537 shares of common stock from certain employees in order to satisfy the employees’ tax liability in connection with the vesting of restricted stock.
+(2)
+In April 2025, the Board authorized the Share Repurchase Program covering up to $400.0 million of common stock. During the first quarter of 2026, we repurchased 17,702 shares of our common stock under the Share Repurchase Program at a weighted average price of $39.92 per common share for a total cost of $0.7 million.
+Item 5. Other Information
+Insider Trading Plans
+During the three months ended March 31, 2026, no director or officer (as defined in Rule 16a-1(f) under the Exchange Act) of the Company
+adopted
+, modified or
+terminated
+a “Rule 10b5-1 trading arrangement” or “non-Rule 10b5-1 trading arrangement,” as each term is defined in Item 408(a) of Regulation S-K.
+37
+Table of Contents
+Item 6. Exhibits
+Exhibit
+Number
+Description
+3.1
+Amended and Restated Certificate of Formation of Matador Resources Company (incorporated by reference to Exhibit 3.2 to the Quarterly Report on Form 10-Q for the quarter ended June 30, 2017).
+3.2
+Certificate of Amendment to the Amended and Restated Certificate of Formation of Matador Resources Company dated April 2, 2015 (incorporated by reference to Exhibit 3.3 to the Quarterly Report on Form 10-Q for the quarter ended June 30, 2017).
+3.3
+Certificate of Amendment to the Amended and Restated Certificate of Formation of Matador Resources Company effective June 2, 2017 (incorporated by reference to Exhibit 3.4 to the Quarterly Report on Form 10-Q for the quarter ended June 30, 2017).
+3.4
+Amended and Restated Bylaws of Matador Resources Company, as amended (incorporated by reference to Exhibit 3.1 to the Current Report on Form 8-K filed on February 22, 2018).
+4.1
+Indenture, dated as of March 5, 2026, by and among Matador Resources Company, the subsidiary guarantors party thereto and U.S. Bank Trust Company, National Association, as trustee (incorporated by reference to Exhibit 4.1 to the Current Report on Form 8-K filed on March 5, 2026).
+10.1†
+Advisor Agreement, effective February 28, 2026, by and between MRC Energy Company and G. Gregg Krug (incorporated by reference to Exhibit 10.1 to the Current Report on Form 8-K filed on January 23, 2026).
+10.2
+Limited Waiver and Amendment to the Fourth Amended and Restated Credit Agreement, dated February 27, 2026, by and among MRC Energy Company, the Lending Entities from time to time parties thereto, as Lenders, and PNC Bank, National Association, as administrative agent for the Lenders (filed herewith).
+31.1
+Certification of Principal Executive Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 (filed herewith).
+31.2
+Certification of Principal Financial Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 (filed herewith).
+32.1
+Certification of Principal Executive Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 (furnished herewith).
+32.2
+Certification of Principal Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 (furnished herewith).
+101
+The following financial information from Matador Resources Company’s Quarterly Report on Form 10-Q for the quarter ended March 31, 2026, formatted in Inline XBRL (Inline eXtensible Business Reporting Language): (i) the Condensed Consolidated Balance Sheets - Unaudited, (ii) the Condensed Consolidated Statements of Operations - Unaudited, (iii) the Condensed Consolidated Statements of Changes in Shareholders’ Equity - Unaudited, (iv) the Condensed Consolidated Statements of Cash Flows - Unaudited and (v) the Notes to Condensed Consolidated Financial Statements - Unaudited (submitted electronically herewith).
+104
+Cover Page Interactive Data File, formatted in Inline XBRL (included as Exhibit 101).
+†
+Indicates a management contract or compensatory plan or arrangement.
+38
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+MATADOR RESOURCES COMPANY
+Date: May 8, 2026
+By:
+/s/ Joseph Wm. Foran
+Joseph Wm. Foran
+Chairman and Chief Executive Officer
+Date: May 8, 2026
+By:
+/s/ Christopher P. Calvert
+Christopher P. Calvert
+Executive Vice President and Chief Financial Officer
+39

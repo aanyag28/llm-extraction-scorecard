@@ -1,0 +1,46 @@
+Filing,Ticker,Metric,Gemini Extracted Value,Gemini Unit,Answer Key Value,Answer Key Unit,Correct
+2025 10-K,FANG,CapEx,"3,523",million USD,3523,million dollars,Correct
+2025 10-K,FANG,Production,"336,178",MBOE,336178,MBOE,Correct
+2025 10-K,FANG,Revenue,"15,026",million USD,15026,million dollars,Correct
+Q1 2026 10-Q,FANG,CapEx,933 million,USD,933,million dollars,Correct
+Q1 2026 10-Q,FANG,Production,"88,142",MBOE,88142,MBOE,Correct
+Q1 2026 10-Q,FANG,Revenue,"4,240 million",USD,4240,million dollars,Correct
+Q2 2026 10-Q,FANG,CapEx,$996 million,** Millions of USD,1929,million dollars,Incorrect
+Q2 2026 10-Q,FANG,Production,"92,607 MBOE",** MBOE,92607,MBOE,Correct
+Q2 2026 10-Q,FANG,Revenue,"$5,562 million",** Millions of USD,5562,million dollars,Correct
+2025 10-K,PR,CapEx,Not found,,1965926,thousand dollars,Incorrect
+2025 10-K,PR,Production,Not found,,143311,MBOE,Incorrect
+2025 10-K,PR,Revenue,Not found,,5065211,thousand dollars,Incorrect
+Q1 2026 10-Q,PR,CapEx,"$466,207 thousand (Drilling and development capital expenditures; total cash capital expenditures including purchases of other property and equipment was $468,235 thousand)",** USD (in thousands),466230,thousand dollars,Incorrect
+Q1 2026 10-Q,PR,Production,"TOTAL PRODUCTION = 37,156 MBOE",** MBOE,37156,MBOE,Correct
+Q1 2026 10-Q,PR,Revenue,"$1,388,146 thousand (or $1,388,146,000)",** USD (in thousands),1388146,thousand dollars,Correct
+Q2 2026 10-Q,PR,CapEx,"$987,688 thousand ($987.7 million)",** USD (in thousands),987664,thousand dollars,Incorrect
+Q2 2026 10-Q,PR,Production,"34,253 MBOE",** MBOE (Thousand Barrels of Oil Equivalent),34253,MBOE,Correct
+Q2 2026 10-Q,PR,Revenue,"$1,858,035 thousand ($1,858,035,000)",** USD (in thousands),1858035,thousand dollars,Correct
+2025 10-K,MTDR,CapEx,"$1,529,800 thousand ($1.53 billion) for D/C/E Capital Expenditures; $2,156,381 thousand ($2.16 billion) for Total Capital Expenditures (including D/C/E, midstream, acquisitions, and other property/equipment)",** USD,1542253,thousand dollars,Incorrect
+2025 10-K,MTDR,Production,"75,581 MBOE",** MBOE,75581,MBOE,Correct
+2025 10-K,MTDR,Revenue,"$3,696,277 thousand ($3,696,277,000)",** USD,3696277,thousand dollars,Correct
+Q3 2025 10-Q,MTDR,CapEx,"Not explicitly reported as a single aggregated historical capital expenditures line item for the three-month period in the provided filing text. (For the nine months ended September 30, 2025, Net cash used in investing activities was $1,569,635 thousand ($1.57 billion). Additionally, full-year 2025 guidance updated on October 21, 2025 estimates D/C/E capital expenditures of $1.47 billion to $1.55 billion and midstream capital expenditures of $155.0 million to $175.0 million).",** USD (in thousands / billions),1093010,thousand dollars,Incorrect
+Q3 2025 10-Q,MTDR,Production,"TOTAL PRODUCTION = 19,245 MBOE for the three months ended September 30, 2025 (TOTAL PRODUCTION = 56,142 MBOE for the nine months ended September 30, 2025)",** MBOE,19245,MBOE,Correct
+Q3 2025 10-Q,MTDR,Revenue,"$939,015 thousand ($939,015,000) for the three months ended September 30, 2025 ($2,848,285 thousand / $2,848,285,000 for the nine months ended September 30, 2025)",** USD (in thousands),939015,thousand dollars,Correct
+Q1 2026 10-Q,MTDR,CapEx,Not found,,377375,thousand dollars,Incorrect
+Q1 2026 10-Q,MTDR,Production,Not found,,18683,MBOE,Incorrect
+Q1 2026 10-Q,MTDR,Revenue,Not found,,671637,thousand dollars,Incorrect
+2025 10-K,CTRA,CapEx,"2,318 million",USD,2288,million dollars,Incorrect
+2025 10-K,CTRA,Production,"285,576",MBoe,285576,MBOE,Correct
+2025 10-K,CTRA,Revenue,"7,645 million",USD,7645,million dollars,Correct
+Q3 2025 10-Q,CTRA,CapEx,"1,779 (incurred) / 1,707 (cash paid)",million USD,1707,million dollars,Correct
+Q3 2025 10-Q,CTRA,Production,"72.2 (equivalent to 72,200 MBOE)",MMBoe (Million Barrels of Oil Equivalent),72200,MBOE,Correct
+Q3 2025 10-Q,CTRA,Revenue,"1,817",million USD,1817,million dollars,Correct
+Q1 2026 10-Q,CTRA,CapEx,655,USD (in millions),655,million dollars,Correct
+Q1 2026 10-Q,CTRA,Production,"69.4 (equivalent to 69,400 MBOE)",MMBoe (Million Barrels of Oil Equivalent) / MBOE,69400,MBOE,Correct
+Q1 2026 10-Q,CTRA,Revenue,"1,947",USD (in millions),1947,million dollars,Correct
+2025 10-K,SM,CapEx,"$1,448 million",USD (Millions),1438,million dollars,Incorrect
+2025 10-K,SM,Production,"TOTAL PRODUCTION = 75,500 MBOE",MBOE,75500,MBOE,Correct
+2025 10-K,SM,Revenue,"$3,138 million",USD (Millions),3154,million dollars,Incorrect
+Q1 2026 10-Q,SM,CapEx,Not found,,555,million dollars,Incorrect
+Q1 2026 10-Q,SM,Production,Not found,,33400,MBOE,Incorrect
+Q1 2026 10-Q,SM,Revenue,Not found,,1479,million dollars,Incorrect
+Q2 2026 10-Q,SM,CapEx,"$1,268 million (Cash flows used in investing activities for capital expenditures) / $1.5 billion (Costs incurred in oil and gas property acquisition, exploration, and development activities)",** USD (Millions),1309,million dollars,Incorrect
+Q2 2026 10-Q,SM,Production,"TOTAL PRODUCTION = 40,000 MBOE (40.0 MMBOE)",** MBOE,40000,MBOE,Correct
+Q2 2026 10-Q,SM,Revenue,"$2,156 million (Oil, gas, and NGL production revenue) / $2,500 million (Total operating revenues and other income)",** USD (Millions),2500,million dollars,Correct

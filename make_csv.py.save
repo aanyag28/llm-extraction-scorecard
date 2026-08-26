@@ -1,0 +1,67 @@
+kimport csv
+import glob
+import re
+import os
+
+files = glob.glob("results/*_result.txt")
+
+rows = []
+
+for file in sorted(files):
+    filing = os.path.basename(file).replace("_result.txt", "")
+
+    with open(file, "r", encoding="utf-8") as f:
+        text = f.read()
+
+    # Get each numbered section
+    sections = re.split(r"###\s*\*?\*?\d+\.\s*", text)
+
+    revenue = ""
+    production = ""
+    capex = ""
+
+    for section in sections:
+        lower = section.lower()
+
+        # Only grab the first line/value after "Exact Amount:"
+        match = re.search(
+            r"\*?\*?Exact Amount:\*?\*?\s*(?:\n\s*)?(.*)",
+            section,
+            re.IGNORECASE
+        )
+
+        if not match:
+            continue
+
+        value = match.group(1).strip()
+
+        # Remove markdown
+        value = re.sub(r"\*\*", "", value)
+        value = re.sub(r"\*", "", value)
+        value = value.strip()
+
+        # Stop at the next markdown/list line
+        value = value.split("\n")[0].strip()
+
+        if "revenue" in lower:
+            revenue = value
+
+        elif "production" in lower:
+            production = value
+
+        elif "capital expenditure" in lower:
+            capex = value
+
+    rows.append([filing, revenue, production, capex])
+
+with open("results/extraction_results.csv", "w", newline="", encoding="utf-8") as f:
+    writer = csv.writer(f)
+    writer.writerow([
+        "Filing",
+        "Total Revenue",
+        "Average Daily Production Volume",
+        "Capital Expenditures"
+    ])
+    writer.writerows(rows)
+
+print("Created: results/extraction_results.csv")

@@ -1,0 +1,17 @@
+METRIC: REVENUE
+Exact Amount: 7,645 million
+Unit: USD
+Reporting Period: Fiscal year ended December 31, 2025
+Section/Table: Consolidated Statement of Operations / Operating Revenues
+
+METRIC: PRODUCTION
+Exact Amount: 285,576
+Unit: MBoe
+Reporting Period: Fiscal year ended December 31, 2025
+Section/Table: Part I, Items 1 and 2 - Business and Properties / Production, Sales Price and Production Costs
+
+METRIC: CAPEX
+Exact Amount: 2,318 million
+Unit: USD
+Reporting Period: Fiscal year ended December 31, 2025
+Section/Table: Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations / Capital and Exploration Expenditures

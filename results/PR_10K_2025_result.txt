@@ -1,0 +1,30 @@
+**Reporting Period Covered:** Fiscal year ended December 31, 2025
+
+---
+
+Metric: Total Revenue
+Exact Amount: $5,065,211 thousand (or $5,065,211,000)
+Unit: USD
+Reporting Period: Fiscal year ended December 31, 2025
+Section/Table: Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations - Results of Operations
+Source: Net revenues table in Item 7 (and Consolidated Statements of Operations)
+
+---
+
+Metric: Total Production Volume
+Exact Amount: 143,311 MBOE
+Unit: MBOE
+Reporting Period: Fiscal year ended December 31, 2025
+Section/Table: Part I, Items 1 and 2. Business and Properties - Production
+Source: Net production table in Part I, Items 1 and 2 (and Item 7, Results of Operations)
+
+TOTAL PRODUCTION = 143,311 MBOE
+
+---
+
+Metric: Capital Expenditures
+Exact Amount: $1.97 billion
+Unit: USD
+Reporting Period: Fiscal year ended December 31, 2025
+Section/Table: Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations - Liquidity and Capital Resources / Overview
+Source: Capital expenditures narrative in Item 7 (and Part I, Items 1 and 2)

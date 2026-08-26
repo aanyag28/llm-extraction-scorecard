@@ -1,0 +1,20 @@
+METRIC: REVENUE
+Exact Amount: 4,240 million
+Unit: USD
+Reporting Period: Three months ended March 31, 2026
+Section/Table: Part I, Item 1. Financial Statements - Condensed Consolidated Statements of Operations
+Source: "Total revenues" line item
+
+METRIC: PRODUCTION
+Exact Amount: 88,142
+Unit: MBOE
+Reporting Period: Three months ended March 31, 2026
+Section/Table: Part I, Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations - Results of Operations
+Source: "Combined volumes (MBOE)" in the selected operating data table
+
+METRIC: CAPEX
+Exact Amount: 933 million
+Unit: USD
+Reporting Period: Three months ended March 31, 2026
+Section/Table: Part I, Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations - Capital Expenditure Activities (and Condensed Consolidated Statements of Cash Flows)
+Source: "Total" capital expenditures excluding acquisitions (on a cash basis) / "Additions to oil and natural gas properties" line item

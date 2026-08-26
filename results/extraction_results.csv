@@ -1,17 +1,16 @@
-1st try====================================
-GEMINI EXTRACTION SCORE
-====================================
-Revenue:     4/15 (26.7%)
-Production:  0/15 (0.0%)
-CapEx:       0/15 (0.0%)
-Overall:     4/45 (8.9%)
-====================================
-
-2nd try====================================
-GEMINI EXTRACTION SCORE
-====================================
-Revenue:     15/15 (100.0%)
-Production:  15/15 (100.0%)
-CapEx:       8/15 (53.3%)
-Overall:     38/45 (84.4%)
-====================================
+Filing,Revenue,Production,CapEx
+CTRA_10K_2025,"7,645","285,576","2,318"
+CTRA_10Q_2025Q3,"$1,817 million (Three Months Ended September 30, 2025) / $5,686 million (Nine Months Ended September 30, 2025)","72.2 MMBoe (72,200 MBoe) (Three Months Ended September 30, 2025) / 210.8 MMBoe (210,800 MBoe) (Nine Months Ended September 30, 2025)","$1,779 million (Capital expenditures for drilling, completion and other fixed asset additions) / $1,886 million (Total capital and exploration expenditures)"
+CTRA_10Q_2026Q1,Not reported in the filing,Not reported in the filing,Not reported in the filing
+FANG_10K_2025,"13,453","336,178","3,523"
+FANG_10Q_2026Q1,"$4,240 million (comprising $3,825 million in oil, natural gas, and NGL sales, $385 million in sales of purchased oil, and $30 million in other operating income)","TOTAL PRODUCTION = 88,142 MBOE",$933 million
+FANG_10Q_2026Q2,Not reported in the filing,Not reported in the filing,Not reported in the filing
+MTDR_10K_2025,"$3,696,277 thousand ($3,696,277,000) Unit: USD Reporting Period: Fiscal year ended December 31, 2025 Section/Table: Consolidated Statements of Income / Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations – Revenues Source: Matador Resources Company Form 10-K for the Fiscal Year Ended December 31, 2025, Consolidated Statements of Income (page F-5) and MD&A Revenues table (page 73).","75,581 MBOE Unit: MBOE Reporting Period: Fiscal year ended December 31, 2025 Section/Table: Item 1. Business – Operating Summary / Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations – Revenues Source: Matador Resources Company Form 10-K for the Fiscal Year Ended December 31, 2025, Unaudited Production Data table (page 12) and Operating Data table (page 73). TOTAL PRODUCTION = 75,581 MBOE","$1,529,800 thousand ($1.53 billion) for D/C/E Capital Expenditures; $2,156,381 thousand ($2.16 billion) for Total Capital Expenditures (including D/C/E, midstream, acquisitions, and other property/equipment) Unit: USD Reporting Period: Fiscal year ended December 31, 2025 Section/Table: Item 1. Business – 2025 Highlights / Item 8. Consolidated Statements of Cash Flows Source: Matador Resources Company Form 10-K for the Fiscal Year Ended December 31, 2025, Operational Highlights (page 4) and Consolidated Statements of Cash Flows (page F-7)."
+MTDR_10Q_2025Q3,Not reported in the filing,Not reported in the filing,Not reported in the filing
+MTDR_10Q_2026Q1,"$671,637 thousand (or $671,637,000)","TOTAL PRODUCTION = 18,683 MBOE","$458,556 thousand (comprising $364,521 thousand for drilling, completion and equipping capital expenditures; $21,501 thousand for midstream capital expenditures; $71,280 thousand for expenditures for other property and equipment; and $1,254 thousand for acquisition of oil and natural gas properties)"
+PR_10K_2025,"$5,065,211 thousand (or $5,065,211,000)","143,311 MBOE",$1.97 billion
+PR_10Q_2026Q1,Not reported in the filing,Not reported in the filing,Not reported in the filing
+PR_10Q_2026Q2,Not reported in the filing,Not reported in the filing,Not reported in the filing
+SM_10K_2025,"$3,138 million","TOTAL PRODUCTION = 75,500 MBOE","$1,448 million"
+SM_10Q_2026Q1,"$1,477 million","33,400 MBOE",$555 million
+SM_10Q_2026Q2,"$2,156 million (Oil, gas, and NGL production revenue) / $2,500 million (Total operating revenues and other income) Unit: USD (Millions) Reporting Period: Three months ended June 30, 2026 Section/Table: Part I, Item 2 – Management’s Discussion and Analysis / Overview of Selected Production and Financial Information Source: SEC Form 10-Q for the quarterly period ended June 30, 2026, Item 2 (MD&A) #### For the Six Months Ended June 30, 2026: Metric: Total Revenue Exact Amount: $3,633 million (Oil, gas, and NGL production revenue) / $3,979 million (Total operating revenues and other income) Unit: USD (Millions) Reporting Period: Six months ended June 30, 2026 Section/Table: Part I, Item 2 – Management’s Discussion and Analysis / Overview of Selected Production and Financial Information Source: SEC Form 10-Q for the quarterly period ended June 30, 2026, Item 2 (MD&A)","TOTAL PRODUCTION = 40,000 MBOE (40.0 MMBOE) Unit: MBOE Reporting Period: Three months ended June 30, 2026 Section/Table: Part I, Item 2 – Management’s Discussion and Analysis / Production Results Table Source: SEC Form 10-Q for the quarterly period ended June 30, 2026, Item 2 (MD&A) #### For the Six Months Ended June 30, 2026: Metric: Total Production Volume Exact Amount: TOTAL PRODUCTION = 73,400 MBOE (73.4 MMBOE) Unit: MBOE Reporting Period: Six months ended June 30, 2026 Section/Table: Part I, Item 2 – Management’s Discussion and Analysis / Production Results Table Source: SEC Form 10-Q for the quarterly period ended June 30, 2026, Item 2 (MD&A)","$1,268 million (Cash flows used in investing activities for capital expenditures) / $1.5 billion (Costs incurred in oil and gas property acquisition, exploration, and development activities) Unit: USD (Millions) Reporting Period: Six months ended June 30, 2026 Section/Table: Part I, Item 1 – Condensed Consolidated Statements of Cash Flows / Part I, Item 2 (MD&A) – Uses of Cash Source: SEC Form 10-Q for the quarterly period ended June 30, 2026, Financial Statements & MD&A #### For the Three Months Ended June 30, 2026: Metric: Capital Expenditures (Costs Incurred) Exact Amount: $734 million Unit: USD (Millions) Reporting Period: Three months ended June 30, 2026 Section/Table: Part I, Item 2 – Management’s Discussion and Analysis / Operational Activities Source: SEC Form 10-Q for the quarterly period ended June 30, 2026, Item 2 (MD&A)"

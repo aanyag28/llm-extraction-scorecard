@@ -1,0 +1,30 @@
+Based on the SEC filing (Form 10-Q for the quarterly period ended March 31, 2026), here are the requested financial and operational metrics:
+
+---
+
+Metric: Total Revenue  
+Exact Amount: $1,477 million  
+Unit: USD (in millions)  
+Reporting Period: Three months ended March 31, 2026  
+Section/Table: Part I, Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations — Overview of Selected Production and Financial Information, Including Trends  
+Source: Total oil, gas, and NGL production revenue reported in the Overview of Selected Production and Financial Information table.
+
+---
+
+Metric: Total Production Volume  
+Exact Amount: 33,400 MBOE  
+Unit: MBOE  
+Reporting Period: Three months ended March 31, 2026  
+Section/Table: Part I, Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations — Production Results  
+Source: Total net equivalent production reported as 33.4 MMBOE (converted to 33,400 MBOE) in the Production Results table.
+
+TOTAL PRODUCTION = 33,400 MBOE
+
+---
+
+Metric: Capital Expenditures  
+Exact Amount: $555 million  
+Unit: USD (in millions)  
+Reporting Period: Three months ended March 31, 2026  
+Section/Table: Part I, Item 1. Financial Statements — Condensed Consolidated Statements of Cash Flows (Unaudited)  
+Source: "Capital expenditures" line item under Cash flows from investing activities (also discussed under MD&A — Uses of Cash).

@@ -1,0 +1,5085 @@
+0000893538
+12-31
+2026
+Q1
+false
+http://fasb.org/srt/2025#ChiefExecutiveOfficerMember
+xbrli:shares
+iso4217:USD
+iso4217:USD
+xbrli:shares
+xbrli:pure
+utr:acre
+sm:well
+utr:MMBoe
+utr:Bcfe
+utr:bbl
+iso4217:USD
+sm:Barrels
+utr:Btu
+iso4217:USD
+sm:EnergyContent
+sm:reportable_business_segments
+0000893538
+2026-01-01
+2026-03-31
+0000893538
+2026-04-23
+0000893538
+2026-03-31
+0000893538
+2025-12-31
+0000893538
+2025-01-01
+2025-03-31
+0000893538
+us-gaap:CommonStockMember
+2025-12-31
+0000893538
+us-gaap:AdditionalPaidInCapitalMember
+2025-12-31
+0000893538
+us-gaap:RetainedEarningsMember
+2025-12-31
+0000893538
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-12-31
+0000893538
+us-gaap:RetainedEarningsMember
+2026-01-01
+2026-03-31
+0000893538
+us-gaap:CommonStockMember
+2026-01-01
+2026-03-31
+0000893538
+us-gaap:AdditionalPaidInCapitalMember
+2026-01-01
+2026-03-31
+0000893538
+us-gaap:CommonStockMember
+2026-03-31
+0000893538
+us-gaap:AdditionalPaidInCapitalMember
+2026-03-31
+0000893538
+us-gaap:RetainedEarningsMember
+2026-03-31
+0000893538
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2026-03-31
+0000893538
+us-gaap:CommonStockMember
+2024-12-31
+0000893538
+us-gaap:AdditionalPaidInCapitalMember
+2024-12-31
+0000893538
+us-gaap:RetainedEarningsMember
+2024-12-31
+0000893538
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-12-31
+0000893538
+2024-12-31
+0000893538
+us-gaap:RetainedEarningsMember
+2025-01-01
+2025-03-31
+0000893538
+us-gaap:CommonStockMember
+2025-01-01
+2025-03-31
+0000893538
+us-gaap:AdditionalPaidInCapitalMember
+2025-01-01
+2025-03-31
+0000893538
+us-gaap:CommonStockMember
+2025-03-31
+0000893538
+us-gaap:AdditionalPaidInCapitalMember
+2025-03-31
+0000893538
+us-gaap:RetainedEarningsMember
+2025-03-31
+0000893538
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-03-31
+0000893538
+2025-03-31
+0000893538
+sm:CivitasResourcesMergerMember
+2026-01-30
+2026-01-30
+0000893538
+sm:CivitasResourcesMergerMember
+2026-01-30
+0000893538
+sm:CivitasResourcesMergerMember
+2026-01-01
+2026-03-31
+0000893538
+sm:CivitasResourcesMergerMember
+2025-01-01
+2025-03-31
+0000893538
+us-gaap:DisposalGroupDisposedOfBySaleNotDiscontinuedOperationsMember
+sm:SouthTexasDivestitureMember
+us-gaap:SubsequentEventMember
+2026-04-30
+2026-04-30
+0000893538
+us-gaap:DisposalGroupDisposedOfBySaleNotDiscontinuedOperationsMember
+sm:SouthTexasDivestitureMember
+2026-03-31
+0000893538
+us-gaap:DisposalGroupDisposedOfBySaleNotDiscontinuedOperationsMember
+sm:SouthTexasDivestitureMember
+2026-01-01
+2026-03-31
+0000893538
+us-gaap:DisposalGroupDisposedOfBySaleNotDiscontinuedOperationsMember
+sm:SouthTexasDivestitureMember
+2025-01-01
+2025-03-31
+0000893538
+srt:CrudeOilMember
+sm:PermianBasinMember
+2026-01-01
+2026-03-31
+0000893538
+srt:CrudeOilMember
+sm:PermianBasinMember
+2025-01-01
+2025-03-31
+0000893538
+srt:CrudeOilMember
+sm:DJBasinMember
+2026-01-01
+2026-03-31
+0000893538
+srt:CrudeOilMember
+sm:DJBasinMember
+2025-01-01
+2025-03-31
+0000893538
+srt:CrudeOilMember
+sm:SouthTexasMember
+2026-01-01
+2026-03-31
+0000893538
+srt:CrudeOilMember
+sm:SouthTexasMember
+2025-01-01
+2025-03-31
+0000893538
+srt:CrudeOilMember
+sm:UintaBasinMember
+2026-01-01
+2026-03-31
+0000893538
+srt:CrudeOilMember
+sm:UintaBasinMember
+2025-01-01
+2025-03-31
+0000893538
+srt:CrudeOilMember
+2026-01-01
+2026-03-31
+0000893538
+srt:CrudeOilMember
+2025-01-01
+2025-03-31
+0000893538
+srt:NaturalGasReservesMember
+sm:PermianBasinMember
+2026-01-01
+2026-03-31
+0000893538
+srt:NaturalGasReservesMember
+sm:PermianBasinMember
+2025-01-01
+2025-03-31
+0000893538
+srt:NaturalGasReservesMember
+sm:DJBasinMember
+2026-01-01
+2026-03-31
+0000893538
+srt:NaturalGasReservesMember
+sm:DJBasinMember
+2025-01-01
+2025-03-31
+0000893538
+srt:NaturalGasReservesMember
+sm:SouthTexasMember
+2026-01-01
+2026-03-31
+0000893538
+srt:NaturalGasReservesMember
+sm:SouthTexasMember
+2025-01-01
+2025-03-31
+0000893538
+srt:NaturalGasReservesMember
+sm:UintaBasinMember
+2026-01-01
+2026-03-31
+0000893538
+srt:NaturalGasReservesMember
+sm:UintaBasinMember
+2025-01-01
+2025-03-31
+0000893538
+srt:NaturalGasReservesMember
+2026-01-01
+2026-03-31
+0000893538
+srt:NaturalGasReservesMember
+2025-01-01
+2025-03-31
+0000893538
+srt:NaturalGasLiquidsReservesMember
+sm:PermianBasinMember
+2026-01-01
+2026-03-31
+0000893538
+srt:NaturalGasLiquidsReservesMember
+sm:PermianBasinMember
+2025-01-01
+2025-03-31
+0000893538
+srt:NaturalGasLiquidsReservesMember
+sm:DJBasinMember
+2026-01-01
+2026-03-31
+0000893538
+srt:NaturalGasLiquidsReservesMember
+sm:DJBasinMember
+2025-01-01
+2025-03-31
+0000893538
+srt:NaturalGasLiquidsReservesMember
+sm:SouthTexasMember
+2026-01-01
+2026-03-31
+0000893538
+srt:NaturalGasLiquidsReservesMember
+sm:SouthTexasMember
+2025-01-01
+2025-03-31
+0000893538
+srt:NaturalGasLiquidsReservesMember
+sm:UintaBasinMember
+2026-01-01
+2026-03-31
+0000893538
+srt:NaturalGasLiquidsReservesMember
+sm:UintaBasinMember
+2025-01-01
+2025-03-31
+0000893538
+srt:NaturalGasLiquidsReservesMember
+2026-01-01
+2026-03-31
+0000893538
+srt:NaturalGasLiquidsReservesMember
+2025-01-01
+2025-03-31
+0000893538
+sm:PermianBasinMember
+2026-01-01
+2026-03-31
+0000893538
+sm:PermianBasinMember
+2025-01-01
+2025-03-31
+0000893538
+sm:DJBasinMember
+2026-01-01
+2026-03-31
+0000893538
+sm:DJBasinMember
+2025-01-01
+2025-03-31
+0000893538
+sm:SouthTexasMember
+2026-01-01
+2026-03-31
+0000893538
+sm:SouthTexasMember
+2025-01-01
+2025-03-31
+0000893538
+sm:UintaBasinMember
+2026-01-01
+2026-03-31
+0000893538
+sm:UintaBasinMember
+2025-01-01
+2025-03-31
+0000893538
+sm:PermianBasinMember
+us-gaap:GeographicConcentrationRiskMember
+us-gaap:SalesRevenueNetMember
+2026-01-01
+2026-03-31
+0000893538
+sm:PermianBasinMember
+us-gaap:GeographicConcentrationRiskMember
+us-gaap:SalesRevenueNetMember
+2025-01-01
+2025-03-31
+0000893538
+sm:DJBasinMember
+us-gaap:GeographicConcentrationRiskMember
+us-gaap:SalesRevenueNetMember
+2026-01-01
+2026-03-31
+0000893538
+sm:DJBasinMember
+us-gaap:GeographicConcentrationRiskMember
+us-gaap:SalesRevenueNetMember
+2025-01-01
+2025-03-31
+0000893538
+sm:SouthTexasMember
+us-gaap:GeographicConcentrationRiskMember
+us-gaap:SalesRevenueNetMember
+2026-01-01
+2026-03-31
+0000893538
+sm:SouthTexasMember
+us-gaap:GeographicConcentrationRiskMember
+us-gaap:SalesRevenueNetMember
+2025-01-01
+2025-03-31
+0000893538
+sm:UintaBasinMember
+us-gaap:GeographicConcentrationRiskMember
+us-gaap:SalesRevenueNetMember
+2026-01-01
+2026-03-31
+0000893538
+sm:UintaBasinMember
+us-gaap:GeographicConcentrationRiskMember
+us-gaap:SalesRevenueNetMember
+2025-01-01
+2025-03-31
+0000893538
+us-gaap:AccruedIncomeReceivableMember
+2026-03-31
+0000893538
+us-gaap:AccruedIncomeReceivableMember
+2025-12-31
+0000893538
+2026-03-31
+2026-03-31
+0000893538
+2026-01-27
+0000893538
+us-gaap:RevolvingCreditFacilityMember
+2026-03-31
+0000893538
+us-gaap:RevolvingCreditFacilityMember
+2026-01-01
+2026-03-31
+0000893538
+us-gaap:RevolvingCreditFacilityMember
+2025-12-31
+0000893538
+us-gaap:RevolvingCreditFacilityMember
+us-gaap:SubsequentEventMember
+2026-04-23
+0000893538
+sm:A6.75SeniorUnsecuredNotesDue2026Member
+2026-03-31
+0000893538
+sm:A6.75SeniorUnsecuredNotesDue2026Member
+2025-12-31
+0000893538
+sm:A6.75SeniorUnsecuredNotesDue2026Member
+2026-03-31
+2026-03-31
+0000893538
+sm:A5.000SeniorUnsecuredNotesDue2026Member
+2026-03-31
+0000893538
+sm:A5.000SeniorUnsecuredNotesDue2026Member
+2026-03-31
+2026-03-31
+0000893538
+sm:A6.625SeniorUnsecuredNotesDue2027Member
+2026-03-31
+0000893538
+sm:A6.625SeniorUnsecuredNotesDue2027Member
+2025-12-31
+0000893538
+sm:A6.625SeniorUnsecuredNotesDue2027Member
+2026-03-31
+2026-03-31
+0000893538
+sm:A8.375SeniorUnsecuredNotesDue2028Member
+2026-03-31
+0000893538
+sm:A8.375SeniorUnsecuredNotesDue2028Member
+2026-03-31
+2026-03-31
+0000893538
+sm:A6.5SeniorUnsecuredNotesDue2028Member
+2026-03-31
+0000893538
+sm:A6.5SeniorUnsecuredNotesDue2028Member
+2025-12-31
+0000893538
+sm:A6.5SeniorUnsecuredNotesDue2028Member
+2026-03-31
+2026-03-31
+0000893538
+sm:A6.75SeniorUnsecuredNotesDue2029Member
+2026-03-31
+0000893538
+sm:A6.75SeniorUnsecuredNotesDue2029Member
+2025-12-31
+0000893538
+sm:A6.75SeniorUnsecuredNotesDue2029Member
+2026-03-31
+2026-03-31
+0000893538
+sm:A8.625SeniorUnsecuredNotesDue2030Member
+2026-03-31
+0000893538
+sm:A8.625SeniorUnsecuredNotesDue2030Member
+2026-03-31
+2026-03-31
+0000893538
+sm:A8.750SeniorUnsecuredNotesDue2031Member
+2026-03-31
+0000893538
+sm:A8.750SeniorUnsecuredNotesDue2031Member
+2026-03-31
+2026-03-31
+0000893538
+sm:A7.0SeniorUnsecuredNotesDue2032Member
+2026-03-31
+0000893538
+sm:A7.0SeniorUnsecuredNotesDue2032Member
+2025-12-31
+0000893538
+sm:A7.0SeniorUnsecuredNotesDue2032Member
+2026-03-31
+2026-03-31
+0000893538
+sm:A9.625SeniorUnsecuredNotesDue2033Member
+2026-03-31
+0000893538
+sm:A9.625SeniorUnsecuredNotesDue2033Member
+2026-03-31
+2026-03-31
+0000893538
+sm:A6.625SeniorUnsecuredNotesDue2034Member
+2026-03-31
+0000893538
+sm:A6.625SeniorUnsecuredNotesDue2034Member
+2026-03-09
+0000893538
+sm:A6.625SeniorUnsecuredNotesDue2034Member
+2026-03-31
+2026-03-31
+0000893538
+us-gaap:SeniorNotesMember
+2026-03-31
+0000893538
+us-gaap:SeniorNotesMember
+2025-12-31
+0000893538
+sm:A6.625SeniorUnsecuredNotesDue2034Member
+2026-03-09
+2026-03-09
+0000893538
+sm:A8.375SeniorUnsecuredNotesDue2028Member
+2026-03-04
+0000893538
+sm:A8.375SeniorUnsecuredNotesDue2028Member
+2026-03-04
+2026-03-04
+0000893538
+sm:A8.375SeniorUnsecuredNotesDue2028Member
+2026-03-18
+0000893538
+sm:A8.375SeniorUnsecuredNotesDue2028Member
+2026-03-19
+0000893538
+sm:A8.375SeniorUnsecuredNotesDue2028Member
+sm:PremiumPaidToRepurchaseSeniorNotesNetOfAcceleratedUnamortizedFairValuePremiumMember
+2026-01-01
+2026-03-31
+0000893538
+sm:A8.375SeniorUnsecuredNotesDue2028Member
+us-gaap:SubsequentEventMember
+2026-04-03
+0000893538
+sm:A6.75SeniorUnsecuredNotesDue2026And5.000SeniorUnsecuredNotesDue2026Member
+us-gaap:SubsequentEventMember
+2026-04-30
+0000893538
+us-gaap:SubsequentEventMember
+2026-04-01
+2026-05-06
+0000893538
+srt:MinimumMember
+2026-03-31
+0000893538
+srt:MaximumMember
+2026-03-31
+0000893538
+srt:ScenarioForecastMember
+2026-12-31
+0000893538
+srt:ScenarioForecastMember
+2030-12-31
+0000893538
+srt:ScenarioForecastMember
+2029-12-31
+0000893538
+sm:CivitasResourcesMergerMember
+2026-03-31
+0000893538
+sm:NYMEXOilSwapContractSecondQuarterYear1Member
+2026-03-31
+2026-03-31
+0000893538
+sm:NYMEXOilSwapContractThirdQuarterYear1Member
+2026-03-31
+2026-03-31
+0000893538
+sm:NYMEXOilSwapContractFourthQuarterYear1Member
+2026-03-31
+2026-03-31
+0000893538
+sm:NYMEXOilSwapContractYear2Member
+2026-03-31
+2026-03-31
+0000893538
+sm:NYMEXOilSwapContractSecondQuarterYear1Member
+2026-03-31
+0000893538
+sm:NYMEXOilSwapContractThirdQuarterYear1Member
+2026-03-31
+0000893538
+sm:NYMEXOilSwapContractFourthQuarterYear1Member
+2026-03-31
+0000893538
+sm:NYMEXOilSwapContractYear2Member
+2026-03-31
+0000893538
+sm:NYMEXOilCollarContractSecondQuarterYear1Member
+2026-03-31
+2026-03-31
+0000893538
+sm:NYMEXOilCollarContractThirdQuarterYear1Member
+2026-03-31
+2026-03-31
+0000893538
+sm:NYMEXOilCollarContractFourthQuarterYear1Member
+2026-03-31
+2026-03-31
+0000893538
+sm:NYMEXOilCollarContractYear2Member
+2026-03-31
+2026-03-31
+0000893538
+sm:NYMEXOilCollarContractSecondQuarterYear1Member
+2026-03-31
+0000893538
+sm:NYMEXOilCollarContractThirdQuarterYear1Member
+2026-03-31
+0000893538
+sm:NYMEXOilCollarContractFourthQuarterYear1Member
+2026-03-31
+0000893538
+sm:NYMEXOilCollarContractYear2Member
+2026-03-31
+0000893538
+sm:OilBasisSwapContractSecondQuarterYear1Member
+sm:WTIMidlandNYMEXWTIMember
+2026-03-31
+2026-03-31
+0000893538
+sm:OilBasisSwapContractThirdQuarterYear1Member
+sm:WTIMidlandNYMEXWTIMember
+2026-03-31
+2026-03-31
+0000893538
+sm:OilBasisSwapContractFourthQuarterYear1Member
+sm:WTIMidlandNYMEXWTIMember
+2026-03-31
+2026-03-31
+0000893538
+sm:OilBasisSwapContractYear2Member
+sm:WTIMidlandNYMEXWTIMember
+2026-03-31
+2026-03-31
+0000893538
+sm:OilBasisSwapContractSecondQuarterYear1Member
+sm:WTIMidlandNYMEXWTIMember
+2026-03-31
+0000893538
+sm:OilBasisSwapContractThirdQuarterYear1Member
+sm:WTIMidlandNYMEXWTIMember
+2026-03-31
+0000893538
+sm:OilBasisSwapContractFourthQuarterYear1Member
+sm:WTIMidlandNYMEXWTIMember
+2026-03-31
+0000893538
+sm:OilBasisSwapContractYear2Member
+sm:WTIMidlandNYMEXWTIMember
+2026-03-31
+0000893538
+sm:OilBasisSwapContractSecondQuarterYear1Member
+sm:WTIHoustonMEHNYMEXWTIMember
+2026-03-31
+2026-03-31
+0000893538
+sm:OilBasisSwapContractThirdQuarterYear1Member
+sm:WTIHoustonMEHNYMEXWTIMember
+2026-03-31
+2026-03-31
+0000893538
+sm:OilBasisSwapContractFourthQuarterYear1Member
+sm:WTIHoustonMEHNYMEXWTIMember
+2026-03-31
+2026-03-31
+0000893538
+sm:OilBasisSwapContractYear2Member
+sm:WTIHoustonMEHNYMEXWTIMember
+2026-03-31
+2026-03-31
+0000893538
+sm:OilBasisSwapContractSecondQuarterYear1Member
+sm:WTIHoustonMEHNYMEXWTIMember
+2026-03-31
+0000893538
+sm:OilBasisSwapContractThirdQuarterYear1Member
+sm:WTIHoustonMEHNYMEXWTIMember
+2026-03-31
+0000893538
+sm:OilBasisSwapContractFourthQuarterYear1Member
+sm:WTIHoustonMEHNYMEXWTIMember
+2026-03-31
+0000893538
+sm:OilBasisSwapContractYear2Member
+sm:WTIHoustonMEHNYMEXWTIMember
+2026-03-31
+0000893538
+sm:NYMEXOilCalendarMonthAverageRollDifferentialContractSecondQuarterYear1Member
+2026-03-31
+2026-03-31
+0000893538
+sm:NYMEXOilCalendarMonthAverageRollDifferentialContractThirdQuarterYear1Member
+2026-03-31
+2026-03-31
+0000893538
+sm:NYMEXOilCalendarMonthAverageRollDifferentialContractFourthQuarterYear1Member
+2026-03-31
+2026-03-31
+0000893538
+sm:NYMEXOilCalendarMonthAverageRollDifferentialContractYear2Member
+2026-03-31
+2026-03-31
+0000893538
+sm:NYMEXOilCalendarMonthAverageRollDifferentialContractSecondQuarterYear1Member
+2026-03-31
+0000893538
+sm:NYMEXOilCalendarMonthAverageRollDifferentialContractThirdQuarterYear1Member
+2026-03-31
+0000893538
+sm:NYMEXOilCalendarMonthAverageRollDifferentialContractFourthQuarterYear1Member
+2026-03-31
+0000893538
+sm:NYMEXOilCalendarMonthAverageRollDifferentialContractYear2Member
+2026-03-31
+0000893538
+sm:GasSwapsContractSecondQuarterYear1Member
+sm:NYMEXHHMember
+2026-03-31
+2026-03-31
+0000893538
+sm:GasSwapsContractThirdQuarterYear1Member
+sm:NYMEXHHMember
+2026-03-31
+2026-03-31
+0000893538
+sm:GasSwapsContractFourthQuarterYear1Member
+sm:NYMEXHHMember
+2026-03-31
+2026-03-31
+0000893538
+sm:GasSwapsContractYear2Member
+sm:NYMEXHHMember
+2026-03-31
+2026-03-31
+0000893538
+sm:GasSwapsContractSecondQuarterYear1Member
+sm:NYMEXHHMember
+2026-03-31
+0000893538
+sm:GasSwapsContractThirdQuarterYear1Member
+sm:NYMEXHHMember
+2026-03-31
+0000893538
+sm:GasSwapsContractFourthQuarterYear1Member
+sm:NYMEXHHMember
+2026-03-31
+0000893538
+sm:GasSwapsContractYear2Member
+sm:NYMEXHHMember
+2026-03-31
+0000893538
+sm:GasSwapsContractSecondQuarterYear1Member
+sm:IFWAHAMember
+2026-03-31
+2026-03-31
+0000893538
+sm:GasSwapsContractThirdQuarterYear1Member
+sm:IFWAHAMember
+2026-03-31
+2026-03-31
+0000893538
+sm:GasSwapsContractFourthQuarterYear1Member
+sm:IFWAHAMember
+2026-03-31
+2026-03-31
+0000893538
+sm:GasSwapsContractYear2Member
+sm:IFWAHAMember
+2026-03-31
+2026-03-31
+0000893538
+sm:GasSwapsContractSecondQuarterYear1Member
+sm:IFWAHAMember
+2026-03-31
+0000893538
+sm:GasSwapsContractThirdQuarterYear1Member
+sm:IFWAHAMember
+2026-03-31
+0000893538
+sm:GasSwapsContractFourthQuarterYear1Member
+sm:IFWAHAMember
+2026-03-31
+0000893538
+sm:GasSwapsContractYear2Member
+sm:IFWAHAMember
+2026-03-31
+0000893538
+sm:GasCollarContractSecondQuarterYear1Member
+sm:NYMEXHHMember
+2026-03-31
+2026-03-31
+0000893538
+sm:GasCollarContractThirdQuarterYear1Member
+sm:NYMEXHHMember
+2026-03-31
+2026-03-31
+0000893538
+sm:GasCollarContractFourthQuarterYear1Member
+sm:NYMEXHHMember
+2026-03-31
+2026-03-31
+0000893538
+sm:GasCollarContractYear2Member
+sm:NYMEXHHMember
+2026-03-31
+2026-03-31
+0000893538
+sm:GasCollarContractSecondQuarterYear1Member
+sm:NYMEXHHMember
+2026-03-31
+0000893538
+sm:GasCollarContractThirdQuarterYear1Member
+sm:NYMEXHHMember
+2026-03-31
+0000893538
+sm:GasCollarContractFourthQuarterYear1Member
+sm:NYMEXHHMember
+2026-03-31
+0000893538
+sm:GasCollarContractYear2Member
+sm:NYMEXHHMember
+2026-03-31
+0000893538
+sm:GasBasisSwapContractSecondQuarterYear1Member
+sm:IFWAHANYMEXHHMember
+2026-03-31
+2026-03-31
+0000893538
+sm:GasBasisSwapContractThirdQuarterYear1Member
+sm:IFWAHANYMEXHHMember
+2026-03-31
+2026-03-31
+0000893538
+sm:GasBasisSwapContractFourthQuarterYear1Member
+sm:IFWAHANYMEXHHMember
+2026-03-31
+2026-03-31
+0000893538
+sm:GasBasisSwapContractYear2Member
+sm:IFWAHANYMEXHHMember
+2026-03-31
+2026-03-31
+0000893538
+sm:GasBasisSwapContractSecondQuarterYear1Member
+sm:IFWAHANYMEXHHMember
+2026-03-31
+0000893538
+sm:GasBasisSwapContractThirdQuarterYear1Member
+sm:IFWAHANYMEXHHMember
+2026-03-31
+0000893538
+sm:GasBasisSwapContractFourthQuarterYear1Member
+sm:IFWAHANYMEXHHMember
+2026-03-31
+0000893538
+sm:GasBasisSwapContractYear2Member
+sm:IFWAHANYMEXHHMember
+2026-03-31
+0000893538
+sm:GasBasisSwapContractSecondQuarterYear1Member
+sm:IFTennTXZ0NYMEXHHMember
+2026-03-31
+2026-03-31
+0000893538
+sm:GasBasisSwapContractThirdQuarterYear1Member
+sm:IFTennTXZ0NYMEXHHMember
+2026-03-31
+2026-03-31
+0000893538
+sm:GasBasisSwapContractFourthQuarterYear1Member
+sm:IFTennTXZ0NYMEXHHMember
+2026-03-31
+2026-03-31
+0000893538
+sm:GasBasisSwapContractYear2Member
+sm:IFTennTXZ0NYMEXHHMember
+2026-03-31
+2026-03-31
+0000893538
+sm:GasBasisSwapContractSecondQuarterYear1Member
+sm:IFTennTXZ0NYMEXHHMember
+2026-03-31
+0000893538
+sm:GasBasisSwapContractThirdQuarterYear1Member
+sm:IFTennTXZ0NYMEXHHMember
+2026-03-31
+0000893538
+sm:GasBasisSwapContractFourthQuarterYear1Member
+sm:IFTennTXZ0NYMEXHHMember
+2026-03-31
+0000893538
+sm:GasBasisSwapContractYear2Member
+sm:IFTennTXZ0NYMEXHHMember
+2026-03-31
+0000893538
+sm:NGLSwapsContractSecondQuarterYear1Member
+sm:OPISNaturalGasolineMontBelvieuNonTETMember
+2026-03-31
+2026-03-31
+0000893538
+sm:NGLSwapsContractThirdQuarterYear1Member
+sm:OPISNaturalGasolineMontBelvieuNonTETMember
+2026-03-31
+2026-03-31
+0000893538
+sm:NGLSwapsContractFourthQuarterYear1Member
+sm:OPISNaturalGasolineMontBelvieuNonTETMember
+2026-03-31
+2026-03-31
+0000893538
+sm:NGLSwapsContractYear2Member
+sm:OPISNaturalGasolineMontBelvieuNonTETMember
+2026-03-31
+2026-03-31
+0000893538
+sm:NGLSwapsContractSecondQuarterYear1Member
+sm:OPISNaturalGasolineMontBelvieuNonTETMember
+2026-03-31
+0000893538
+sm:NGLSwapsContractThirdQuarterYear1Member
+sm:OPISNaturalGasolineMontBelvieuNonTETMember
+2026-03-31
+0000893538
+sm:NGLSwapsContractFourthQuarterYear1Member
+sm:OPISNaturalGasolineMontBelvieuNonTETMember
+2026-03-31
+0000893538
+sm:NGLSwapsContractYear2Member
+sm:OPISNaturalGasolineMontBelvieuNonTETMember
+2026-03-31
+0000893538
+sm:NGLSwapsContractSecondQuarterYear1Member
+sm:OPISEthaneMontBelvieuNonTETMember
+2026-03-31
+2026-03-31
+0000893538
+sm:NGLSwapsContractThirdQuarterYear1Member
+sm:OPISEthaneMontBelvieuNonTETMember
+2026-03-31
+2026-03-31
+0000893538
+sm:NGLSwapsContractFourthQuarterYear1Member
+sm:OPISEthaneMontBelvieuNonTETMember
+2026-03-31
+2026-03-31
+0000893538
+sm:NGLSwapsContractYear2Member
+sm:OPISEthaneMontBelvieuNonTETMember
+2026-03-31
+2026-03-31
+0000893538
+sm:NGLSwapsContractSecondQuarterYear1Member
+sm:OPISEthaneMontBelvieuNonTETMember
+2026-03-31
+0000893538
+sm:NGLSwapsContractThirdQuarterYear1Member
+sm:OPISEthaneMontBelvieuNonTETMember
+2026-03-31
+0000893538
+sm:NGLSwapsContractFourthQuarterYear1Member
+sm:OPISEthaneMontBelvieuNonTETMember
+2026-03-31
+0000893538
+sm:NGLSwapsContractYear2Member
+sm:OPISEthaneMontBelvieuNonTETMember
+2026-03-31
+0000893538
+us-gaap:NondesignatedMember
+2026-03-31
+0000893538
+us-gaap:NondesignatedMember
+2025-12-31
+0000893538
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:NondesignatedMember
+us-gaap:FairValueInputsLevel2Member
+2026-03-31
+0000893538
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:NondesignatedMember
+us-gaap:FairValueInputsLevel2Member
+2025-12-31
+0000893538
+sm:OilContractsMember
+2026-01-01
+2026-03-31
+0000893538
+sm:OilContractsMember
+2025-01-01
+2025-03-31
+0000893538
+sm:GasContractsMember
+2026-01-01
+2026-03-31
+0000893538
+sm:GasContractsMember
+2025-01-01
+2025-03-31
+0000893538
+sm:NGLContractsMember
+2026-01-01
+2026-03-31
+0000893538
+sm:NGLContractsMember
+2025-01-01
+2025-03-31
+0000893538
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:NondesignatedMember
+us-gaap:FairValueInputsLevel1Member
+2026-03-31
+0000893538
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:NondesignatedMember
+us-gaap:FairValueInputsLevel3Member
+2026-03-31
+0000893538
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:NondesignatedMember
+us-gaap:FairValueInputsLevel1Member
+2025-12-31
+0000893538
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:NondesignatedMember
+us-gaap:FairValueInputsLevel3Member
+2025-12-31
+0000893538
+sm:A5.000SeniorUnsecuredNotesDue2026Member
+2025-12-31
+0000893538
+sm:A8.375SeniorUnsecuredNotesDue2028Member
+2025-12-31
+0000893538
+sm:A8.625SeniorUnsecuredNotesDue2030Member
+2025-12-31
+0000893538
+sm:A8.750SeniorUnsecuredNotesDue2031Member
+2025-12-31
+0000893538
+sm:A9.625SeniorUnsecuredNotesDue2033Member
+2025-12-31
+0000893538
+sm:A6.625SeniorUnsecuredNotesDue2034Member
+2025-12-31
+0000893538
+sm:EPSegmentMember
+2026-01-01
+2026-03-31
+0000893538
+sm:EPSegmentMember
+2025-01-01
+2025-03-31
+0000893538
+sm:LeaseOperatingExpenseMember
+sm:EPSegmentMember
+2026-01-01
+2026-03-31
+0000893538
+sm:LeaseOperatingExpenseMember
+sm:EPSegmentMember
+2025-01-01
+2025-03-31
+0000893538
+sm:TransportationCostsMember
+sm:EPSegmentMember
+2026-01-01
+2026-03-31
+0000893538
+sm:TransportationCostsMember
+sm:EPSegmentMember
+2025-01-01
+2025-03-31
+0000893538
+sm:ProductionTaxesMember
+sm:EPSegmentMember
+2026-01-01
+2026-03-31
+0000893538
+sm:ProductionTaxesMember
+sm:EPSegmentMember
+2025-01-01
+2025-03-31
+0000893538
+sm:AdValoremTaxMember
+sm:EPSegmentMember
+2026-01-01
+2026-03-31
+0000893538
+sm:AdValoremTaxMember
+sm:EPSegmentMember
+2025-01-01
+2025-03-31
+0000893538
+sm:A2025SMEquityIncentiveCompensationPlanMember
+2026-03-31
+0000893538
+sm:A2024CivitasLongTermIncentivePlanMember
+2026-03-31
+0000893538
+sm:CivitasResourcesMergerMember
+us-gaap:RestrictedStockUnitsRSUMember
+2026-01-30
+2026-01-30
+0000893538
+sm:CivitasResourcesMergerMember
+us-gaap:RestrictedStockUnitsRSUMember
+2026-01-30
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+FORM
+10-Q
+☑
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended
+March 31, 2026
+OR
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from ___________ to ___________
+Commission File Number
+001-31539
+SM ENERGY CO
+MPANY
+(Exact name of registrant as specified in its charter)
+Delaware
+41-0518430
+(State or other jurisdiction of incorporation or organization)
+(I.R.S. Employer Identification No.)
+1700 Lincoln Street
+,
+Suite 3200
+,
+Denver
+,
+Colorado
+80203
+(Address of principal executive offices)
+(Zip Code)
+(303)
+861-8140
+(Registrant’s telephone number, including area code)
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading symbol(s)
+Name of each exchange on which registered
+Common stock, $0.01 par value
+SM
+New York Stock Exchange
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+Yes
+☑
+No
+☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).
+Yes
+☑
+No
+☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company.  See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer
+☑
+Accelerated filer
+☐
+Non-accelerated filer
+☐
+Smaller reporting company
+☐
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).   Yes
+☐
+No
+☑
+Indicate the number of shares outstanding of each of the issuer’s classes of common stock, as of the latest practicable date.
+As of April 23, 2026, the registrant had
+239,748,701
+shares of common stock outstanding.
+1
+TABLE OF CONTENTS
+Item
+Page
+Cautionary Information about Forward-Looking Statements
+3
+Part I
+5
+Item 1.
+Financial Statements (unaudited)
+5
+Condensed Consolidated Balance Sheets
+March
+3
+1
+, 202
+6
+, and December 31, 202
+5
+5
+Condensed Consolidated Statements of Operations
+Three
+Months Ended
+March
+3
+1
+, 202
+6
+, and 202
+5
+6
+Condensed Consolidated Statements of Comprehensive Income
+Three
+Months Ended
+March
+3
+1
+, 202
+6
+, and 20
+25
+7
+Condensed Consolidated Statements of Stockholders’ Equity
+Three Months
+Ended
+March
+3
+1
+, 202
+6
+, and 202
+5
+8
+Condensed Consolidated Statements of Cash Flows
+Three
+Months Ended
+March
+3
+1
+, 202
+6
+, and 202
+5
+9
+Notes to Condensed Consolidated Financial Statements
+10
+Item 2.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+29
+Item 3.
+Quantitative and Qualitative Disclosures About Market Risk
+47
+Item 4.
+Controls and Procedures
+47
+Part II
+48
+Item 1.
+Legal Proceedings
+48
+Item 1A.
+Risk Factors
+48
+Item 2.
+Unregistered Sales of Equity Securities and Use of Proceeds
+48
+Item 4.
+Mine Safety Disclosures
+48
+Item 5.
+Other Information
+48
+Item 6.
+Exhibits
+49
+Signatures
+50
+2
+Cautionary Information about Forward-Looking Statements
+This Report on Form 10-Q (“Form 10-Q” or “this report”) contains “forward-looking statements” within the meaning of Section 27A of the Securities Act of 1933, as amended (“Securities Act”), and Section 21E of the Securities Exchange Act of 1934, as amended (“Exchange Act”).  All statements included in this report, other than statements of historical fact, that address activities, conditions, events, or developments with respect to our financial condition, results of operations, business prospects or economic performance that we expect, believe, or anticipate will or may occur in the future, or that address plans and objectives of management for future operations, are forward-looking statements.  The words “anticipate,” “assume,” “believe,” “budget,” “could,” “estimate,” “expect,” “forecast,” “goal,” “intend,” “pending,” “plan,” “potential,” “projected,” “seek,” “target,” “will,” and similar expressions are intended to identify forward-looking statements.  Forward-looking statements appear throughout this report, and include statements about such matters as:
+•
+the amount and nature of future capital expenditures, the resilience of our assets to changes in commodity prices, the ability of our assets to generate returns in the current macroeconomic environment, and the availability of liquidity and capital resources to fund capital expenditures;
+•
+our outlook on prices for future crude oil, natural gas, and natural gas liquids (also referred to throughout this report as “oil,” “gas,” and “NGLs,” respectively), well costs, service costs, production costs, and general and administrative costs, and the effects of inflation, tariffs or trade restrictions on each of these;
+•
+risks related to the Civitas Merger, including our ability to successfully integrate Civitas’ business, operations, systems and personnel; potential business disruptions resulting from the Merger and related integration activities; and our ability to realize the anticipated benefits, synergies, efficiencies or cost savings from the Merger (including within expected timeframes, or at all); see
+Note 2 - Mergers, Acquisitions, and Divestitures
+in Part I, Item 1 of this report for discussion and definitions of the Merger and Civitas;
+•
+changes in general economic and financial conditions, inflationary pressures, the potential for economic recession in the U.S., tariffs and trade restrictions, including the imposition of new and higher tariffs on imported goods, the uncertainty of evolving tariffs, and retaliatory tariffs implemented by other countries on U.S. goods, and the potential effects on our financial condition or results of operations;
+•
+business strategies and other plans and objectives for future operations, including plans for expansion and growth of operations or reallocation of capital, plans with respect to future dividend payments, debt repayments or redemptions, equity repurchases, capital markets activities, sustainability goals and initiatives, and our outlook on our future financial condition or results of operations;
+•
+armed conflict, political instability, or civil unrest in oil and gas producing regions and shipping channels, including: instability in the Middle East, including armed conflicts and wars involving the U.S., Israel, Iran, and other Middle Eastern countries and regional proxy groups; recent U.S. military actions and heightened geopolitical tensions involving Venezuela; the war between Russia and Ukraine; restrictions in and closures of the Strait of Hormuz; and related potential effects on laws and regulations, or the imposition of economic or trade sanctions (“War and Geopolitical Instability”);
+•
+any changes to the borrowing base or aggregate revolving lender commitments under, or maturity date of, our Seventh Amended and Restated Credit Agreement, as amended (“Credit Agreement”);
+•
+cash flows, liquidity, interest and related debt service expenses, changes in our effective tax rate, and our ability to repay debt in the future;
+•
+our drilling and completion activities and other exploration and development activities, each of which could be affected by supply chain disruptions, inflation, tariffs or trade restrictions, pipeline capacity, our ability to obtain permits and governmental approvals, and plans by us, our joint development partners, and/or other third-party operators;
+•
+possible or expected acquisitions and divestitures, including our plans to execute on a divestiture target within one year of the Civitas Merger, and the possible divestiture or farm-out of, or farm-in or joint development of, certain properties;
+•
+oil, gas, and NGL reserve estimates and estimates of both future net revenues and the present value of future net revenues associated with those reserve estimates, and the conversion of proved undeveloped reserves to proved developed reserves;
+•
+our expected future production volumes, identified drilling locations and prospects, inventories, projects and programs;
+•
+our expectations related to changes in proposed or final federal and state income tax laws and regulations; and
+•
+other similar matters, such as those discussed in
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+in Part I, Item 2 of this report.
+Our forward-looking statements are based on assumptions and analyses made by us in light of our experience and our perception of historical trends, current conditions, expected future developments, and other factors that we believe are appropriate under the circumstances.  We caution you that forward-looking statements are not guarantees of future performance, and these statements are subject to known and unknown risks and uncertainties, which may cause our actual results or performance to be materially different from any future results or performance expressed or implied by the forward-looking statements.  Factors that may cause our financial condition, results of operations, business prospects or economic performance to differ from expectations include among others, commodity price volatility; changes in capital markets or access to liquidity; integration risks and the anticipated benefits of acquisitions or divestitures; operational, drilling, and production risks; regulatory or environmental developments; and other risks as
+3
+discussed in the
+Risk Factors
+section in Part I, Item 1A of our
+Annual Report on Form 10-K
+for the year ended December 31, 2025 (“
+2025 Form 10-K
+”).
+The forward-looking statements in this report speak only as of the filing of this report.  Although we may from time to time voluntarily update our prior forward-looking statements, we disclaim any commitment to do so except as required by applicable securities laws.
+4
+PART I.  FINANCIAL INFORMATION
+ITEM 1.  FINANCIAL STATEMENTS
+SM ENERGY COMPANY AND SUBSIDIARIES
+CONDENSED CONSOLIDATED BALANCE SHEETS (UNAUDITED)
+(in millions, except share data)
+March 31,
+2026
+December 31,
+2025
+ASSETS
+Current assets:
+Cash and cash equivalents
+$
+449
+$
+368
+Accounts receivable
+915
+331
+Derivative assets
+201
+83
+Prepaid expenses and other
+106
+29
+Total current assets
+1,671
+811
+Property and equipment (successful efforts method):
+Proved oil and gas properties
+22,280
+16,012
+Accumulated depletion, depreciation, and amortization
+(
+7,891
+)
+(
+8,793
+)
+Unproved oil and gas properties, net of valuation allowance of $
+12
+and $
+12
+, respectively
+1,078
+460
+Wells in progress
+835
+458
+Properties held for sale, net
+666
+—
+Other property and equipment, net of accumulated depreciation of $
+65
+and $
+63
+, respectively
+133
+65
+Total property and equipment, net
+17,101
+8,202
+Noncurrent assets:
+Derivative assets
+27
+6
+Other noncurrent assets
+345
+234
+Total noncurrent assets
+372
+240
+Total assets
+$
+19,144
+$
+9,253
+LIABILITIES AND STOCKHOLDERS
+’
+EQUITY
+Current liabilities:
+Accounts payable and accrued expenses
+$
+2,221
+$
+690
+Senior Notes, net
+1,235
+419
+Derivative liabilities
+703
+2
+Other current liabilities
+121
+58
+Total current liabilities
+4,280
+1,169
+Noncurrent liabilities:
+Revolving credit facility
+—
+—
+Senior Notes, net
+6,741
+2,296
+Asset retirement obligations
+477
+150
+Deferred tax liabilities, net
+315
+724
+Derivative liabilities
+2
+2
+Other noncurrent liabilities
+461
+102
+Total noncurrent liabilities
+7,996
+3,274
+Commitments and contingencies (note 7)
+Stockholders’ equity:
+Common stock, $
+0.01
+par value - authorized:
+400,000,000
+and
+200,000,000
+shares, respectively; issued and outstanding:
+239,696,577
+and
+114,630,905
+shares, respectively
+2
+1
+Additional paid-in capital
+3,962
+1,517
+Retained earnings
+2,903
+3,291
+Accumulated other comprehensive income
+1
+1
+Total stockholders’ equity
+6,868
+4,810
+Total liabilities and stockholders’ equity
+$
+19,144
+$
+9,253
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
+5
+SM ENERGY COMPANY AND SUBSIDIARIES
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS (UNAUDITED)
+(in millions, except per share data)
+For the Three Months Ended
+March 31,
+2026
+2025
+Operating revenues and other income:
+Oil, gas, and NGL production revenue
+$
+1,477
+$
+840
+Other operating income
+2
+5
+Total operating revenues and other income
+1,479
+845
+Operating expenses:
+Oil, gas, and NGL production expense
+428
+225
+Depletion, depreciation, and amortization
+432
+270
+Exploration
+26
+12
+General and administrative
+174
+39
+Net derivative loss
+697
+17
+Other operating expense
+20
+5
+Total operating expenses
+1,777
+568
+Income (loss) from operations
+(
+298
+)
+276
+Interest expense
+(
+113
+)
+(
+44
+)
+Other non-operating income, net
+1
+—
+Income (loss) before income taxes
+(
+410
+)
+232
+Income tax (expense) benefit
+75
+(
+50
+)
+Net income (loss)
+$
+(
+335
+)
+$
+182
+Basic weighted-average common shares outstanding
+199
+115
+Diluted weighted-average common shares outstanding
+199
+115
+Basic net income (loss) per common share
+$
+(
+1.68
+)
+$
+1.59
+Diluted net income (loss) per common share
+$
+(
+1.68
+)
+$
+1.59
+____________________________________________
+Note: Prior year amounts may not calculate due to rounding.
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
+6
+SM ENERGY COMPANY AND SUBSIDIARIES
+CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME (LOSS) (UNAUDITED)
+(in millions)
+For the Three Months Ended
+March 31,
+2026
+2025
+Net income (loss)
+$
+(
+335
+)
+$
+182
+Other comprehensive income, net of tax:
+Pension liability adjustment
+—
+—
+Total other comprehensive income, net of tax
+—
+—
+Total comprehensive income (loss)
+$
+(
+335
+)
+$
+182
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
+7
+SM ENERGY COMPANY AND SUBSIDIARIES
+CONDENSED CONSOLIDATED STATEMENTS OF STOCKHOLDERS’ EQUITY (UNAUDITED)
+(in millions, except share data and dividends per share)
+Additional Paid-in Capital
+Accumulated Other Comprehensive Income
+Total Stockholders’ Equity
+Common Stock
+Retained Earnings
+Shares
+Amount
+Balances, December 31, 2025
+114,630,905
+$
+1
+$
+1,517
+$
+3,291
+$
+1
+$
+4,810
+Net loss
+—
+—
+—
+(
+335
+)
+—
+(
+335
+)
+Net cash dividends declared, $
+0.22
+per share
+—
+—
+—
+(
+53
+)
+—
+(
+53
+)
+Issuance of common stock upon vesting of RSUs, and settlement of PSUs, net of shares used for tax withholdings
+235,422
+—
+(
+17
+)
+—
+—
+(
+17
+)
+Stock-based compensation expense
+1,114,479
+—
+25
+—
+—
+25
+Replacement equity awards issued in connection with Civitas Merger
+—
+—
+29
+—
+—
+29
+Issuance of common stock in connection with Civitas Merger
+123,715,771
+1
+2,408
+—
+—
+2,409
+Balances, March 31, 2026
+239,696,577
+$
+2
+$
+3,962
+$
+2,903
+$
+1
+$
+6,868
+Additional Paid-in Capital
+Accumulated Other Comprehensive Loss
+Total Stockholders’ Equity
+Common Stock
+Retained Earnings
+Shares
+Amount
+Balances, December 31, 2024
+114,461,934
+$
+1
+$
+1,502
+$
+2,735
+$
+(
+1
+)
+$
+4,237
+Net income
+—
+—
+—
+182
+—
+182
+Net cash dividends declared, $
+0.20
+per share
+—
+—
+—
+(
+23
+)
+—
+(
+23
+)
+Issuance of common stock upon vesting of RSUs, net of shares used for tax withholdings
+284
+—
+—
+—
+—
+—
+Stock-based compensation expense
+—
+—
+7
+—
+—
+7
+Balances, March 31, 2025
+114,462,218
+$
+1
+$
+1,509
+$
+2,895
+$
+(
+1
+)
+$
+4,404
+____________________________________________
+Note: Prior year amounts may not calculate due to rounding.
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
+8
+SM ENERGY COMPANY AND SUBSIDIARIES
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS (UNAUDITED)
+(in millions)
+For the Three Months Ended March 31,
+2026
+2025
+Cash flows from operating activities:
+Net income (loss)
+$
+(
+335
+)
+$
+182
+Adjustments to reconcile net income (loss) to net cash provided by operating activities:
+Depletion, depreciation, and amortization
+432
+270
+Stock-based compensation expense
+25
+7
+Net derivative loss
+697
+17
+Net derivative settlement gain (loss)
+(
+30
+)
+8
+Amortization of deferred financing costs and debt premiums
+(
+5
+)
+3
+Deferred income tax expense (benefit)
+(
+85
+)
+26
+Other, net
+(
+28
+)
+2
+Net change in working capital
+(
+31
+)
+(
+32
+)
+Net cash provided by operating activities
+640
+483
+Cash flows from investing activities:
+Capital expenditures
+(
+555
+)
+(
+414
+)
+Acquisition of business, net of cash acquired
+(
+49
+)
+—
+Other
+(
+24
+)
+(
+15
+)
+Net cash used in investing activities
+(
+628
+)
+(
+429
+)
+Cash flows from financing activities:
+Proceeds from revolving credit facility
+15
+857
+Repayment of revolving credit facility
+(
+15
+)
+(
+888
+)
+Net proceeds from Senior Notes
+985
+—
+Cash paid to repurchase Senior Notes
+(
+808
+)
+—
+Dividends paid
+(
+82
+)
+(
+23
+)
+Other, net
+(
+26
+)
+—
+Net cash provided by (used in) financing activities
+69
+(
+54
+)
+Net change in cash, cash equivalents, and restricted cash
+81
+—
+Cash, cash equivalents, and restricted cash at beginning of period
+368
+—
+Cash, cash equivalents, and restricted cash at end of period
+$
+449
+$
+—
+Supplemental schedule of additional cash flow information:
+Operating activities: Cash paid for interest, net of capitalized interest
+$
+(
+95
+)
+$
+(
+82
+)
+Investing activities: Changes in capital expenditure accruals
+$
+117
+$
+27
+Non-cash investing and financing activities
+(1)
+____________________________________________
+(1)
+Refer to
+Note 2 - Mergers, Acquisitions, and Divestitures
+for discussion and definition of the Civitas Merger completed during the three months ended March 31, 2026, and refer to
+Note 6 - Long-Term Debt
+for discussion of the debt transactions completed during the three months ended March 31, 2026.
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
+9
+SM ENERGY COMPANY AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED)
+Note 1 - Summary of Significant Accounting Policies
+Description of Operations
+SM Energy Company, together with its consolidated subsidiaries (“SM Energy” or the “Company”), is an independent energy company engaged in the acquisition, exploration, development, and production of oil, gas, and NGLs in Texas, Colorado, New Mexico, and Utah.
+Basis of Presentation
+The accompanying unaudited condensed consolidated financial statements include the accounts of the Company and have been prepared in accordance with accounting principles generally accepted in the United States (“GAAP”) for interim financial information, the instructions to Quarterly Report on Form 10-Q, and Regulation S-X.  These financial statements do not include all information and notes required by GAAP for annual financial statements.  However, except as disclosed herein, there has been no material change in the information disclosed in the notes to the consolidated financial statements included in the
+202
+5
+Form 10-K
+.  In the opinion of management, all adjustments, consisting of normal recurring adjustments considered necessary for a fair presentation of interim financial information, have been included.  Operating results for the periods presented are not necessarily indicative of expected results for the full year.  As a result of the Civitas Merger, the Company expanded its Permian Basin position by increasing its Midland Basin footprint and establishing a new presence in the Delaware Basin in West Texas and New Mexico.  Accordingly, positions and activity previously presented as “Midland Basin” are now included within “Permian Basin”.
+Significant Accounting Policies
+The significant accounting policies followed by the Company are set forth in
+Note 1 - Summary of Significant Accounting Policies
+in the
+2025 Form 10-K
+and are supplemented by the notes to the unaudited condensed consolidated financial statements included in this report, and in the policy description below.  These unaudited condensed consolidated financial statements should be read in conjunction with the
+2025 Form 10-K
+.
+Assets Held for Sale.
+Any properties held for sale as of the balance sheet date have been classified as assets held for sale and are separately presented in the accompanying unaudited condensed consolidated balance sheets (“accompanying balance sheets”) at the lower of carrying amount or fair value less the cost to sell.  Refer to
+Note 2 - Mergers, Acquisitions, and Divestitures
+for additional discussion.
+Assets are classified as held for sale when the Company commits to a plan to sell the assets, the assets are available for immediate sale in their present condition, and the sale is probable within one year.  Upon classification as held for sale, long-lived assets are no longer depreciated or depleted, and a measurement for impairment is performed to identify and expense any excess of carrying value over fair value less estimated costs to sell, in each reporting period until sold.  If assets no longer meet the criteria to be classified as held for sale, they are reclassified to held for use and measured at the lower of (i) the carrying amount before classification as held for sale, adjusted for depreciation, depletion and amortization that would have been recognized, or (ii) the fair value at the date of reclassification.  Gains or losses related to assets held for sale are recognized in the unaudited condensed consolidated statements of operations in the period incurred.
+Recently Issued Accounting Guidance
+As of March 31, 2026, and through the filing of this report, no accounting guidance applicable to the Company has been issued and not yet adopted in 2026 that would have a material effect on the Company’s unaudited condensed consolidated financial statements and related disclosures.  For information about accounting guidance issued in previous years but not yet adopted by the Company, refer to
+Note 1 - Summary of Significant Accounting Policies
+in the
+2025 Form 10-K
+.
+Note 2 - Mergers, Acquisitions, and Divestitures
+Civitas Merger
+On
+January 30, 2026
+, (the “Closing Date”) SM Energy completed its previously announced merger with Civitas Resources, Inc. (“Civitas”), through which SM Energy acquired
+100
+percent of the outstanding voting equity interests of Civitas (referred to throughout as “Merger” or “Civitas Merger”).  Civitas was an independent exploration and prod
+uction company focused on the acquisition, development, and production of crude oil and associated liquids-rich natural gas primarily in the DJ Basin in Colorado and the Permian Basin in Texas and New Mexico.  The Company believes the Merger enhances its pr
+emier portfolio across high-return U.S. shale basins, enables the realization of operational and cost synergies, and provides opportunities for increased free cash flow to drive long-term differentiated stockholder value.
+10
+Under the terms of the
+Agreement and Plan of Merger (the “Merger Agreement”), subject to certain exceptions, each share of Civitas common stock was converted into the right to receive
+1.45
+shares (“Exchange Ratio”) of SM Energy common stock with cash paid in lieu of fractional shares.  Upon completion of the Merger, the Company issued
+124
+million shares to holders of Civitas common stock.
+The Merger was structured as a tax-free reorganization for United States federal income tax purposes.
+During the three months ended March 31, 2026, the Company incurred $
+17
+million of transaction related costs in connection with the Merger.  These costs primarily consist of success fees paid to financial advisors and legal fees that have been expensed as incurred and are included in other operating expense in the accompanying unaudited condensed consolidated statements of operations (“accompanying statements of operations”).
+Consideration Transferred and Purchase Price Allocation
+The Civitas Merger was accounted for as a business combination using the acquisition method of accounting under Accounting Standard Codification (“ASC”) Topic 805,
+Business Combinations
+(“ASC 805”)
+,
+with SM Energy treated as the accounting acquirer.  Under the acquisition method of accounting, SM Energy recorded all assets acquired and liabilities assumed from Civitas at their fair values as of the acquisition date, which was determined to be the Closing Date of the Merger.  The purchase price allocation for the Civitas Merger is preliminary, and the Company will continue to assess the fair values of the Civitas assets acquired and liabilities assumed.
+Determining the fair value of the assets and liabilities of Civitas requires judgment and the use of significant assumptions by the Company’s management at the time of acquisition.  The most significant fair value estimates relate to the valuation of oil and gas properties, derivative assets and liabilities, and current and long-term debt.  Oil and gas properties were valued using an income valuation technique based on Level 3 inputs including estimates of: (i) reserves; (ii) production rates; (iii) future operating and development costs; (iv) future commodity prices, including price differentials; (v) risk adjustment factors; and (vi) a market participant-based weighted-average cost of capital.  Derivative assets and liabilities were valued using Level 2 inputs, consistent with the Company’s existing commodity derivative instruments, and current and long-term debt were valued using a market approach with observable Level 1 inputs.  Refer to
+Note 9 - Fair Value Measurements
+for additional discussion of valuation techniques.
+11
+The following table presents consideration transferred and the preliminary purchase price allocation to the identifiable assets acquired and liabilities assumed based on respective estimated fair values as of the Closing Date of the Merger:
+Preliminary Purchase Price Allocation
+(in millions, except shares and per share amount)
+Consideration transferred
+Cash consideration transferred
+(1)
+$
+226
+Shares of common stock issued
+123,715,771
+Closing price per share
+(2)
+$
+19.47
+Equity consideration transferred
+(3)
+$
+2,409
+Replacement equity award consideration transferred (attributable to pre-combination service)
+$
+29
+Total consideration transferred
+$
+2,664
+Assets acquired
+Proved oil and gas properties
+$
+7,537
+Unproved oil and gas properties
+622
+Accounts receivable
+433
+Wells in progress
+386
+Other assets
+251
+Cash and cash equivalents
+177
+Derivative assets
+167
+Total identifiable assets acquired
+9,573
+Liabilities assumed
+Senior Notes
+5,090
+Accounts payable and accrued expenses
+1,314
+Other noncurrent liabilities
+351
+Asset retirement obligations
+326
+Other current liabilities
+90
+Derivative liabilities
+62
+Deferred tax liabilities (assets), net
+(4)
+(
+324
+)
+Total liabilities assumed
+6,909
+Net identifiable assets acquired
+$
+2,664
+____________________________________________
+(1)
+Cash consideration transferred consists of $
+201
+million of cash paid to extinguish Civitas’ revolving credit facility balance on the Closing Date, and $
+25
+million of cash paid related to an employee retention program contemplated by the Merger Agreement which required no post-closing service condition and was fully earned prior to the Closing Date.
+(2)
+Based on the closing stock price of SM Energy common stock on
+January 30, 2026
+.
+(3)
+Amount represents non-cash investing activity.
+(4)
+Deferred tax amounts are recorded on a net basis by jurisdiction.  Civitas’ deferred tax assets have been offset against the Company’s deferred tax liabilities, resulting in a net deferred tax liability balance.
+Revenue and Earnings of the Acquiree
+The results of operations of Civitas subsequent to the Closing Date have been included in SM Energy’s unaudited consolidated financial statements during the three months ended March 31, 2026.  Revenue attributable to Civitas included in the Company’s accompanying statements of operations was $
+736
+million for the three months ended March 31, 2026.  The Company has
+12
+determined that it is impracticable to disclose the amount of net income included in the accompanying statements of operations that is attributable to the Civitas assets, as the acquired operations were immediately integrated into the Company’s operations to leverage synergies.  As a result, a significant portion of post-merger expenses relate to the combined Company, and allocating these expenses would require significant assumptions by management.
+Pro Forma Financial Information
+The results of Civitas’ operations have been included in the Company's consolidated financial statements since January 30, 2026, the Closing Date of the Merger.  The following unaudited pro forma financial information for the three months ended March 31, 2026, is based on historical consolidated financial statements adjusted to reflect the Merger as if it had occurred on January 1, 2025.  The pro forma information is based on historical data and certain management assumptions and reflects accounting adjustments for transaction costs, certain integration costs, depletion, depreciation, and amortization (“DD&A”) expense, interest expense, and estimated tax effects related to the Merger.
+The pro forma information is not necessarily indicative of the results that might have occurred had the transaction actually taken place on January 1, 2025, and is not intended to be a projection of future results.
+Future results may vary significantly from the results reflected in the following pro forma information because of normal production declines, changes in commodity prices, future acquisitions and divestitures, future development and exploration activities and other factors.
+For the Three Months Ended March 31,
+2026
+2025
+(in millions, except per share data)
+Pro forma revenue
+$
+1,784
+$
+2,032
+Pro forma net income (loss)
+$
+(
+285
+)
+$
+373
+Pro forma basic net income (loss) per common share
+$
+(
+1.19
+)
+$
+1.56
+Pro forma diluted net income (loss) per common share
+$
+(
+1.19
+)
+$
+1.55
+South Texas Divestiture
+On April 30, 2026, the Company completed the previously announced sale of all of its rights, titles and interests in certain producing and non-producing assets encompassing approximately
+61,000
+net acres located in the Company’s southern Maverick Basin position in Webb County, Texas to Caturus Energy, LLC, a Delaware limited liability company (“Caturus”) (the “South Texas Divestiture”).  The Company received net cash proceeds of approximately $
+900
+million, after preliminary purchase price adjustments and estimated selling costs, and the final purchase price remains subject to customary post-closing adjustments.  The Company expects to recognize a gain on the South Texas Divestiture in the second quarter of 2026, and the amount of such gain will be finalized upon the completion of post-closing adjustments.  In connection with the South Texas Divestiture, properties with a carrying value of $
+666
+million were classified as held for sale as of March 31, 2026, and are presented separately in the accompanying balance sheets.  The asset retirement obligation line item in the accompanying balance sheets includes $
+45
+million related to the properties classified as held for sale.
+The South Texas Divestiture is considered to be a significant disposal group.  The asset sale does not qualify for discontinued operations under GAAP because it does not represent a strategic shift in the Company’s operations that has or will have a significant effect on the Company’s operations and financial results.  Under ASC Topic 360,
+Property, Plant and Equipment
+, assets may be classified as held for sale even though discontinued operations classification is not met.
+Earnings before income taxes attributable to the assets included in the South Texas Divestiture was $
+46
+million and $
+44
+million for the three months ended March 31, 2026, and 2025, respectively.  Earnings before income taxes reflects oil, gas, and NGL production revenue, less oil, gas, and NGL production expense; DD&A expense;
+and exploration expense.
+Note 3 - Revenue from Contracts with Customers
+The Company recognizes its share of revenue from the sale of produced oil, gas, and NGLs from its Permian Basin,
+DJ Basin,
+South Texas, and Uinta Basin assets.  Oil, gas, and NGL production revenue presented within the accompanying statements of operations reflects revenue generated from contracts with customers.
+13
+The table below presents oil, gas, and NGL production revenue by product type for each of the Company’s operating areas.  The Permian Basin and DJ Basin amounts include activity related to the assets acquired in the Civitas Merger, which is reflected only for the portion of the quarter occurring after
+January 30, 2026
+.
+Three Months Ended
+March 31,
+2026
+2025
+(in millions)
+Oil production revenue
+Permian Basin
+$
+700
+$
+336
+DJ Basin
+267
+—
+South Texas
+96
+117
+Uinta Basin
+199
+205
+Total
+1,262
+658
+Gas production revenue
+Permian Basin
+13
+56
+DJ Basin
+44
+—
+South Texas
+60
+54
+Uinta Basin
+7
+9
+Total
+124
+120
+NGL production revenue
+Permian Basin
+16
+—
+DJ Basin
+31
+—
+South Texas
+44
+61
+Uinta Basin
+—
+—
+Total
+91
+61
+Oil, Gas, and NGL production revenue
+Permian Basin
+729
+393
+DJ Basin
+342
+—
+South Texas
+200
+233
+Uinta Basin
+206
+214
+Total
+$
+1,477
+$
+840
+Relative percentage of total Oil, Gas, and NGL production revenue
+Permian Basin
+49
+%
+47
+%
+DJ Basin
+23
+%
+—
+%
+South Texas
+14
+%
+28
+%
+Uinta Basin
+14
+%
+25
+%
+As of March 31, 2026, there were
+no
+material unsatisfied or partially unsatisfied performance obligations.
+Accrued oil, gas, and NGL production revenue included within the accompanying balance sheets as of March 31, 2026, and December 31, 2025, was $
+699
+million and $
+193
+million, respectively.
+14
+Note 4 - Income Taxes
+The provision for income taxes consisted of the following:
+For the Three Months Ended
+March 31,
+2026
+2025
+(in millions)
+Current portion of income tax expense:
+Federal
+$
+(
+5
+)
+$
+(
+21
+)
+State
+(
+5
+)
+(
+2
+)
+Deferred portion of income tax (expense) benefit
+85
+(
+26
+)
+Income tax (expense) benefit
+$
+75
+$
+(
+50
+)
+Effective tax rate
+18.3
+%
+21.4
+%
+Income tax expense or benefit differs from the amount that would be calculated by applying the statutory United States federal income tax rate to income or loss before income taxes.  These differences can relate to the effect of federal and state tax credits, state income taxes, excess tax benefits and deficiencies from stock-based compensation awards, tax deduction limitations on compensation of covered individuals, and the cumulative effect of other smaller permanent differences.  The quarterly effective tax rate and the resulting income tax expense or benefit can also be affected by the proportional effects of forecast net income or loss and the correlative effect on the valuation allowance for each of the periods presented in the table above.  Income tax expense or benefit can also reflect a period change from the remeasurement of deferred tax assets and liabilities resulting from a statutorily enacted tax rate change or a change in the composition of income and activities among multiple state tax jurisdictions due to a corporate reorganization.  Due to the Civitas Merger and expected increase in activity in the state of Colorado, the Company recorded a remeasurement tax expense during the three months ended March 31, 2026, related to SM Energy’s historical net deferred tax balances.
+During the quarter, as a result of the Civitas Merger, it was determined that an ownership change occurred under Sections 382 and 383 of the Internal Revenue Code (“IRC”), changing the timing of when the Company can utilize certain tax attributes.  The Company has assessed the recoverability of its deferred tax assets by considering whether it is more likely than not that all or a portion of the combined Company’s deferred tax assets will be realized.  In making such a determination, the Company considered both the positive and negative evidence, including its recent history of profitability, and concluded that no additional valuation allowance is currently required.  The Company will continue to assess the realizability of its acquired tax attributes considering any potential impacts under IRC 382, as permitted under ASC 805.
+The Company complies with authoritative accounting guidance regarding uncertain tax positions.  The entire amount of unrecognized tax benefit reported by the Company would affect its effective tax rate if recognized.  The Company does not expect a significant change to the recorded unrecognized tax benefits in 2026.
+The Company is no longer subject to United States federal or state income tax examinations by tax authorities for tax years prior to 2022.  However, tax years in which net operating losses or tax credit carryforwards were generated remain subject to examination until such losses or credits are fully utilized or expire.
+Note 5 - Equity
+Stock Repurchase Program
+The Company’s stock repurchase program permits the Company to repurchase shares of its common stock from time to time in open market transactions, through privately negotiated transactions or by other means in accordance with federal securities laws and subject to certain provisions of the Credit Agreement and the indentures governing the Senior Notes, as defined in
+Note 6 - Long-Term Debt
+(“Stock Repurchase Program”).
+The Company did
+not
+repurchase any shares of its common stock under the Stock Repurchase Program during the three months ended March 31, 2026, or 2025.
+As of March 31, 2026, $
+488
+million remained available for repurchases of the Company’s outstanding common stock through
+December 31, 2027
+, under the Stock Repurchase Program.
+15
+Dividends
+During the first quarter of 2026, the Company’s Board of Directors approved a
+10
+percent increase to the Company’s fixed dividend policy to $
+0.88
+per share annually, to be paid in quarterly increments of $
+0.22
+per share.  Beginning in the first quarter of 2026, dividends are expected to be declared and paid within the same quarter, rather than being paid in the quarter subsequent to declaration.  As a result of this change in timing, during the three months ended March 31, 2026, the Company paid dividends that were declared in the fourth quarter of 2025 and the first quarter of 2026, totaling $
+0.42
+per share, or $
+82
+million.
+Common Stock
+On January 27, 2026, the Company’s stockholders voted in favor of both proposals necessary to complete the Civitas Merger, which included approval of (i) the issuance of shares of SM Energy common stock to Civitas stockholders as contemplated by the Merger Agreement, and (ii) an amendment of the Company’s Restated Certificate of Incorporation to increase the number of authorized shares of the Company’s common stock from
+200
+million shares to
+400
+million shares.  Upon completion of the Civitas Merger, the Company issued
+124
+million shares of its common stock to holders of Civitas common stock.  Refer to
+Note 2 - Mergers, Acquisitions, and Divestitures
+for additional discussion.
+Note 6 - Long-Term Debt
+Credit Agreement
+The Company’s Credit Agreement provides for a senior secured revolving credit facility with a maximum loan amount of $
+5.0
+billion.  As of March 31, 2026, the borrowing base and aggregate revolving lender commitments under the Credit Agreement were $
+5.0
+billion and $
+2.5
+billion, respectively.  In connection with the closing of the Civitas Merger on
+January 30, 2026
+, the Company and its lenders entered into the Fourth Amendment to the Credit Agreement (“Fourth Amendment”) to, among other things: (i) permit the assumption of outstanding Civitas senior unsecured notes and add the subsidiaries of Civitas as guarantors under the Credit Agreement, (ii) extend the scheduled maturity date for elected revolving commitments to
+January 30, 2031
+, (iii) increase the aggregate revolving lender commitments available under the Credit Agreement from $
+2.0
+billion to $
+2.5
+billion and add three new lender counterparties, (iv) increase the borrowing base from $
+3.0
+billion to $
+5.0
+billion, (v) eliminate the credit spread adjustment applicable to term SOFR loans (as defined in the Credit Agreement), and (vi) make certain other amendments to the financial covenant definitions and provide additional flexibility under certain affirmative covenants, negative covenants and events of default.  Subsequent to March 31, 2026, the semi-annual borrowing base redetermination was completed, which reaffirmed both the Company’s borrowing base and aggregate lender commitments at existing amounts, after giving effect to the South Texas Divestiture.  The next borrowing base redetermination is scheduled to occur on October 1, 2026.
+Interest and commitment fees associated with the revolving credit facility are accrued based on a borrowing base utilization grid set forth in the Credit Agreement, as presented in
+Note 5 - Long-Term Debt
+in the
+2025 Form 10-K
+.  At the Company’s election, borrowings under the Credit Agreement may be in the form of Secured Overnight Financing Rate (“SOFR”) revolving loans, Alternate Base Rate (“ABR”) revolving loans, or Swingline loans.  SOFR revolving loans accrue interest at SOFR plus the applicable margin from the utilization grid, and ABR revolving loans and Swingline loans accrue interest at a market-based floating rate, plus the applicable margin from the utilization grid.  Commitment fees are accrued on the unused portion of the aggregate revolving lender commitment amount at rates from the utilization grid.
+The following table presents the outstanding balance, total amount of letters of credit outstanding, and available borrowing capacity under the Credit Agreement:
+As of April 23, 2026
+As of March 31, 2026
+As of December 31, 2025
+(in millions)
+Revolving credit facility
+(1)
+$
+—
+$
+—
+$
+—
+Letters of credit
+(2)
+4
+4
+2
+Available borrowing capacity
+2,496
+2,496
+1,999
+Total aggregate revolving lender commitment amount
+$
+2,500
+$
+2,500
+$
+2,000
+____________________________________________
+Note: Amounts may not calculate due to rounding.
+(1)
+Unamortized deferred financing costs attributable to the revolving credit facility are presented as a component of the other noncurrent assets line item in the accompanying balance sheets and totaled $
+22
+million and $
+15
+million as of March 31, 2026, and December 31, 2025, respectively.  These costs are being amortized over the term of the Credit Agreement on a straight-line basis.
+(2)
+Letters of credit outstanding reduce the amount available under the revolving credit facility on a dollar-for-dollar basis.
+16
+Assumption of Civitas Senior Notes and Payoff of Civitas Revolving Credit Facility
+In connection with the completion of the Civitas Merger, as contemplated by the Merger Agreement, the Company assumed $
+4.9
+billion in aggregate principal amount of outstanding unsecured senior notes previously issued by Civitas (“Civitas Senior Notes”).  The Civitas Senior Notes were recorded at their respective fair values as of the Closing Date.  Because the fair values exceeded the aggregate principal amounts outstanding, the Company recorded a premium, which will be amortized over the remaining terms of the notes.
+On the Closing Date of the Civitas Merger, as contemplated by the Merger Agreement, the Company used cash on hand to repay in full the outstanding borrowings under the Civitas revolving credit facility, including accrued and unpaid interest and applicable fees, resulting in a total payment of $
+201
+million.  This repayment extinguished the related obligations and resulted in the release of all associated liens.  This payment was made by the Company on behalf of Civitas and has been reflected as consideration transferred in the preliminary purchase price allocation in accordance with ASC 805, as presented in
+Note 2 - Mergers, Acquisitions, and Divestitures
+.
+Senior Notes
+The table below summarizes the interest rates, maturity dates, and semi-annual interest payment dates related to the Company’s Senior Notes (collectively referred to as “Senior Notes”) as of March 31, 2026:
+Interest Rate
+Interest Payment Dates
+Maturity Date
+Senior Notes due 2026
+6.75
+%
+March 15, September 15
+September 15, 2026
+Senior Notes due 2026
+(1)
+5.0
+%
+April 15, October 15
+October 15, 2026
+Senior Notes due 2027
+6.625
+%
+January 15, July 15
+January 15, 2027
+Senior Notes due 2028
+(1)
+8.375
+%
+January 1, July 1
+July 1, 2028
+Senior Notes due 2028
+6.5
+%
+January 15, July 15
+July 15, 2028
+Senior Notes due 2029
+6.75
+%
+February 1, August 1
+August 1, 2029
+Senior Notes due 2030
+(1)
+8.625
+%
+May 1, November 1
+November 1, 2030
+Senior Notes due 2031
+(1)
+8.75
+%
+January 1, July 1
+July 1, 2031
+Senior Notes due 2032
+7.0
+%
+February 1, August 1
+August 1, 2032
+Senior Notes due 2033
+(1)
+9.625
+%
+June 15, December 15
+June 15, 2033
+Senior Notes due 2034
+6.625
+%
+April 15, October 15
+April 15, 2034
+____________________________________________
+(1)
+Civitas Senior Notes assumed as part of the Civitas Merger.
+17
+The Senior Notes, net line items in the accompanying balance sheets as of March 31, 2026, and December 31, 2025, consisted of the following:
+As of March 31, 2026
+Principal Amount
+Unamortized Premium
+Unamortized Deferred Financing Costs
+Principal Amount, Net
+(in millions)
+6.75
+% Senior Notes due 2026
+(1)
+$
+419
+$
+—
+$
+—
+$
+419
+5.0
+% Senior Notes due 2026
+(1)(2)
+400
+—
+—
+400
+6.625
+% Senior Notes due 2027
+417
+—
+(
+1
+)
+416
+8.375
+% Senior Notes due 2028
+(2)
+566
+18
+—
+584
+6.5
+% Senior Notes due 2028
+400
+—
+(
+2
+)
+398
+6.75
+% Senior Notes due 2029
+750
+—
+(
+8
+)
+742
+8.625
+% Senior Notes due 2030
+(2)
+1,000
+56
+—
+1,056
+8.75
+% Senior Notes due 2031
+(2)
+1,350
+66
+—
+1,416
+7.0
+% Senior Notes due 2032
+750
+—
+(
+9
+)
+741
+9.625
+% Senior Notes due 2033
+(2)
+750
+69
+—
+819
+6.625
+% Senior Notes due 2034
+1,000
+—
+(
+15
+)
+985
+Total
+$
+7,802
+$
+209
+$
+(
+35
+)
+$
+7,976
+____________________________________________
+(1)
+As of March 31, 2026, the
+6.75
+% Senior Notes due 2026 (“2026 Senior Notes”), the
+5.0
+% Senior Notes due 2026 (“Civitas 2026 Senior Notes”) originally issued by Civitas, and the
+6.625
+% Senior Notes due 2027 (“2027 Senior Notes”) are presented in the current liabilities section of the accompanying balance sheets.
+(2)
+Civitas Senior Notes assumed as part of the Civitas Merger.
+As of December 31, 2025
+Principal Amount
+Unamortized Deferred Financing Costs
+Principal Amount, Net
+(in millions)
+6.75
+% Senior Notes due 2026
+(1)
+$
+419
+$
+—
+$
+419
+6.625
+% Senior Notes due 2027
+417
+(
+1
+)
+416
+6.5
+% Senior Notes due 2028
+400
+(
+3
+)
+397
+6.75
+% Senior Notes due 2029
+750
+(
+8
+)
+742
+7.0
+% Senior Notes due 2032
+750
+(
+10
+)
+740
+Total
+$
+2,736
+$
+(
+22
+)
+$
+2,714
+____________________________________________
+(1)
+As of December 31, 2025, the 2026 Senior Notes are presented in the current liabilities section of the accompanying balance sheets.
+On
+March 9, 2026
+, the Company issued $
+1.0
+billion in aggregate principal amount of its
+6.625
+% Senior Notes at par with a maturity date of
+April 15, 2034
+(“2034 Senior Notes”).  The Company received net proceeds of $
+985
+million after deducting fees of $
+15
+million, which are being amortized as deferred financing costs over the life of the 2034 Senior Notes.  A majority of the net proceeds from the issuance of the 2034 Senior Notes were used to repurchase a portion of the Company’s
+8.375
+% Senior Notes due 2028 (“Civitas 2028 Senior Notes”), originally issued by Civitas, pursuant to the Tender Offer, as described below.
+On March 4, 2026, the Company announced the commencement of a cash tender offer (“Tender Offer”) to purchase up to $
+750
+million aggregate principal amount of the outstanding $
+1.35
+billion aggregate principal amount of the Civitas 2028 Senior Notes at a price equal to
+103.175
+percent of the principal amount outstanding on the date of repurchase, plus accrued and unpaid interest on all notes validly tendered by March 17, 2026.  On March 18, 2026, the Company announced it had increased the maximum aggregate principal amount to be accepted in the Tender Offer up to $
+1.0
+billion and amended the terms of the Tender Offer to provide that all notes validly tendered at or prior to April 1, 2026, would be eligible to receive the early tender premium.
+During the three months ended March 31, 2026, the Company repurchased $
+784
+million in aggregate principal amount of the Civitas 2028 Senior Notes (“Early Tendered Notes”) pursuant to the Tender Offer, which settled on March 19, 2026.  In connection with
+18
+the Early Tendered Notes, the Company paid total consideration, including early tender premiums but excluding accrued interest, of $
+808
+million.  The Company recorded a loss on extinguishment of debt of $
+3
+million, which included the early tender premium offset by the accelerated recognition of the related portion of unamortized fair value premium recorded on the Closing Date of the Merger.  As of March 31, 2026, $
+566
+million in aggregate principal amount of the Civitas 2028 Senior Notes remained outstanding.
+The Tender Offer expired on April 1, 2026, and on April 3, 2026, the Company settled an additional $
+110
+million of aggregate principal amount of Civitas 2028 Senior Notes that were validly tendered prior to the expiration of the Tender Offer.  The Company paid total consideration, excluding accrued interest, of $
+114
+million.
+On April 30, 2026, the Company instructed the trustees under the 2026 Senior Notes and Civitas 2026 Senior Notes to issue notices of full redemption of the $
+819
+million aggregate principal amount outstanding, plus accrued and unpaid interest, to the holders of such Senior Notes.  The Company intends to redeem the Civitas 2026 Senior Notes on May 11, 2026, and the 2026 Senior Notes on June 1, 2026.  Following these redemptions, the Company will have no remaining Senior Notes maturities in 2026.
+The Senior Notes are unsecured senior obligations and rank equal in right of payment with all of the Company’s existing and any future unsecured senior debt and are senior in right of payment to any future subordinated debt.  The Company may redeem some or all of its Senior Notes prior to their maturity at redemption prices that may include a premium, plus accrued and unpaid interest as described in the indentures governing the Senior Notes.  The Senior Notes are fully and unconditionally guaranteed on a senior unsecured basis by each of the Company’s existing subsidiaries that guarantee the Credit Agreement.
+Covenants
+The Company is subject to certain financial and non-financial covenants under the Credit Agreement and the indentures governing the Senior Notes that, among other terms, limit the Company’s ability to incur additional indebtedness, make restricted payments including dividends, sell assets, create liens that secure debt, enter into transactions with affiliates, make certain investments, or merge or consolidate with other entities.
+The Company was in compliance with all financial and non-financial covenants as of March 31, 2026, and through the filing of this report.
+Capitalized Interest
+Capitalized interest costs for the three months ended March 31, 2026, and 2025, totaled $
+15
+million and $
+9
+million, respectively.  The amount of interest the Company capitalizes generally fluctuates based on the amount borrowed, the Company’s capital program, and the timing and amount of costs associated with capital projects that are considered in progress.  Capitalized interest costs are included in total costs incurred.
+Note 7 - Commitments and Contingencies
+The Company assumed various commitments through the Civitas Merger which the Company has included in its commitments and contingencies calculations and disclosures as of March 31, 2026.  Other than those items discussed below, there have been no changes in commitments and contingencies through the filing of this report that differ materially from those disclosed in the
+2025 Form 10-K
+.
+Commitments
+Drilling and Completion Commitments.
+During the three months ended March 31, 2026, the Company entered into an agreement that includes minimum drilling and completion footage requirements on certain existing leases.  If these minimum requirements are not satisfied by March 31, 2028, the Company will be required to pay liquidated damages based on the difference between the actual footage drilled and completed and the minimum requirements.  As of March 31, 2026, the liquidated damages could range from
+zero
+to a maximum of $
+96
+million, with the maximum exposure assuming no additional development activity occurs prior to March 31, 2028.  As of the filing of this report, the Company expects to meet its obligations under this agreement.
+In connection with the Civitas Merger, the Company assumed certain oil, gas, and produced water gathering agreements that collectively contain a drilling commitment.  The commitment requires the Company to drill and complete a total of
+106
+qualifying wells by December 31, 2026, unless the Company’s obligation is excused under the terms of the agreements.  As of March 31, 2026, the Company does not expect to incur material damages associated with this commitment, and cannot reasonably estimate the amount of damages, if any, that might be incurred in connection therewith.
+Delivery Commitments
+.  As of March 31, 2026, the Company has material, long-term transportation and delivery commitments with various third-parties.  Under these agreements, including those acquired through the Civitas Merger, the Company would be required to make periodic deficiency payments for any shortfalls in delivering specified minimum volume commitments.  In connection with the Civitas Merger, the Company assumed delivery commitments under which, as of March 31, 2026, it is required to deliver a minimum of
+66
+MMBbl of oil through 2030 and
+53
+Bcf of gas through 2029.  As of March 31, 2026, if the Company failed to deliver any product under all of its agreements, the aggregate undiscounted deficiency payments would total approximately $
+245
+million, of which
+19
+$
+144
+million relates to agreements assumed in the Civitas Merger.  The Company does not expect to incur material penalties or shortfalls with regard to these commitments.
+Contingencies
+The Company is subject to litigation and claims arising in the ordinary course of business.  The Company accrues for such items when a liability is both probable and the amount can be reasonably estimated.  As of the filing of this report, in the opinion of management, the anticipated results of any pending litigation and claims are not expected to have a material effect on the results of operations, the financial position, or the cash flows of the Company.
+Note 8 - Derivative Financial Instruments
+Summary of Oil, Gas, and NGL Derivative Contracts in Place
+The Company regularly enters into commodity derivative contracts to mitigate a portion of its exposure to oil, gas, and NGL price volatility and location differentials, and the associated effect on cash flows.  All commodity derivative contracts that the Company enters into are for other-than-trading purposes.  The Company’s commodity derivative contracts consist of price swap and collar arrangements for oil and gas production, and price swap arrangements for NGL production.
+In a typical commodity swap agreement, if the agreed upon published third-party index price (“index price”) is lower than the swap price, the Company receives the difference between the index price and the agreed upon swap price.  If the index price is higher than the swap price, the Company pays the difference.  For collar arrangements, the Company receives the difference between an agreed upon index price and the floor price if the index price is below the floor price.  The Company pays the difference between the agreed upon ceiling price and the index price if the index price is above the ceiling price.  No amounts are paid or received if the index price is between the floor and ceiling prices.
+The Company has entered into fixed price oil and gas basis swaps in order to mitigate exposure to adverse pricing differentials between certain industry benchmark prices and the actual physical pricing points where the Company’s production is sold.  As of March 31, 2026, the Company had basis swap contracts with fixed price differentials between:
+•
+NYMEX WTI and Argus WTI Midland (“WTI Midland”) for a portion of its Permian Basin oil production with sales contracts that settle at WTI Midland prices;
+•
+NYMEX WTI and Argus WTI Houston Magellan East Houston Terminal (“WTI Houston MEH”) for a portion of its South Texas oil production with sales contracts that settle at WTI Houston MEH prices;
+•
+NYMEX Henry Hub (“HH”) and Inside FERC (“IF”) Waha hub in West Texas (“Waha”) for a portion of its Permian Basin gas production with sales contracts that settle at IF Waha prices; and
+•
+NYMEX Henry Hub and Colorado Interstate Gas (“CIG Rockies”) for a portion of its DJ Basin natural gas production with sales contracts that settle at CIG Rockies prices.
+The Company has also entered into oil swap contracts to fix the differential in pricing between the NYMEX calendar month average and the physical crude oil delivery month (“Roll Differential”) in which the Company pays the periodic variable Roll Differential and receives a weighted-average fixed price differential.  The weighted-average fixed price differential represents the amount of net addition (reduction) to delivery month prices for the notional volumes covered by the swap contracts.
+20
+As of March 31, 2026, the Company had commodity derivative contracts with terms through the fourth quarter of 2027 as summarized in the table below:
+Contract Period
+Second Quarter 2026
+Third Quarter 2026
+Fourth Quarter 2026
+2027
+Oil Derivatives (volumes in MBbl and prices in $ per Bbl):
+Swaps
+NYMEX WTI Volumes
+6,242
+6,398
+7,673
+4,386
+Weighted-Average Contract Price
+$
+63.04
+$
+63.30
+$
+61.22
+$
+60.63
+Collars
+NYMEX WTI Volumes
+5,689
+5,662
+3,289
+7,046
+Weighted-Average Floor Price
+$
+59.69
+$
+59.51
+$
+58.66
+$
+60.83
+Weighted-Average Ceiling Price
+$
+70.59
+$
+69.09
+$
+66.07
+$
+69.51
+Basis Swaps
+WTI Midland-NYMEX WTI Volumes
+1,086
+975
+1,140
+2,194
+Weighted-Average Contract Price
+$
+0.99
+$
+0.99
+$
+0.99
+$
+1.02
+WTI Houston MEH-NYMEX WTI Volumes
+400
+392
+378
+—
+Weighted-Average Contract Price
+$
+2.02
+$
+1.97
+$
+2.01
+$
+—
+Roll Differential Swaps
+NYMEX WTI Volumes
+4,375
+4,047
+719
+—
+Weighted-Average Contract Price
+$
+0.64
+$
+0.59
+$
+1.08
+$
+—
+Gas Derivatives (volumes in BBtu and prices in $ per MMBtu):
+Swaps
+NYMEX HH Volumes
+15,654
+16,937
+13,696
+38,164
+Weighted-Average Contract Price
+$
+3.85
+$
+4.07
+$
+4.30
+$
+4.03
+IF Waha Volumes
+2,232
+3,813
+1,067
+4,603
+Weighted-Average Contract Price
+$
+1.21
+$
+2.35
+$
+3.13
+$
+3.64
+Collars
+NYMEX HH Volumes
+21,598
+21,905
+27,352
+17,296
+Weighted-Average Floor Price
+$
+3.48
+$
+3.48
+$
+3.53
+$
+3.77
+Weighted-Average Ceiling Price
+$
+4.22
+$
+4.33
+$
+4.67
+$
+4.55
+Basis Swaps
+IF Waha-NYMEX HH Volumes
+11,830
+11,960
+11,960
+26,395
+Weighted-Average Contract Price
+$
+(
+1.31
+)
+$
+(
+1.31
+)
+$
+(
+1.31
+)
+$
+(
+0.74
+)
+CIG Rockies-NYMEX HH Volumes
+11,830
+11,960
+11,960
+7,300
+Weighted-Average Contract Price
+$
+(
+0.57
+)
+$
+(
+0.57
+)
+$
+(
+0.57
+)
+$
+(
+0.37
+)
+NGL Derivatives (volumes in MBbl and prices in $ per Bbl):
+Swaps
+OPIS Natural Gasoline Mont Belvieu Non-TET Volumes
+396
+—
+—
+—
+Weighted-Average Contract Price
+$
+82.26
+$
+—
+$
+—
+$
+—
+OPIS Ethane Mont Belvieu Non-TET Volumes
+137
+137
+141
+—
+Weighted-Average Contract Price
+$
+11.71
+$
+11.71
+$
+11.71
+$
+—
+21
+Derivative Assets and Liabilities Fair Value
+The Company’s commodity derivatives are measured at fair value and are included in the accompanying balance sheets as derivative assets and liabilities, with the exception of derivative instruments that meet the “normal purchase normal sale” exclusion.  The Company does not designate its commodity derivative contracts as hedging instruments.  The fair value of commodity derivative contracts at March 31, 2026, and December 31, 2025, was a net liability of $
+477
+million and a net asset of $
+85
+million, respectively.
+The following table details the fair value of commodity derivative contracts recorded in the accompanying balance sheets:
+As of March 31, 2026
+As of December 31, 2025
+(in millions)
+Derivative assets:
+Current assets
+$
+201
+$
+83
+Noncurrent assets
+27
+6
+Total derivative assets
+$
+228
+$
+89
+Derivative liabilities:
+Current liabilities
+$
+703
+$
+2
+Noncurrent liabilities
+2
+2
+Total derivative liabilities
+$
+705
+$
+4
+Offsetting of Derivative Assets and Liabilities
+As of March 31, 2026, and December 31, 2025, all derivative instruments held by the Company were subject to master netting arrangements with various financial institutions.  In general, the terms of the Company’s agreements provide for offsetting of amounts payable or receivable between it and the counterparty, at the election of both parties, for transactions that settle on the same date and in the same currency.  The Company’s agreements also provide that in the event of an early termination, the counterparties have the right to offset amounts owed or owing under that and any other agreement with the same counterparty.
+The Company’s accounting policy is to not offset
+these positions in its accompanying balance sheets.
+The following table provides a reconciliation between the gross assets and liabilities reflected in the accompanying balance sheets and the potential effects of master netting arrangements on the fair value of the Company’s commodity derivative contracts:
+Derivative Assets as of
+Derivative Liabilities as of
+March 31,
+2026
+December 31, 2025
+March 31,
+2026
+December 31, 2025
+(in millions)
+Gross amounts presented in the accompanying balance sheets
+$
+228
+$
+89
+$
+(
+705
+)
+$
+(
+4
+)
+Amounts not offset in the accompanying balance sheets
+(
+228
+)
+(
+4
+)
+228
+4
+Net amounts
+$
+—
+$
+85
+$
+(
+477
+)
+$
+—
+The Company recognizes all gains and losses from changes in commodity derivative fair values immediately in earnings rather than deferring such amounts in accumulated other comprehensive income (loss).  The Company had no commodity derivative contracts designated as hedging instruments as of March 31, 2026, and December 31, 2025.  Refer to
+Note 9 - Fair Value Measurements
+for more information regarding the Company’s derivative instruments, including its valuation techniques.
+22
+The following table summarizes the commodity components of the net derivative settlement gain (loss), and the net derivative loss line items presented within the accompanying unaudited condensed consolidated statements of cash flows (“accompanying statements of cash flows”) and the accompanying statements of operations, respectively:
+For the Three Months Ended
+March 31,
+2026
+2025
+(in millions)
+Net derivative settlement (gain) loss:
+Oil contracts
+$
+71
+$
+(
+3
+)
+Gas contracts
+(
+40
+)
+(
+7
+)
+NGL contracts
+(
+1
+)
+2
+Total net derivative settlement (gain) loss
+$
+30
+$
+(
+8
+)
+Net derivative (gain) loss:
+Oil contracts
+$
+799
+$
+3
+Gas contracts
+(
+212
+)
+12
+NGL contracts
+110
+2
+Total net derivative loss
+$
+697
+$
+17
+Credit Related Contingent Features
+As of March 31, 2026, all of the Company’s derivative counterparties were members of the Company’s Credit Agreement lender group.  The Company does not enter into derivative contracts with counterparties that are not part of the lender group.  Under the Credit Agreement, the Company is required to provide mortgage liens on assets having a value equal to at least
+85
+percent of the total PV-9, as defined in the Credit Agreement, of the Company’s proved oil and gas properties evaluated in the most recent reserve report.  Collateral securing indebtedness under the Credit Agreement also secures the Company’s derivative agreement obligations.
+Note 9 - Fair Value Measurements
+The Company follows fair value measurement accounting guidance for all assets and liabilities measured at fair value.  This guidance defines fair value as the price that would be received to sell an asset or paid to transfer a liability (an exit price) in an orderly transaction between market participants at the measurement date.  Market or observable inputs are the preferred sources of values, followed by assumptions based on hypothetical transactions in the absence of market inputs.  The fair value hierarchy for grouping these assets and liabilities is based on the significance level of the following inputs:
+•
+Level 1 – quoted prices in active markets for identical assets or liabilities
+•
+Level 2 – quoted prices in active markets for similar assets or liabilities, quoted prices for identical or similar instruments in markets that are not active, and model-derived valuations whose inputs are observable or whose significant value drivers are observable
+•
+Level 3 – significant inputs to the valuation model are unobservable
+The following table is a listing of the Company’s assets and liabilities that are measured at fair value on a recurring basis in the accompanying balance sheets and where they are classified within the fair value hierarchy:
+As of March 31, 2026
+As of December 31, 2025
+Level 1
+Level 2
+Level 3
+Level 1
+Level 2
+Level 3
+(in millions)
+Assets:
+Derivatives
+$
+—
+$
+228
+$
+—
+$
+—
+$
+89
+$
+—
+Liabilities:
+Derivatives
+$
+—
+$
+705
+$
+—
+$
+—
+$
+4
+$
+—
+23
+Both financial and non-financial assets and liabilities are categorized within the fair value hierarchy based on the lowest level of input that is significant to the fair value measurement.  The following is a description of the valuation methodologies used by the Company as well as the general classification of such instruments pursuant to the above fair value hierarchy.
+Derivatives
+The Company uses Level 2 inputs to measure the fair value of oil, gas, and NGL commodity derivative instruments.  Fair values are based upon interpolated data.  The Company derives internal valuation estimates taking into consideration forward commodity price curves, counterparties’ credit ratings, the Company’s credit rating, and the time value of money.  These valuations are then compared to the respective counterparties’ mark-to-market statements.  The considered factors result in an estimated exit price that management believes provides a reasonable and consistent methodology for valuing derivative instruments.  The commodity derivative instruments utilized by the Company are not considered by management to be complex, structured, or illiquid.  The oil, gas, and NGL commodity derivative markets are highly active.  Refer to
+Note 8 - Derivative Financial Instruments
+for more information regarding the Company’s derivative instruments.
+Acquisition of Proved and Unproved Properties
+Assets acquired and liabilities assumed in transactions that meet the definition of a business combination under ASC 805 are recognized at their estimated fair values as of the acquisition date and are valued using an income valuation technique based on Level 3 inputs.  The excess of consideration transferred over the fair value of identifiable net assets acquired is recorded as goodwill.  Refer to
+Note 2 - Mergers, Acquisitions, and Divestitures
+for discussion of the valuation technique used for the Civitas Merger.
+Properties Held for Sale
+Properties classified as held for sale, including any corresponding asset retirement obligation liability, are valued using a market approach, based on an estimated net selling price, as evidenced by an executed or negotiated purchase and sale agreement, or, if unavailable, the most current bid prices received from third parties.  If an estimated selling price is not available, the Company utilizes the various valuation techniques discussed above.  Any initial write-down and subsequent changes to the fair value less estimated cost to sell is included within the net gain (loss) on divestiture activity line item in the accompanying statements of operations.
+The Company had $
+666
+million of assets classified as held for sale as of March 31, 2026, related to the South Texas Divestiture; however, none of these properties were recorded at fair value as the carrying value of these assets was below their estimated fair value less estimated selling costs.  Refer to
+Note 2 - Mergers, Acquisitions, and Divestitures
+for additional discussion.
+24
+Long-Term Debt
+The following table reflects the fair value of the Company’s Senior Notes obligations measured using Level 1 inputs based on quoted secondary market trading prices.  The Senior Notes were not presented at fair value in the accompanying balance sheets as of March 31, 2026, or December 31, 2025, as the Senior Notes were recorded at carrying value, net of any unamortized premium or unamortized deferred financing costs.  Refer to
+Note 6 - Long-Term Debt
+for additional information.
+As of March 31, 2026
+As of December 31, 2025
+Principal Amount
+Fair Value
+Principal Amount
+Fair Value
+(in millions)
+6.75
+% Senior Notes due 2026
+(1)
+$
+419
+$
+420
+$
+419
+$
+420
+5.0
+% Senior Notes due 2026
+(1)(2)
+$
+400
+$
+399
+$
+—
+$
+—
+6.625
+% Senior Notes due 2027
+$
+417
+$
+417
+$
+417
+$
+419
+8.375
+% Senior Notes due 2028
+(2)
+$
+566
+$
+583
+$
+—
+$
+—
+6.5
+% Senior Notes due 2028
+$
+400
+$
+401
+$
+400
+$
+405
+6.75
+% Senior Notes due 2029
+$
+750
+$
+764
+$
+750
+$
+756
+8.625
+% Senior Notes due 2030
+(2)
+$
+1,000
+$
+1,054
+$
+—
+$
+—
+8.75
+% Senior Notes due 2031
+(2)
+$
+1,350
+$
+1,417
+$
+—
+$
+—
+7.0
+% Senior Notes due 2032
+$
+750
+$
+766
+$
+750
+$
+739
+9.625
+% Senior Notes due 2033
+(2)
+$
+750
+$
+830
+$
+—
+$
+—
+6.625
+% Senior Notes due 2034
+$
+1,000
+$
+1,002
+$
+—
+$
+—
+____________________________________________
+(1)
+As of March 31, 2026, the 2026 Senior Notes, the Civitas 2026 Senior Notes, and the 2027 Senior Notes are presented in the current liabilities section of the accompanying balance sheets.
+(2)
+Civitas Senior Notes assumed as part of the Civitas Merger.
+Note 10 - Earnings Per Share
+Basic net income or loss per common share is calculated by dividing net income or loss available to common stockholders by the basic weighted-average number of common shares outstanding for the respective period.  Diluted net income or loss per common share is calculated by dividing net income or loss available to common stockholders by the diluted weighted-average number of common shares outstanding, which includes the effect of potentially dilutive securities.  Potentially dilutive securities for this calculation consist primarily of non-vested restricted stock units (“RSU” or “RSUs”) and contingent performance share units (“PSU” or “PSUs”), which were measured using the treasury stock method.  Refer to
+Note 12 - Stock-Based Compensation
+in this report and
+Note 9 - Earnings Per Share
+and
+Note 10 - Stock-Based Compensation
+in the
+2025 Form 10-K
+for additional detail on these potentially dilutive securities.
+When the Company recognizes a net loss from continuing operations, all potentially dilutive shares are anti-dilutive and are consequently excluded from the calculation of diluted net loss per common share.
+The following table details the weighted-average number of anti-dilutive securities for the periods presented:
+For the Three Months Ended March 31,
+2026
+2025
+(in millions)
+Anti-dilutive
+(1)
+1
+—
+____________________________________________
+(1)
+Amount includes Civitas equity awards converted to RSUs of the Company that were outstanding during a portion of the three months ended March 31, 2026.
+25
+The following table sets forth the calculations of basic and diluted net income (loss) per common share:
+For the Three Months Ended March 31,
+2026
+2025
+(in millions, except per share data)
+Net income (loss)
+$
+(
+335
+)
+$
+182
+Basic weighted-average common shares outstanding
+(1)
+199
+115
+Dilutive effect of non-vested RSUs, contingent PSUs, and other
+—
+—
+Diluted weighted-average common shares outstanding
+199
+115
+Basic net income (loss) per common share
+$
+(
+1.68
+)
+$
+1.59
+Diluted net income (loss) per common share
+$
+(
+1.68
+)
+$
+1.59
+____________________________________________
+(1)
+Amount includes shares issued in connection with the Civitas Merger that were outstanding during a portion of the three months ended March 31, 2026
+.
+Note 11 - Segment Reporting
+The Company has
+one
+reportable segment: the oil, gas, and NGL exploration and production segment (“E&P Segment”), which operates exclusively in the United States.  Following the Civitas Merger, management determined that the Company continues to operate as a single reportable segment.  The E&P Segment constitutes all of the consolidated entity and the accompanying unaudited condensed consolidated financial statements and the notes to the accompanying unaudited condensed consolidated financial statements are representative of such amounts for the E&P Segment.  Midstream operations acquired in the Civitas Merger are considered ancillary to, and are managed as part of, the E&P Segment.
+The Company’s Chief Operating Decision Maker (“CODM”) is the
+Chief Executive Officer
+.
+The CODM uses net income (loss) as presented in the accompanying statements of operations to measure E&P Segment profit or loss, and to evaluate income generated from E&P Segment assets in deciding whether to reinvest profits into operational activities or to use profits for other purposes, such as debt reduction, acquisitions, or the Company’s Stock Repurchase Program.  Additionally, net income (loss) is used in assessing budget versus actual results and in benchmarking to the Company’s competitors
+.  The measure of segment assets is reported on the accompanying balance sheets as total assets, and capital expenditures are reported in the accompanying statements of cash flows.
+26
+The following table summarizes the results of the Company’s segment revenue, significant expenses, and net income (loss) during the periods presented:
+For the Three Months Ended
+March 31,
+2026
+2025
+(in millions)
+Total operating revenues and other income
+$
+1,479
+$
+845
+Less:
+Lease operating expense
+209
+109
+Transportation costs
+122
+70
+Production taxes
+81
+37
+Ad valorem tax expense
+16
+10
+Depletion, depreciation, and amortization
+432
+270
+Exploration
+26
+12
+General and administrative
+174
+39
+Net derivative loss
+697
+17
+Other operating expense
+20
+5
+Interest expense
+113
+44
+Interest income
+(1)
+(
+4
+)
+—
+Other non-operating expense
+3
+—
+Income tax expense (benefit)
+(
+75
+)
+50
+E&P Segment net income (loss)
+$
+(
+335
+)
+$
+182
+___________________________________________
+Note: There are no reconciling items between net income (loss) presented in the accompanying statements of operations and E&P Segment net income (loss).
+(1)
+Interest income is included in the other non-operating income, net line item on the accompanying statements of operations.
+Note 12 - Stock-Based Compensation
+As of March 31, 2026,
+3.0
+million shares of common stock were available for grant under the Company’s 2025 Equity Incentive Compensation Plan and
+3.7
+million shares were available for grant under the 2024 Long Term Incentive Plan acquired by the Company as part of the Civitas Merger.
+In connection with the closing of the Civitas Merger on
+January 30, 2026
+, the Company converted outstanding Civitas equity awards into RSUs of the Company.  The converted awards were measured at fair value as of the Closing Date in accordance with ASC 805, and the portion attributable to post-combination service will be recognized as stock-based compensation in accordance with ASC Topic 718,
+Compensation-Stock Compensation
+.
+In total,
+2.5
+million RSUs were issued in the conversion, with an aggregate fair value of $
+49
+million.  Of this amount, $
+20
+million is attributable to future service and was recorded as unrecognized stock-based compensation, which will be recognized over the remaining requisite service periods of the awards.  Other than the impact of the converted awards, there were no material changes to the Company’s stock-based compensation arrangements during the three months ended March 31, 2026.
+Note 13 - Restructuring Costs
+During the first quarter of 2026, in connection with the Civitas Merger, the Company announced workforce reductions to better align staffing levels and the organizational structure with the Company’s strategy.  During the three months ended March 31, 2026, the Company incurred total restructuring costs of $
+97
+million which are included in general and administrative (“G&A”) expense in the accompanying statements of operations.  The restructuring costs represent a component of one-time Civitas Merger integration costs.   These one-time termination benefits are primarily related to employee severance and retention and accelerated vesting of stock-based compensation awards.  The Company expects to incur an additional $
+24
+million of restructuring costs related to the Civitas Merger and anticipates that substantially all such costs will be incurred and paid during 2026.
+27
+The following table summarizes restructuring cost activity during the three months ended March 31, 2026, and the Company’s restructuring cost liabilities included in accounts payable and accrued expenses line item in the accompanying balance sheets as of the periods presented:
+(in millions)
+Balance as of December 31, 2025
+$
+—
+Restructuring costs incurred
+(1)
+97
+Restructuring costs paid
+(
+74
+)
+Balance as of March 31, 2026
+$
+23
+___________________________________________
+(1)
+Restructuring costs incurred does not include $
+21
+million of other G&A integration costs comprised of one-time systems integration, advisory, and legal expenses, and salaries paid to transition employees.
+28
+ITEM 2.  MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+The following discussion includes forward-looking statements.  Refer to the
+Cautionary Information about Forward-Looking Statements
+section of this report for important information about these types of statements.  Throughout the following discussion, we explain changes between the three months ended March 31, 2026, and the three months ended December 31, 2025 (“sequential quarterly” or “sequentially”), and the year-to-date (“YTD”) change between the three months ended March 31, 2026, and the three months ended March 31, 2025 (“YTD 2026-over-YTD 2025”).
+Overview of the Company
+Merger with Civitas
+On November 2, 2025, we entered into the Merger Agreement with Civitas.  On January 27, 2026, our stockholders voted in favor of both proposals necessary to complete the Civitas Merger, which included approval of (i) the issuance of shares of SM Energy common stock to Civitas stockholders as contemplated by the Merger Agreement, and (ii) an amendment of our Restated Certificate of Incorporation to increase the number of authorized shares of our common stock from 200 million shares to 400 million shares.
+On
+January 30, 2026
+, we completed the
+Civitas Merger
+in accordance with the terms of the
+Merger Agreement
+.
+Civitas
+was an independent exploration and production company focused on the acquisition, development, and production of crude oil and associated liquids-rich natural gas in the DJ Basin in Colorado and the Permian Basin in Texas and New Mexico.  We believe that the
+Merger
+creates a premier portfolio across the highest-return U.S. shale basins, enabling the realization of operational efficiencies and cost synergies and providing opportunities for increased free cash flow to drive long-term differentiated stockholder value.
+Under the terms of the Merger Agreement, subject to certain exceptions, each share of Civitas common stock was converted into the right to receive 1.45 shares of SM Energy common stock, with cash paid in lieu of fractional shares.
+On
+January 30, 2026
+, we issued
+124 million
+shares to holders of
+Civitas
+common stock, representing
+52 percent
+of the outstanding shares of SM Energy’s common stock upon the closing of the
+Merger
+.  Based on the closing price of SM Energy common stock on
+January 30, 2026
+, the total stock consideration was valued at
+$2.4 billion.
+South Texas Divestiture
+On April 30, 2026, we completed the South Texas Divestiture and received net cash proceeds of approximately $900 million, after preliminary purchase price adjustments and estimated selling costs.  The final purchase price remains subject to customary post-closing adjustments.  The South Texas Divestiture meaningfully advances our key priority of selling more than $1.0 billion in assets within one year of the completion of the Civitas Merger, which will enable us to reduce debt and strengthen our capital structure.  See
+Note 2 - Mergers, Acquisitions, and Divestitures
+in Part I, Item 1 of this report for additional discussion.
+Debt Optimization
+During and subsequent to the first quarter of 2026, we made meaningful progress toward strengthening our debt structure and addressing near-term maturities of certain of our Senior Notes.  We issued our 2034 Senior Notes and used the majority of the net proceeds to repurchase $894 million in aggregate principal amount of our higher-coupon Civitas 2028 Senior Notes.  Concurrent with the completion of the South Texas Divestiture, we announced our intent to use the net cash proceeds to fully redeem our Civitas 2026 Senior Notes and 2026 Senior Notes at par, with planned redemption dates of May 11, 2026, and June 1, 2026, respectively.  Our semi-annual borrowing base redetermination was completed subsequent to quarter end, reaffirming our borrowing base and aggregate lender commitments at their existing levels.  As of March 31, 2026, we had no outstanding borrowings under our revolving credit facility.
+General Overview
+Our purpose.
+Our purpose is to improve communities with affordable, reliable energy.  We are a premier operator of top-tier assets, utilizing state-of-the-art digital technology, data analytics, and AI in our operations, and continually seeking innovative ideas to help us optimize capital efficiency and well performance, while reducing our impact on shared natural resources and operating in an efficient, safe, and responsible manner.
+Strategic vision and value creation.
+Our asset portfolio consists of high-quality assets in the Midland Basin and Delaware Basin, both of which are part of the larger Permian Basin of West Texas and New Mexico; the DJ Basin of Northeast Colorado; the Maverick Basin of South Texas; and the Uinta Basin of Northeast Utah.  We believe our assets are capable of generating strong returns in the current macroeconomic environment and provide resilience to commodity price risk and volatility.  Through disciplined capital spending, active portfolio management, and continued development and optimization, we seek to maximize returns and increase the value of our top-tier asset base while maintaining financial flexibility and a sustainable approach to long-term value creation.
+Our long-term vision and strategy are focused on sustainably growing value for all of our stakeholders by deploying our technical excellence and exceptional execution to improve and optimize our high-quality asset portfolio, generate cash flows, and
+29
+maintain a disciplined, strong balance sheet. Our team executes our strategy by prioritizing safety, technological innovation, and stewardship of natural resources, which are foundational to our corporate culture.  Our near-term strategic focus is post-Merger integration; maintaining safe operations; delivering consistent operational execution; maximizing free cash flow; and bolstering our balance sheet.
+Responsible operations and governance.
+We are committed to exceptional safety, health, and environmental stewardship; supporting the professional development of a diverse and thriving team of employees; building and maintaining partnerships with our stakeholders by investing in and connecting with the communities where we live and work; and transparency in reporting our progress in these areas.  The Governance and Sustainability Committee of our Board of Directors oversees, among other things, the effectiveness of our sustainability policies, programs and initiatives, monitors and responds to emerging trends, issues, and associated risks, and, together with management, reports to our Board of Directors regarding such matters.  Further demonstrating our commitment to sustainable operations and environmental stewardship, compensation for our executives and employees under certain aspects of our compensation plans is calculated based on Company-wide performance metrics that include key financial, operational, environmental, health, and safety measures.
+Market Trends and Uncertainties
+During the first quarter of 2026, benchmark oil prices reached their highest levels since 2022, reflecting strong global demand and ongoing supply-side constraints resulting from recent geopolitical developments in the Middle East.  Despite the resulting price volatility, we do not anticipate material changes to our 2026 development plan and we remain focused on our key priorities of post-Merger integration, maximizing free cash flow, and bolstering our balance sheet.
+While benchmark gas prices increased sequentially, our realized gas prices during the three months ended March 31, 2026, were negatively impacted by basis differentials in both the Permian Basin and the DJ Basin.  In the Permian Basin, gas gathering and takeaway capacity constraints contributed to widening basis differentials during the first quarter of 2026 and we expect these differentials to persist until additional pipeline capacity comes online in the region, which is anticipated in late 2026.  In the DJ Basin, unfavorable differentials resulted from a different set of regional pressures, as a warm winter and spring shoulder season reduced demand while record-high production pushed storage inventories to record levels.
+As global commodities, the prices of oil, gas, and NGLs, as well as broader financial markets, remain subject to heightened uncertainty and volatility.  Market conditions are influenced by factors including real or perceived geopolitical risks; War and Geopolitical Instability; Organization of the Petroleum Exporting Countries (“OPEC”) plus other non-OPEC oil producing countries (collectively referred to as “OPEC+”) production decisions; fluctuations in global supply and demand (including demand from China); U.S. Federal Reserve monetary policy; movements in the strength of the U.S. dollar; shipping channel constraints and disruptions including restrictions in and closures of the Strait of Hormuz; tariffs and trade restrictions; the potential for economic recession in the U.S.; and changes in global oil inventory in storage.  These factors have resulted in commodity price volatility, contributed to instances of supply chain disruptions, inflation, and interest rate fluctuations, and could have further industry-specific impacts that may require us to adjust our business plan.  The timing and magnitude of future effects are inherently unpredictable.
+Historically, tariffs have led to increased costs for products exchanged in international trade, and have heightened global political tensions.  Changes in the U.S. and international trade policies, including the imposition, modification, or repeal of tariffs, continue to contribute to economic and market uncertainty.  In recent periods, U.S. tariff policies and related trade actions have shifted frequently, and retaliatory measures or additional policy changes by other countries remain possible.  These outcomes could negatively impact global economic conditions, financial market stability, and commodity prices.  Volatility in political, trade, regulatory, and economic conditions could have a material adverse effect on our financial condition or results of operations.  We are unable to reasonably estimate the period of time that these market conditions will exist or the extent to which they will impact our business, results of operations, and financial condition.
+Continuing volatility in political, trade, regulatory and economic conditions could impact supply and demand fundamentals, and any related declines in oil, gas, and NGL prices could lead to impairments of proved and unproved properties in the future.  Future impairments of proved and unproved properties are difficult to predict, especially in a volatile price environment.
+Areas of Operations
+Our Permian Basin assets comprise approximately 229,000 net acres located in the Midland Basin and Delaware Basin of West Texas and New Mexico, (collectively referred to as the “Permian Basin”).  Our acreage position in the Permian Basin provides future development and exploration opportunities within multiple oil-rich intervals, including the Spraberry, Wolfcamp, and Woodford formations in the Midland Basin and the Avalon, Bone Spring, and Wolfcamp formations in the Delaware Basin.
+Our DJ Basin assets comprise approximately 303,000 net acres located primarily in northeastern Colorado (“DJ Basin”) and provide future development and exploration opportunities within multiple oil-rich intervals in the Niobrara and Codell formations, and includes acreage with light sweet crude oil and gas composition amenable to processing for NGL extraction.
+30
+As of March 31, 2026, our South Texas assets comprised approximately 155,000 net acres located in Dimmit and Webb counties, Texas (“South Texas”).  Our overlapping acreage position in South Texas covered a significant portion of the western Eagle Ford shale and Austin Chalk formations, and included acreage across the oil, gas-condensate, and dry gas windows with gas composition amenable to processing for NGL extraction.  Subsequent to March 31, 2026, we finalized the South Texas Divestiture, consisting of approximately 61,000 net acres, including the portion of our position located in the dry gas window.  Refer to
+Note 2 - Mergers, Acquisitions, and Divestitures
+in Part I, Item 1 of this report for additional information.
+Our Uinta Basin assets comprise approximately 62,000 net acres in northeastern Utah (“Uinta Basin”) and provide future development and exploration opportunities within multiple oil-rich intervals in the Lower Green River and Wasatch formations, and include acreage with waxy crude and gas composition amenable to processing for NGL extraction.
+First Quarter 2026 Overview and Outlook for the Remainder of 2026
+During the first quarter of 2026:
+•
+We completed the Civitas Merger on January 30, 2026, and made meaningful progress on post-Merger integration, advancing key operational and organizational initiatives, and capturing synergies.  Integration remains a key priority.
+•
+We issued the 2034 Senior Notes and used the majority of the net proceeds to repurchase $894 million in aggregate principal amount of the Civitas 2028 Senior Notes, excluding premiums paid, through the Tender Offer, of which $110 million settled subsequent to March 31, 2026.
+•
+We announced our South Texas Divestiture, which subsequently closed on April 30, 2026.
+•
+Our Board of Directors approved an increase to our fixed dividend policy to $0.88 per share annually, paid in quarterly increments beginning in the first quarter of 2026.
+Refer to
+Note 2 - Mergers, Acquisitions, and Divestitures
+and
+Note 6 - Long-Term Debt
+in Part I, Item 1 of this report for additional discussion.
+Financial and Operational Results.
+Oil, gas, and NGL production revenue increased 110 percent sequentially to $1.5 billion for the three months ended March 31, 2026, compared with $703 million for the three months ended December 31, 2025.  This increase was driven by a 79 percent sequential quarterly increase in average daily equivalent production to 371.2 MBOE and a 20 percent sequential quarterly increase in total realized price per BOE, before the effect of net derivative settlements (“realized price” or “realized prices”), resulting from increases in benchmark oil prices.  Oil, gas, and NGL production expense increased 107 percent sequentially to $428 million for the three months ended March 31, 2026, compared with $207 million for the three months ended December 31, 2025.  The sequential quarterly increases in production revenue, production expense, and average net daily equivalent production are primarily due to the inclusion of approximately two months of activity from the assets acquired in the Civitas Merger.
+We recorded a net derivative loss of $697 million and a net derivative gain of $71 million for the three months ended March 31, 2026, and December 31, 2025, respectively.  The net derivative loss during the first quarter 2026 resulted from rising oil prices primarily driven by the U.S.-Iran war, which began in late February 2026 and has significantly disrupted oil supply and shipping through the Strait of Hormuz.  Included within these amounts are a net derivative settlement loss of $30 million and a net derivative settlement gain of $46 million for the three months ended March 31, 2026, and December 31, 2025, respectively.
+Operational and financial activities during the three months ended March 31, 2026, resulted in the following:
+•
+A net loss of $335 million, or $1.68 per diluted share, compared with net income of $109 million, or $0.95 per diluted share, for the three months ended December 31, 2025, primarily driven by a $697 million net derivative loss resulting from an increase in the forward oil price curves underlying our commodity derivative contracts as of March 31, 2026.  Of this net derivative loss, $667 million relates to commodity derivative contracts that are scheduled to settle after March 31, 2026.
+•
+Net cash provided by operating activities of $640 million, compared with $452 million for the three months ended December 31, 2025.  The increase in net cash provided by operating activities was primarily due to the inclusion of two months of operating activity from assets acquired in the Civitas Merger.
+•
+Adjusted EBITDAX, a non-GAAP financial measure, of $970 million, compared with $509 million for the three months ended December 31, 2025.  The increase in adjusted EBITDAX was primarily due to the inclusion of two months of operating activity from the assets acquired in the Civitas Merger.  Refer to the caption
+Non-GAAP Financial Measures
+below for additional discussion and our definition of adjusted EBITDAX and reconciliations to net income (loss) and net cash provided by operating activities.
+Refer to
+Overview of Selected Production and Financial Information, Including Trends
+and
+Comparison of Financial Results and Trends Between the Three Months Ended March 31, 2026, and December 31, 2025, and Between the Three Months Ended March 31, 2026, and 2025
+below for additional discussion.
+31
+Operational Activities.
+Our capital program for 2026 is expected to be approximately $2.65 billion to $2.85 billion, excluding acquisitions.  Our capital program remains focused on applying our strength in geosciences and development optimization to highly economic oil and liquids rich development projects in our areas of operations that support our priority of strategic inventory replacement and growth.  Refer to
+Overview of Liquidity and Capital Resources
+below for discussion of how we expect to fund the remainder of our 2026 capital program.
+During the three months ended March 31, 2026, costs incurred in oil and gas property acquisition, exploration, and development activities, whether capitalized or expensed, totaled $725 million.  Total costs incurred includes activity in our core areas of operations, corporate charges incurred in exploration activities, and costs related to exploration efforts outside of our core areas of operation.
+In our Permian Basin program, we averaged six drilling rigs and two completion crews during the first quarter of 2026, and our operations focused on development optimization and delineation of our assets in the Midland Basin and Delaware Basin.  Average net daily equivalent production increased sequentially by 117 percent to 182.6 MBOE, reflecting the inclusion of two months of production from the Civitas assets acquired on January 30, 2026.  Costs incurred during the three months ended March 31, 2026, totaled $336 million, or 46 percent of our total costs incurred for the period.  We anticipate operating an average of six drilling rigs and two completion crews for the remainder of 2026, focused on development of the Spraberry, Woodford, Bone Spring, Wolfcamp, and Avalon formations.
+In our DJ Basin program, we operated between one and two drilling rigs during the first quarter of 2026 and one completion crew for a portion of the quarter, and our operations focused primarily on delineation and development.  Average net daily equivalent production was 81.4 MBOE for the three months ended March 31, 2026, reflecting the inclusion of two months of production from the Civitas assets acquired on January 30, 2026.  Costs incurred during the three months ended March 31, 2026, totaled $113 million, or 16 percent of our total costs incurred for the period. We anticipate operating an average of one drilling rig and one completion crew for the remainder of 2026, focused on further development and delineation of the Niobrara and Codell formations.
+In our South Texas program, we operated two drilling rigs and one completion crew during the first quarter of 2026, and our operations focused primarily on the development and further delineation of the Austin Chalk formation.  Average net daily equivalent production decreased sequentially by 15 percent to 68.0 MBOE.  Costs incurred during the three months ended March 31, 2026, totaled $120 million, or 17 percent of our total costs incurred for the period.  We anticipate operating one drilling rig during the remainder of 2026 and averaging one completion crew through the end of the third quarter of 2026 on our retained South Texas acreage, focused primarily on developing the Austin Chalk formation.
+In our Uinta Basin program, we operated three drilling rigs and one completion crew during the first quarter of 2026, and our operations focused on delineation and development.  Average net daily equivalent production decreased sequentially by eight percent to 39.1 MBOE.  Costs incurred during the three months ended March 31, 2026, totaled $105 million, or 15 percent of our total costs incurred for the period.  We anticipate operating between two and three drilling rigs and one completion crew during the remainder of 2026, focused primarily on delineating and developing the Lower Green River and Wasatch formations.
+The table below provides a quarterly summary of changes in our drilled but not completed well count and current year drilling and completion activity in our operated programs for the three months ended March 31, 2026:
+Permian Basin
+DJ Basin
+South Texas
+(1)
+Uinta Basin
+Total
+Gross
+Net
+Gross
+Net
+Gross
+Net
+Gross
+Net
+Gross
+Net
+Wells drilled but not completed at December 31, 2025
+15
+12
+—
+—
+25
+24
+38
+28
+78
+64
+Wells acquired
+(2)
+40
+33
+43
+41
+—
+—
+—
+—
+83
+74
+Wells drilled
+(3)
+31
+28
+16
+15
+12
+12
+11
+7
+70
+62
+Wells completed
+(3)
+(26)
+(23)
+(25)
+(23)
+(12)
+(11)
+(12)
+(9)
+(75)
+(66)
+Wells drilled but not completed at March 31, 2026
+60
+50
+34
+33
+25
+25
+37
+26
+156
+134
+____________________________________________
+(1)
+Subsequent to March 31, 2026, we divested 10 gross (10 net) drilled but not completed wells as part of the South Texas Divestiture.
+(2)
+We acquired these drilled but not completed wells as part of the Civitas Merger on January 30, 2026.
+(3)
+All drilling and completion activity related to the acquired assets in Permian Basin and DJ Basin occurred after the Closing Date of the Merger.
+32
+Production Results.
+The table below presents the disaggregation of our net production volumes by product type for each of our assets for the periods presented.  The Permian Basin and DJ Basin amounts include activity related to the assets acquired in the Civitas Merger, which is reflected only for the portion of the quarter occurring after January 30, 2026.
+For the Three Months Ended
+March 31, 2026
+December 31, 2025
+March 31, 2025
+Permian Basin Net Production:
+Oil (MMBbl)
+9.3
+4.8
+4.7
+Gas (Bcf)
+37.4
+17.4
+16.0
+NGLs (MMBbl)
+0.9
+—
+—
+Equivalent (MMBOE)
+16.4
+7.7
+7.3
+Average net daily equivalent (MBOE per day)
+182.6
+84.2
+81.5
+Relative percentage
+49
+%
+40
+%
+41
+%
+DJ Basin Net Production:
+Oil (MMBbl)
+3.4
+—
+—
+Gas (Bcf)
+15.6
+—
+—
+NGLs (MMBbl)
+1.3
+—
+—
+Equivalent (MMBOE)
+7.3
+—
+—
+Average net daily equivalent (MBOE per day)
+81.4
+—
+—
+Relative percentage
+22
+%
+—
+%
+—
+%
+South Texas Net Production:
+Oil (MMBbl)
+1.4
+1.8
+1.7
+Gas (Bcf)
+16.3
+18.6
+17.6
+NGLs (MMBbl)
+2.0
+2.5
+2.4
+Equivalent (MMBOE)
+6.1
+7.4
+7.0
+Average net daily equivalent (MBOE per day)
+68.0
+79.9
+77.4
+Relative percentage
+18
+%
+39
+%
+39
+%
+Uinta Basin Net Production:
+Oil (MMBbl)
+3.0
+3.4
+3.0
+Gas (Bcf)
+3.0
+3.4
+2.8
+NGLs (MMBbl)
+—
+—
+—
+Equivalent (MMBOE)
+3.5
+3.9
+3.5
+Average net daily equivalent (MBOE per day)
+39.1
+42.7
+38.4
+Relative percentage
+11
+%
+21
+%
+20
+%
+Total Net Production:
+Oil (MMBbl)
+17.1
+10.0
+9.3
+Gas (Bcf)
+72.4
+39.4
+36.4
+NGLs (MMBbl)
+4.2
+2.5
+2.4
+Equivalent (MMBOE)
+33.4
+19.0
+17.8
+Average net daily equivalent (MBOE per day)
+371.2
+206.9
+197.3
+____________________________________________
+Note: Amounts may not calculate due to rounding.
+Refer to
+Overview of Selected Production and Financial Information, Including Trends
+and
+Comparison of Financial Results and Trends Between the Three Months Ended March 31, 2026, and December 31, 2025, and Between the Three Months Ended March 31, 2026, and 2025
+below for discussion of production.
+33
+Oil, Gas, and NGL Prices
+Our financial condition and the results of our operations are significantly affected by the prices we receive for our oil, gas, and NGL production, which can fluctuate dramatically.  When we refer to realized oil, gas, and NGL prices below, the disclosed price represents the average price for the respective period, before the effect of net derivative settlements.  While quoted NYMEX oil and gas and OPIS NGL prices are generally used as a basis for comparison within our industry, the prices we receive are affected by quality, energy content, location and transportation differentials, and contracted pricing benchmarks for these products.
+The following table summarizes commodity price data, as well as the effect of net derivative settlements, for the periods presented:
+For the Three Months Ended
+March 31, 2026
+December 31, 2025
+March 31, 2025
+Oil (per Bbl):
+Average NYMEX contract monthly price
+$
+71.93
+$
+59.14
+$
+71.42
+Realized price
+$
+73.69
+$
+58.17
+$
+70.56
+Effect of oil net derivative settlements
+$
+(4.13)
+$
+2.66
+$
+0.31
+Gas:
+Average NYMEX monthly settle price (per MMBtu)
+$
+5.04
+$
+3.55
+$
+3.65
+Realized price (per Mcf)
+$
+1.72
+$
+1.81
+$
+3.30
+Effect of gas net derivative settlements (per Mcf)
+$
+0.55
+$
+0.48
+$
+0.20
+NGLs (per Bbl):
+Average OPIS price
+(1)
+$
+26.41
+$
+24.92
+$
+31.29
+Realized price
+$
+21.58
+$
+20.67
+$
+25.86
+Effect of NGL net derivative settlements
+$
+0.17
+$
+0.09
+$
+(0.99)
+____________________________________________
+(1)
+Average OPIS price per barrel of NGL, historical or strip, assumes a composite barrel product mix of 42% ethane, 28% propane, 6% isobutane, 11% normal butane, and 13% natural gasoline.  This product mix represents the industry standard composite barrel and does not necessarily represent our product mix for NGL production.  Realized prices reflect our actual product mix.
+Given the uncertainty surrounding commodity prices, War and Geopolitical Instability, and global financial markets, we expect benchmark prices for oil, gas, and NGLs to remain volatile for the foreseeable future.  In addition to supply and demand fundamentals, as global commodities, the prices for oil, gas, and NGLs are affected by real or perceived geopolitical risks in various regions of the world, as well as the relative strength of the United States dollar compared to other currencies.  Additionally, our realized prices at local sales points have been and may continue to be affected by infrastructure capacity or outages in the areas of our operations and beyond.  We cannot reasonably predict the timing or likelihood of any future volatility or the related impacts.  Refer to
+Market Trends and Uncertainties
+above for additional discussion of factors impacting pricing.
+The following table summarizes 12-month strip prices for NYMEX WTI oil, NYMEX Henry Hub gas, and OPIS NGLs as of April 23, 2026, and March 31, 2026:
+As of April 23, 2026
+As of March 31, 2026
+NYMEX WTI oil (per Bbl)
+$
+82.53
+$
+81.14
+NYMEX Henry Hub gas (per MMBtu)
+$
+3.41
+$
+3.59
+OPIS NGLs (per Bbl)
+$
+30.96
+$
+30.58
+We use financial derivative instruments as part of our financial risk management program.  We have a financial risk management policy governing our use of derivatives, and decisions regarding entering into commodity derivative contracts are overseen by a financial risk management committee consisting of certain senior executive officers and finance personnel.  We make decisions about the amount of our expected production that we cover by derivatives based on the amount of debt on our balance sheet, the level of capital commitments and long-term obligations we have in place, and the terms and futures prices that are made available by our approved counterparties.  With our current commodity derivative contracts, we believe we have partially reduced our exposure to volatility in commodity prices and basis differentials in the near term.  Our use of costless collars for a portion of our derivatives allows us to participate in some of the upward movements in oil and gas prices while also setting a price floor below which we are insulated from further price decreases.  Refer to
+Note 8 - Derivative Financial Instruments
+in Part I, Item 1 of this report and to
+Commodity Price Risk
+in
+Overview of Liquidity and Capital Resources
+below for additional information regarding our oil, gas, and NGL derivatives.
+34
+Financial Results of Operations and Additional Comparative Data
+The tables below provide information regarding selected production and financial information for the three months ended March 31, 2026, and the preceding three quarters:
+For the Three Months Ended
+March 31,
+December 31,
+September 30,
+June 30,
+2026
+2025
+2025
+2025
+(in millions)
+Net production (MMBOE)
+33.4
+19.0
+19.7
+19.0
+Oil, gas, and NGL production revenue
+$
+1,477
+$
+703
+$
+811
+$
+785
+Oil, gas, and NGL production expense
+$
+428
+$
+207
+$
+229
+$
+224
+Depletion, depreciation, and amortization
+$
+432
+$
+319
+$
+325
+$
+293
+Exploration
+$
+26
+$
+18
+$
+12
+$
+15
+General and administrative
+$
+174
+$
+40
+$
+39
+$
+42
+Net income (loss)
+$
+(335)
+$
+109
+$
+155
+$
+202
+Selected Performance Metrics
+For the Three Months Ended
+March 31,
+December 31,
+September 30,
+June 30,
+2026
+2025
+2025
+2025
+Average net daily equivalent production (MBOE per day)
+371.2
+206.9
+213.8
+209.1
+Lease operating expense (per BOE)
+$
+6.25
+$
+5.55
+$
+5.67
+$
+5.52
+Transportation costs (per BOE)
+$
+3.65
+$
+3.67
+$
+3.77
+$
+4.13
+Production taxes as a percent of oil, gas, and NGL production revenue
+5.5
+%
+3.8
+%
+4.1
+%
+3.9
+%
+Ad valorem tax expense (per BOE)
+$
+0.47
+$
+0.23
+$
+0.51
+$
+0.54
+Depletion, depreciation, and amortization (per BOE)
+$
+12.91
+$
+16.73
+$
+16.54
+$
+15.40
+General and administrative (per BOE)
+$
+5.20
+$
+2.10
+$
+2.00
+$
+2.21
+____________________________________________
+Note: Amounts may not calculate due to rounding.
+35
+Overview of Selected Production and Financial Information, Including Trends
+For the Three Months Ended
+Amount Change Between the Three Months Ended
+Percent Change Between the Three Months Ended
+March 31, 2026
+December 31, 2025
+March 31, 2025
+March 31, 2026 & December 31, 2025
+March 31, 2026 & 2025
+March 31, 2026 & December 31, 2025
+March 31, 2026 & 2025
+Net production volumes:
+(1)
+Oil (MMBbl)
+17.1
+10.0
+9.3
+7.2
+7.8
+72
+%
+84
+%
+Gas (Bcf)
+72.4
+39.4
+36.4
+33.0
+36.0
+84
+%
+99
+%
+NGLs (MMBbl)
+4.2
+2.5
+2.4
+1.7
+1.9
+69
+%
+79
+%
+Equivalent (MMBOE)
+33.4
+19.0
+17.8
+14.4
+15.7
+76
+%
+88
+%
+Average net daily production:
+(1) (2)
+Oil (MBbl per day)
+190.3
+108.4
+103.7
+81.9
+86.6
+76
+%
+84
+%
+Gas (MMcf per day)
+804.1
+428.3
+404.2
+375.8
+400.0
+88
+%
+99
+%
+NGLs (MBbl per day)
+46.9
+27.1
+26.2
+19.8
+20.6
+73
+%
+79
+%
+Equivalent (MBOE per day)
+371.2
+206.9
+197.3
+164.3
+173.9
+79
+%
+88
+%
+Oil, gas, and NGL production revenue (in millions):
+(1)
+Oil production revenue
+$
+1,262
+$
+580
+$
+658
+$
+682
+$
+604
+118
+%
+92
+%
+Gas production revenue
+124
+71
+120
+53
+4
+75
+%
+3
+%
+NGL production revenue
+91
+52
+61
+40
+30
+77
+%
+49
+%
+Total oil, gas, and NGL production revenue
+$
+1,477
+$
+703
+$
+840
+$
+775
+$
+637
+110
+%
+76
+%
+Oil, gas, and NGL production expense (in millions):
+(1)
+Lease operating expense
+$
+209
+$
+106
+$
+109
+$
+103
+$
+100
+98
+%
+92
+%
+Transportation costs
+122
+70
+70
+52
+52
+74
+%
+75
+%
+Production taxes
+81
+27
+37
+54
+44
+202
+%
+120
+%
+Ad valorem tax expense
+16
+4
+10
+11
+6
+254
+%
+60
+%
+Total oil, gas, and NGL production expense
+$
+428
+$
+207
+$
+225
+$
+221
+$
+203
+107
+%
+90
+%
+Realized price:
+Oil (per Bbl)
+$
+73.69
+$
+58.17
+$
+70.56
+$
+15.52
+$
+3.13
+27
+%
+4
+%
+Gas (per Mcf)
+$
+1.72
+$
+1.81
+$
+3.30
+$
+(0.09)
+$
+(1.58)
+(5)
+%
+(48)
+%
+NGLs (per Bbl)
+$
+21.58
+$
+20.67
+$
+25.86
+$
+0.91
+$
+(4.28)
+4
+%
+(17)
+%
+Per BOE
+$
+44.22
+$
+36.92
+$
+47.29
+$
+7.30
+$
+(3.07)
+20
+%
+(6)
+%
+Per BOE data:
+(1)
+Oil, gas, and NGL production expense:
+Lease operating expense
+$
+6.25
+$
+5.55
+$
+6.13
+$
+0.70
+$
+0.12
+13
+%
+2
+%
+Transportation costs
+3.65
+3.67
+3.92
+(0.02)
+(0.27)
+(1)
+%
+(7)
+%
+Production taxes
+2.43
+1.41
+2.07
+1.02
+0.36
+72
+%
+17
+%
+Ad valorem tax expense
+0.47
+0.23
+0.55
+0.24
+(0.08)
+104
+%
+(15)
+%
+Total oil, gas, and NGL production expense
+(1)
+$
+12.80
+$
+10.86
+$
+12.68
+$
+1.94
+$
+0.12
+18
+%
+1
+%
+Depletion, depreciation, and amortization
+$
+12.91
+$
+16.73
+$
+15.20
+$
+(3.82)
+$
+(2.29)
+(23)
+%
+(15)
+%
+General and administrative
+(3)
+$
+5.20
+$
+2.10
+$
+2.22
+$
+3.10
+$
+2.98
+148
+%
+134
+%
+Net derivative settlement gain (loss)
+(4)
+$
+(0.90)
+$
+2.39
+$
+0.44
+$
+(3.29)
+$
+(1.34)
+(138)
+%
+(305)
+%
+Earnings per share information (in millions, except per share data):
+(5)
+Basic weighted-average common shares outstanding
+199
+115
+115
+84
+84
+73
+%
+73
+%
+Diluted weighted-average common shares outstanding
+199
+115
+115
+84
+84
+73
+%
+73
+%
+Basic net income (loss) per common share
+$
+(1.68)
+$
+0.95
+$
+1.59
+$
+(2.63)
+$
+(3.27)
+(277)
+%
+(206)
+%
+Diluted net income (loss) per common share
+$
+(1.68)
+$
+0.95
+$
+1.59
+$
+(2.63)
+$
+(3.27)
+(277)
+%
+(206)
+%
+36
+______________________________________
+(1)
+Amounts and percentage changes may not calculate due to rounding.
+(2)
+Average net daily production is calculated as total production for the quarter divided by 90 days. The results for the three months ended March 31, 2026 reflect only two months of production from the assets acquired in the Civitas Merger.
+(3)
+For the first quarter of 2026, G&A expense per BOE includes one-time Civitas Merger related integration costs.  See below and refer to
+Comparison of Financial Results and Trends Between the Three Months Ended March 31, 2026, and December 31, 2025, and Between the Three Months Ended March 31, 2026, and 2025
+for additional discussion.
+(4)
+Net derivative settlements for the three months ended March 31, 2026, and 2025, are included within the net derivative loss line item in the accompanying statements of operations.
+(5)
+Refer to
+Note 10 - Earnings Per Share
+in Part I, Item 1 of this report for additional discussion.
+The Civitas Merger, which closed on January 30, 2026, is expected to materially affect our future operating and financial results.  The addition of the Civitas assets and operations is expected to increase production volumes and revenues and to impact oil, gas, and NGL production expense, general and administrative expense, and other expense categories.  The magnitude and timing of these impacts will depend, in part, on integration activities, operating performance, commodity prices, and other factors and may not be directly comparable to our historical results.  Results discussed below for the three months ended March 31, 2026, include Civitas operations after the Closing Date of January 30, 2026.
+Average net daily equivalent production for the three months ended March 31, 2026, increased 79 percent sequentially and 88 percent YTD 2026-over-YTD 2025 primarily driven by production from assets acquired in the Civitas Merger.
+We present certain information on a per BOE basis in order to evaluate our performance relative to our peers and to identify and measure trends we believe may require additional analysis and discussion.
+Our realized price on a per BOE basis increased 20 percent sequentially primarily due to increases in benchmark oil prices.  Our realized price on a per BOE basis decreased six percent YTD 2026-over-YTD 2025 primarily due to decreases in both benchmark NGL prices and realized gas prices due to unfavorable price differentials at Waha and CIG Rockies during the first quarter 2026.  We recognized a net loss on the settlement of our commodity derivative contracts of $0.90 per BOE during the three months ended March 31, 2026, and net gains of $2.39 and $0.44 per BOE during the three months ended December 31, 2025, and March 31, 2025, respectively.
+Lease operating expense (“LOE”) per BOE increased 13 percent sequentially and two percent YTD 2026-over-YTD 2025 primarily reflecting the integration of the Civitas assets, which have a higher LOE per BOE profile relative to our pre-Merger asset base.  For the full-year 2026, we expect LOE per BOE to increase compared with 2025, driven by the inclusion of higher-cost acquired assets and a shift in production mix following the South Texas Divestiture which included assets that historically had the lowest LOE per BOE in our portfolio.  We expect to realize operational and cost synergies which will partially offset this increase.  We anticipate volatility in LOE per BOE as a result of changes in production mix, timing of workover projects, changes in service provider costs, integration-related activities and broader industry conditions, all of which affect total LOE.
+Transportation costs per BOE remained flat sequentially as increases in transportation costs were in line with increases in production volumes.  Transportation costs per BOE decreased seven percent YTD 2026-over-YTD 2025 primarily due to changes in our production mix.  In general, we expect total transportation costs to fluctuate relative to changes in commodity and production mix across our areas of operations.  For 2026, we expect transportation costs on a per BOE basis to remain relatively flat compared with 2025.
+Production tax expense per BOE increased 72 percent sequentially and 17 percent YTD 2026-over-YTD 2025, as a result of an increase in realized oil price and a higher production tax rate associated with the acquired DJ Basin assets.  Our overall production tax rate was 5.5 percent, 3.8 percent, and 4.4 percent for the three months ended March 31, 2026, December 31, 2025, and March 31, 2025, respectively.  We expect that our Uinta Basin and South Texas assets will incur a lower production tax rate compared with our Permian Basin and DJ Basin assets.  We generally expect production tax expense to correlate with oil, gas, and NGL production revenue.  Product mix, the location of production, and incentives to encourage oil and gas development can also impact the amount of production tax expense that we recognize.
+Ad valorem tax expense per BOE increased $0.24 sequentially and decreased $0.08 YTD 2026-over-YTD 2025, as a result of fluctuations in commodity prices which impact the expected valuation of our producing properties.  We anticipate volatility in ad valorem tax expense on a per BOE and absolute basis as the valuation of our producing properties changes, which is generally driven by fluctuations in commodity prices, and varying tax policies across the different counties in which we operate.
+DD&A expense per BOE decreased 23 percent sequentially and 15 percent YTD 2026-over-YTD 2025, primarily due to a lower overall depletion rate for our Permian Basin assets reflecting the new amortization base established upon the closing of the Merger, cessation of recognizing DD&A expense for certain of our South Texas assets following the classification as held for sale, and shifts in our production mix due to the integration of the Civitas assets.  Our DD&A rate fluctuates as a result of changes in our production mix, changes in our total estimated net proved reserve volumes, changes in capital allocation, impairments, acquisition and divestiture activity, and carrying cost funding and sharing arrangements with third parties.  For the full-year 2026, we expect DD&A expense on an absolute basis to increase, compared with 2025, primarily reflecting higher anticipated production volumes and our
+37
+expanded asset base. We expect DD&A rates on a per BOE to decrease due to a lower overall depletion rate as a result of the Civitas Merger.
+G&A expense on a per BOE basis increased 148 percent sequentially and 134 percent YTD 2026-over-YTD 2025, primarily due to Civitas Merger related one-time costs and additional headcount resulting from the Merger.  These costs include one-time severance and retention payments; accelerated stock-compensation expense related to terminated employees; transition employee costs; one-time systems integration, advisory, and legal expenses; as well as higher compensation expense due to increased headcount.  Approximately $118 million of general and administrative expenses during the three months ended March 31, 2026, are considered one-time Civitas Merger integration costs.  For the full-year 2026, we expect G&A expense on an absolute basis and on a per BOE basis to increase compared with 2025, primarily due to an increase in employee headcount as a result of the Civitas Merger, and one-time integration costs with a majority of these costs expected to be incurred during the first half of 2026.
+Basic and diluted weighted-average common shares outstanding each increased 73 percent sequentially and YTD 2026-over-YTD 2025, primarily as a result of shares issued in connection with the Civitas Merger.  We recognized a net loss from continuing operations for the three months ended March 31, 2026, and therefore all potentially dilutive shares are anti-dilutive and are consequently excluded from the calculation of diluted net loss per common share.  Refer to
+Note 10 - Earnings Per Share
+in Part I, Item 1 of this report for additional discussion.
+Refer to
+Comparison of Financial Results and Trends Between the Three Months Ended March 31, 2026, and December 31, 2025, and Between the Three Months Ended March 31, 2026, and 2025
+below for additional discussion of operating expenses.
+Comparison of Financial Results and Trends Between the Three Months Ended March 31, 2026, and December 31, 2025, and Between the Three Months Ended March 31, 2026, and 2025
+Refer to
+Overview of Selected Production and Financial Information, Including Trends
+above for additional discussion, including discussion of trends on a per BOE basis.
+Average net daily equivalent production, production revenue, and production expense
+Sequential Quarterly Changes.
+The following table presents changes in our average net daily equivalent production; oil, gas, and NGL production revenue; and oil, gas, and NGL production expense, by area, between the three months ended March 31, 2026, and December 31, 2025:
+Average Net Equivalent Production Increase (Decrease)
+Oil, Gas, and NGL
+Production Revenue
+Increase (Decrease)
+Oil, Gas, and NGL
+Production Expense
+Increase (Decrease)
+(MBOE per day)
+(in millions)
+(in millions)
+Permian Basin
+98.4
+$
+436
+$
+128
+DJ Basin
+81.4
+342
+102
+South Texas
+(11.9)
+(11)
+(9)
+Uinta Basin
+(3.6)
+8
+—
+Total
+164.3
+$
+775
+$
+221
+__________________________________________
+Note: Amounts may not calculate due to rounding.
+Average net daily equivalent production increased 79 percent, and total realized price increased 20 percent, resulting in a 110 percent increase in oil, gas, and NGL production revenue.  Oil, gas, and NGL production expense increased 107 percent.  The sequential quarterly increases in production revenue, production expense, and average net daily equivalent production are primarily due to the inclusion of approximately two months of activity from the assets acquired in the Civitas Merger in the first quarter of 2026.
+38
+YTD 2026-over-YTD 2025 Changes.
+The following table presents changes in our average net daily equivalent production; oil, gas, and NGL production revenue; and oil, gas, and NGL production expense, by area, between the three months ended March 31, 2026, and 2025:
+Average Net Equivalent Production Increase (Decrease)
+Oil, Gas, and NGL
+Production Revenue
+Increase (Decrease)
+Oil, Gas, and NGL
+Production Expense
+Increase (Decrease)
+(MBOE per day)
+(in millions)
+(in millions)
+Permian Basin
+101.1
+$
+336
+$
+113
+DJ Basin
+81.4
+342
+102
+South Texas
+(9.4)
+(33)
+(7)
+Uinta Basin
+0.7
+(8)
+(6)
+Total
+173.9
+$
+637
+$
+203
+__________________________________________
+Note: Amounts may not calculate due to rounding.
+Average net daily equivalent production increased 88 percent, and was partially offset by a decrease in total realized price of six percent, resulting in a 76 percent increase in oil, gas, and NGL production revenue.  Oil, gas, and NGL production expense increased 90 percent.  The YTD 2026-over-YTD 2025
+increases in production revenue, production expense, and average net daily equivalent production are primarily due to the inclusion of approximately two months of activity from the assets acquired in the Civitas Merger in the first quarter of 2026.
+Depletion, depreciation, and amortization
+For the Three Months Ended
+March 31, 2026
+December 31, 2025
+March 31, 2025
+(in millions)
+Depletion, depreciation, and amortization
+$
+432
+$
+319
+$
+270
+DD&A expense increased 35 percent sequentially and 60 percent YTD 2026-over-YTD 2025, primarily driven by higher production volumes due to the inclusion of assets from the Civitas Merger.  These increases were partially offset by a lower overall depletion rate for our Permian assets reflecting the new amortization base established upon the closing of the Merger, and cessation of recognizing DD&A expense for certain of our South Texas assets following classification as held for sale.
+Exploration
+For the Three Months Ended
+March 31, 2026
+December 31, 2025
+March 31, 2025
+(in millions)
+Exploration
+$
+26
+$
+18
+$
+12
+Exploration expense increased 44 percent sequentially and 117 percent YTD 2026-over-YTD 2025 due to increases in overhead as a result of the inclusion of assets from the Civitas Merger which closed in the first quarter 2026.  Exploration expense fluctuates based on actual geological and geophysical studies we perform within an exploratory area, exploratory dry hole expense incurred, and changes in the amount of allocated overhead.
+General and administrative
+For the Three Months Ended
+March 31, 2026
+December 31, 2025
+March 31, 2025
+(in millions)
+General and administrative
+$
+174
+$
+40
+$
+39
+G&A expense increased 335 percent sequentially and 346 percent YTD 2026-over-YTD 2025, primarily due to Civitas Merger related one-time costs and additional headcount resulting from the Merger.  These costs include one-time severance and retention payments; accelerated stock-compensation expense related to terminated employees; transition employee costs incurred; one-time systems integration, advisory, and legal expenses; as well as higher compensation expense due to increased headcount.
+39
+Approximately $118 million of general and administrative expense during the three months ended March 31, 2026, is considered one-time Civitas Merger integration cost.
+Net derivative (gain) loss
+For the Three Months Ended
+March 31, 2026
+December 31, 2025
+March 31, 2025
+(in millions)
+Net derivative (gain) loss
+$
+697
+$
+(71)
+$
+17
+Net derivative (gain) loss is a result of changes in fair values associated with fluctuations in the forward price curves for the commodities underlying our outstanding derivative contracts and the monthly cash settlements of our derivative positions during the period.  During the first quarter of 2026, we recorded a net derivative loss of $697 million primarily resulting from the increase in the forward oil price curves underlying our commodity derivative contracts as of March 31, 2026.  We expect increases in benchmark commodity prices to result in net derivative losses and decreases in benchmark commodity prices to result in net derivative gains, as measured against our derivative contract prices.  Refer to
+Note 8 - Derivative Financial Instruments
+in Part I, Item 1 of this report for additional discussion.
+Interest expense
+For the Three Months Ended
+March 31, 2026
+December 31, 2025
+March 31, 2025
+(in millions)
+Interest expense
+$
+(113)
+$
+(43)
+$
+(44)
+Interest expense increased 163 percent sequentially and 157 percent YTD 2026-over-YTD 2025.  These increases were primarily driven by interest expense attributable to the Civitas Senior Notes assumed in connection with the Civitas Merger.  Total interest expense can vary based on the amount of our outstanding fixed-rate debt securities, fluctuations in the amount of capitalized interest as a result of the timing of the development of our wells in progress, and the timing and amount of borrowings under our revolving credit facility.
+Income tax (expense) benefit
+For the Three Months Ended
+March 31, 2026
+December 31, 2025
+March 31, 2025
+(in millions, except tax rate)
+Income tax (expense) benefit
+$
+75
+$
+(32)
+$
+(50)
+Effective tax rate
+18.3
+%
+23.1
+%
+21.4
+%
+Our effective tax rate is impacted by proportional effects of forecast net income on estimated permanent items between periods and estimated state revenue changes affecting the apportionment of taxable income to states with higher statutory tax rates.  Our effective tax rate decreased five percent sequentially and three percent YTD 2026-over-YTD 2025.  These decreases were primarily a result of a remeasurement expense adjustment to record a Merger-related cumulative state apportionment change to the Company’s historical net deferred tax asset and liability balances which reduced the tax benefit that was recorded during the first quarter of 2026.  The decrease in the tax rate was partially offset by the effect of estimated state revenue changes affecting the apportionment of taxable income to states with higher statutory tax rates, effect of projected claim of research and development (“R&D”) credits, and tax deduction limitations on compensation of covered individuals.
+Refer to
+Note 4 - Income Taxes
+in Part I, Item 1 of this report, and to the
+Risk Factors
+section in Part 1, Item 1A of our
+2025 Form 10-K
+for additional discussion.
+Overview of Liquidity and Capital Resources
+Based on the current commodity price environment, we believe we have sufficient liquidity and capital resources to execute our business plan while continuing to meet our short-term and long-term financial obligations, including maturities of our outstanding Senior Notes.  We continue to manage the duration and level of our drilling and completion service commitments in order to maintain flexibility with regard to our activity level and capital expenditures.
+40
+Sources of Cash
+During the three months ended March 31, 2026, we primarily funded our capital expenditures and return of capital program with cash flows from operating activities.  For the remainder of 2026, we expect to fund our capital expenditures and return of capital program with cash flows from operations, with any remaining cash needs being funded by borrowings under our revolving credit facility.  Although we expect cash flows from these sources to be sufficient for the remainder of 2026, we may also elect to raise funds through new debt or equity offerings or from other sources of financing.  If we raise additional funds through the issuance of equity or convertible debt securities, the percentage ownership of our current stockholders could be diluted, and these newly issued securities may have rights, preferences, or privileges senior to those of certain existing stockholders and bondholders.  Additionally, we may enter into carrying cost and sharing arrangements with third parties for certain exploration or development programs.
+During the first quarter of 2026, we issued our 2034 Senior Notes.  See below for discussion on the use of net proceeds received, and refer to
+Note 6 - Long-Term Debt
+in Part I, Item 1 of this report for additional discussion.
+On April 30, 2026, we completed the South Texas Divestiture and received  net cash proceeds of approximately $900 million, after preliminary purchase price adjustments and estimated selling costs.  The final purchase price remains subject to customary post-closing adjustments.  We expect to use these proceeds to reduce debt and strengthen our capital structure as further discussed under
+Uses of Cash
+below.  See
+Note 2 - Mergers, Acquisitions, and Divestitures
+in Part I, Item 1 of this report for additional discussion.
+Our credit ratings affect the availability of, and cost for us to borrow, additional funds.  Any future downgrades in our credit ratings could make it more difficult or expensive for us to borrow additional funds.  Two major credit rating agencies upgraded our credit ratings following the close of the Civitas Merger on January 30, 2026, citing our increased size, scale and diversification, and enhanced and consistently positive free cash flow generation.
+All of our sources of liquidity can be affected by the general conditions of the broader economy, force majeure events, fluctuations in commodity prices, operating costs, interest rate changes, tax law changes, and volumes produced, all of which affect us and our industry.
+We have no control over the market prices for oil, gas, or NGLs, although we may be able to influence the amount of our realized revenues from our oil, gas, and NGL sales through the use of commodity derivative contracts as part of our financial risk management program.  Commodity derivative contracts may limit the prices we receive for our oil, gas, and NGL sales if oil, gas, or NGL prices rise over the price established by the commodity derivative contract.  Refer to
+Note 8 - Derivative Financial Instruments
+in Part I, Item 1 of this report for additional information about our commodity derivative contracts currently in place.
+Credit Agreement
+Our Credit Agreement provides for a senior secured revolving credit facility with a maximum loan amount of $5.0 billion.  As of March 31, 2026, the borrowing base and aggregate revolving lender commitments under our Credit Agreement were $5.0 billion and $2.5 billion, respectively.  In connection with the closing of the Civitas Merger on January 30, 2026, the Company and its lenders entered into the Fourth Amendment to the Credit Agreement (“Fourth Amendment”) which, among other things, increased the aggregate revolving lender commitments available under our Credit Agreement to $2.5 billion and increased the borrowing base to $5.0 billion.  The borrowing base is subject to regular, semi-annual redetermination, and considers the value of both our proved oil and gas properties reflected in our most recent reserve report and commodity derivative contracts, each as determined by our lender group.  Subsequent to March 31, 2026, our lender group reaffirmed our borrowing base and aggregate lender commitments at existing amounts, after giving effect to the South Texas Divestiture.  The next borrowing base redetermination is scheduled to occur on October 1, 2026.  No individual bank participating in our Credit Agreement represents more than 10 percent of the lender commitments under the Credit Agreement.  We must comply with certain financial and non-financial covenants under the terms of the Credit Agreement.  We were in compliance with all financial and non-financial covenants under the Credit Agreement as of March 31, 2026, and through the filing of this report.
+The following table summarizes our daily weighted-average revolving credit facility balance during the periods presented:
+For the Three Months Ended
+March 31, 2026
+December 31, 2025
+March 31, 2025
+(in millions)
+Daily weighted-average revolving credit facility balance
+$
+4
+$
+2
+$
+121
+The amount we borrow under our revolving credit facility is impacted by cash flows provided by our operating activities, proceeds received from divestitures of properties, capital markets activities including open market debt repurchases, debt redemptions, and repayment of scheduled debt maturities, other financing activities, and our capital expenditures, including acquisitions.
+41
+Refer to
+Note 6 - Long-Term Debt
+in Part I, Item 1 of this report for additional discussion, as well as the presentation of the outstanding balance, total amount of letters of credit, and available borrowing capacity under the Credit Agreement as of April 23, 2026, March 31, 2026, and December 31, 2025.
+Weighted-Average Interest and Weighted-Average Borrowing Rates
+Our weighted-average interest rate includes paid and accrued interest, fees on the unused portion of the aggregate revolving lender commitment amount under the Credit Agreement, letter of credit fees, and the non-cash amortization of deferred financing costs and debt premiums.  The amortization of deferred financing costs increases interest expense, while the amortization of debt premiums decreases interest expense.  Our weighted-average borrowing rate includes paid and accrued interest only.
+The following table presents our weighted-average interest rates and our weighted-average borrowing rates for the periods presented:
+For the Three Months Ended
+March 31, 2026
+December 31, 2025
+March 31, 2025
+Weighted-average interest rate
+8.6
+%
+7.4
+%
+7.5
+%
+Weighted-average borrowing rate
+8.2
+%
+6.7
+%
+6.9
+%
+Our weighted-average interest and weighted-average borrowing rate each increased sequentially and YTD 2026-over-YTD 2025, primarily due to the assumption of the Civitas Senior Notes, the majority of which carry a higher average coupon rate than our Senior Notes outstanding prior to the completion of the Civitas Merger.  Our weighted-average interest rate benefited from the amortization of the premiums on the Civitas Senior Notes, which were recorded based on the fair value of the Civitas Senior Notes on the Closing Date of the Civitas Merger.  We expect our weighted-average interest rate and weighted-average borrowing rate to increase slightly for the full-year 2026 compared with 2025.
+Our weighted-average interest rate and weighted-average borrowing rate are affected by the occurrence and timing of long-term debt issuances and redemptions and the average outstanding balance under our revolving credit facility.  Additionally, our weighted-average interest rate is affected by the fees paid on the unused portion of our aggregate revolving lender commitments.
+Uses of Cash
+We use cash for the development, exploration, and acquisition of oil and gas properties; for the payment of operating and general and administrative costs, income taxes, debt obligations, including interest and early repayments or redemptions, and dividends; and for repurchases of shares of our outstanding common stock under the Stock Repurchase Program.  Expenditures for the development, exploration, and acquisition of oil and gas properties are the primary use of our capital resources.  During the three months ended March 31, 2026, we spent $555 million on capital expenditures.  This amount differs from the costs incurred amount of $725 million for the three months ended March 31, 2026, largely due to the timing of payments associated with accrued capital activity as costs incurred is an accrual-based amount that also includes asset retirement obligations, acquisitions of proved and unproved oil and gas properties, geological and geophysical expenses, and exploration overhead.
+The amount and allocation of our future capital expenditures will depend upon a number of factors, including our cash flows from operating, investing, and financing activities, our ability to execute our development program, inflation, and the number and size of acquisitions that we complete.  In addition, the impact of oil, gas, and NGL prices on investment opportunities, the availability of capital, tax law and other regulatory changes, and the timing and results of our exploration and development activities may lead to changes in funding requirements for future development.
+We periodically review our capital expenditure budget and guidance to assess if changes are necessary based on current and projected cash flows, acquisition and divestiture activities, debt requirements, and other factors.  Our capital program for 2026 is expected to be approximately $2.65 billion to $2.85 billion, excluding acquisitions.
+We may from time to time repurchase shares of our common stock, or repurchase or redeem all or portions of our outstanding debt securities, for cash, through exchanges for other securities, or a combination of both.  Such repurchases or redemptions may be made in open market transactions, privately negotiated transactions, tender offers, pursuant to contractual provisions, or otherwise.  Any such repurchases or redemptions will depend on our business strategy, prevailing market conditions, our liquidity requirements, contractual restrictions or covenants, compliance with securities laws, and other factors.  The amounts involved in any such transaction may be material.
+During the three months ended March 31, 2026, and 2025, we did not repurchase any shares of our common stock under the Stock Repurchase Program.  As of March 31, 2026, $488 million was available under the Stock Repurchase Program for repurchases of our common stock through December 31, 2027.
+During the three months ended March 31, 2026, we used cash proceeds from the issuance of our 2034 Senior Notes to fund the repurchase of $784 million of outstanding principal amount of the Civitas 2028 Senior Notes through the Tender Offer.  In connection
+42
+with the Early Tendered Notes, we paid total consideration of $808 million, including net premiums, and paid $14 million of accrued interest.  Subsequent to March 31, 2026, we repurchased an additional $110 million of outstanding principal amount of the Civitas 2028 Senior Notes, and we paid total consideration of $114 million including net premiums, and paid $2 million of accrued interest.  Refer to
+Note 6 - Long-Term Debt
+in Part I, Item 1 of this report for additional discussion.
+In February 2026, we announced a new stockholder return framework designed to balance the allocation of free cash flow between debt reduction and returning capital to stockholders.  Under this framework, after funding our fixed dividend, we expect to allocate approximately 20 percent of remaining free cash flow to share repurchases and approximately 80 percent to debt reduction.  As leverage and absolute debt levels decline, we expect to increase the proportion of free cash flow allocated to share repurchases.
+During the three months ended March 31, 2026, and 2025, we paid $82 million and $23 million, respectively, in dividends to our stockholders.  Beginning in the first quarter of 2026, dividends are expected to be declared and paid within the same quarter, rather than being paid in the quarter subsequent to declaration.  As a result of this timing change, cash dividend payments during 2026 are expected to include five payments, consisting of the fourth quarter 2025 dividend paid in the first quarter of 2026, plus the four quarterly dividends declared and paid during 2026.  In February of 2026, our Board of Directors approved a 10 percent increase to our annual base dividend to $0.88 per share, payable quarterly, effective beginning with the March 2026 dividend.  We currently intend to continue paying dividends to our stockholders for the foreseeable future, subject to our future earnings, our financial condition, covenants under our Credit Agreement and indentures governing each series of our outstanding Senior Notes, and other factors that could arise.  The payment and amount of future dividends remain at the discretion of our Board of Directors.
+On April 30, 2026, we instructed the trustees under the 2026 Senior Notes and Civitas 2026 Senior Notes to issue notices of full redemption of the $819 million aggregate principal amount outstanding, plus accrued and unpaid interest, to the holders of such Senior Notes.  We intend to use the proceeds from the South Texas Divestiture to redeem the Civitas 2026 Senior Notes on May 11, 2026 and the 2026 Senior Notes on June 1, 2026.  Following these redemptions, we will have no remaining Senior Notes maturities in 2026.
+Analysis of Cash Flow Changes Between the Three Months Ended March 31, 2026, and 2025
+The following tables present changes in cash flows between the three months ended March 31, 2026, and 2025, for our operating, investing, and financing activities.  The analysis following each table should be read in conjunction with our accompanying statements of cash flows in Part I, Item 1 of this report.
+Operating activities
+For the Three Months Ended March 31,
+Amount Change Between Periods
+2026
+2025
+(in millions)
+Net cash provided by operating activities
+$
+640
+$
+483
+$
+157
+Net cash provided by operating activities increased for the three months ended March 31, 2026, compared with the same period in 2025, primarily as a result of an increase of $339 million in cash received from oil, gas, and NGL production revenue net of transportation costs and production taxes and an increase of $48 million in cash received on settled derivative trades, partially offset by an increase of $104 million in cash paid for certain G&A expenses, a $101 million increase in cash paid for LOE and ad valorem taxes and an increase of $13 million of cash paid for interest.  These changes are largely a result of the Civitas Merger.  Net cash provided by operating activities is also affected by working capital changes and the timing of cash receipts and disbursements.
+Investing activities
+For the Three Months Ended March 31,
+Amount Change Between Periods
+2026
+2025
+(in millions)
+Net cash used in investing activities
+$
+(628)
+$
+(429)
+$
+(199)
+Net cash used in investing activities increased for the three months ended March 31, 2026, compared with the same period in 2025, primarily as a result of a $141 million increase in capital expenditures and $49 million of cash paid in connection with the Civitas Merger, net of cash acquired.
+43
+Financing activities
+For the Three Months Ended March 31,
+Amount Change Between Periods
+2026
+2025
+(in millions)
+Net cash provided by (used in) financing activities
+$
+69
+$
+(54)
+$
+123
+Net cash provided by financing activities of $69 million for the three months ended March 31, 2026, primarily reflects net proceeds of $985 million from the issuance of our 2034 Senior Notes, offset by the use of $808 million of such proceeds to repurchase a portion of the Civitas 2028 Senior Notes at a premium through the Tender Offer, and $82 million of dividends paid to our stockholders.
+Net cash provided by financing activities for the three months ended March 31, 2025, primarily related to net repayments of $31 million under our revolving credit facility and $23 million of dividends paid to our stockholders.
+Interest Rate Risk
+We are exposed to market and credit risk due to the floating interest rate associated with any outstanding balance under our revolving credit facility.  Our Credit Agreement allows us to fix the interest rate for all or a portion of the principal balance of our revolving credit facility for a period of up to six months.  To the extent that the interest rate is fixed, interest rate changes will affect the revolving credit facility’s fair value but will not affect results of operations or cash flows.  Conversely, for the portion of the revolving credit facility that has a floating interest rate, interest rate changes will not affect the fair value, but will affect future results of operations and cash flows.  Changes in interest rates do not affect the amount of interest we pay on our fixed-rate Senior Notes, but can affect their fair values.  As of March 31, 2026, our outstanding principal amount of fixed-rate debt totaled $7.8 billion, and we had no floating-rate debt outstanding.  As of March 31, 2025, our outstanding principal amount of fixed-rate debt totaled $2.7 billion and our floating-rate debt outstanding totaled $38 million.  Refer to
+Note 9 - Fair Value Measurements
+in Part I, Item 1 of this report for additional discussion on the fair values of our Senior Notes.
+Commodity Price Risk
+The prices we receive for our oil, gas, and NGL production directly affect our revenue, profitability, access to capital, ability to return capital to our stockholders, and future rate of growth.  Oil, gas, and NGL prices are subject to unpredictable fluctuations resulting from a variety of factors that are typically beyond our control, including changes in supply and demand associated with the broader macroeconomic environment, War and Geopolitical Instability, constraints on gathering systems, processing facilities, pipelines, rail systems and other transportation systems, and weather-related events.  The markets for oil, gas, and NGLs have been volatile, especially over the last decade, and remain subject to high levels of uncertainty and volatility.  The realized prices we receive at local sales points for our production have been and may continue to be affected by infrastructure capacity or outages in the areas of our operations and beyond, and also depend on numerous factors that are typically beyond our control.  Based on our production for the three months ended March 31, 2026, a 10 percent decrease in our average realized oil, gas, and NGL prices would have reduced our oil, gas, and NGL production revenue by approximately $126 million, $12 million, and $9 million, respectively.  If commodity prices had been 10 percent lower, our net derivative settlements for the three months ended March 31, 2026, would have offset the declines in oil, gas, and NGL production revenue by approximately $59 million.
+We enter into commodity derivative contracts in order to reduce the risk of fluctuations in commodity prices.  The fair value of our commodity derivative contracts is largely determined by estimates of the forward curves of the relevant price indices.  As of March 31, 2026, a 10 percent increase or decrease in the forward curves associated with our oil, gas, and NGL commodity derivative instruments would have changed our net derivative positions for these products by approximately $338 million, $209 million, and $1 million, respectively.
+Off-Balance Sheet Arrangements
+We have not participated in transactions that generate relationships with unconsolidated entities or financial partnerships, such as entities often referred to as structured finance or special purpose entities (“SPE”), which would have been established for the purpose of facilitating off-balance sheet arrangements or other contractually narrow or limited purposes.
+We evaluate our transactions to determine if any variable interest entities exist.  If we determine that we are the primary beneficiary of a variable interest entity, that entity is consolidated into our consolidated financial statements.  We have not been involved in any unconsolidated SPE transactions during the three months ended March 31, 2026, or through the filing of this report.
+44
+Critical Accounting Estimates
+Refer to the corresponding section in Part II, Item 7 and to
+Note 1 - Summary of Significant Accounting Policies
+included in Part II, Item 8 of our
+2025 Form 10-K
+for discussion of our accounting estimates.  Additionally, the estimate discussed below was identified as critical to the understanding of our business and results of operations and required the application of significant management judgment during the period covered by this report.
+Purchase Price Allocation
+.  Accounting for the acquisition of a business requires the allocation of the purchase price to the various assets and liabilities acquired based on their estimated fair value as of the acquisition date.  Various assumptions are made when estimating fair values assigned to proved and unproved oil and gas properties including: (i) reserves; (ii) production rates; (iii) future operating and development costs; (iv) future commodity prices, including price differentials; (v) risk adjustment factors; and (vi) a market participant-based weighted average cost of capital.  These inputs require significant judgment by management at the time of the valuation.
+Accounting Matters
+Refer to
+Note 1 - Summary of Significant Accounting Policies
+in Part I, Item 1 of this report for information on new authoritative accounting guidance.
+Non-GAAP Financial Measures
+Adjusted EBITDAX represents net income (loss) before interest expense, interest income, income taxes, depletion, depreciation, and amortization expense, exploration expense, property abandonment and impairment expense, non-cash stock-based compensation expense, derivative gains and losses net of settlements, gains and losses on divestitures, gains and losses on extinguishment of debt, non-recurring or one-time costs including transaction and integration costs associated with the Civitas Merger, and certain other items.  Adjusted EBITDAX excludes certain items that we believe affect the comparability of operating results and can exclude items that are generally non-recurring in nature or whose timing and/or amount cannot be reasonably estimated.  Adjusted EBITDAX is a non-GAAP measure that we believe provides useful additional information to investors and analysts, as a performance measure, for analysis of our ability to internally generate funds for exploration, development, acquisitions, and to service debt.  We are also subject to financial covenants under our Credit Agreement based on adjusted EBITDAX ratios as further described in
+Note 5 - Long-Term Debt
+in the
+2025 Form 10-K
+.  In addition, adjusted EBITDAX is widely used by professional research analysts and others in the valuation, comparison, and investment recommendations of companies in the oil and gas exploration and production industry, and many investors use the published research of industry research analysts in making investment decisions.  Adjusted EBITDAX should not be considered in isolation or as a substitute for net income (loss), income (loss) from operations, net cash provided by operating activities, or other profitability or liquidity measures prepared under GAAP.  Because adjusted EBITDAX excludes some, but not all items that affect net income (loss) and may vary among companies, the adjusted EBITDAX amounts presented may not be comparable to similar metrics of other companies.  Our revolving credit facility provides a material source of liquidity for us.  Under the terms of our Credit Agreement, if we failed to comply with the covenants that establish a maximum permitted ratio of total funded debt, as defined in the Credit Agreement, to adjusted EBITDAX, we would be in default, an event that would prevent us from borrowing under our revolving credit facility and would therefore materially limit a significant source of our liquidity.  In addition, if we are in default under our revolving credit facility and are unable to obtain a waiver of that default from our lenders, lenders under that facility and under the indentures governing each series of our outstanding Senior Notes would be entitled to exercise all of their remedies for default.
+45
+The following table provides reconciliations of our net income (loss) (GAAP) and net cash provided by operating activities (GAAP) to adjusted EBITDAX (non-GAAP) for the periods presented:
+For the Three Months Ended
+March 31,
+2026
+December 31, 2025
+March 31,
+2025
+(in millions)
+Net income (loss) (GAAP)
+$
+(335)
+$
+109
+$
+182
+Interest expense
+113
+43
+44
+Income tax expense (benefit)
+(75)
+32
+50
+Depletion, depreciation, and amortization
+432
+319
+270
+Exploration
+(1)
+24
+17
+10
+Stock-based compensation expense
+(2)
+10
+8
+7
+Net derivative loss
+697
+(71)
+17
+Net derivative settlement gain (loss)
+(30)
+46
+8
+Transaction and integration costs
+(3)
+135
+6
+—
+Other, net
+(1)
+—
+—
+Adjusted EBITDAX (non-GAAP)
+970
+509
+589
+Interest expense
+(113)
+(43)
+(44)
+Income tax (expense) benefit
+75
+(32)
+(50)
+Exploration
+(1)
+(24)
+(17)
+(10)
+Amortization of deferred financing costs and debt premiums
+(5)
+2
+3
+Transaction and integration costs
+(3)
+(120)
+(6)
+—
+Deferred income tax expense (benefit)
+(85)
+33
+26
+Other, net
+(27)
+(22)
+1
+Net change in working capital
+(31)
+28
+(32)
+Net cash provided by operating activities (GAAP)
+$
+640
+$
+452
+$
+483
+____________________________________________
+Note: Prior year amounts may not calculate due to rounding.
+(1)
+The exploration line item shown in the reconciliation above differs from the amount shown in the accompanying statements of operations because it excludes the portion of stock-based compensation expense recorded to exploration expense, which is separately presented in the stock-based compensation expense line item above.
+(2)
+For the three months ended March 31, 2026, the stock-based compensation expense line item in the reconciliation above differs from the amount shown in the accompanying statements of cash flows because it excludes stock-based compensation expense included within the transaction and integration costs line item above.
+(3)
+Transaction and integration costs include expenses associated with Civitas Merger and post-merger integration activities.  For the three months ended March 31, 2026, these costs consisted of $118 million of one-time integration costs ($15 million of which is stock-based compensation), included in general and administrative expense in the accompanying statements of operations, and $17 million of one-time transaction costs, included in other operating expense in the accompanying statements of operations.  For the three months ended December 31, 2025, these costs consisted entirely of one-time transaction costs.
+46
+ITEM 3.  QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+The information required by this item is provided under the captions
+Interest Rate Risk
+and
+Commodity Price Risk
+in Item 2 above, as well as under the section entitled
+Summary of Oil, Gas, and NGL Derivative Contracts in Place
+in
+Note 8 - Derivative Financial Instruments
+in Part I, Item 1 of this report and is incorporated herein by reference.  Also refer to the information under
+Interest Rate Risk
+and
+Commodity Price Risk
+in
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+in Part II, Item 7 of our
+2025 Form 10-K
+.
+ITEM 4.  CONTROLS AND PROCEDURES
+Evaluation of Disclosure Controls and Procedures
+We maintain a system of disclosure controls and procedures that are designed to reasonably ensure that information required to be disclosed in our Securities and Exchange Commission (“SEC”) reports is recorded, processed, summarized, and reported within the time periods specified in the SEC’s rules and forms, and to reasonably ensure that such information is accumulated and communicated to our management, including our Chief Executive Officer (Principal Executive Officer) and our Chief Financial Officer (Principal Financial Officer), as appropriate, to allow for timely decisions regarding required disclosure.
+Our management, including our Chief Executive Officer and our Chief Financial Officer, does not expect that our disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) of the Exchange Act) (“Disclosure Controls”) will prevent all errors and all fraud.  A control system, no matter how well conceived and operated, can provide only reasonable, not absolute, assurance that the objectives of the control system are met.  Further, the design of a control system must reflect the fact that there are resource constraints, and the benefits of controls must be considered relative to their costs.  Because of the inherent limitations in all control systems, no evaluation of controls can provide absolute assurance that all control issues and instances of fraud, if any, within our Company have been detected.  These inherent limitations include the realities that judgments in decision-making can be faulty, and that breakdowns can occur because of simple error or mistake.  Additionally, controls can be circumvented by the individual acts of some persons, by collusion of two or more people, or by management override of the control.  The design of any system of controls also is based in part upon certain assumptions about the likelihood of future events, and there can be no assurance that any design will succeed in achieving its stated goals under all potential future conditions.  Because of the inherent limitations in a cost-effective control system, misstatements due to error or fraud may occur and not be detected.  We monitor our Disclosure Controls and make modifications as necessary; our intent in this regard is that the Disclosure Controls will be modified as systems change and conditions warrant.
+An evaluation of the effectiveness of the design and operation of our Disclosure Controls was performed as of the end of the period covered by this report.  This evaluation was performed under the supervision and with the participation of our management, including our Chief Executive Officer and Chief Financial Officer.  Based upon that evaluation, our Chief Executive Officer and Chief Financial Officer concluded that our Disclosure Controls are effective at a reasonable assurance level as of March 31, 2026.
+Changes in Internal Control Over Financial Reporting
+In connection with the Civitas Merger, we are evaluating and integrating the acquired operations into our internal control over financial reporting.  This evaluation and integration includes the alignment of accounting processes, systems, and the implementation of additional controls where necessary.
+There have been no other changes during the first quarter of 2026 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+47
+PART II.  OTHER INFORMATION
+ITEM 1.  LEGAL PROCEEDINGS
+At times, we may be involved in litigation relating to claims arising out of our business and operations in the normal course of business.  As of the filing of this report, no legal proceedings are pending against us that we believe individually or collectively are likely to have a materially adverse effect upon our financial condition, results of operations, or cash flows.
+With respect to administrative or judicial proceedings involving the environment, we have determined that we will disclose any such proceeding if we reasonably believe such proceeding will result in monetary sanctions, exclusive of interest and costs, of $1 million or more.
+ITEM 1A.  RISK FACTORS
+There have been no material changes to the risk factors as previously disclosed in our
+2025 Form 10-K
+.
+ITEM 2.  UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+There were no purchases made by us and any affiliated purchaser (as defined in Rule 10b-18(a)(3) under the Exchange Act) during the three months ended March 31, 2026, of shares of our common stock, which is the sole class of equity securities registered by us pursuant to Section 12 of the Exchange Act.
+Our Stock Repurchase Program, which authorizes us to repurchase up to $500 million in aggregate value of our common stock through December 31, 2027, permits us to repurchase our shares from time to time in open market transactions, through privately negotiated transactions or by other means in accordance with federal securities laws and subject to certain provisions of our Credit Agreement and the indentures governing our Senior Notes.  Under our new stockholder return framework announced in February 2026, we plan to allocate approximately 20 percent of free cash flow, calculated on a quarterly basis and after dividend payments, to share repurchases and expect to increase the allocation to share repurchases as leverage and absolute debt levels decline.  Refer to
+Overview of Liquidity and Capital Resources
+in Part I, Item 2 of this report for further discussion.
+During the three months ended March 31, 2026, we did not repurchase any shares of our common stock under the Stock Repurchase Program.  As of March 31, 2026, $488 million remained available under the Stock Repurchase Program for repurchases of our common stock through December 31, 2027.
+The timing, as well as the number and value of shares repurchased under the Stock Repurchase Program, is determined by certain authorized officers of the Company at their discretion and depends on a variety of factors, including the market price of our common stock, general market and economic conditions and applicable legal requirements.  The value of shares authorized for repurchase by our Board of Directors does not require us to repurchase such shares or guarantee that such shares will be repurchased, and the Stock Repurchase Program may be suspended, modified, or discontinued at any time without prior notice.  No assurance can be given that any particular number or dollar value of our shares will be repurchased.
+Our payment of cash dividends to our stockholders and repurchases of our common stock are each subject to certain covenants under the terms of our Credit Agreement and Senior Notes.  Based on our current performance, we do not anticipate that any of these covenants will limit our potential repurchases of our common stock or our payment of dividends at our current rate for the foreseeable future if any dividends are declared by our Board of Directors.
+ITEM 4.  MINE SAFETY DISCLOSURES
+The required disclosure under Section 1503(a) of the Dodd-Frank Wall Street Reform and Consumer Protection Act and Item 104 of Regulation S-K is included in Exhibit 95.1 to this report.
+ITEM 5.  OTHER INFORMATION
+During the three months ended March 31, 2026,
+none
+of our directors or Section 16 officers adopted or terminated a “Rule 10b5-1 trading arrangement” or “non-Rule 10b5-1 trading arrangement,” as each term is defined in Item 408 of Regulation S-K.
+48
+ITEM 6.  EXHIBITS
+The following exhibits are filed or furnished with, or incorporated by reference into this report:
+Exhibit Number
+Description
+3.1
+Restated Certificate of Incorporation of SM Energy Company, as amended through June 1, 2010 (filed as Exhibit 3.1 to the registrant’s Quarterly Report on Form 10-Q for the quarter ended June 30, 2010, and incorporated herein by reference)
+3.2
+Certificate of Amendment of Restated Certificate of Incorporation of SM Energy Company, as amended through June 1, 2010, dated May 25, 2023 (filed as Exhibit 3.1 to the registrant’s Current Report on Form 8-K filed on May 30, 2023, and incorporated herein by reference)
+3.3
+Certificate of Amendment to the Restated Certificate of Incorporation of SM Energy Company, dated January 30, 2026 (filed as Exhibit 3.1 to the registrant’s Current Report on Form 8-K filed January 30, 2026, and incorporated herein by reference)
+3.4
+Amended and Restated By-Laws of SM Energy Company, effective as of February 21, 2017 (filed as Exhibit 3.2 to the registrant’s Annual Report on Form 10-K for the year ended December 31, 2016, and incorporated herein by reference)
+4.1
+Indenture, dated as of March 9,
+2026, by a
+nd among SM Energy Company, the guarantors party thereto and U.S. Bank Trust Company, National Association, as trustee
+(
+filed as
+Exhibit 4.1 to the registrant
+’
+s Current Report on Form 8-K filed on March 9,
+2026, and inc
+orporated
+herein by referenc
+e)
+1
+0.1
+Fourth Amendment to Seventh Amended and Restated Credit Agreement, dated as of January 30, 2026, by and among SM Energy Company, a Delaware corporation, each of the Lenders that is a party thereto, and Wells Fargo Bank, National Association, as administrative agent for the Lenders, the Issuing Banks and the Swingline Lender (filed as Exhibit 10.1 to the registrant’s Current Report on Form 8-K filed on January 30, 2026, and incorporated herein by reference)
+1
+0.2
+Purchase and Sale Agreement, dated as of February 17, 2026, by and between SM Energy Company, a Delaware corporation, as Seller, and (i) Caturus Energy, LLC, a Delaware limited liability company, as Purchaser, and (ii) solely for purposes of Section 7.8 thereof, Caturus Holdco, LLC, a Delaware limited liability company (filed as Exhibit 10.1 to the registrant’s Current Report on Form 8-K filed on February 18, 2026, and incorporated herein by reference)
+31.1*
+Certification of Chief Executive Officer pursuant to Section 302 of the Sarbanes - Oxley Act of 2002
+31.2*
+Certification of Chief Financial Officer pursuant to Section 302 of the Sarbanes - Oxley Act of 2002
+32.1**
+Certification pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes - Oxley Act of 2002
+95.1*
+Mine Safety Disclosures
+101.INS
+Inline XBRL Instance Document - The instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document.
+101.SCH*
+Inline XBRL Schema Document
+101.CAL*
+Inline XBRL Calculation Linkbase Document
+101.LAB*
+Inline XBRL Label Linkbase Document
+101.PRE*
+Inline XBRL Presentation Linkbase Document
+101.DEF*
+Inline XBRL Taxonomy Extension Definition Linkbase Document
+104
+Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101.INS)
+_____________________________________
+*
+Filed with this report.
+**
+Furnished with this report.
+49
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+SM ENERGY COMPANY
+May 7, 2026
+By:
+/s/ ELIZABETH A. MCDONALD
+Elizabeth A. McDonald
+President and Chief Executive Officer
+(Principal Executive Officer)
+May 7, 2026
+By:
+/s/ A. WADE PURSELL
+A. Wade Pursell
+Executive Vice President and Chief Financial Officer
+(Principal Financial Officer)
+May 7, 2026
+By:
+/s/ ALAN D. BENNETT
+Alan D. Bennett
+Vice President - Controller
+(Principal Accounting Officer)
+50
