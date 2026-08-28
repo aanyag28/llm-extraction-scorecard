@@ -1,36 +1,20 @@
-Here is the extracted financial information for the reporting period covered by this Form 10-K filing:
+METRIC: REVENUE
+Exact Amount: 3,154 million
+Unit: USD
+Reporting Period: FY 2025 (Year ended December 31, 2025)
+Section/Table: Item 8. Consolidated Financial Statements - Consolidated Statements of Operations / Total operating revenues and other income
+Source: SEC Filing, Form 10-K
 
-**Reporting Period:** Fiscal year ended December 31, 2025
+METRIC: PRODUCTION
+Exact Amount: 75,500
+Unit: MBOE
+Reporting Period: FY 2025 (Year ended December 31, 2025)
+Section/Table: Item 1 and 2. Business and Properties - Areas of Operation / Net production volumes
+Source: SEC Filing, Form 10-K
 
----
-
-### Metric 1: Total Revenue
-
-Metric: Total Revenue  
-Exact Amount: $3,138 million  
-Unit: USD (Millions)  
-Reporting Period: Fiscal year ended December 31, 2025  
-Section/Table: Part II, Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations — Overview of Selected Production and Financial Information, Including Trends  
-Source: Table titled "Overview of Selected Production and Financial Information, Including Trends" under "Total oil, gas, and NGL production revenue."
-
----
-
-### Metric 2: Total Production Volume
-
-Metric: Total Production Volume  
-Exact Amount: TOTAL PRODUCTION = 75,500 MBOE  
-Unit: MBOE  
-Reporting Period: Fiscal year ended December 31, 2025  
-Section/Table: Part I, Items 1 and 2. Business and Properties — Production / Part II, Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations — Overview of Selected Production and Financial Information, Including Trends  
-Source: Production tables reporting net production of 75.5 MMBOE (75.5 million BOE = 75,500 MBOE) for the year ended December 31, 2025.
-
----
-
-### Metric 3: Capital Expenditures
-
-Metric: Capital Expenditures  
-Exact Amount: $1,448 million  
-Unit: USD (Millions)  
-Reporting Period: Fiscal year ended December 31, 2025  
-Section/Table: Part II, Item 8. Consolidated Financial Statements and Supplementary Data — Supplemental Oil and Gas Information (unaudited) / Part II, Item 7. MD&A — Uses of Cash  
-Source: Supplemental Oil and Gas Information table titled "Costs Incurred" (Total costs incurred in oil and gas property acquisition, exploration, and development activities of $1,448 million; MD&A also notes $1.5 billion spent on cash capital expenditures and acquisitions).
+METRIC: CAPEX
+Exact Amount: 1,438 million
+Unit: USD
+Reporting Period: FY 2025 (Year ended December 31, 2025)
+Section/Table: Item 8. Consolidated Financial Statements - Consolidated Statements of Cash Flows / Cash flows from investing activities (Capital expenditures)
+Source: SEC Filing, Form 10-K

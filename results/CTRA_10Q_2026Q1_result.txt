@@ -1,20 +1,20 @@
 METRIC: REVENUE
 Exact Amount: 1,947
-Unit: USD (in millions)
+Unit: million dollars
 Reporting Period: Three Months Ended March 31, 2026
 Section/Table: Part I, Item 1. Condensed Consolidated Statement of Operations (Unaudited)
-Source: Operating Revenues line item "Total operating revenues" ($1,947 million)
+Source: Condensed Consolidated Statement of Operations - OPERATING REVENUES
 
 METRIC: PRODUCTION
-Exact Amount: 69.4 (equivalent to 69,400 MBOE)
-Unit: MMBoe (Million Barrels of Oil Equivalent) / MBOE
+Exact Amount: 69,400
+Unit: MBOE
 Reporting Period: Three Months Ended March 31, 2026
-Section/Table: Part I, Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations – Results of Operations (Production Volumes table)
-Source: "Equivalents (MMBoe)" line item: 69.4 MMBoe (69,400 MBOE)
+Section/Table: Part I, Item 2. MD&A - Results of Operations / Production and Sales Price
+Source: Results of Operations table (69.4 MMBOE converted to MBOE)
 
 METRIC: CAPEX
 Exact Amount: 655
-Unit: USD (in millions)
+Unit: million dollars
 Reporting Period: Three Months Ended March 31, 2026
-Section/Table: Part I, Item 1. Condensed Consolidated Statement of Cash Flows (Unaudited) / Part I, Item 2. MD&A – Capital and Exploration Expenditures
-Source: "Capital expenditures for drilling, completion and other fixed asset additions" ($655 million). Note: Capital expenditures for leasehold and property acquisitions were an additional $15 million, bringing total capital expenditures to $670 million.
+Section/Table: Part I, Item 1. Condensed Consolidated Statement of Cash Flows (Unaudited) / Item 2. MD&A - Capital and Exploration Expenditures
+Source: Condensed Consolidated Statement of Cash Flows (Capital expenditures for drilling, completion and other fixed asset additions)

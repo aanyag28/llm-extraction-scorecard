@@ -1,34 +1,20 @@
-Here is the extracted financial information from the SEC filing (Form 10-Q for Matador Resources Company for the quarterly period ended September 30, 2025):
+METRIC: REVENUE
+Exact Amount: 939,015
+Unit: thousand dollars
+Reporting Period: Three Months Ended September 30, 2025
+Section/Table: Part I, Item 1. Financial Statements — Unaudited / Condensed Consolidated Statements of Income
+Source: Matador Resources Company SEC Form 10-Q for the Quarter Ended September 30, 2025
 
----
+METRIC: PRODUCTION
+Exact Amount: 19,245
+Unit: MBOE
+Reporting Period: Three Months Ended September 30, 2025
+Section/Table: Part I, Item 2. MD&A — Results of Operations / Revenues (Net Production Volumes)
+Source: Matador Resources Company SEC Form 10-Q for the Quarter Ended September 30, 2025
 
-### **1. TOTAL REVENUE**
-
-**Metric:** Total Revenue  
-**Exact Amount:** $939,015 thousand ($939,015,000) for the three months ended September 30, 2025 ($2,848,285 thousand / $2,848,285,000 for the nine months ended September 30, 2025)  
-**Unit:** USD (in thousands)  
-**Reporting Period:** Three Months Ended September 30, 2025 (and Nine Months Ended September 30, 2025)  
-**Section/Table:** Part I, Item 1. Financial Statements — Unaudited Condensed Consolidated Statements of Income / Part I, Item 2. Management’s Discussion and Analysis — Results of Operations (Operating Data)  
-**Source:** Form 10-Q, Condensed Consolidated Statements of Income — Unaudited, "Total revenues" line item  
-
----
-
-### **2. TOTAL PRODUCTION VOLUME**
-
-**Metric:** Total Production Volume  
-**Exact Amount:** TOTAL PRODUCTION = 19,245 MBOE for the three months ended September 30, 2025 (TOTAL PRODUCTION = 56,142 MBOE for the nine months ended September 30, 2025)  
-**Unit:** MBOE  
-**Reporting Period:** Three Months Ended September 30, 2025 (and Nine Months Ended September 30, 2025)  
-**Section/Table:** Part I, Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations — Results of Operations — Revenues (Operating Data Table)  
-**Source:** Net Production Volumes table under "Total oil equivalent (MBOE)"  
-
----
-
-### **3. CAPITAL EXPENDITURES**
-
-**Metric:** Capital Expenditures  
-**Exact Amount:** Not explicitly reported as a single aggregated historical capital expenditures line item for the three-month period in the provided filing text. (For the nine months ended September 30, 2025, Net cash used in investing activities was $1,569,635 thousand ($1.57 billion). Additionally, full-year 2025 guidance updated on October 21, 2025 estimates D/C/E capital expenditures of $1.47 billion to $1.55 billion and midstream capital expenditures of $155.0 million to $175.0 million).  
-**Unit:** USD (in thousands / billions)  
-**Reporting Period:** Three Months Ended September 30, 2025 / Nine Months Ended September 30, 2025  
-**Section/Table:** Part I, Item 2. Management’s Discussion and Analysis — 2025 Capital Expenditure Budget & Liquidity and Capital Resources (Net Cash Used in Investing Activities)  
-**Source:** Form 10-Q, Item 2 MD&A text and Unaudited Cash Flows table
+METRIC: CAPEX
+Exact Amount: 643,357
+Unit: thousand dollars
+Reporting Period: Three Months Ended September 30, 2025
+Section/Table: Part I, Item 1. Notes to Condensed Consolidated Financial Statements — Note 12 — Segment Information
+Source: Matador Resources Company SEC Form 10-Q for the Quarter Ended September 30, 2025

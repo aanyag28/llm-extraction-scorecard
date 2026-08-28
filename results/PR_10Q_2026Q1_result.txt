@@ -1,34 +1,20 @@
-**Reporting Period Covered:** Three months ended March 31, 2026
+METRIC: REVENUE
+Exact Amount: 1,388,146
+Unit: thousand dollars
+Reporting Period: Three months ended March 31, 2026
+Section/Table: Consolidated Statements of Operations
+Source: Permian Resources Corporation 10-Q for the period ended March 31, 2026
 
----
+METRIC: PRODUCTION
+Exact Amount: 37,156
+Unit: MBOE
+Reporting Period: Three months ended March 31, 2026
+Section/Table: Part I, Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations—Results of Operations
+Source: Permian Resources Corporation 10-Q for the period ended March 31, 2026
 
-### **Metric 1: Total Revenue**
-
-* **Metric:** Total Revenue (Oil and gas sales)
-* **Exact Amount:** $1,388,146 thousand (or $1,388,146,000)
-* **Unit:** USD (in thousands)
-* **Reporting Period:** Three months ended March 31, 2026
-* **Section/Table:** Part I, Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations — Results of Operations
-* **Source:** Form 10-Q for the quarterly period ended March 31, 2026, Item 2, Net revenues / Oil and gas sales table.
-
----
-
-### **Metric 2: Total Production Volume**
-
-* **Metric:** Total Production Volume
-* **Exact Amount:** TOTAL PRODUCTION = 37,156 MBOE
-* **Unit:** MBOE
-* **Reporting Period:** Three months ended March 31, 2026
-* **Section/Table:** Part I, Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations — Results of Operations
-* **Source:** Form 10-Q for the quarterly period ended March 31, 2026, Item 2, Net production table (reported total net production of 37,156 MBoe).
-
----
-
-### **Metric 3: Capital Expenditures**
-
-* **Metric:** Capital Expenditures
-* **Exact Amount:** $466,207 thousand (Drilling and development capital expenditures; total cash capital expenditures including purchases of other property and equipment was $468,235 thousand)
-* **Unit:** USD (in thousands)
-* **Reporting Period:** Three months ended March 31, 2026
-* **Section/Table:** Part I, Item 1. Financial Statements — Consolidated Statements of Cash Flows (Unaudited) / Item 2. MD&A — Liquidity and Capital Resources
-* **Source:** Form 10-Q for the quarterly period ended March 31, 2026, Consolidated Statements of Cash Flows (Cash flows from investing activities) and Item 2, Liquidity and Capital Resources.
+METRIC: CAPEX
+Exact Amount: 466,230
+Unit: thousand dollars
+Reporting Period: Three months ended March 31, 2026
+Section/Table: Consolidated Statements of Cash Flows
+Source: Permian Resources Corporation 10-Q for the period ended March 31, 2026

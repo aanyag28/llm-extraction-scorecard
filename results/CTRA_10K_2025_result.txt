@@ -1,17 +1,20 @@
 METRIC: REVENUE
 Exact Amount: 7,645 million
-Unit: USD
-Reporting Period: Fiscal year ended December 31, 2025
-Section/Table: Consolidated Statement of Operations / Operating Revenues
+Unit: USD (Dollars)
+Reporting Period: Year Ended December 31, 2025
+Section/Table: Item 8. Financial Statements and Supplementary Data - Consolidated Statement of Operations
+Source: Total Operating Revenues of $7,645 million for the fiscal year ended December 31, 2025.
 
 METRIC: PRODUCTION
 Exact Amount: 285,576
-Unit: MBoe
-Reporting Period: Fiscal year ended December 31, 2025
-Section/Table: Part I, Items 1 and 2 - Business and Properties / Production, Sales Price and Production Costs
+Unit: MBoe (Thousand Barrels of Oil Equivalent)
+Reporting Period: Year Ended December 31, 2025
+Section/Table: Part I, Items 1 and 2. Business and Properties - Production, Sales Price and Production Costs
+Source: Oil equivalent production of 285,576 MBoe for the year ended December 31, 2025.
 
 METRIC: CAPEX
 Exact Amount: 2,318 million
-Unit: USD
-Reporting Period: Fiscal year ended December 31, 2025
-Section/Table: Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations / Capital and Exploration Expenditures
+Unit: USD (Dollars)
+Reporting Period: Year Ended December 31, 2025
+Section/Table: Part II, Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations - Capital and Exploration Expenditures
+Source: "Capital expenditures for drilling, completion and other fixed asset additions" of $2,318 million (Total capital and exploration expenditures, including leasehold acquisitions and exploration, were $2,444 million; cash paid for drilling, completion and other fixed asset additions on the Statement of Cash Flows was $2,288 million).

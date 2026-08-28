@@ -1,36 +1,22 @@
-Based on the provided SEC filing (Form 10-K for Matador Resources Company), here are the extracted metrics for the reporting period:
+```
+METRIC: REVENUE
+Exact Amount: 3,696,277,000
+Unit: USD
+Reporting Period: Year Ended December 31, 2025
+Section/Table: Part II, Item 8. Financial Statements and Supplementary Data - Consolidated Statements of Income / "Total revenues"
+Source: SEC Form 10-K for the fiscal year ended December 31, 2025, Consolidated Statements of Income
 
-***
+METRIC: PRODUCTION
+Exact Amount: 75,581
+Unit: MBOE
+Reporting Period: Year Ended December 31, 2025
+Section/Table: Part I, Item 1. Business - Operating Summary / "Net Production Volumes: Total oil equivalent (MBOE)"
+Source: SEC Form 10-K for the fiscal year ended December 31, 2025, Item 1. Business
 
-### Metric 1: Total Revenue
-
-**Metric:** Total Revenue  
-**Exact Amount:** $3,696,277 thousand ($3,696,277,000)  
-**Unit:** USD  
-**Reporting Period:** Fiscal year ended December 31, 2025  
-**Section/Table:** Consolidated Statements of Income / Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations – Revenues  
-**Source:** Matador Resources Company Form 10-K for the Fiscal Year Ended December 31, 2025, Consolidated Statements of Income (page F-5) and MD&A Revenues table (page 73).
-
-***
-
-### Metric 2: Total Production Volume
-
-**Metric:** Total Production Volume  
-**Exact Amount:** 75,581 MBOE  
-**Unit:** MBOE  
-**Reporting Period:** Fiscal year ended December 31, 2025  
-**Section/Table:** Item 1. Business – Operating Summary / Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations – Revenues  
-**Source:** Matador Resources Company Form 10-K for the Fiscal Year Ended December 31, 2025, Unaudited Production Data table (page 12) and Operating Data table (page 73).
-
-TOTAL PRODUCTION = 75,581 MBOE
-
-***
-
-### Metric 3: Capital Expenditures
-
-**Metric:** Capital Expenditures  
-**Exact Amount:** $1,529,800 thousand ($1.53 billion) for D/C/E Capital Expenditures; $2,156,381 thousand ($2.16 billion) for Total Capital Expenditures (including D/C/E, midstream, acquisitions, and other property/equipment)  
-**Unit:** USD  
-**Reporting Period:** Fiscal year ended December 31, 2025  
-**Section/Table:** Item 1. Business – 2025 Highlights / Item 8. Consolidated Statements of Cash Flows  
-**Source:** Matador Resources Company Form 10-K for the Fiscal Year Ended December 31, 2025, Operational Highlights (page 4) and Consolidated Statements of Cash Flows (page F-7).
+METRIC: CAPEX
+Exact Amount: 2,155,429,000
+Unit: USD
+Reporting Period: Year Ended December 31, 2025
+Section/Table: Part II, Item 8. Financial Statements and Supplementary Data - Note 16 — Segment Information / "Capital expenditures" (Consolidated Company)
+Source: SEC Form 10-K for the fiscal year ended December 31, 2025, Notes to Consolidated Financial Statements
+```

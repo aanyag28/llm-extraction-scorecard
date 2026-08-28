@@ -1,61 +1,20 @@
-Here is the extracted financial information for the reporting periods covered by this Form 10-Q filing (Three Months Ended June 30, 2026, and Six Months Ended June 30, 2026).
+METRIC: REVENUE
+Exact Amount: 2,500 million
+Unit: USD
+Reporting Period: Three Months Ended June 30, 2026
+Section/Table: Part I, Item 1. Financial Statements - Condensed Consolidated Statements of Operations ("Total operating revenues and other income")
+Source: "Total operating revenues and other income: $2,500 million" for the Three Months Ended June 30, 2026.
 
----
+METRIC: PRODUCTION
+Exact Amount: 40,000
+Unit: MBOE
+Reporting Period: Three Months Ended June 30, 2026
+Section/Table: Part I, Item 2. Management's Discussion and Analysis - Operational Activities / Production Results Table
+Source: Total Net Production Equivalent is reported as "40.0 MMBOE" (converted to 40,000 MBOE as required) for the Three Months Ended June 30, 2026.
 
-### 1. TOTAL REVENUE
-
-#### For the Three Months Ended June 30, 2026:
-* **Metric:** Total Revenue
-* **Exact Amount:** $2,156 million (Oil, gas, and NGL production revenue) / $2,500 million (Total operating revenues and other income)
-* **Unit:** USD (Millions)
-* **Reporting Period:** Three months ended June 30, 2026
-* **Section/Table:** Part I, Item 2 – Management’s Discussion and Analysis / Overview of Selected Production and Financial Information
-* **Source:** SEC Form 10-Q for the quarterly period ended June 30, 2026, Item 2 (MD&A)
-
-#### For the Six Months Ended June 30, 2026:
-* **Metric:** Total Revenue
-* **Exact Amount:** $3,633 million (Oil, gas, and NGL production revenue) / $3,979 million (Total operating revenues and other income)
-* **Unit:** USD (Millions)
-* **Reporting Period:** Six months ended June 30, 2026
-* **Section/Table:** Part I, Item 2 – Management’s Discussion and Analysis / Overview of Selected Production and Financial Information
-* **Source:** SEC Form 10-Q for the quarterly period ended June 30, 2026, Item 2 (MD&A)
-
----
-
-### 2. TOTAL PRODUCTION VOLUME
-
-#### For the Three Months Ended June 30, 2026:
-* **Metric:** Total Production Volume
-* **Exact Amount:** TOTAL PRODUCTION = 40,000 MBOE (40.0 MMBOE)
-* **Unit:** MBOE
-* **Reporting Period:** Three months ended June 30, 2026
-* **Section/Table:** Part I, Item 2 – Management’s Discussion and Analysis / Production Results Table
-* **Source:** SEC Form 10-Q for the quarterly period ended June 30, 2026, Item 2 (MD&A)
-
-#### For the Six Months Ended June 30, 2026:
-* **Metric:** Total Production Volume
-* **Exact Amount:** TOTAL PRODUCTION = 73,400 MBOE (73.4 MMBOE)
-* **Unit:** MBOE
-* **Reporting Period:** Six months ended June 30, 2026
-* **Section/Table:** Part I, Item 2 – Management’s Discussion and Analysis / Production Results Table
-* **Source:** SEC Form 10-Q for the quarterly period ended June 30, 2026, Item 2 (MD&A)
-
----
-
-### 3. CAPITAL EXPENDITURES
-
-#### For the Six Months Ended June 30, 2026:
-* **Metric:** Capital Expenditures
-* **Exact Amount:** $1,268 million (Cash flows used in investing activities for capital expenditures) / $1.5 billion (Costs incurred in oil and gas property acquisition, exploration, and development activities)
-* **Unit:** USD (Millions)
-* **Reporting Period:** Six months ended June 30, 2026
-* **Section/Table:** Part I, Item 1 – Condensed Consolidated Statements of Cash Flows / Part I, Item 2 (MD&A) – Uses of Cash
-* **Source:** SEC Form 10-Q for the quarterly period ended June 30, 2026, Financial Statements & MD&A
-
-#### For the Three Months Ended June 30, 2026:
-* **Metric:** Capital Expenditures (Costs Incurred)
-* **Exact Amount:** $734 million
-* **Unit:** USD (Millions)
-* **Reporting Period:** Three months ended June 30, 2026
-* **Section/Table:** Part I, Item 2 – Management’s Discussion and Analysis / Operational Activities
-* **Source:** SEC Form 10-Q for the quarterly period ended June 30, 2026, Item 2 (MD&A)
+METRIC: CAPEX
+Exact Amount: 734 million (3-month costs incurred) / 1,309 million (6-month cash capital expenditures)
+Unit: USD
+Reporting Period: Three Months Ended June 30, 2026 (3-Month) / Six Months Ended June 30, 2026 (6-Month)
+Section/Table: Part I, Item 2. Management's Discussion and Analysis - Operational Activities / Part I, Item 1. Condensed Consolidated Statements of Cash Flows
+Source: "During the three and six months ended June 30, 2026, costs incurred in oil and gas property acquisition, exploration, and development activities, whether capitalized or expensed, totaled $734 million and $1.5 billion, respectively." Additionally, cash "Capital expenditures" in the Statement of Cash Flows is reported as $1,309 million for the six months ended June 30, 2026.

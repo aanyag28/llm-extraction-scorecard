@@ -3,17 +3,20 @@ import re
 from pathlib import Path
 from openpyxl import load_workbook
 
+# ============================================================
+# SETUP
+# ============================================================
 
 BASE_DIR = Path(__file__).resolve().parent
-
 ANSWER_KEY = BASE_DIR / "answer_key" / "answer_key.csv-2.xlsx"
 RESULTS_DIR = BASE_DIR / "results"
 OUTPUT_FILE = RESULTS_DIR / "detailed_results.csv"
 
+RESULTS_DIR.mkdir(exist_ok=True)
 
-# ==================================================
+# ============================================================
 # LOAD ANSWER KEY
-# ==================================================
+# ============================================================
 
 workbook = load_workbook(
     ANSWER_KEY,
@@ -33,9 +36,9 @@ for row in sheet.iter_rows(min_row=2, values_only=True):
         answer_rows.append(data)
 
 
-# ==================================================
+# ============================================================
 # FIND GEMINI RESULT FILE
-# ==================================================
+# ============================================================
 
 def find_gemini_file(ticker, filing):
 
@@ -65,73 +68,70 @@ def find_gemini_file(ticker, filing):
     return None
 
 
-# ==================================================
+# ============================================================
 # FIND METRIC SECTION
-# ==================================================
+# ============================================================
 
 def get_metric_section(text, metric):
 
-    metric = str(metric).strip().lower()
+    metric = metric.lower().strip()
 
-    # NEW GEMINI FORMAT:
-    #
-    # METRIC: REVENUE
-    # Exact Amount: 7,645 million
-    #
-    # METRIC: PRODUCTION
-    # ...
+    if metric == "revenue":
 
-    pattern = (
-        r"METRIC\s*:\s*"
-        + re.escape(metric)
-        + r"\b"
-        r".*?"
-        r"(?=METRIC\s*:|\Z)"
-    )
+        number = "1"
 
-    match = re.search(
-        pattern,
-        text,
-        flags=re.IGNORECASE | re.DOTALL
-    )
+        names = [
+            r"revenue",
+            r"revenues",
+            r"total revenue",
+            r"total revenues",
+            r"total operating revenues",
+            r"total operating revenues and other income",
+            r"total revenues and other income"
+        ]
 
-    if match:
-        return match.group(0)
+    elif metric == "production":
 
-    # OLD FORMAT:
-    #
-    # ### Metric 1: Total Revenue
+        number = "2"
 
-    metric_number = {
-        "revenue": "1",
-        "production": "2",
-        "capex": "3"
-    }
+        names = [
+            r"production",
+            r"total production",
+            r"total production volume",
+            r"total oil equivalent",
+            r"oil equivalent"
+        ]
 
-    if metric not in metric_number:
+    elif metric == "capex":
+
+        number = "3"
+
+        names = [
+            r"capex",
+            r"capital expenditures",
+            r"capital expenditure",
+            r"total capital expenditures",
+            r"capital expenditure activities"
+        ]
+
+    else:
         return ""
 
-    number = metric_number[metric]
+    name_pattern = "|".join(names)
 
-    names = {
-        "revenue": r"(?:total\s+)?revenues?",
-        "production": r"(?:total\s+)?production(?:\s+volume)?",
-        "capex": r"(?:capital\s+)?expenditures?"
-    }
+    # --------------------------------------------------------
+    # Format 1
+    # ### Metric 1: Revenue
+    # --------------------------------------------------------
 
-    name_pattern = names[metric]
-
-    pattern = (
-        r"###\s*\**\s*Metric\s*"
-        + number
-        + r"\s*:\s*"
-        + name_pattern
-        + r".*?"
-        r"(?=###\s*\**\s*Metric\s*[123]|\Z)"
+    pattern1 = (
+        rf"###\s*\**\s*Metric\s*{number}\s*:\s*"
+        rf"(?:{name_pattern}).*?"
+        rf"(?=###\s*\**\s*(?:Metric\s*[123]|\d+\s*[\.\:])|\Z)"
     )
 
     match = re.search(
-        pattern,
+        pattern1,
         text,
         flags=re.IGNORECASE | re.DOTALL
     )
@@ -139,21 +139,57 @@ def get_metric_section(text, metric):
     if match:
         return match.group(0)
 
-    # Another old format:
-    #
-    # ### 1. TOTAL REVENUE
+    # --------------------------------------------------------
+    # Format 2
+    # ### 1. REVENUE
+    # --------------------------------------------------------
 
-    pattern = (
-        r"###\s*\**\s*"
-        + number
-        + r"\s*[\.:]\s*"
-        + name_pattern
-        + r".*?"
-        r"(?=###\s*\**\s*[123]\s*[\.:]|\Z)"
+    pattern2 = (
+        rf"###\s*\**\s*{number}\s*[\.\:]\s*"
+        rf"(?:{name_pattern}).*?"
+        rf"(?=###\s*\**\s*\d+\s*[\.\:]|\Z)"
     )
 
     match = re.search(
-        pattern,
+        pattern2,
+        text,
+        flags=re.IGNORECASE | re.DOTALL
+    )
+
+    if match:
+        return match.group(0)
+
+    # --------------------------------------------------------
+    # Format 3
+    # METRIC: REVENUE
+    # --------------------------------------------------------
+
+    pattern3 = (
+        rf"METRIC\s*:\s*(?:{name_pattern}).*?"
+        rf"(?=METRIC\s*:|\Z)"
+    )
+
+    match = re.search(
+        pattern3,
+        text,
+        flags=re.IGNORECASE | re.DOTALL
+    )
+
+    if match:
+        return match.group(0)
+
+    # --------------------------------------------------------
+    # Format 4
+    # Metric: Revenue
+    # --------------------------------------------------------
+
+    pattern4 = (
+        rf"Metric\s*:\s*(?:{name_pattern}).*?"
+        rf"(?=Metric\s*:|\Z)"
+    )
+
+    match = re.search(
+        pattern4,
         text,
         flags=re.IGNORECASE | re.DOTALL
     )
@@ -164,9 +200,9 @@ def get_metric_section(text, metric):
     return ""
 
 
-# ==================================================
+# ============================================================
 # EXTRACT EXACT AMOUNT
-# ==================================================
+# ============================================================
 
 def extract_exact_amount(section):
 
@@ -175,20 +211,20 @@ def extract_exact_amount(section):
 
     lines = section.splitlines()
 
-    # Look for "Exact Amount:"
     for i, line in enumerate(lines):
 
         cleaned = (
             line
             .replace("**", "")
             .replace("*", "")
+            .replace("`", "")
             .strip()
         )
 
         match = re.search(
             r"Exact\s+Amount\s*:\s*(.*)",
             cleaned,
-            flags=re.IGNORECASE
+            re.IGNORECASE
         )
 
         if match:
@@ -205,216 +241,272 @@ def extract_exact_amount(section):
                     next_line
                     .replace("**", "")
                     .replace("*", "")
+                    .replace("`", "")
                     .strip()
                 )
 
                 if re.search(r"\d", next_cleaned):
                     return next_cleaned
 
-    # Production fallback
-    match = re.search(
-        r"TOTAL\s+PRODUCTION\s*=\s*([^\n]+)",
-        section,
-        flags=re.IGNORECASE
-    )
-
-    if match:
-        return (
-            "TOTAL PRODUCTION = "
-            + match.group(1).strip()
-        )
-
     return "Not found"
 
 
-# ==================================================
+# ============================================================
 # EXTRACT UNIT
-# ==================================================
+# ============================================================
 
 def extract_unit(section):
 
     if not section:
         return ""
 
-    match = re.search(
-        r"Unit\s*:\s*([^\n]+)",
-        section,
-        flags=re.IGNORECASE
-    )
+    lines = section.splitlines()
 
-    if match:
-        return match.group(1).strip()
+    for line in lines:
 
-    if re.search(r"\bMMBoe\b", section, re.IGNORECASE):
-        return "MMBoe"
+        cleaned = (
+            line
+            .replace("**", "")
+            .replace("*", "")
+            .replace("`", "")
+            .strip()
+        )
 
-    if re.search(r"\bMBOE\b", section, re.IGNORECASE):
-        return "MBOE"
+        match = re.search(
+            r"Unit\s*:\s*(.+)",
+            cleaned,
+            re.IGNORECASE
+        )
 
-    if re.search(r"\bMBOE/d\b", section, re.IGNORECASE):
-        return "MBOE/d"
-
-    if re.search(r"\bbillion\b", section, re.IGNORECASE):
-        return "billion dollars"
-
-    if re.search(r"\bmillion\b", section, re.IGNORECASE):
-        return "million dollars"
-
-    if re.search(r"\bthousand\b", section, re.IGNORECASE):
-        return "thousand dollars"
+        if match:
+            return match.group(1).strip()
 
     return ""
 
 
-# ==================================================
-# EXTRACT NUMBERS
-# ==================================================
+# ============================================================
+# EXTRACT NUMBER
+# ============================================================
 
-def extract_numbers(value):
-
-    if value is None:
-        return []
-
-    text = str(value)
-
-    text = text.replace(",", "")
-
-    matches = re.findall(
-        r"-?\d+(?:\.\d+)?",
-        text
-    )
-
-    return [float(x) for x in matches]
-
-
-# ==================================================
-# DETERMINE UNIT NEAR A NUMBER
-# ==================================================
-
-def get_number_unit(text, number):
-
-    text = str(text)
-
-    clean_text = text.replace(",", "")
-
-    number_text = str(number)
-
-    # For integers such as 7645.0, also try 7645
-    if number_text.endswith(".0"):
-        number_text = number_text[:-2]
-
-    position = clean_text.find(number_text)
-
-    if position == -1:
-        return ""
-
-    start = max(0, position - 50)
-    end = min(
-        len(clean_text),
-        position + len(number_text) + 80
-    )
-
-    context = clean_text[start:end].lower()
-
-    if "billion" in context:
-        return "billion dollars"
-
-    if "million" in context:
-        return "million dollars"
-
-    if "thousand" in context:
-        return "thousand dollars"
-
-    if "mmboe" in context:
-        return "MMBoe"
-
-    if "mboe/d" in context:
-        return "MBOE/d"
-
-    if "mboe" in context:
-        return "MBOE"
-
-    return ""
-
-
-# ==================================================
-# NORMALIZE UNIT
-# ==================================================
-
-def normalize_unit(unit):
-
-    if unit is None:
-        return ""
-
-    unit = str(unit).lower().strip()
-
-    if "billion" in unit:
-        return "billion"
-
-    if "million" in unit:
-        return "million"
-
-    if "thousand" in unit:
-        return "thousand"
-
-    if "mmboe" in unit:
-        return "mmboe"
-
-    if "mboe/d" in unit:
-        return "mboe/d"
-
-    if "mboe" in unit:
-        return "mboe"
-
-    return unit
-
-
-# ==================================================
-# CONVERT VALUES
-# ==================================================
-
-def convert_value(value, from_unit, to_unit):
+def extract_number(value):
 
     if value is None:
         return None
 
-    source = normalize_unit(from_unit)
-    target = normalize_unit(to_unit)
+    text = str(value)
 
-    # Money conversions
+    text = text.replace(",", "")
+    text = text.replace("$", "")
 
-    if source == "billion" and target == "million":
-        return value * 1000
+    # Handle values such as:
+    # TOTAL PRODUCTION = 285576 MBOE
 
-    if source == "billion" and target == "thousand":
-        return value * 1000000
+    match = re.search(
+        r"=\s*(-?\d+(?:\.\d+)?)",
+        text
+    )
 
-    if source == "million" and target == "billion":
-        return value / 1000
+    if match:
+        return float(match.group(1))
 
-    if source == "million" and target == "thousand":
-        return value * 1000
+    # Otherwise take the first number
 
-    if source == "thousand" and target == "million":
-        return value / 1000
+    match = re.search(
+        r"-?\d+(?:\.\d+)?",
+        text
+    )
 
-    if source == "thousand" and target == "billion":
-        return value / 1000000
+    if not match:
+        return None
 
-    # Production conversions
-
-    if source == "mmboe" and target == "mboe":
-        return value * 1000
-
-    if source == "mboe" and target == "mmboe":
-        return value / 1000
-
-    return value
+    return float(match.group(0))
 
 
-# ==================================================
-# SCORE ROW
-# ==================================================
+# ============================================================
+# DETECT MONEY MULTIPLIER
+# ============================================================
+
+def detect_money_multiplier(value, unit):
+
+    combined = f"{value} {unit}".lower()
+
+    # Billion
+    if "billion" in combined:
+        return 1_000_000_000
+
+    # Million
+    if "million" in combined:
+        return 1_000_000
+
+    # Thousand
+    if "thousand" in combined:
+        return 1_000
+
+    # Explicit dollars / USD with no stated larger unit
+    if (
+        "usd" in combined
+        or "dollar" in combined
+        or "$" in str(value)
+    ):
+        return 1
+
+    return None
+
+
+# ============================================================
+# DETECT PRODUCTION MULTIPLIER
+# ============================================================
+
+def detect_production_multiplier(value, unit):
+
+    combined = f"{value} {unit}".lower()
+
+    combined = combined.replace(" ", "")
+
+    # Daily production is NOT total production
+    if "mboe/d" in combined:
+        return None
+
+    if "boe/d" in combined:
+        return None
+
+    # MMBOE = 1,000 MBOE
+    if "mmboe" in combined:
+        return 1000.0
+
+    if "mmboe" in combined:
+        return 1000.0
+
+    # MBOE
+    if "mboe" in combined:
+        return 1.0
+
+    # MBoe
+    if "mboe" in combined:
+        return 1.0
+
+    return None
+
+
+# ============================================================
+# NORMALIZE GEMINI VALUE
+# ============================================================
+
+def normalize_value(value, unit, metric):
+
+    if value is None:
+        return None
+
+    if str(value).strip().lower() in [
+        "",
+        "not found",
+        "not reported",
+        "not explicitly reported"
+    ]:
+        return None
+
+    number = extract_number(value)
+
+    if number is None:
+        return None
+
+    metric = metric.lower().strip()
+
+    # --------------------------------------------------------
+    # PRODUCTION
+    # --------------------------------------------------------
+
+    if metric == "production":
+
+        multiplier = detect_production_multiplier(
+            value,
+            unit
+        )
+
+        if multiplier is None:
+            return None
+
+        # Convert to MBOE
+        return number * multiplier
+
+    # --------------------------------------------------------
+    # MONEY
+    #
+    # Everything is converted to actual dollars.
+    # --------------------------------------------------------
+
+    multiplier = detect_money_multiplier(
+        value,
+        unit
+    )
+
+    if multiplier is None:
+        return None
+
+    return number * multiplier
+
+
+# ============================================================
+# NORMALIZE ANSWER KEY VALUE
+# ============================================================
+
+def normalize_answer_key(value, unit, metric):
+
+    if value is None:
+        return None
+
+    number = extract_number(value)
+
+    if number is None:
+        return None
+
+    metric = metric.lower().strip()
+
+    # --------------------------------------------------------
+    # PRODUCTION
+    # --------------------------------------------------------
+
+    if metric == "production":
+
+        unit_text = str(unit).lower()
+
+        if "mmboe" in unit_text:
+            return number * 1000
+
+        if "mboe" in unit_text:
+            return number
+
+        return None
+
+    # --------------------------------------------------------
+    # MONEY
+    #
+    # Convert answer key to actual dollars.
+    # --------------------------------------------------------
+
+    unit_text = str(unit).lower()
+
+    if "billion" in unit_text:
+        return number * 1_000_000_000
+
+    if "million" in unit_text:
+        return number * 1_000_000
+
+    if "thousand" in unit_text:
+        return number * 1_000
+
+    if (
+        "usd" in unit_text
+        or "dollar" in unit_text
+    ):
+        return number
+
+    return None
+
+
+# ============================================================
+# SCORE ONE ROW
+# ============================================================
 
 def score_row(
     extracted_value,
@@ -424,112 +516,49 @@ def score_row(
     metric
 ):
 
-    if not extracted_value:
-        return False
-
-    if str(extracted_value).lower() == "not found":
-        return False
-
-    extracted_numbers = extract_numbers(
-        extracted_value
+    extracted = normalize_value(
+        extracted_value,
+        extracted_unit,
+        metric
     )
 
-    answer_numbers = extract_numbers(
-        answer_value
+    answer = normalize_answer_key(
+        answer_value,
+        answer_unit,
+        metric
     )
 
-    if not extracted_numbers:
+    if extracted is None:
         return False
 
-    if not answer_numbers:
+    if answer is None:
         return False
 
-    answer_number = answer_numbers[0]
-
-    metric = str(metric).strip().lower()
-
-    answer_unit_normalized = normalize_unit(
-        answer_unit
-    )
-
-    # ==================================================
+    # --------------------------------------------------------
     # PRODUCTION
-    # ==================================================
+    # --------------------------------------------------------
 
-    if metric == "production":
+    if metric.lower() == "production":
 
-        for number in extracted_numbers:
+        return abs(extracted - answer) <= 1
 
-            local_unit = get_number_unit(
-                extracted_value,
-                number
-            )
+    # --------------------------------------------------------
+    # MONEY
+    #
+    # Allow 0.05% rounding tolerance.
+    # --------------------------------------------------------
 
-            if not local_unit:
-                local_unit = extracted_unit
+    tolerance = max(
+        1.0,
+        abs(answer) * 0.0005
+    )
 
-            local_unit_normalized = normalize_unit(
-                local_unit
-            )
-
-            # Do NOT accept daily production
-            if local_unit_normalized == "mboe/d":
-                continue
-
-            converted = convert_value(
-                number,
-                local_unit_normalized,
-                answer_unit_normalized
-            )
-
-            if converted is not None:
-
-                if abs(
-                    converted - answer_number
-                ) < 0.01:
-
-                    return True
-
-        return False
-
-    # ==================================================
-    # REVENUE / CAPEX
-    # ==================================================
-
-    for number in extracted_numbers:
-
-        local_unit = get_number_unit(
-            extracted_value,
-            number
-        )
-
-        if not local_unit:
-            local_unit = extracted_unit
-
-        local_unit_normalized = normalize_unit(
-            local_unit
-        )
-
-        converted = convert_value(
-            number,
-            local_unit_normalized,
-            answer_unit_normalized
-        )
-
-        if converted is not None:
-
-            if abs(
-                converted - answer_number
-            ) < 0.01:
-
-                return True
-
-    return False
+    return abs(extracted - answer) <= tolerance
 
 
-# ==================================================
-# PROCESS EVERY ANSWER KEY ROW
-# ==================================================
+# ============================================================
+# CREATE DETAILED RESULTS
+# ============================================================
 
 detailed_rows = []
 
@@ -590,24 +619,35 @@ for answer in answer_rows:
         )
 
     detailed_rows.append({
+
         "Filing": filing,
+
         "Ticker": ticker,
+
         "Metric": metric,
-        "Gemini Extracted Value": extracted_value,
-        "Gemini Unit": extracted_unit,
-        "Answer Key Value": answer_value,
-        "Answer Key Unit": answer_unit,
-        "Correct": "Correct" if correct else "Incorrect"
+
+        "Gemini Extracted Value":
+            extracted_value,
+
+        "Gemini Unit":
+            extracted_unit,
+
+        "Answer Key Value":
+            answer_value,
+
+        "Answer Key Unit":
+            answer_unit,
+
+        "Correct":
+            "Correct"
+            if correct
+            else "Incorrect"
     })
 
 
-# ==================================================
-# SAVE CSV
-# ==================================================
-
-RESULTS_DIR.mkdir(
-    exist_ok=True
-)
+# ============================================================
+# SAVE DETAILED RESULTS
+# ============================================================
 
 with open(
     OUTPUT_FILE,
@@ -631,20 +671,22 @@ with open(
     )
 
     writer.writeheader()
-    writer.writerows(detailed_rows)
+    writer.writerows(
+        detailed_rows
+    )
 
 
-# ==================================================
+# ============================================================
 # SCORE SUMMARY
-# ==================================================
+# ============================================================
 
 def rows_for(metric):
 
     return [
         row
         for row in detailed_rows
-        if row["Metric"].lower()
-        == metric.lower()
+        if row["Metric"].lower().strip()
+        == metric.lower().strip()
     ]
 
 
@@ -659,7 +701,7 @@ def count_correct(rows):
 def pct(rows):
 
     if not rows:
-        return 0.0
+        return 0
 
     return (
         count_correct(rows)
@@ -680,9 +722,9 @@ correct_total = sum(
 )
 
 
-# ==================================================
-# PRINT
-# ==================================================
+# ============================================================
+# PRINT SCORE
+# ============================================================
 
 print()
 
@@ -731,5 +773,4 @@ print("====================================")
 print()
 
 print("Detailed results saved to:")
-
 print(OUTPUT_FILE)

@@ -1,20 +1,20 @@
 METRIC: REVENUE
-Exact Amount: 15,026
-Unit: million USD
-Reporting Period: Year Ended December 31, 2025
-Section/Table: Consolidated Statements of Operations
-Source: Item 8. Financial Statements and Supplementary Data - Consolidated Statements of Operations
+Exact Amount: 15,026 million
+Unit: USD
+Reporting Period: FY 2025 (Year Ended December 31, 2025)
+Section/Table: Part II, Item 8. Financial Statements and Supplementary Data / Consolidated Statements of Operations and Comprehensive Income
+Source: SEC Filing
 
 METRIC: PRODUCTION
 Exact Amount: 336,178
 Unit: MBOE
-Reporting Period: Year Ended December 31, 2025
-Section/Table: Selected Historical Operating Data
-Source: Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations - Results of Operations
+Reporting Period: FY 2025 (Year Ended December 31, 2025)
+Section/Table: Part II, Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations / Results of Operations
+Source: SEC Filing
 
 METRIC: CAPEX
-Exact Amount: 3,523
-Unit: million USD
-Reporting Period: Year Ended December 31, 2025
-Section/Table: Capital Expenditure Activities / Consolidated Statements of Cash Flows
-Source: Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations - Liquidity and Capital Resources - Capital Expenditure Activities
+Exact Amount: 3,523 million
+Unit: USD
+Reporting Period: FY 2025 (Year Ended December 31, 2025)
+Section/Table: Part II, Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations / Capital Expenditure Activities
+Source: SEC Filing

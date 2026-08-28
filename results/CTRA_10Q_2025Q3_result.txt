@@ -1,20 +1,22 @@
+```
 METRIC: REVENUE
-Exact Amount: 1,817
-Unit: million USD
+Exact Amount: 1,817 million
+Unit: USD
 Reporting Period: Three Months Ended September 30, 2025
-Section/Table: Part I, Item 1. Financial Statements — Condensed Consolidated Statement of Operations (Unaudited) / Operating Revenues
-Source: Condensed Consolidated Statement of Operations (Nine-month figure: $5,686 million)
+Section/Table: Condensed Consolidated Statement of Operations
+Source: Operating Revenues total row ($1,817 million)
 
 METRIC: PRODUCTION
-Exact Amount: 72.2 (equivalent to 72,200 MBOE)
-Unit: MMBoe (Million Barrels of Oil Equivalent)
+Exact Amount: 72,200
+Unit: MBOE
 Reporting Period: Three Months Ended September 30, 2025
-Section/Table: Part I, Item 2. MD&A — Results of Operations / Production Volumes
-Source: Item 2. Management's Discussion and Analysis — Results of Operations (Nine-month figure: 210.8 MMBoe / 210,800 MBOE)
+Section/Table: Part I, Item 2. Management's Discussion and Analysis - Results of Operations (Production and Sales Price table)
+Source: Production Volumes - Equivalents (72.2 MMBoe = 72,200 MBOE)
 
 METRIC: CAPEX
-Exact Amount: 1,779 (incurred) / 1,707 (cash paid)
-Unit: million USD
-Reporting Period: Nine Months Ended September 30, 2025
-Section/Table: Part I, Item 2. MD&A — Capital and Exploration Expenditures / Condensed Consolidated Statement of Cash Flows (Unaudited)
-Source: MD&A — Capital and Exploration Expenditures (Additions for drilling, completion and other fixed assets: $1,779 million incurred / $1,707 million paid in Statement of Cash Flows; Total including acquisitions and leasehold: $1,886 million incurred / $1,793 million paid)
+Exact Amount: Not explicitly reported for the three-month period
+Unit: USD
+Reporting Period: Three Months Ended September 30, 2025
+Section/Table: Part I, Item 2. Management's Discussion and Analysis - Capital and Exploration Expenditures
+Source: The filing discloses capital expenditures only for the cumulative nine-month period ended September 30, 2025 ($1,779 million for drilling, completion and other fixed asset additions; $1,707 million on the Condensed Consolidated Statement of Cash Flows) and does not explicitly provide a three-month figure.
+```

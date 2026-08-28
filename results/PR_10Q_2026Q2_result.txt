@@ -1,56 +1,20 @@
-Based on the provided SEC filing (Form 10-Q for Permian Resources Corporation), here are the extracted financial metrics for the reporting periods covered by this filing (**Three Months Ended June 30, 2026** and **Six Months Ended June 30, 2026**):
+METRIC: REVENUE
+Exact Amount: 1,858,035,000
+Unit: USD
+Reporting Period: Three Months Ended June 30, 2026
+Section/Table: Part I, Item 1. Financial Statements - Consolidated Statements of Operations ("Oil and gas sales")
+Source: Permian Resources Corporation SEC Form 10-Q for the quarterly period ended June 30, 2026
 
----
+METRIC: PRODUCTION
+Exact Amount: 34,253
+Unit: MBoe
+Reporting Period: Three Months Ended June 30, 2026
+Section/Table: Part I, Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations – Results of Operations ("Net production: Total (MBoe)")
+Source: Permian Resources Corporation SEC Form 10-Q for the quarterly period ended June 30, 2026
 
-### **1. TOTAL REVENUE**
-
-**For the Three Months Ended June 30, 2026:**
-* **Metric:** Total Revenue (Oil and gas sales)
-* **Exact Amount:** $1,858,035 thousand ($1,858,035,000)
-* **Unit:** USD (in thousands)
-* **Reporting Period:** Three Months Ended June 30, 2026
-* **Section/Table:** Part I, Item 1. Financial Statements — Consolidated Statements of Operations
-* **Source:** Operating revenues: Oil and gas sales line item
-
-**For the Six Months Ended June 30, 2026:**
-* **Metric:** Total Revenue (Oil and gas sales)
-* **Exact Amount:** $3,246,181 thousand ($3,246,181,000)
-* **Unit:** USD (in thousands)
-* **Reporting Period:** Six Months Ended June 30, 2026
-* **Section/Table:** Part I, Item 1. Financial Statements — Consolidated Statements of Operations
-* **Source:** Operating revenues: Oil and gas sales line item
-
----
-
-### **2. TOTAL PRODUCTION VOLUME**
-
-**TOTAL PRODUCTION = 34,253 MBOE** *(Three Months Ended June 30, 2026)*  
-**TOTAL PRODUCTION = 71,409 MBOE** *(Six Months Ended June 30, 2026)*
-
-**For the Three Months Ended June 30, 2026:**
-* **Metric:** Total Production Volume
-* **Exact Amount:** 34,253 MBOE
-* **Unit:** MBOE (Thousand Barrels of Oil Equivalent)
-* **Reporting Period:** Three Months Ended June 30, 2026
-* **Section/Table:** Part I, Item 2. Management’s Discussion and Analysis — Results of Operations (Net Production)
-* **Source:** Net production: Total (MBoe)
-
-**For the Six Months Ended June 30, 2026:**
-* **Metric:** Total Production Volume
-* **Exact Amount:** 71,409 MBOE
-* **Unit:** MBOE (Thousand Barrels of Oil Equivalent)
-* **Reporting Period:** Six Months Ended June 30, 2026
-* **Section/Table:** Part I, Item 2. Management’s Discussion and Analysis — Results of Operations (Net Production)
-* **Source:** Net production: Total (MBoe)
-
----
-
-### **3. CAPITAL EXPENDITURES**
-
-**For the Six Months Ended June 30, 2026:**
-* **Metric:** Capital Expenditures (Drilling and Development Capital Expenditures)
-* **Exact Amount:** $987,688 thousand ($987.7 million)
-* **Unit:** USD (in thousands)
-* **Reporting Period:** Six Months Ended June 30, 2026
-* **Section/Table:** Part I, Item 1. Consolidated Statements of Cash Flows / Item 2. Liquidity and Capital Resources
-* **Source:** Cash flows from investing activities: Drilling and development capital expenditures line item (and $12,328 thousand for purchases of other property and equipment)
+METRIC: CAPEX
+Exact Amount: 987,664,000
+Unit: USD
+Reporting Period: Six Months Ended June 30, 2026 (Three-month amount not separately reported in filing)
+Section/Table: Part I, Item 1. Consolidated Statements of Cash Flows ("Drilling and development capital expenditures") / Part I, Item 2. MD&A – Liquidity and Capital Resources Overview
+Source: Permian Resources Corporation SEC Form 10-Q for the quarterly period ended June 30, 2026
