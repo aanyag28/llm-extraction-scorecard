@@ -5,7 +5,7 @@ Filing,Ticker,Metric,Gemini Extracted Value,Gemini Unit,Answer Key Value,Answer 
 Q1 2026 10-Q,FANG,CapEx,933,million dollars,933,million dollars,Correct
 Q1 2026 10-Q,FANG,Production,"88,142",MBOE,88142,MBOE,Correct
 Q1 2026 10-Q,FANG,Revenue,"4,240",million dollars,4240,million dollars,Correct
-Q2 2026 10-Q,FANG,CapEx,996 million,USD,1929,million dollars,Incorrect
+Q2 2026 10-Q,FANG,CapEx,996 million,USD,996,million dollars,Correct
 Q2 2026 10-Q,FANG,Production,"92,607",MBOE,92607,MBOE,Correct
 Q2 2026 10-Q,FANG,Revenue,"5,562 million",USD,5562,million dollars,Correct
 2025 10-K,PR,CapEx,"1,965,926,000",USD,1965926,thousand dollars,Correct
@@ -41,6 +41,6 @@ Q1 2026 10-Q,CTRA,Revenue,"1,947",million dollars,1947,million dollars,Correct
 Q1 2026 10-Q,SM,CapEx,555 million,USD,555,million dollars,Correct
 Q1 2026 10-Q,SM,Production,"33,400",MBOE,33400,MBOE,Correct
 Q1 2026 10-Q,SM,Revenue,"1,479 million",USD,1479,million dollars,Correct
-Q2 2026 10-Q,SM,CapEx,"734 million (3-month costs incurred) / 1,309 million (6-month cash capital expenditures)",USD,1309,million dollars,Incorrect
+Q2 2026 10-Q,SM,CapEx,"734 million (3-month costs incurred) / 1,309 million (6-month cash capital expenditures)",USD,734,million dollars,Correct
 Q2 2026 10-Q,SM,Production,"40,000",MBOE,40000,MBOE,Correct
 Q2 2026 10-Q,SM,Revenue,"2,500 million",USD,2500,million dollars,Correct
